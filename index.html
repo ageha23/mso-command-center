@@ -1,0 +1,1361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Polsinelli · Law Firm MSO Command Center</title>
+<style>
+  :root{
+    /* Polsinelli palette: Tall Poppy #AF272F · Limed Spruce #323E48 · Porcelain #F2F3F4 */
+    --bg:#f2f3f4; --panel:#ffffff; --panel2:#f6f7f8; --ink:#323e48; --muted:#6b7884;
+    --line:#dde1e4; --accent:#af272f; --accent-dk:#8e1f26; --charcoal:#323e48;
+    --green:#2e7d4f; --green-bg:#e7f2ec;
+    --blue:#34607e; --blue-bg:#e8eef3;
+    --yellow:#bb8a1e; --yellow-bg:#f8efd6;
+    --orange:#af272f; --orange-bg:#f7e2e3;
+    --shadow:0 10px 32px rgba(50,62,72,.16);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);border-top:6px solid var(--accent);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1180px;margin:0 auto;padding:22px 22px 90px}
+  h1{font-size:27px;margin:6px 0 4px;font-weight:800;letter-spacing:-.5px}
+  h2.section{font-size:22px;font-weight:800;margin:4px 0 4px}
+  .sub{color:var(--muted);max-width:820px;font-size:15px;margin:0 0 4px}
+
+  /* top bar */
+  .topbar{display:flex;align-items:center;gap:14px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:14px}
+  .wordmark{font-size:22px;font-weight:800;letter-spacing:.18em;color:var(--accent);text-transform:uppercase}
+  .brandrule{width:1px;height:22px;background:var(--line)}
+  .tagline{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--charcoal);font-weight:700}
+  .modeswitch{margin-left:auto;display:flex;align-items:center;gap:9px;font-size:13px;color:var(--muted)}
+  .toggle{position:relative;width:188px;height:34px;background:var(--panel2);border:1px solid var(--line);
+    border-radius:999px;cursor:pointer;display:flex;align-items:center;font-size:12.5px;font-weight:700;user-select:none}
+  .toggle span{flex:1;text-align:center;z-index:2;transition:color .2s;color:var(--muted)}
+  .toggle .knob{position:absolute;top:2px;left:2px;width:92px;height:28px;background:var(--accent);
+    border-radius:999px;transition:transform .22s cubic-bezier(.4,0,.2,1)}
+  body.internal .toggle .knob{transform:translateX(90px)}
+  .toggle .c{color:#fff} body.internal .toggle .c{color:var(--muted)}
+  body.internal .toggle .i{color:#fff}
+
+  /* tabs */
+  nav.tabs{display:flex;gap:4px;flex-wrap:wrap;margin:16px 0 20px;border-bottom:2px solid var(--line)}
+  .tab{padding:10px 16px;font-size:14px;font-weight:700;color:var(--muted);cursor:pointer;border:none;
+    background:none;border-bottom:3px solid transparent;margin-bottom:-2px;transition:.15s}
+  .tab:hover{color:var(--ink)}
+  .tab.active{color:var(--accent);border-bottom-color:var(--accent)}
+  .view{display:none} .view.active{display:block}
+
+  .internal-only{display:none}
+  body.internal .internal-only{display:block}
+  .ibadge{display:none;background:var(--accent);color:#fff;font-size:10px;font-weight:800;
+    letter-spacing:.08em;text-transform:uppercase;border-radius:4px;padding:2px 7px;vertical-align:middle}
+  body.internal .ibadge{display:inline-block}
+  .livepill{display:inline-block;color:var(--green);font-size:9px;vertical-align:middle;margin-left:2px}
+  .internalbanner{display:none}
+  body.internal .internalbanner{display:flex;align-items:center;gap:10px;background:var(--orange-bg);
+    border:1px solid var(--accent);border-radius:8px;padding:9px 14px;font-size:13px;color:var(--accent-dk);margin-bottom:16px}
+
+  /* stats */
+  .stats{display:flex;gap:12px;flex-wrap:wrap;margin:18px 0 6px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 16px;min-width:118px}
+  .stat .n{font-size:23px;font-weight:800}
+  .stat .l{font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+
+  .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:16px 0 12px}
+  .legend{display:flex;gap:8px;flex-wrap:wrap}
+  .chip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--panel);
+    border-radius:999px;padding:6px 12px;font-size:13px;cursor:pointer;color:var(--ink);transition:.15s;user-select:none}
+  .chip:hover{border-color:var(--accent)}
+  .chip.off{opacity:.4}
+  .dot{width:11px;height:11px;border-radius:3px;display:inline-block}
+  .dot.green{background:var(--green)} .dot.blue{background:var(--blue)}
+  .dot.yellow{background:var(--yellow)} .dot.orange{background:var(--orange)}
+  .search{margin-left:auto}
+  .search input{background:var(--panel);border:1px solid var(--line);border-radius:8px;color:var(--ink);padding:8px 12px;font-size:14px;width:210px}
+  .search input:focus{outline:none;border-color:var(--accent)}
+
+  /* tile grid */
+  .gridwrap{overflow-x:auto;padding:6px 0 4px}
+  .grid{display:grid;grid-template-columns:repeat(11,1fr);gap:8px;min-width:680px}
+  .tile{aspect-ratio:1/1;border-radius:9px;border:1px solid var(--line);display:flex;flex-direction:column;
+    align-items:center;justify-content:center;cursor:pointer;position:relative;transition:transform .12s,box-shadow .12s,opacity .15s;background:var(--panel)}
+  .tile:hover{transform:translateY(-3px);box-shadow:var(--shadow);z-index:2}
+  .tile .ab{font-weight:800;font-size:clamp(11px,1.4vw,15px)}
+  .tile.green{background:var(--green-bg);border-color:var(--green)}
+  .tile.blue{background:var(--blue-bg);border-color:var(--blue)}
+  .tile.yellow{background:var(--yellow-bg);border-color:var(--yellow)}
+  .tile.orange{background:var(--orange-bg);border-color:var(--orange)}
+  .tile .pin{position:absolute;top:5px;right:6px;font-size:9px;color:var(--muted)}
+  .tile.dim{opacity:.28;filter:grayscale(.55)}
+  .tile.sel{outline:3px solid var(--charcoal);outline-offset:1px}
+  .hint{color:var(--muted);font-size:13px;margin:14px 2px 0}
+
+  /* detail panel */
+  .overlay{position:fixed;inset:0;background:rgba(50,62,72,.45);backdrop-filter:blur(2px);opacity:0;pointer-events:none;transition:.2s;z-index:40}
+  .overlay.open{opacity:1;pointer-events:auto}
+  .panel{position:fixed;top:0;right:0;height:100%;width:min(560px,94vw);background:var(--panel);border-left:1px solid var(--line);
+    box-shadow:var(--shadow);transform:translateX(100%);transition:transform .28s cubic-bezier(.4,0,.2,1);z-index:50;overflow-y:auto}
+  .panel.open{transform:translateX(0)}
+  .panel .head{padding:22px 24px 16px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--panel);z-index:2}
+  .panel .body{padding:8px 24px 40px}
+  .close{position:absolute;top:18px;right:20px;background:none;border:none;color:var(--muted);font-size:26px;cursor:pointer;line-height:1}
+  .close:hover{color:var(--ink)}
+  .badge{display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:700;border-radius:999px;padding:5px 12px;text-transform:uppercase;letter-spacing:.05em}
+  .badge.green{background:var(--green-bg);color:#1f6b41;border:1px solid var(--green)}
+  .badge.blue{background:var(--blue-bg);color:#2a4f68;border:1px solid var(--blue)}
+  .badge.yellow{background:var(--yellow-bg);color:#8a6310;border:1px solid var(--yellow)}
+  .badge.orange{background:var(--orange-bg);color:#8e1f26;border:1px solid var(--orange)}
+  .panel h2{font-size:24px;margin:12px 0 2px;font-weight:800}
+  .panel .headline{color:var(--charcoal);font-size:14px;margin-top:4px;font-weight:600}
+  .sec{margin-top:22px}
+  .sec h3{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin:0 0 8px;font-weight:700}
+  .sec p{margin:0 0 10px;font-size:14.5px;color:#111418}
+  .opbox{background:var(--panel2);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:8px;padding:12px 14px;font-size:14.5px;color:#111418}
+  ul.moves{margin:0;padding-left:18px}
+  ul.moves li{margin:0 0 8px;font-size:14px;color:#111418}
+  .cites{list-style:none;padding:0;margin:0}
+  .cites li{margin:0 0 7px;font-size:13.5px}
+  .cites li::before{content:"§ ";color:var(--accent)}
+
+  /* generic cards */
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px 20px;margin-bottom:14px}
+  .card h3{margin:0 0 6px;font-size:17px;font-weight:800}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:760px){.grid2{grid-template-columns:1fr}}
+
+  /* decision tree */
+  .dt-wrap{max-width:760px}
+  .dt-q{font-size:18px;font-weight:700;margin:0 0 14px}
+  .dt-opts{display:flex;flex-direction:column;gap:10px}
+  .dt-opt{text-align:left;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:13px 16px;font-size:15px;cursor:pointer;transition:.15s;color:var(--ink)}
+  .dt-opt:hover{border-color:var(--accent);background:var(--orange-bg)}
+  .dt-progress{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px}
+  .dt-rec{border-left:5px solid var(--accent)}
+  .dt-rec .rectag{display:inline-block;background:var(--accent);color:#fff;font-weight:800;font-size:13px;padding:4px 12px;border-radius:6px;letter-spacing:.04em}
+  .dt-warn{background:var(--orange-bg);border:1px solid var(--accent);border-radius:8px;padding:10px 14px;font-size:13.5px;color:var(--accent-dk);margin-top:10px}
+  .btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:9px 16px;font-size:14px;font-weight:700;cursor:pointer}
+  .btn:hover{background:var(--accent-dk)}
+  .btn.ghost{background:none;color:var(--accent);border:1px solid var(--accent)}
+
+  /* fee calculator */
+  .calc{display:grid;grid-template-columns:1.1fr .9fr;gap:20px}
+  @media(max-width:860px){.calc{grid-template-columns:1fr}}
+  .field{margin-bottom:12px}
+  .field label{display:block;font-size:13px;font-weight:600;margin-bottom:4px}
+  .field .row{display:flex;gap:8px}
+  .field input{flex:1;background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:8px 10px;font-size:14px;color:var(--ink);width:100%}
+  .field input:focus{outline:none;border-color:var(--accent)}
+  .presets{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+  .out{background:var(--charcoal);color:#fff;border-radius:12px;padding:20px}
+  .out .big{font-size:34px;font-weight:800;color:#fff}
+  .out .lbl{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#b9c2cb}
+  .out hr{border:none;border-top:1px solid rgba(255,255,255,.15);margin:14px 0}
+  .out .line{display:flex;justify-content:space-between;font-size:13.5px;margin:5px 0;color:#dde3e8}
+  .out .line b{color:#fff}
+  .proj{display:flex;gap:10px;margin-top:12px}
+  .proj div{flex:1;background:rgba(255,255,255,.08);border-radius:8px;padding:10px;text-align:center}
+  .proj .y{font-size:11px;color:#b9c2cb;text-transform:uppercase}
+  .proj .v{font-size:16px;font-weight:800;color:#fff}
+
+  /* timeline */
+  .filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+  .tl{position:relative;margin-left:8px;padding-left:24px;border-left:2px solid var(--line)}
+  .tl-item{position:relative;margin-bottom:20px}
+  .tl-item::before{content:"";position:absolute;left:-31px;top:3px;width:13px;height:13px;border-radius:50%;background:var(--accent);border:2px solid var(--panel)}
+  .tl-item.permissive::before{background:var(--green)}
+  .tl-item.restrictive::before{background:var(--accent)}
+  .tl-item.guidance::before{background:var(--blue)}
+  .tl-date{font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+  .tl-title{font-size:15.5px;font-weight:700;margin:2px 0 4px}
+  .tl-body{font-size:14px;color:#111418;margin:0 0 5px}
+  .pill{display:inline-block;font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;border-radius:4px;padding:2px 8px;margin-left:6px}
+  .pill.permissive{background:var(--green-bg);color:#1f6b41}
+  .pill.restrictive{background:var(--orange-bg);color:#8e1f26}
+  .pill.guidance{background:var(--blue-bg);color:#2a4f68}
+
+  /* accordion */
+  .acc{border:1px solid var(--line);border-radius:10px;margin-bottom:10px;background:var(--panel);overflow:hidden}
+  .acc-h{padding:14px 18px;font-weight:700;font-size:15.5px;cursor:pointer;display:flex;justify-content:space-between;align-items:center}
+  .acc-h:hover{background:var(--panel2)}
+  .acc-b{padding:0 18px;max-height:0;overflow:hidden;transition:max-height .25s ease,padding .25s ease}
+  .acc.open .acc-b{padding:0 18px 16px;max-height:1400px}
+  .acc-b p,.acc-b li{font-size:14px;color:#111418}
+  .acc .caret{color:var(--accent);transition:transform .2s}
+  .acc.open .caret{transform:rotate(90deg)}
+
+  /* sponsor cards */
+  .spon{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:760px){.spon{grid-template-columns:1fr}}
+  .sponcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+  .sponcard h3{margin:0 0 2px;font-size:17px;display:flex;align-items:center;gap:8px}
+  .sstat{font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;border-radius:4px;padding:2px 8px}
+  .sstat.active{background:var(--green-bg);color:#1f6b41}
+  .sstat.exploring{background:var(--yellow-bg);color:#8a6310}
+  .sstat.advisor{background:var(--blue-bg);color:#2a4f68}
+  .sponcard .meta{font-size:13px;color:var(--muted);margin:2px 0 8px}
+  .sponcard p{font-size:13.5px;color:#111418;margin:6px 0}
+  .bdnote{background:var(--orange-bg);border:1px solid var(--accent);border-radius:8px;padding:9px 12px;font-size:13px;color:var(--accent-dk);margin-top:8px}
+
+  /* deal radar */
+  .client-only{display:block} body.internal .client-only{display:none}
+  .privacy{display:flex;gap:10px;align-items:flex-start;background:var(--yellow-bg);border:1px solid #d9b54a;border-radius:9px;padding:11px 15px;font-size:13px;color:#6b531a;margin-bottom:16px}
+  .radar{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:760px){.radar{grid-template-columns:1fr}}
+  .rcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:15px 17px}
+  .rcard h3{margin:0 0 2px;font-size:16px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .rcard .meta{font-size:12.5px;color:var(--muted);margin:1px 0 6px}
+  .lane{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;border-radius:4px;padding:2px 8px}
+  .lane.capital{background:var(--green-bg);color:#1f6b41}
+  .lane.referral{background:var(--blue-bg);color:#2a4f68}
+  .lane.insider{background:var(--yellow-bg);color:#8a6310}
+  .fit{display:flex;align-items:center;gap:8px;margin:7px 0}
+  .fit .bar{flex:1;height:6px;background:var(--line);border-radius:99px;overflow:hidden}
+  .fit .bar i{display:block;height:100%;background:var(--accent);border-radius:99px}
+  .fit .num{font-size:12px;font-weight:800;color:var(--accent);min-width:20px}
+  .rconn{font-size:12.5px;color:#111418;margin:6px 0}
+  .rwhy{font-size:13px;color:#111418;margin:6px 0}
+  .rsig{background:#fff7e6;border:1px solid #e9c97a;border-radius:8px;padding:7px 10px;font-size:12.5px;color:#5b4708;margin:7px 0}
+  .rcopy{margin-top:8px;font-size:12.5px;background:none;border:1px solid var(--accent);color:var(--accent);border-radius:7px;padding:6px 11px;cursor:pointer;font-weight:700}
+  .rcopy:hover{background:var(--accent);color:#fff}
+
+  /* bd pipeline */
+  .mvpanel{background:var(--charcoal);border-radius:12px;padding:14px 16px;margin-bottom:16px}
+  .mvhead{color:#fff;font-weight:800;font-size:15px;margin-bottom:9px}
+  .mvhead .mvsub{color:#b9c2cb;font-weight:500;font-size:12.5px;margin-left:8px}
+  .mvrow{display:flex;align-items:center;gap:10px;background:rgba(255,255,255,.07);border-radius:8px;padding:8px 12px;margin-bottom:6px;flex-wrap:wrap}
+  .mvrow .who{color:#fff;font-weight:700;font-size:13.5px}
+  .mvrow .why{color:#c8d0d8;font-size:12.5px;flex:1;min-width:160px}
+  .mvrow .due-over{color:#ffb3b8;font-weight:700}
+  .mvrow button{font-size:11.5px;background:none;border:1px solid #7c8894;color:#dde3e8;border-radius:6px;padding:4px 10px;cursor:pointer;font-weight:700}
+  .mvrow button:hover{border-color:#fff;color:#fff}
+  .mvempty{color:#b9c2cb;font-size:13px;padding:2px}
+  .stagebar{display:flex;margin:0 0 14px;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--panel)}
+  .stg{flex:1;text-align:center;padding:9px 4px;cursor:pointer;border-right:1px solid var(--line);transition:.15s;user-select:none}
+  .stg:last-child{border-right:none}
+  .stg .n{font-size:19px;font-weight:800}
+  .stg .l{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .stg:hover{background:var(--panel2)}
+  .stg.on{background:var(--orange-bg);box-shadow:inset 0 -3px 0 var(--accent)}
+  .lane.sponsor{background:var(--orange-bg);color:#8e1f26}
+  .bdsel{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:13px;color:var(--ink);font-weight:600}
+  .rwork{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:10px;padding-top:10px;border-top:1px dashed var(--line)}
+  .rwork select,.rwork input{background:var(--panel2);border:1px solid var(--line);border-radius:7px;padding:5px 8px;font-size:12.5px;color:var(--ink)}
+  .rwork select{font-weight:700}
+  .rwork input[type=text]{flex:1;min-width:130px}
+  .rwork .duewrap{display:flex;align-items:center;gap:5px;font-size:11.5px;color:var(--muted)}
+  .stagepill{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;border-radius:4px;padding:2px 8px}
+  .st-new{background:var(--panel2);color:var(--muted);border:1px solid var(--line)}
+  .st-out{background:var(--blue-bg);color:#2a4f68}
+  .st-talk{background:var(--yellow-bg);color:#8a6310}
+  .st-meet{background:var(--green-bg);color:#1f6b41}
+  .st-hold{background:#ececec;color:#8a949d}
+  .duebadge{font-size:10.5px;font-weight:800;border-radius:4px;padding:2px 7px;background:var(--panel2);color:var(--muted)}
+  .duebadge.over{background:var(--orange-bg);color:var(--accent-dk)}
+  .duebadge.soon{background:var(--yellow-bg);color:#8a6310}
+  .rcard.flash{outline:3px solid var(--accent);outline-offset:2px}
+  .relb{font-size:9.5px;font-weight:800;text-transform:uppercase;letter-spacing:.04em;border-radius:4px;padding:2px 7px}
+  .relb.sg{background:var(--green-bg);color:#1f6b41}
+  .relb.warm{background:var(--blue-bg);color:#2a4f68}
+  .relb.none{background:var(--orange-bg);color:var(--accent-dk);border:1px dashed var(--accent)}
+  .pathbox{margin-top:10px;border:1px solid var(--line);border-left:3px solid var(--charcoal);border-radius:8px;padding:10px 12px;background:var(--panel2)}
+  .pathhead{font-size:12.5px;font-weight:700;margin-bottom:4px;color:var(--charcoal)}
+  .pathrow{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;padding:6px 0;border-top:1px dashed var(--line)}
+  .pathrow .plink{font-size:13px;font-weight:700;cursor:pointer;color:var(--accent)}
+  .pathrow .plink:hover{text-decoration:underline}
+  .pathrow .preason{font-size:12px;color:var(--muted);flex:1;min-width:160px}
+  .pathrow .pask{font-size:11px;background:none;border:1px solid var(--accent);color:var(--accent);border-radius:6px;padding:3px 8px;cursor:pointer;font-weight:700}
+  .pathrow .pask:hover{background:var(--accent);color:#fff}
+  .bridgeto{margin-top:8px;font-size:12px;color:var(--charcoal);background:var(--panel2);border:1px dashed var(--line);border-radius:7px;padding:6px 9px}
+  /* deal builder */
+  .db-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  @media(max-width:760px){.db-grid{grid-template-columns:1fr}}
+  .db-field{margin-bottom:11px}
+  .db-field label{font-size:12.5px;font-weight:600;margin-bottom:4px;display:block}
+  .db-field input,.db-field select{width:100%;background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:8px 10px;font-size:13.5px;color:var(--ink)}
+  .db-field input:focus,.db-field select:focus{outline:none;border-color:var(--accent)}
+  .db-field input[type=checkbox],.db-field input[type=radio]{width:auto}
+  .db-row{display:flex;gap:10px}
+  .db-radio label{font-weight:500;font-size:13px;display:inline-flex;align-items:center;gap:6px}
+  .docout{margin-top:18px}
+  .doctabs{display:flex;gap:4px;border-bottom:2px solid var(--line)}
+  .doctab{padding:9px 15px;font-size:13px;font-weight:700;color:var(--muted);cursor:pointer;border:none;background:none;border-bottom:3px solid transparent;margin-bottom:-2px}
+  .doctab:hover{color:var(--ink)}
+  .doctab.active{color:var(--accent);border-bottom-color:var(--accent)}
+  .docbody{display:none;background:var(--panel);border:1px solid var(--line);border-top:none;border-radius:0 0 10px 10px;padding:20px 22px;overflow-x:auto}
+  .docbody.active{display:block}
+  .docbody pre{white-space:pre-wrap;font-family:Georgia,"Times New Roman",serif;font-size:13.5px;line-height:1.55;color:#1a1a1a;margin:0}
+  .docact{display:flex;gap:8px;align-items:center}
+
+
+  .disc{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px;color:var(--muted);font-size:12.5px;margin-top:26px}
+  .foot{margin-top:22px;border-top:1px solid var(--line);padding-top:14px;color:var(--muted);font-size:12.5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <span class="wordmark">Polsinelli</span><span class="brandrule"></span>
+    <span class="tagline">Law Firm MSO Command Center</span>
+    <div class="modeswitch">
+      <div class="toggle" id="modeToggle" title="Switch between client-facing and internal view">
+        <span class="c">Client view</span><span class="i">Internal</span>
+        <div class="knob"></div>
+      </div>
+    </div>
+  </div>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-v="map">Heat Map</button>
+    <button class="tab" data-v="decide">Decision Tool</button>
+    <button class="tab" data-v="fees">Fee Model</button>
+    <button class="tab" data-v="leg">Legislation Tracker</button>
+    <button class="tab" data-v="watch">Daily Ethics Watch <span class="livepill">●</span></button>
+    <button class="tab" data-v="play">Playbook</button>
+    <button class="tab" data-v="build">Deal Builder</button>
+    <button class="tab" data-v="bd">BD Pipeline <span class="ibadge">Net</span></button>
+  </nav>
+
+  <div class="internalbanner">🔒 Internal view — showing candid risk reads, BD notes, and sponsor intelligence. Switch to Client view before sharing externally.</div>
+
+  <!-- ============ HEAT MAP ============ -->
+  <section class="view active" id="v-map">
+    <h1>State Regulatory Risk Heat Map</h1>
+    <p class="sub">All 50 states + D.C., rated for the two-entity MSO model (lawyer-owned firm + investor-owned MSO). Click any state for the summary, opinion, structuring moves, and citations.</p>
+    <div class="stats" id="stats"></div>
+    <div class="toolbar">
+      <div class="legend" id="legend">
+        <span class="chip" data-tier="green"><span class="dot green"></span>Nonlawyer ownership permitted</span>
+        <span class="chip" data-tier="blue"><span class="dot blue"></span>MSO-favorable guidance</span>
+        <span class="chip" data-tier="yellow"><span class="dot yellow"></span>Standard — MSO OK if structured right</span>
+        <span class="chip" data-tier="orange"><span class="dot orange"></span>Elevated scrutiny / restrictive trend</span>
+      </div>
+      <div class="search"><input id="search" type="text" placeholder="Search a state…" autocomplete="off"></div>
+    </div>
+    <div class="gridwrap"><div class="grid" id="grid"></div></div>
+    <p class="hint">Click legend chips to filter · ☆ marks states where nonlawyer ownership (ABS) is itself permitted.</p>
+  </section>
+
+  <!-- ============ DECISION TOOL ============ -->
+  <section class="view" id="v-decide">
+    <h1>ABS vs. MSO Decision Tool</h1>
+    <p class="sub">Answer a few questions to get a recommended structure for a prospective deal, with the key risks flagged. A planning aid — not a substitute for a jurisdiction-specific opinion.</p>
+    <div class="card dt-wrap" id="dtCard"></div>
+  </section>
+
+  <!-- ============ FEE MODEL ============ -->
+  <section class="view" id="v-fees">
+    <h1>Practice-Area Fee Model</h1>
+    <p class="sub">Size the annual and three-year fee opportunity across the four revenue streams. Start from a scenario, then flex the inputs. Illustrative ranges, not a forecast.</p>
+    <div class="presets">
+      <button class="btn ghost" data-preset="build">Building (Yr 1–2)</button>
+      <button class="btn ghost" data-preset="estab">Established group</button>
+      <button class="btn ghost" data-preset="lead">Market-leading</button>
+    </div>
+    <div class="calc">
+      <div class="card" id="calcInputs"></div>
+      <div class="out" id="calcOut"></div>
+    </div>
+  </section>
+
+  <!-- ============ LEGISLATION ============ -->
+  <section class="view" id="v-leg">
+    <h1>Legislation &amp; Rule Tracker</h1>
+    <p class="sub">What's moving in nonlawyer-ownership and MSO regulation, newest first. Use this as the basis for the monthly "MSO Watch" client update.</p>
+    <div class="filters" id="legFilters">
+      <span class="chip" data-f="all">All</span>
+      <span class="chip" data-f="permissive"><span class="dot green"></span>Permissive</span>
+      <span class="chip" data-f="restrictive"><span class="dot orange"></span>Restrictive</span>
+      <span class="chip" data-f="guidance"><span class="dot blue"></span>Guidance</span>
+    </div>
+    <div class="tl" id="legList"></div>
+  </section>
+
+  <!-- ============ DAILY ETHICS WATCH ============ -->
+  <section class="view" id="v-watch">
+    <h1>Daily Ethics Watch</h1>
+    <p class="sub">Checked automatically every day against case-law search and legal-news sources for new items on law firm MSOs, nonlawyer ownership, Rule 5.4, ABS licensing, and fee-splitting. This is the unfiltered daily catch — items get promoted into the curated Legislation &amp; Rule Tracker above only after a human reviews them. <span id="watchMeta" style="display:block;margin-top:6px;font-size:13px;color:var(--muted)"></span></p>
+    <div class="filters" id="watchFilters">
+      <span class="chip" data-f="all">All</span>
+      <span class="chip" data-f="case"><span class="dot blue"></span>Case law</span>
+      <span class="chip" data-f="article"><span class="dot yellow"></span>Articles &amp; guidance</span>
+    </div>
+    <div class="tl" id="watchList"></div>
+  </section>
+
+  <!-- ============ PLAYBOOK ============ -->
+  <section class="view" id="v-play">
+    <h1>MSO Structuring Playbook</h1>
+    <p class="sub">Reference frameworks and checklists for structuring a compliant law firm MSO. <strong>Illustrative only</strong> — adapt to the deal and the governing jurisdiction; not legal templates for direct use.</p>
+    <div id="playList"></div>
+  </section>
+
+
+  <!-- ============ DEAL BUILDER ============ -->
+  <section class="view" id="v-build">
+    <h1>Deal Builder — Guided First Draft</h1>
+    <p class="sub">Enter the facts of a specific deal and the tool assembles a deal-specific <strong>structuring memo, non-binding term sheet, and MSA outline</strong> — toggling clauses based on the footprint, structure, and fee. A rules-based first draft from your inputs — <strong>not legal advice and not execution-ready</strong>; route through attorney drafting and review.</p>
+    <div class="privacy">📝 <div><strong>First-draft generator.</strong> Output is an illustrative skeleton assembled from your answers, intended to accelerate drafting — not a final or filed document. Verify every clause against the governing jurisdiction and the current rules before use.</div></div>
+    <div class="card">
+      <div class="db-grid">
+        <div>
+          <div class="db-field"><label>Law firm name</label><input id="df-firm" placeholder="Acme Injury Law, P.C."></div>
+          <div class="db-field"><label>MSO / platform name</label><input id="df-mso" placeholder="Acme Legal Services, LLC"></div>
+          <div class="db-field"><label>Investor / sponsor</label><input id="df-sponsor" placeholder="Orion Legal / [Sponsor]"></div>
+          <div class="db-field"><label>Primary practice area</label><input id="df-practice" placeholder="personal injury"></div>
+          <div class="db-field"><label>Primary (domicile) state</label><select id="df-primary"></select></div>
+          <div class="db-field"><label>Other footprint states (offices/lawyers) — comma-separated</label><input id="df-other" placeholder="CA, FL, IL"></div>
+        </div>
+        <div>
+          <div class="db-field"><label>Investor goal</label>
+            <div class="db-radio"><label><input type="radio" name="df-goal" value="backoffice" checked> Fund operations, keep firm lawyer-owned</label></div>
+            <div class="db-radio" style="margin-top:4px"><label><input type="radio" name="df-goal" value="equity"> Direct equity &amp; profit share</label></div>
+          </div>
+          <div class="db-field"><label>Structure</label><select id="df-structure"><option value="auto">Auto-recommend</option><option value="MSO">MSO (two-entity)</option><option value="ABS">ABS (Arizona)</option></select></div>
+          <div class="db-field"><label>Management fee type</label><select id="df-fee"><option value="flat">Flat monthly fee</option><option value="fixed">Fixed annual fee</option><option value="costplus">Cost-plus</option></select></div>
+          <div class="db-row"><div class="db-field" style="flex:1"><label>Rollover equity (%)</label><input id="df-rollover" type="number" value="30"></div><div class="db-field" style="flex:1"><label>MSA term (years)</label><input id="df-term" type="number" value="30"></div></div>
+          <div class="db-field"><label>Firm annual revenue (optional, $)</label><input id="df-revenue" type="number" placeholder="20000000"></div>
+          <div class="db-field"><label style="font-weight:500"><input type="checkbox" id="df-captive" checked> Include captive-PC controls</label> &nbsp;&nbsp; <label style="font-weight:500"><input type="checkbox" id="df-earnout"> Include earnout</label></div>
+        </div>
+      </div>
+      <div style="margin-top:6px"><button class="btn" id="dfGen">Generate first draft</button> <span class="ibadge" style="margin-left:8px">Internal</span></div>
+    </div>
+    <div class="docout" id="dfOut" style="display:none">
+      <div style="display:flex;align-items:center;gap:12px;margin:8px 0 6px;flex-wrap:wrap"><span class="rectag" id="dfRecBadge"></span>
+        <div class="docact" style="margin-left:auto"><button class="rcopy" id="dfCopy">Copy current</button> <button class="btn" id="dfDownload">Download all (.txt)</button></div>
+      </div>
+      <div class="doctabs">
+        <button class="doctab active" data-d="memo">Structuring Memo</button>
+        <button class="doctab" data-d="term">Term Sheet</button>
+        <button class="doctab" data-d="msa">MSA Outline</button>
+      </div>
+      <div class="docbody active" id="db-memo"><pre id="dfMemo"></pre></div>
+      <div class="docbody" id="db-term"><pre id="dfTerm"></pre></div>
+      <div class="docbody" id="db-msa"><pre id="dfMsa"></pre></div>
+    </div>
+    <div class="card" style="margin-top:22px">
+      <h3 style="margin-top:0">Draft into your own template <span class="ibadge">Internal</span></h3>
+      <p style="font-size:13.5px;color:#444;margin:0 0 10px">Paste or upload your firm&rsquo;s template (.txt, .md, or .docx) using the tokens below. The tool merges in the deal facts entered above and keeps or drops the conditional clauses based on the footprint and structure. A .docx upload keeps your Word formatting on download.</p>
+      <details style="margin-bottom:10px"><summary style="cursor:pointer;font-weight:600;font-size:13px;color:var(--accent)">Available tokens &amp; conditional blocks</summary>
+        <div style="font-size:12.5px;color:#333;margin-top:8px;font-family:monospace;line-height:1.8">
+        {{FIRM}} &middot; {{MSO}} &middot; {{SPONSOR}} &middot; {{PRACTICE}} &middot; {{PRIMARY_STATE}} &middot; {{FOOTPRINT}} &middot; {{STRUCTURE}} &middot; {{FEE_TYPE}} &middot; {{FEE_CLAUSE}} &middot; {{ROLLOVER}} &middot; {{TERM}} &middot; {{REVENUE}} &middot; {{DATE}}<br><br>
+        <strong>Conditional blocks</strong> (text between the markers is kept only when true):<br>
+        {{#IF_MSO}}&hellip;{{/IF_MSO}} &middot; {{#IF_ABS}}&hellip;{{/IF_ABS}} &middot; {{#IF_CAIL}}&hellip;{{/IF_CAIL}} &middot; {{#IF_CAPTIVE}}&hellip;{{/IF_CAPTIVE}} &middot; {{#IF_EARNOUT}}&hellip;{{/IF_EARNOUT}} &middot; {{#IF_MULTISTATE}}&hellip;{{/IF_MULTISTATE}}<br><br>
+        <em>Tip: in a .docx, type tokens as plain unformatted text so Word doesn&rsquo;t split them across styling runs.</em>
+        </div></details>
+      <div class="db-field"><label>Mode</label><div style="display:flex;gap:18px;flex-wrap:wrap"><label style="font-weight:500;font-size:13px"><input type="radio" name="tplMode" value="token" checked> Token merge &mdash; template has {{tokens}}</label><label style="font-weight:500;font-size:13px"><input type="radio" name="tplMode" value="smart"> Smart revise &mdash; plain template, change only necessary terms</label></div></div>
+      <div class="db-row" style="margin-bottom:10px;align-items:center;flex-wrap:wrap">
+        <input type="file" id="tplFile" accept=".txt,.md,.docx" style="font-size:13px">
+        <button class="btn ghost" id="tplSample" type="button">Load sample template</button>
+      </div>
+      <textarea id="tplText" placeholder="Paste your template here, or upload a file above&hellip;" style="width:100%;min-height:150px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px;font-size:13px;font-family:monospace;color:var(--ink);resize:vertical"></textarea>
+      <div style="margin-top:10px"><button class="btn" id="tplMerge">Merge facts into my template</button> <span id="tplStatus" style="font-size:12.5px;color:var(--muted);margin-left:8px"></span></div>
+      <div id="tplOutWrap" style="display:none;margin-top:14px">
+        <div id="tplLog" style="display:none;margin-bottom:10px"></div>
+        <div class="docact" style="margin-bottom:8px"><button class="rcopy" id="tplCopy">Copy</button> <button class="btn" id="tplDownload">Download draft</button></div>
+        <div class="docbody active" style="border-radius:10px;border:1px solid var(--line)"><pre id="tplOut"></pre></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ BD PIPELINE ============ -->
+  <section class="view" id="v-bd">
+    <h1>BD Pipeline — Sponsors &amp; Your Network</h1>
+    <p class="sub">One working pipeline: the PE sponsors shaping the market and the people you already know, tracked from first touch to meeting. Stage, next step, and follow-up dates save automatically in this browser.</p>
+
+    <div class="client-only">
+      <h2 class="section">Who Is Investing in Legal MSOs</h2>
+      <p class="sub">Sponsors and platforms active or exploring in the space.</p>
+      <div class="spon" id="sponListClient" style="margin-top:12px"></div>
+      <div class="card" style="margin-top:14px;text-align:center;color:var(--muted)">Switch to <strong>Internal view</strong> (top-right) for the working pipeline and network prospects. Hidden in Client view to protect private contact data.</div>
+    </div>
+
+    <div class="internal-only">
+      <div class="privacy">🔒 <div><strong>Internal BD only.</strong> Network records are sourced from your private network (LinkedIn export + Shadow Glen roster). Do not display in Client view or to clients. One sensitive record was excluded. Clear conflicts and route outreach through firm marketing/ethics review (Rule 7.3) before contacting anyone.</div></div>
+
+      <div class="mvpanel">
+        <div class="mvhead">🎯 This week's moves <span class="mvsub">overdue &amp; upcoming follow-ups first, then your best untouched prospects</span></div>
+        <div id="bdMoves"></div>
+      </div>
+
+      <div class="stagebar" id="bdStages"></div>
+
+      <div class="toolbar" style="margin:0 0 6px">
+        <div class="filters" id="bdFilters" style="margin:0">
+          <span class="chip" data-f="all">All</span>
+          <span class="chip" data-f="sponsor"><span class="dot orange"></span>Sponsors</span>
+          <span class="chip" data-f="capital"><span class="dot green"></span>Capital</span>
+          <span class="chip" data-f="referral"><span class="dot blue"></span>Referral</span>
+          <span class="chip" data-f="insider"><span class="dot yellow"></span>Insiders</span>
+        </div>
+        <select id="bdSort" class="bdsel" style="margin-left:auto">
+          <option value="score">Sort: MSO fit</option>
+          <option value="due">Sort: follow-up date</option>
+          <option value="stage">Sort: pipeline stage</option>
+          <option value="name">Sort: name</option>
+        </select>
+        <div class="search" style="margin-left:0"><input id="bdSearch" type="text" placeholder="Search name / company…" autocomplete="off"></div>
+      </div>
+      <p class="hint" style="margin:0 0 10px">Click a stage above to filter · ⚡ flags a live signal on file · <strong>badges show what's real:</strong> green/blue = your actual connections; <span style="color:var(--accent-dk)">⚠ Not a connection</span> = market target — never cold-contact these; use the 🧭 intro paths on their cards.</p>
+      <div class="radar" id="bdList"></div>
+    </div>
+  </section>
+
+  <div class="disc">
+    <strong>Not legal advice.</strong> A planning aid for Polsinelli counsel. State rules, ethics opinions, and pending bills change frequently; verify live authority before relying on it. Risk tiers reflect the MSO-acquires-law-firm model, not direct nonlawyer ownership. Fee figures are illustrative ranges. Puerto Rico (territory) permits nonlawyer ownership up to 49% as of June 17, 2025 and is referenced but not shown on the grid.
+  </div>
+  <div class="foot" id="foot"></div>
+</div>
+
+<div class="overlay" id="overlay"></div>
+<aside class="panel" id="panel" aria-hidden="true">
+  <div class="head">
+    <button class="close" id="close" aria-label="Close">&times;</button>
+    <span class="badge" id="p-badge"></span>
+    <h2 id="p-name"></h2>
+    <div class="headline" id="p-headline"></div>
+  </div>
+  <div class="body" id="p-body"></div>
+</aside>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+/* ===================== TABS + MODE ===================== */
+document.getElementById('tabs').addEventListener('click',e=>{
+  const b=e.target.closest('.tab'); if(!b)return;
+  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
+  b.classList.add('active'); document.getElementById('v-'+b.dataset.v).classList.add('active');
+  window.scrollTo({top:0,behavior:'smooth'});
+});
+document.getElementById('modeToggle').addEventListener('click',()=>document.body.classList.toggle('internal'));
+
+/* ===================== HEAT MAP DATA ===================== */
+const LAYOUT={AK:[0,0],ME:[0,10],VT:[1,9],NH:[1,10],WA:[2,0],ID:[2,1],MT:[2,2],ND:[2,3],MN:[2,4],WI:[2,6],MI:[2,8],NY:[2,9],MA:[2,10],OR:[3,0],NV:[3,1],WY:[3,2],SD:[3,3],IA:[3,4],IL:[3,5],IN:[3,6],OH:[3,7],PA:[3,8],NJ:[3,9],CT:[3,10],CA:[4,0],UT:[4,2],CO:[4,3],NE:[4,4],MO:[4,5],KY:[4,6],WV:[4,7],VA:[4,8],MD:[4,9],DE:[4,10],AZ:[5,1],NM:[5,2],KS:[5,4],AR:[5,5],TN:[5,6],NC:[5,7],SC:[5,8],DC:[5,9],RI:[5,10],HI:[6,0],OK:[6,3],LA:[6,5],MS:[6,6],AL:[6,7],GA:[6,8],TX:[7,3],FL:[7,9]};
+const NAMES={AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",DC:"District of Columbia",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
+const C_ABA={label:"ABA Model Rule 5.4 (Professional Independence of a Lawyer)",url:"https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_5_4_professional_independence_of_a_lawyer/"};
+const C_DLA={label:'DLA Piper, "MSOs vs. ABS: Two Models for Outside Investment in Law Firms" (Jan. 6, 2026)',url:"https://www.dlapiper.com/en-us/insights/publications/2026/01/msos-vs-abs-two-models-investment-in-law-firms"};
+const C_ABA_MSO={label:'ABA Law Practice Magazine, "Law Firm MSOs Are Ethically Everywhere" (Jan./Feb. 2026)',url:"https://www.americanbar.org/groups/law_practice/resources/law-practice-magazine/2026/january-february-2026/law-firm-msos-are-ethically-everywhere/"};
+const C_IL={label:"Illinois HB 5487 — bill text & status (LegiScan)",url:"https://legiscan.com/IL/bill/HB5487"};
+const C_AZ_ABS={label:"Arizona Supreme Court — Alternative Business Structure (ABS) program",url:"https://www.azcourts.gov/cld/Alternative-Business-Structure"};
+const C_91360={label:"ABA Formal Opinion 91-360 (out-of-state branch office of nonlawyer-owned firm)",url:"https://www.americanbar.org/products/ecd/chapter/219925/"};
+const DEF={tier:"yellow",
+  headline:"Follows ABA Model Rule 5.4 — nonlawyer ownership & fee-sharing prohibited; MSO permissible if properly structured",
+  summary:"This jurisdiction follows the ABA Model Rule 5.4 standard: nonlawyers may not own or control a law firm, and lawyers may not share legal fees with nonlawyers. There is no ABS/nonlawyer-ownership program and (to date) no published ethics opinion specifically blessing or barring the law firm MSO model. The two-entity MSO structure is widely understood to be permissible here because the core firm stays lawyer-owned and the MSO is paid an arm's-length service fee rather than a share of legal fees — but the model is legally untested in this state.",
+  opinion:"VIABLE WITH CARE. The MSO model should work, but treat it as untested: there is no safe harbor and the fee-splitting and professional-independence rules are enforced. Document arm's-length pricing and lawyer control rigorously, and obtain a state-specific ethics review before closing.",
+  moves:["Two-entity structure: lawyer-owned PC practices law and keeps all legal fees; investor-owned MSO holds only non-legal assets.","Management fee must be flat, fixed, or cost-plus — never a percentage of the firm's fees, revenue, or profits.","MSA must preserve lawyer independence: no MSO control over legal judgment, client selection, case strategy, staffing of matters, or settlement.","Maintain real corporate separation — distinct governance, books, bank accounts, and personnel.","Use rollover equity and aligned economic incentives rather than lawyer non-competes (Rule 5.6).","Get a written state-specific ethics opinion or bar guidance before closing."],
+  citations:[C_ABA,C_ABA_MSO,C_DLA]};
+const O={
+  AZ:{tier:"green",headline:"Repealed Rule 5.4 (2021) — full Alternative Business Structure (ABS) licensing; 136+ ABS entities approved",
+    summary:"Arizona is the most permissive U.S. jurisdiction. It eliminated Rule 5.4 in 2021 and licenses Alternative Business Structures (ABS) that may be wholly or partly owned by nonlawyers, with investors sharing directly in firm profits. As of April 30, 2025 the Arizona Supreme Court had approved 136+ ABS entities. Both routes are open: direct nonlawyer ownership via a licensed ABS, or a conventional MSO.",
+    opinion:"MOST FAVORABLE. The cleanest jurisdiction in the country for nonlawyer investment. For an acquisition, a licensed ABS gives the investor true equity and profit participation; an MSO remains available where the client wants to keep the firm conventional. Caution: an Arizona ABS cannot extend into Rule 5.4 states via branch offices (ABA Op. 91-360).",
+    moves:["Choose the structure: licensed ABS (direct nonlawyer equity + profit share) vs. MSO (service-fee model) depending on the client's appetite for regulatory oversight.","For ABS: budget for the Arizona Supreme Court application — designated compliance lawyer, ownership disclosures, ongoing reporting.","Do not staff or open offices of an Arizona ABS in Rule 5.4 states; keep practice and lawyers in-state to avoid the branch-office trap.","If multistate reach is needed, default to the MSO model, which travels across state lines."],
+    citations:[C_AZ_ABS,C_91360,C_DLA]},
+  UT:{tier:"green",headline:"Regulatory sandbox permits ABS — but tied to serving underserved consumers; participation declining",
+    summary:"Utah permits nonlawyer-owned entities to deliver legal services through its regulatory sandbox. Approval requires showing the entity will reach Utah consumers currently underserved by the legal market, and that the consumer impact is substantial relative to its overall reach — which excludes most ordinary firms. The Utah Supreme Court terminated the ABS-only portion of the sandbox on Dec. 31, 2024, and participation fell from ~39 firms (2022) to ~11 (April 2025).",
+    opinion:"PERMISSIVE BUT NARROW. Nonlawyer ownership is technically available, but the access-to-justice gating makes the ABS route impractical for a conventional acquisition. For most deals the MSO model is the better fit even here.",
+    moves:["Test ABS eligibility against the 'underserved consumer' standard early — most commercial acquisitions will not qualify.","Default to the MSO model (flat/cost-plus fee, lawyer-owned core firm) for deals that aren't access-to-justice driven.","Monitor the sandbox's status given the Dec. 2024 contraction before relying on an ABS approval."],
+    citations:[{label:"Utah R. Jud. Admin. 13-5.4",url:"https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=13-5.4"},{label:"Utah Supreme Court, Letter to Legal Services Innovation Committee (Sept. 5, 2024)",url:"https://utahinnovationoffice.org/wp-content/uploads/2024/10/Letter-to-the-Legal-Services-Innovation-Committee-9.5.24.pdf"},C_DLA]},
+  DC:{tier:"green",headline:"D.C. Rule 5.4(b) allows limited nonlawyer ownership — working professionals only; no passive PE investment",
+    summary:"The District of Columbia has long permitted limited nonlawyer ownership under Rule 5.4(b), but only by an individual nonlawyer who actually performs professional services assisting the firm's delivery of legal services. The rule does not permit any individual or entity to buy an ownership interest for investment purposes. So D.C. is 'permissive' in form but does not accommodate passive private-equity ownership of a firm.",
+    opinion:"PERMISSIVE IN NAME, LIMITED IN PRACTICE. D.C. does not open the door to outside investor equity in the firm itself. For an acquisition driven by outside capital, the MSO model is the workable path; reserve Rule 5.4(b) ownership for working nonlawyer professionals inside the firm.",
+    moves:["Do not rely on D.C. Rule 5.4(b) for passive investor equity — it is barred by Comment [8].","Use the MSO model for outside capital; reserve firm equity for lawyers and qualifying working nonlawyer professionals.","Confirm any nonlawyer owner genuinely provides professional services to the firm."],
+    citations:[{label:"D.C. Rule of Professional Conduct 5.4(b) & cmt. [8]",url:"https://www.dcbar.org/for-lawyers/legal-ethics/rules-of-professional-conduct/law-firms-and-associations/professional-independence-of-a-lawyer"},C_DLA,C_ABA_MSO]},
+  TX:{tier:"blue",headline:"Ethics Opinion 706 (2025) expressly blesses properly structured MSOs; Opinion 704 bars nonlawyer ownership",
+    summary:"Texas is the most MSO-favorable jurisdiction with published guidance. In Ethics Opinion 706 (Feb. 2025) the Texas Commission on Professional Ethics held that a lawyer may engage a nonlawyer-owned company for support services and a lawyer may even hold equity in that company — provided the company does not practice law — but may NOT pay it a fee based on a percentage of the firm's revenues. Opinion 704 separately reaffirms that nonlawyer ownership of a law firm is prohibited. Net: the MSO model is affirmatively supported; the ABS model is not available.",
+    opinion:"MODEL MSO JURISDICTION. Texas gives the closest thing to a green light for the MSO structure, and even allows lawyers to co-invest in the MSO. The one bright line: keep the management fee off a percentage-of-revenue basis. Treat Op. 706 as the template, not a guarantee.",
+    moves:["Structure the management fee as flat / fixed / cost-plus — Op. 706 specifically prohibits a percentage-of-revenue fee.","Lawyers may hold equity in the MSO so long as the MSO does not practice law; screen for conflicts from that investment.","Do not attempt nonlawyer firm ownership (Op. 704) — keep the core firm 100% lawyer-owned.","Mirror the Op. 706 fact pattern (back-office platform services) in the MSA."],
+    citations:[{label:"Texas Ethics Opinion 706 (Feb. 2025)",url:"https://www.legalethicstexas.com/resources/opinions/opinion-706/"},{label:"Texas Ethics Opinion 704 (nonlawyer ownership prohibited)",url:"https://www.legalethicstexas.com/resources/opinions/opinion-704/"},C_ABA_MSO]},
+  CA:{tier:"orange",headline:"AB 931 bars California lawyers from sharing fees — directly or indirectly — with out-of-state ABS firms",
+    summary:"California follows Rule 5.4 (no nonlawyer ownership), and the legislature has moved to wall off workarounds. AB 931 provides that no attorney authorized to practice in California may share legal fees, directly or indirectly, with an out-of-state ABS firm unless the attorney is also licensed where the ABS is approved and the fees compensate legal services in that state. This effectively forecloses ABS-to-California financial relationships and signals aggressive scrutiny of 'indirect' fee flows.",
+    opinion:"ELEVATED RISK. The MSO model itself remains workable in California, but AB 931's 'directly or indirectly' language raises the stakes on any compensation that could be traced to legal fees. Avoid ABS branch strategies entirely; pressure-test the MSO fee for any indirect linkage to firm revenue.",
+    moves:["Do not route an out-of-state ABS into California via referral or fee-share arrangements — AB 931 targets exactly this.","Keep the MSO fee flat/cost-plus and documented as market-rate; scrub the MSA for anything resembling an 'indirect' share of fees or profits.","Confirm only California-licensed lawyers own and run the core firm.","Obtain California ethics counsel sign-off and monitor AB 931's final form."],
+    citations:[{label:"California AB 931 (2025–2026)",url:"https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB931"},C_91360,C_DLA]},
+  IL:{tier:"orange",headline:"HB 5487 (passed May 31, 2026; awaiting Governor) imposes broad MSO/ABS restrictions, private enforcement & $10k penalties",
+    summary:"Illinois follows Rule 5.4, but HB 5487 — passed by the General Assembly on May 31, 2026 and awaiting the Governor's signature — specifically regulates MSOs and ABS firms. It does not ban MSOs, but broadly defines an MSO as any entity providing management/administrative support in exchange for firm assets or payments, bars nonlawyer interference with professional judgment and control over 'core legal functions,' prohibits fees tied 'directly or indirectly' to firm fees/revenue/profits, restricts non-competes and certain contract terms, and adds private enforcement with statutory damages. Firms over $300M revenue are exempt.",
+    opinion:"ELEVATED RISK / HIGH COMPLIANCE BURDEN. A properly structured MSO can still operate, but the undefined 'indirect' fee standard, private right of action, and $10k-per-violation exposure make Illinois the highest-friction MSO market outside an outright ban. Constitutional challenges are likely. Build to the statute, not just the ethics rules.",
+    moves:["Engineer the management fee to avoid any 'direct or indirect' tie to fees/revenue/profits — the term is undefined, so be conservative.","Strip MSO control over personnel decisions, performance standards, client records, and attorney-client communications from the MSA.","Remove lawyer/staff non-competes and any clauses limiting comment on service quality or ethics.","Map the private-enforcement and statutory-damages exposure; engage Illinois ethics + litigation counsel before closing.","Track the Governor's action and any constitutional challenge before relying on a structure."],
+    citations:[C_IL,C_ABA,C_DLA]},
+  FL:{tier:"yellow",headline:"Reaffirmed Rule 5.4 — Supreme Court declined nonlawyer-ownership reform (2022); MSO permissible if structured right",
+    summary:"Florida studied and then rejected liberalization: the Florida Bar Board of Governors opposed proposed Rule 5.4 amendments allowing minority nonlawyer ownership and fee-splitting, and in March 2022 the Florida Supreme Court let the existing Rule 5.4 stand (permitting only limited nonprofit arrangements). No ABS program exists. The MSO model remains available under standard fee-splitting/independence analysis, but Florida has signaled it is not moving toward nonlawyer ownership.",
+    opinion:"VIABLE WITH CARE. Treat Florida as a settled Rule 5.4 state that has affirmatively declined reform. The MSO model works on standard principles; don't expect an ABS path. Document arm's-length pricing and lawyer control.",
+    moves:DEF.moves,
+    citations:[{label:"Washington Legal Foundation — Florida & other reform rejections (2022)",url:"https://www.wlf.org/2022/10/13/publishing/proposals-to-allow-nonlawyer-ownership-of-law-firms-fee-splitting-experience-rejection/"},C_ABA,C_ABA_MSO]},
+  NY:{tier:"yellow",headline:"Strict Rule 5.4; NYC Bar Formal Op. 2024-4 cabins how NY lawyers may associate with ABS entities",
+    summary:"New York prohibits nonlawyer ownership and fee-sharing and has no ABS program. NYC Bar Formal Opinion 2024-4 addresses how New York lawyers may (and may not) associate with out-of-state Alternative Legal Business entities, reflecting a cautious posture toward fee flows to nonlawyer-owned structures. The MSO model is workable on standard grounds, but New York is a strict-enforcement market and a very large one — structure conservatively.",
+    opinion:"VIABLE WITH CARE. As one of the largest, most strictly regulated legal markets, New York rewards conservative structuring. The MSO model is fine; avoid any arrangement that channels fees to a nonlawyer-owned ABS, consistent with Op. 2024-4.",
+    moves:["Keep the MSO fee flat/cost-plus; avoid any fee path to an out-of-state ABS (see Op. 2024-4).","Preserve full lawyer ownership and control of the core firm.","Document arm's-length pricing; expect strict enforcement.","Obtain New York ethics counsel review."],
+    citations:[{label:"NYC Bar Formal Opinion 2024-4 (associating with Alternative Legal Business Entities)",url:"https://www.nycbar.org/reports/formal-opinion-2024-4-lawyers-associating-with-alternative-legal-business-entities/"},C_ABA,C_DLA]},
+  NC:{tier:"yellow",headline:"Rule 5.4 in force; State Bar subcommittee studying regulatory change (interest in Utah's model)",
+    summary:"North Carolina retains Rule 5.4 with no nonlawyer ownership, but its State Bar has a Subcommittee to Study Regulatory Change that is information-gathering and has expressed interest in Utah's sandbox approach. No reform has been adopted. The MSO model is available on standard principles, with some prospect of future liberalization to monitor.",
+    opinion:"VIABLE WITH CARE — WATCH THIS STATE. MSO works today on standard grounds. The active study committee makes North Carolina one to monitor for possible future ABS openings.",
+    moves:DEF.moves,
+    citations:[{label:"Reform-activity overview (LawSites, 2024)",url:"https://www.lawnext.com/2024/11/changing-of-the-tide-law-firm-fee-sharing-and-ownership-with-nonlawyers.html"},C_ABA,C_ABA_MSO]},
+  WA:{tier:"yellow",headline:"Created LLLTs (2012) but never allowed nonlawyer fee-sharing or ownership; Rule 5.4 intact",
+    summary:"Washington pioneered access-to-justice innovation with Limited License Legal Technicians (LLLTs) in 2012, but the Supreme Court did not change its rules prohibiting nonlawyers from sharing fees or co-owning a legal business. So Washington is innovation-friendly in delivery but a standard Rule 5.4 state on ownership. The MSO model is available under standard analysis.",
+    opinion:"VIABLE WITH CARE. Washington's innovation history hasn't extended to ownership; treat it as a standard Rule 5.4 MSO market. Document arm's-length pricing and lawyer control.",
+    moves:DEF.moves,
+    citations:[C_ABA,C_ABA_MSO,C_DLA]}
+};
+const DATA={};
+Object.keys(LAYOUT).forEach(ab=>{const base=JSON.parse(JSON.stringify(DEF));const ov=O[ab]||{};DATA[ab]=Object.assign(base,ov,{name:NAMES[ab],ab,owns:(ov.tier==="green")});});
+
+/* render grid */
+const grid=document.getElementById('grid'),cells={};
+Object.entries(LAYOUT).forEach(([ab,[r,c]])=>{const d=DATA[ab];const t=document.createElement('button');
+  t.className='tile '+d.tier;t.style.gridRow=(r+1);t.style.gridColumn=(c+1);
+  t.innerHTML='<span class="ab">'+ab+'</span>'+(d.owns?'<span class="pin">☆</span>':'');
+  t.title=NAMES[ab];t.addEventListener('click',()=>openPanel(ab));grid.appendChild(t);cells[ab]=t;});
+const counts={green:0,blue:0,yellow:0,orange:0};Object.values(DATA).forEach(d=>counts[d.tier]++);
+document.getElementById('stats').innerHTML=
+  '<div class="stat"><div class="n">51</div><div class="l">Jurisdictions</div></div>'+
+  '<div class="stat"><div class="n" style="color:#2e7d4f">'+counts.green+'</div><div class="l">Ownership permitted</div></div>'+
+  '<div class="stat"><div class="n" style="color:#34607e">'+counts.blue+'</div><div class="l">MSO-favorable</div></div>'+
+  '<div class="stat"><div class="n" style="color:#bb8a1e">'+counts.yellow+'</div><div class="l">Standard / care</div></div>'+
+  '<div class="stat"><div class="n" style="color:#af272f">'+counts.orange+'</div><div class="l">Elevated scrutiny</div></div>';
+const overlay=document.getElementById('overlay'),panel=document.getElementById('panel');let selected=null;
+function openPanel(ab){const d=DATA[ab];if(selected)cells[selected].classList.remove('sel');selected=ab;cells[ab].classList.add('sel');
+  document.getElementById('p-badge').className='badge '+d.tier;
+  document.getElementById('p-badge').textContent=({green:"Nonlawyer ownership permitted",blue:"MSO-favorable guidance",yellow:"Standard — care required",orange:"Elevated scrutiny"})[d.tier];
+  document.getElementById('p-name').textContent=d.name;document.getElementById('p-headline').textContent=d.headline;
+  document.getElementById('p-body').innerHTML=
+    '<div class="sec"><h3>Summary</h3><p>'+d.summary+'</p></div>'+
+    '<div class="sec"><h3>Opinion — viability</h3><div class="opbox">'+d.opinion+'</div></div>'+
+    '<div class="sec"><h3>Recommended structuring moves</h3><ul class="moves">'+d.moves.map(m=>'<li>'+m+'</li>').join('')+'</ul></div>'+
+    '<div class="sec"><h3>Citations</h3><ul class="cites">'+d.citations.map(c=>'<li><a href="'+c.url+'" target="_blank" rel="noopener">'+c.label+'</a></li>').join('')+'</ul></div>';
+  overlay.classList.add('open');panel.classList.add('open');panel.setAttribute('aria-hidden','false');}
+function closePanel(){overlay.classList.remove('open');panel.classList.remove('open');panel.setAttribute('aria-hidden','true');if(selected){cells[selected].classList.remove('sel');selected=null;}}
+document.getElementById('close').addEventListener('click',closePanel);
+overlay.addEventListener('click',closePanel);
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closePanel();});
+const active=new Set(['green','blue','yellow','orange']);
+document.querySelectorAll('#legend .chip').forEach(ch=>{ch.addEventListener('click',()=>{const t=ch.dataset.tier;
+  if(active.has(t)){active.delete(t);ch.classList.add('off');}else{active.add(t);ch.classList.remove('off');}applyFilter();});});
+function applyFilter(){const q=document.getElementById('search').value.trim().toLowerCase();
+  Object.entries(DATA).forEach(([ab,d])=>{const ok=active.has(d.tier)&&(!q||ab.toLowerCase().includes(q)||d.name.toLowerCase().includes(q));
+  cells[ab].classList.toggle('dim',!ok);});}
+document.getElementById('search').addEventListener('input',applyFilter);
+
+/* ===================== DECISION TOOL ===================== */
+const dtCard=document.getElementById('dtCard');
+let dt={};
+const DT_STEPS=[
+  {id:'footprint',q:"Where will the law firm have offices and lawyers?",opts:[
+    {t:"A single state",v:"single"},{t:"Multiple states",v:"multi"}]},
+  {id:'permstate',q:"Is that single state one that permits nonlawyer ownership?",show:a=>a.footprint==='single',opts:[
+    {t:"Arizona — full ABS available",v:"AZ"},{t:"Utah — sandbox ABS (underserved-consumer gating)",v:"UT"},
+    {t:"D.C. — limited (working professionals only)",v:"DC"},{t:"A standard Rule 5.4 state",v:"other"}]},
+  {id:'goal',q:"What does the investor actually want?",opts:[
+    {t:"Direct equity in the firm and a share of legal-fee profits",v:"equity"},
+    {t:"To fund and own the back-office / operations, keeping the firm lawyer-owned",v:"backoffice"}]},
+  {id:'calil',q:"Will the footprint touch California or Illinois?",opts:[
+    {t:"Yes — CA and/or IL offices or lawyers",v:"yes"},{t:"No",v:"no"}]}
+];
+function dtRender(){
+  const steps=DT_STEPS.filter(s=>!s.show||s.show(dt));
+  const idx=steps.findIndex(s=>!(s.id in dt));
+  if(idx===-1){dtCard.innerHTML=dtResult();dtCard.classList.add('dt-rec');return;}
+  dtCard.classList.remove('dt-rec');
+  const s=steps[idx];
+  dtCard.innerHTML='<div class="dt-progress">Step '+(idx+1)+' of '+steps.length+'</div>'+
+    '<div class="dt-q">'+s.q+'</div><div class="dt-opts">'+
+    s.opts.map(o=>'<button class="dt-opt" data-id="'+s.id+'" data-v="'+o.v+'">'+o.t+'</button>').join('')+'</div>'+
+    (idx>0?'<div style="margin-top:16px"><button class="btn ghost" id="dtBack">← Back</button></div>':'');
+  dtCard.querySelectorAll('.dt-opt').forEach(b=>b.addEventListener('click',()=>{dt[b.dataset.id]=b.dataset.v;dtRender();}));
+  const back=document.getElementById('dtBack');if(back)back.addEventListener('click',()=>{delete dt[s.id];
+    // also clear later answers
+    const order=DT_STEPS.map(x=>x.id);let cut=false;order.forEach(id=>{if(id===s.id)cut=true;if(cut)delete dt[id];});dtRender();});
+}
+function dtResult(){
+  let rec,why,warns=[];
+  if(dt.footprint==='multi'){
+    rec='MSO MODEL';
+    why="With lawyers and offices in more than one state, an ABS firm is the wrong tool: under ABA Formal Op. 91-360 a nonlawyer-owned firm cannot operate branch offices in Rule 5.4 states. The two-entity MSO travels — the core firm stays lawyer-owned and shares no fees, so it can operate anywhere.";
+  } else if(dt.permstate==='AZ'){
+    if(dt.goal==='equity'){rec='ABS (Arizona license)';why="Single-state Arizona footprint with an investor who wants true equity and profit participation — Arizona's licensed ABS is the only model that delivers that directly. Budget for the Supreme Court application and a designated compliance lawyer.";warns.push("Do not extend the Arizona ABS into other states via branch offices (ABA Op. 91-360). If expansion is likely, build the MSO instead.");}
+    else{rec='MSO MODEL (ABS optional)';why="Arizona allows both. Since the investor only wants to fund operations and keep the firm lawyer-owned, the MSO is simpler and scalable; reserve ABS if direct profit-share becomes the goal.";}
+  } else if(dt.permstate==='UT'){
+    rec='MSO MODEL';why="Utah's ABS route is gated to entities serving underserved consumers, which excludes most commercial acquisitions, and the sandbox contracted after Dec. 31, 2024. Default to the MSO unless this is an access-to-justice play.";
+  } else if(dt.permstate==='DC'){
+    rec='MSO MODEL';why="D.C. permits nonlawyer ownership only by working professionals inside the firm — not passive investor equity (Rule 5.4(b), cmt. [8]). For outside capital, the MSO is the workable path.";
+  } else { /* single, other Rule 5.4 state */
+    rec='MSO MODEL';why="In a standard Rule 5.4 state, nonlawyer ownership/ABS is not available, so the MSO is the only compliant route. Keep the firm 100% lawyer-owned and the MSO fee off any share of legal fees.";
+    if(dt.goal==='equity')warns.push("The investor wants direct profit-share, but this state bars nonlawyer firm ownership. Use rollover equity in the MSO plus aligned incentives — and reset expectations: no direct legal-fee participation.");
+  }
+  if(dt.calil==='yes'){warns.push("California (AB 931) and/or Illinois (HB 5487) are in the footprint. Both attack fees tied 'directly or indirectly' to firm revenue, with IL adding private enforcement and $10k penalties. Keep the MSO fee flat/cost-plus, scrub for indirect linkage, and get state-specific ethics + litigation review.");}
+  warns.push("Universal: flat/fixed/cost-plus management fee (never % of revenue); MSA preserves lawyer independence; client files stay firm-owned; real corporate separation; rollover equity instead of lawyer non-competes (Rule 5.6).");
+  return '<div class="dt-progress">Recommendation</div><span class="rectag">'+rec+'</span>'+
+    '<p style="font-size:15px;margin:14px 0;color:#111418">'+why+'</p>'+
+    warns.map(w=>'<div class="dt-warn"><strong>⚠ </strong>'+w+'</div>').join('')+
+    '<div style="margin-top:18px"><button class="btn" id="dtReset">Start over</button></div>';
+}
+dtCard.addEventListener('click',e=>{if(e.target.id==='dtReset'){dt={};dtRender();}});
+dtRender();
+
+/* ===================== FEE MODEL ===================== */
+const FIELDS=[
+  ['platforms','Platform formations / year','#'],['platFee','Avg fee per platform formation','$'],
+  ['addons','Add-on acquisitions / year','#'],['addFee','Avg fee per add-on','$'],
+  ['ops','Multistate opinion engagements / year','#'],['opFee','Avg fee per opinion package','$'],
+  ['retainers','Ongoing compliance retainers (# platforms)','#'],['retFee','Avg annual retainer','$'],
+  ['growth','Annual growth rate (%)','%']
+];
+const PRESETS={
+  build:{platforms:3,platFee:300000,addons:4,addFee:120000,ops:8,opFee:40000,retainers:2,retFee:80000,growth:25},
+  estab:{platforms:10,platFee:400000,addons:25,addFee:130000,ops:15,opFee:50000,retainers:8,retFee:120000,growth:20},
+  lead:{platforms:25,platFee:600000,addons:60,addFee:150000,ops:25,opFee:60000,retainers:20,retFee:150000,growth:15}
+};
+let fee=Object.assign({},PRESETS.estab);
+function money(n){return '$'+Math.round(n).toLocaleString('en-US');}
+function moneyM(n){return n>=1e6?('$'+(n/1e6).toFixed(2)+'M'):money(n);}
+function feeInputs(){
+  document.getElementById('calcInputs').innerHTML='<h3 style="margin-top:0">Inputs</h3>'+FIELDS.map(([k,lab,u])=>
+    '<div class="field"><label>'+lab+'</label><div class="row"><input type="number" min="0" data-k="'+k+'" value="'+fee[k]+'"></div></div>').join('');
+  document.querySelectorAll('#calcInputs input').forEach(inp=>inp.addEventListener('input',()=>{fee[inp.dataset.k]=parseFloat(inp.value)||0;feeOut();}));
+}
+function feeOut(){
+  const form=fee.platforms*fee.platFee, add=fee.addons*fee.addFee, op=fee.ops*fee.opFee, ret=fee.retainers*fee.retFee;
+  const annual=form+add+op+ret;const g=fee.growth/100;
+  const y1=annual,y2=annual*(1+g),y3=annual*(1+g)*(1+g);const cum=y1+y2+y3;
+  document.getElementById('calcOut').innerHTML=
+    '<div class="lbl">Annual fee opportunity</div><div class="big">'+moneyM(annual)+'</div><hr>'+
+    '<div class="line"><span>Platform formations</span><b>'+moneyM(form)+'</b></div>'+
+    '<div class="line"><span>Add-on acquisitions</span><b>'+moneyM(add)+'</b></div>'+
+    '<div class="line"><span>Opinion engagements</span><b>'+moneyM(op)+'</b></div>'+
+    '<div class="line"><span>Compliance retainers</span><b>'+moneyM(ret)+'</b></div><hr>'+
+    '<div class="lbl">3-year projection ('+fee.growth+'%/yr growth)</div>'+
+    '<div class="proj"><div><div class="y">Year 1</div><div class="v">'+moneyM(y1)+'</div></div>'+
+    '<div><div class="y">Year 2</div><div class="v">'+moneyM(y2)+'</div></div>'+
+    '<div><div class="y">Year 3</div><div class="v">'+moneyM(y3)+'</div></div></div>'+
+    '<div class="line" style="margin-top:12px;font-size:15px"><span><b>3-year cumulative</b></span><b>'+moneyM(cum)+'</b></div>';
+}
+document.querySelectorAll('.presets .btn').forEach(b=>b.addEventListener('click',()=>{fee=Object.assign({},PRESETS[b.dataset.preset]);feeInputs();feeOut();}));
+feeInputs();feeOut();
+
+/* ===================== LEGISLATION TRACKER ===================== */
+const LEG=[
+  {date:"Jun 1, 2026",type:"restrictive",title:"Illinois — HB 5487 passes the General Assembly",body:"Broad MSO/ABS regulation: bars nonlawyer control of 'core legal functions,' prohibits fees tied 'directly or indirectly' to firm revenue, limits non-competes, adds private enforcement and $10k penalties. Exempts firms over $300M revenue. Awaiting the Governor's signature; constitutional challenge likely.",src:C_IL},
+  {date:"Jun 17, 2025",type:"permissive",title:"Puerto Rico — approves nonlawyer ownership (≤49%)",body:"Becomes the fourth U.S. jurisdiction to permit nonlawyer ownership. Caps nonlawyer owners at 49% and limits them to providing investment dollars only. Tax-friendly backdrop draws investor attention.",src:{label:"Puerto Rico Rules of Professional Conduct (Rule 5.4(b))",url:"https://poderjudicial.pr/Documentos/Supremo/Reglas/Reglas-Conducta-Profesional-Puerto-Rico.pdf"}},
+  {date:"2025–2026 session",type:"restrictive",title:"California — AB 931 advances",body:"Bars California lawyers from sharing fees, directly or indirectly, with out-of-state ABS firms unless also licensed where the ABS is approved. Effectively forecloses ABS-to-California financial relationships in one of the largest legal markets.",src:{label:"California AB 931",url:"https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB931"}},
+  {date:"Feb 2025",type:"guidance",title:"Texas — Ethics Opinion 706 (MSO-favorable)",body:"A lawyer may engage a nonlawyer-owned support company and even hold equity in it (so long as it doesn't practice law), but may not pay it a percentage-of-revenue fee. The clearest pro-MSO ethics guidance to date. Paired with Op. 704 reaffirming the ban on nonlawyer firm ownership.",src:{label:"Texas Ethics Opinion 706",url:"https://www.legalethicstexas.com/resources/opinions/opinion-706/"}},
+  {date:"Dec 31, 2024",type:"restrictive",title:"Utah — sandbox ABS-only portion terminated",body:"The Utah Supreme Court ended the ABS-only portion of its regulatory sandbox; participation fell from ~39 firms (2022) to ~11 (April 2025). Remaining ABS approval is gated to serving underserved consumers.",src:{label:"Utah Supreme Court letter (Sept. 5, 2024)",url:"https://utahinnovationoffice.org/wp-content/uploads/2024/10/Letter-to-the-Legal-Services-Innovation-Committee-9.5.24.pdf"}},
+  {date:"2024",type:"guidance",title:"New York — NYC Bar Formal Opinion 2024-4",body:"Cabins how New York lawyers may associate with out-of-state Alternative Legal Business entities, reflecting a cautious posture toward fee flows to nonlawyer-owned structures.",src:{label:"NYC Bar Formal Opinion 2024-4",url:"https://www.nycbar.org/reports/formal-opinion-2024-4-lawyers-associating-with-alternative-legal-business-entities/"}},
+  {date:"Ongoing",type:"guidance",title:"North Carolina — State Bar studies regulatory change",body:"A State Bar subcommittee is information-gathering and has expressed interest in Utah's model. No reform adopted — a state to watch for a possible future ABS opening.",src:{label:"Reform-activity overview (LawSites)",url:"https://www.lawnext.com/2024/11/changing-of-the-tide-law-firm-fee-sharing-and-ownership-with-nonlawyers.html"}},
+  {date:"Mar 2022",type:"restrictive",title:"Florida — Supreme Court declines reform",body:"After the Bar's Board of Governors opposed minority nonlawyer ownership and fee-splitting amendments, the Florida Supreme Court let the existing Rule 5.4 stand (allowing only limited nonprofit arrangements).",src:{label:"Washington Legal Foundation overview (2022)",url:"https://www.wlf.org/2022/10/13/publishing/proposals-to-allow-nonlawyer-ownership-of-law-firms-fee-splitting-experience-rejection/"}},
+  {date:"2021",type:"permissive",title:"Arizona — repeals Rule 5.4, launches ABS licensing",body:"Arizona eliminates Rule 5.4 and stands up the Alternative Business Structure program permitting nonlawyer ownership. 136+ ABS entities approved as of April 2025 — the national benchmark for permissive reform.",src:C_AZ_ABS},
+  {date:"2020",type:"permissive",title:"Utah — launches legal regulatory sandbox",body:"Utah opens its regulatory sandbox allowing nontraditional ownership and delivery models under supervision — the first U.S. experiment of its kind.",src:{label:"Utah R. Jud. Admin. 13-5.4",url:"https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=13-5.4"}}
+];
+let legFilter='all';
+function legRender(){
+  document.getElementById('legList').innerHTML=LEG.filter(x=>legFilter==='all'||x.type===legFilter).map(x=>
+    '<div class="tl-item '+x.type+'"><div class="tl-date">'+x.date+'<span class="pill '+x.type+'">'+x.type+'</span></div>'+
+    '<div class="tl-title">'+x.title+'</div><p class="tl-body">'+x.body+'</p>'+
+    '<a href="'+x.src.url+'" target="_blank" rel="noopener" style="font-size:13px">'+x.src.label+' →</a></div>').join('');
+}
+document.querySelectorAll('#legFilters .chip').forEach(c=>c.addEventListener('click',()=>{
+  document.querySelectorAll('#legFilters .chip').forEach(x=>x.classList.add('off'));c.classList.remove('off');
+  legFilter=c.dataset.f;legRender();}));
+document.querySelector('#legFilters .chip[data-f="all"]').classList.remove('off');
+legRender();
+
+/* ===================== DAILY ETHICS WATCH (auto-updated) ===================== */
+let WATCH=[];let watchFilter='all';
+function watchRender(){
+  const items=WATCH.filter(x=>watchFilter==='all'||x.type===watchFilter);
+  document.getElementById('watchList').innerHTML = items.length ? items.map(x=>
+    '<div class="tl-item '+(x.type==='case'?'guidance':'permissive')+'"><div class="tl-date">'+x.date+'<span class="pill '+(x.type==='case'?'guidance':'permissive')+'">'+(x.type==='case'?'Case law':'Article')+'</span></div>'+
+    '<div class="tl-title">'+x.title+'</div><p class="tl-body">'+(x.snippet||'')+'</p>'+
+    '<a href="'+x.url+'" target="_blank" rel="noopener" style="font-size:13px">'+(x.source||'Source')+' →</a></div>').join('')
+    : '<p class="hint">No items in this filter yet. The daily job hasn\'t found anything new here — check back tomorrow.</p>';
+}
+document.querySelectorAll('#watchFilters .chip').forEach(c=>c.addEventListener('click',()=>{
+  document.querySelectorAll('#watchFilters .chip').forEach(x=>x.classList.add('off'));c.classList.remove('off');
+  watchFilter=c.dataset.f;watchRender();}));
+document.querySelector('#watchFilters .chip[data-f="all"]').classList.remove('off');
+fetch('data/ethics-watch.json?ts='+Date.now()).then(r=>r.json()).then(d=>{
+  WATCH=(d.items||[]).slice().sort((a,b)=>new Date(b.date)-new Date(a.date));
+  const meta=document.getElementById('watchMeta');
+  if(d.lastRun){
+    const dt=new Date(d.lastRun);
+    meta.textContent='Last automated check: '+dt.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})+' at '+dt.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+WATCH.length+' items tracked'+(d.lastRunStatus&&d.lastRunStatus!=='ok'?' · ⚠ last run: '+d.lastRunStatus:'');
+  }
+  watchRender();
+}).catch(()=>{
+  document.getElementById('watchMeta').textContent='Feed not available yet.';
+  document.getElementById('watchList').innerHTML='<p class="hint">Could not load data/ethics-watch.json. This populates once the site is deployed on GitHub Pages and the daily job has run at least once (or run it manually from the Actions tab).</p>';
+});
+
+/* ===================== PLAYBOOK ===================== */
+const PLAY=[
+  {h:"The two-entity structure at a glance",b:"<p><strong>Core law firm (lawyer-owned):</strong> practices law, holds the bar license, owns client files and engagement letters, employs the lawyers, and receives and retains all legal fees.</p><p><strong>MSO (investor-owned):</strong> owns the non-legal infrastructure and IP/trade name, provides back-office services under a long-term Management Services Agreement (MSA), and is paid an arm's-length service fee.</p><p>The line that keeps it compliant: no nonlawyer ownership of the firm, no sharing of legal fees, no MSO control over professional judgment.</p>"},
+  {h:"Management fee menu (avoid fee-splitting)",b:"<ul><li><strong>Flat / fixed fee</strong> — simplest and most defensible; a set monthly amount for a defined service package.</li><li><strong>Cost-plus</strong> — documented MSO costs plus a reasonable, fixed margin; supports an arm's-length/market-rate narrative.</li><li><strong>Fixed-fee-per-service / tiered</strong> — priced to service volume (seats, matters supported), not to legal fees or profits.</li><li><strong>❌ Percentage of firm revenue or profit</strong> — prohibited fee-splitting; expressly rejected by Texas Op. 706 and squarely targeted by CA AB 931 / IL HB 5487 'indirect' language.</li></ul><p>Whatever the form, paper the market-rate support (benchmarking, third-party comparables) at closing.</p>"},
+  {h:"Asset split — what the MSO buys vs. what stays",b:"<p><strong>MSO acquires (non-legal):</strong> technology and software, IP and trade name, equipment, leases and facilities, marketing/lead-gen assets, HR and back-office systems, accounts/receivables servicing infrastructure.</p><p><strong>Stays with the firm (must remain firm-owned):</strong> client files and records, engagement letters, lawyer employment agreements, the trust/IOLTA accounts, and anything constituting the practice of law or privileged client communications.</p>"},
+  {h:"MSA key-terms checklist",b:"<ul><li>Scope of services limited to administrative, technical, and business functions.</li><li>Fee structure that is not tied, directly or indirectly, to legal fees/revenue/profits.</li><li>Express reservation to the firm of all professional judgment: client selection, case strategy, staffing of matters, settlement, and personnel decisions over lawyers.</li><li>No MSO access to or control over client records / privileged communications beyond what the firm directs.</li><li>Term, renewal, and termination mechanics that respect Rule 5.6 (no improper restraints on practice).</li><li>Governance separation: distinct boards, books, bank accounts, and personnel.</li><li>Compliance, audit, and regulatory-change provisions (incl. state-specific carve-outs for CA/IL).</li></ul>"},
+  {h:"Due-diligence workflow (6 phases)",b:"<p>Run every deal through: <strong>(0) Intake</strong> — map the firm's state footprint; <strong>(1) Threshold rule check</strong> — pull each state's Rule 5.4/ABS status and assign a heat-map tier; <strong>(2) Model selection</strong> — ABS vs. MSO; <strong>(3) Fee &amp; control design</strong> — engineer the MSA; <strong>(4) State-specific overlay</strong> — screen AB 931, HB 5487, opinions, pending bills; <strong>(5) Opinion &amp; monitoring</strong> — written ethics sign-off + a legislative watch.</p><p>The companion <em>MSO-State-Risk-Workflow.docx</em> contains the full phase tables and outputs.</p>"},
+  {h:"Red-flag checklist (stop and re-open structuring)",b:"<ul><li>MSO fee = percentage of firm revenue or profit.</li><li>MSO controls hiring/firing of lawyers, client intake, case strategy, or settlement.</li><li>Lawyer non-compete used to lock in the firm (Rule 5.6).</li><li>Running an AZ/PR ABS into Rule 5.4 states via branch offices (ABA Op. 91-360).</li><li>MSO holds client files, engagement letters, or privileged communications.</li><li>No written ethics opinion in an untested (yellow) state.</li></ul>"},
+  {h:"Deal-protection checklist — what stops lawyer comp leakage",b:"<p>The law firm stays lawyer-owned and lawyer-controlled (Rule 5.4 requires it), so the MSO's economics are protected by <strong>contract and alignment, not by control of the firm</strong>. Each mechanism weakens as the jurisdiction gets stricter — mind the Rule 5.4 caveats.</p><ul><li><strong>Fixed, senior management fee (MSA waterfall).</strong> Flat/cost-plus, contractually owed, and paid before lawyer profit — so lawyer comp is the residual, not the fee. <em>Holds everywhere.</em></li><li><strong>Locked long-term employment agreements.</strong> Selling lawyers' comp formula (base + productivity bonus) is fixed at closing and can't be raised unilaterally. <em>Holds everywhere — but the firm, not the MSO, must set comp.</em></li><li><strong>Captive-PC transfer restrictions + equity pledge + successor designation.</strong> The lawyer-owner can't sell, encumber, or walk off with the PC; the MSO can force transfer to a designated lawyer. <em>Strong in AZ/permissive states; weaker and legally riskier in Rule 5.4 states; directly targeted by IL HB 5487.</em></li><li><strong>MSO financial administration.</strong> MSO runs billing, collections, budgeting and cash management, so revenue can't be quietly diverted. <em>OK everywhere if limited to money plumbing — never legal decisions or lawyer hiring/firing.</em></li><li><strong>Rollover equity + vesting / bad-leaver forfeiture.</strong> Lawyers own the MSO, so starving the fee destroys their own equity; gaming it forfeits unvested rollover. <em>Works everywhere; lean on this harder the stricter the state.</em></li><li><strong>Earnouts / deferred consideration.</strong> Part of the price is contingent on post-close performance, keeping sellers motivated through the earnout window.</li><li><strong>Long MSA term + remedies.</strong> 20–40 year term with damages, acceleration, and step-in rights on breach.</li></ul><p><strong>The escape hatch:</strong> in an ABS state (Arizona), the investor can own the firm directly, so the leakage problem largely disappears — which is why sophisticated sponsors prefer ABS where the footprint allows it.</p>"}
+];
+document.getElementById('playList').innerHTML=PLAY.map((p,i)=>
+  '<div class="acc" data-i="'+i+'"><div class="acc-h">'+p.h+'<span class="caret">▸</span></div><div class="acc-b">'+p.b+'</div></div>').join('');
+document.querySelectorAll('#playList .acc-h').forEach(h=>h.addEventListener('click',()=>h.parentElement.classList.toggle('open')));
+
+/* ===================== SPONSOR TRACKER ===================== */
+const SPON=[
+  {name:"Uplift Investors / Orion Legal",status:"active",focus:"Consumer personal-injury roll-up",
+    deals:"Dudley DeBosier (LA, Jan 2026); Hughes &amp; Coleman (KY/TN, May 2026); John Foy &amp; Associates (GA, Jun 2026). Built a dedicated MSO platform, Orion Legal; Houlihan Lokey and Baird ran the processes.",
+    note:"The prototype programmatic buyer — a sponsor that stands up a branded MSO and does serial add-ons. Highest-probability repeat-deal relationship; this is the annuity. Caution: Holland & Knight is Orion's deal counsel — the open lane is representing the target firm in each add-on. Lead with the heat map + add-on playbook, not a one-off pitch.",
+    src:{label:"DLA Piper — MSOs vs. ABS",url:"https://www.dlapiper.com/en-us/insights/publications/2026/01/msos-vs-abs-two-models-investment-in-law-firms"}},
+  {name:"Fortress Investment Group",status:"active",focus:"PI / large single platforms",
+    deals:"Reported (FT) as the investor behind Rafi Law Group's $125M MSO (Rafi Law Services, ~$450M valuation), Phoenix, Mar 2026.",
+    note:"Arizona-domiciled platform — note the permissive-state angle. Larger check size signals appetite for marquee platform formation work. Warm path via the AZ ABS/MSO structuring expertise.",
+    src:{label:"The Lawyer — Rafi $125M / Fortress",url:"https://www.thelawyer.com/rafi-investment-2026/"}},
+  {name:"Apollo Global Management",status:"exploring",focus:"Large-cap, diversified",
+    deals:"Publicly reported as evaluating law firm investments.",
+    note:"Megafund entry means larger one-off platform fees. Long sales cycle; target via PE practice relationships and fund-formation cross-sell.",
+    src:{label:"Bloomberg Law — PE woos PI firms",url:"https://news.bloomberglaw.com/business-and-practice/private-equity-woos-personal-injury-law-firms-with-profits-tech"}},
+  {name:"Warburg Pincus · Littlejohn · MidOcean",status:"exploring",focus:"Mid/large platforms",
+    deals:"All reported as actively exploring law firm / legal MSO investments.",
+    note:"Watchlist. First of these to commit will validate the space for the next wave — be the named regulatory counsel when they do.",
+    src:{label:"Sidley — PE Investment in U.S. Law Firms (Part II)",url:"https://www.sidley.com/en/insights/newsupdates/2026/03/private-equity-investment-in-us-law-firms-part-ii"}},
+  {name:"Stifel Financial",status:"exploring",focus:"Strategic / financial",
+    deals:"Named among financial players showing interest in the space.",
+    note:"Potential capital partner and referral source; relationship play.",
+    src:{label:"Bloomberg Law — PE woos PI firms",url:"https://news.bloomberglaw.com/business-and-practice/private-equity-woos-personal-injury-law-firms-with-profits-tech"}},
+  {name:"JPMorgan (advisor)",status:"advisor",focus:"Sell-side advisory",
+    deals:"Running Morgan &amp; Morgan's process to explore a minority stake that could raise $1B+.",
+    note:"Advisor mandate, not a sponsor — but the deal will pull a major sponsor in and set a market benchmark. Banker relationships here are referral multipliers.",
+    src:{label:"LawFuel — Morgan & Morgan $1B process",url:"https://www.lawfuel.com/americas-biggest-personal-injury-firm-eyes-billion-dollar-private-equity-deal-and-a-future-ipo/"}}
+];
+/* client-facing sponsor market cards (no BD notes) */
+document.getElementById('sponListClient').innerHTML=SPON.map(s=>
+  '<div class="sponcard"><h3>'+s.name+' <span class="sstat '+s.status+'">'+s.status+'</span></h3>'+
+  '<div class="meta">Focus: '+s.focus+'</div><p>'+s.deals+'</p>'+
+  '<a href="'+s.src.url+'" target="_blank" rel="noopener" style="font-size:13px">'+s.src.label+' →</a></div>').join('');
+
+/* ===================== DEAL RADAR ===================== */
+const RADAR=[{"name": "Brian Crews", "role": "Principal", "co": "Clarus GP", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Fellow Shadow Glen member · linked: Mary Crews · Principal at Clarus GP", "signal": "Clarus GP — KC-area PE / growth equity firm. Mary may also be at the firm (mcrews@clarusgp.com).", "approach": "PE professionals at country clubs are GOLD if cultivated correctly. Don't pitch — be useful (industry intel, regulatory updates).", "score": 94}, {"name": "Gregory Orman", "role": "Founder / Managing Director", "co": "Denali Partners LLC / Exemplar Holdings", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Fellow Shadow Glen member · linked: Sybil Orman · Founder / Managing Director at Denali Partners LLC / Exemplar Holdings", "signal": "Princeton/McKinsey background. Founded Denali 2004. 2014 US Senate independent candidate (42.5%); 2018 KS Governor candidate. Sold Combat Brands (Lenexa boxing equipment) to ESOP in 2020. Lives in Olathe.", "approach": "Very strong overlap with your interests. Engage on ESOP philosophy, PE strategy, KS political networks. He is press-experienced and approachable.", "score": 94}, {"name": "David Rezac", "role": "VP of Development", "co": "VanTrust Real Estate", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Fellow Shadow Glen member · linked: Carrie Rezac · VP of Development at VanTrust Real Estate", "signal": "VanTrust is national RE developer / family office of Van Tuyl family. National scope.", "approach": "VanTrust is one of KC's most active RE developers. Big target.", "score": 93}, {"name": "J.D. Asbell", "role": "Principal", "co": "Asset Acquisitions Inc.", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Fellow Shadow Glen member · linked: Candace Asbell · Principal at Asset Acquisitions Inc.", "signal": "Company name signals deal-doing business. Could be PE-style holding co., distressed assets, or small-cap roll-up.", "approach": "Approach with curiosity about their model. Ask what verticals they invest in.", "score": 93}, {"name": "Jib Felter", "role": "Principal", "co": "AAG Investments", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Fellow Shadow Glen member · linked: LeEtta Felter · Principal at AAG Investments", "signal": "AAG Investments — KC investment firm.", "approach": "Strong target.", "score": 93}, {"name": "Joe Bisogno", "role": "Principal", "co": "DeSoto Investments LLC", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Fellow Shadow Glen member · linked: Laurie Bisogno · Principal at DeSoto Investments LLC", "signal": "DeSoto Investments LLC suggests family office or holding company structure (KC area). Bisogno family has KC ties.", "approach": "Family offices are persistent deal-flow sources. Engage on portfolio strategy, multi-generational planning.", "score": 93}, {"name": "Mary Crews", "role": "Principal/Operations (verify)", "co": "Clarus GP", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Fellow Shadow Glen member · linked: Brian Crews · Principal/Operations (verify) at Clarus GP", "signal": "Likely operating partner or finance role at Clarus.", "approach": "Co-engage as a couple.", "score": 92}, {"name": "Deni Hix", "role": "Co-Owner", "co": "Hix Investments LLC", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 18 Oct 2023", "signal": "", "approach": "", "score": 84}, {"name": "Jeffrey Tudas, CFP®", "role": "Founder", "co": "Normandy Investment Advisors", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 01 Feb 2019", "signal": "", "approach": "", "score": 84}, {"name": "Caleb Holmes", "role": "Vice President", "co": "Platform Ventures", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 24 Jan 2019", "signal": "", "approach": "", "score": 84}, {"name": "Danny Murphy", "role": "Vice President, Portfolio Manager", "co": "Lead", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 22 Jan 2019", "signal": "", "approach": "", "score": 84}, {"name": "Nicholas Holmes", "role": "Managing Director, Portfolio Manager", "co": "Duff & Phelps Investment Management Co.", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 18 Jan 2019", "signal": "", "approach": "", "score": 84}, {"name": "Courtney Lee", "role": "Investment Strategist and Vice President", "co": "Dimensional Fund Advisors", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 15 Sep 2015", "signal": "", "approach": "", "score": 84}, {"name": "Johnny Hilgers", "role": "Chief Analytics Officer", "co": "Spring Venture Group", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 18 May 2015", "signal": "", "approach": "", "score": 84}, {"name": "Chris Jerkins, Esq.", "role": "President", "co": "Legal Recruiting Resources", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 01 Dec 2023 · org you follow", "signal": "You follow this organization/space — an active intent signal.", "approach": "", "score": 80}, {"name": "Jonathan D. Hum, CFA", "role": "Senior Investment Officer", "co": "Office of the New York City Comptroller", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 22 Jan 2019", "signal": "", "approach": "", "score": 78}, {"name": "Nathaniel Vasel", "role": "Partner", "co": "Las Olas Venture Capital", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 09 Mar 2016", "signal": "", "approach": "", "score": 78}, {"name": "Luke Gorczyca, MBA", "role": "Senior Product Manager", "co": "Spring Venture Group", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 20 Sep 2015", "signal": "", "approach": "", "score": 78}, {"name": "Bob McCarthy", "role": "Wealth Manager (CPA, CFP)", "co": "Creative Planning", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Annie McCarthy · Wealth Manager (CPA, CFP) at Creative Planning", "signal": "Creative Planning is KC's largest wealth management firm ($300B+ AUM, GA-backed). Bob is a CPA/CFP wealth manager.", "approach": "Wealth manager relationships are critical for Polsinelli's family-business and HNW practice. Engage on shared client opportunities.", "score": 78}, {"name": "Kent W. Sunderland", "role": "Foundation Chairman; former Vice Chairman Ash Grove", "co": "Sunderland Foundation / Ash Grove Cement (former)", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · Foundation Chairman; former Vice Chairman Ash Grove at Sunderland Foundation / Ash Grove Cement (former)", "signal": "Sold Ash Grove Cement to CRH for $3.5B in 2018. Sunderland Foundation has granted $1B+ lifetime; announced 2030 sunset (spending down). Among KC's most influential families.", "approach": "Top-tier social capital. DO NOT pitch. Engage on philanthropy, KC civic projects, Ash Grove legacy. Patient 12-24+ month build.", "score": 78}, {"name": "Sally Morrison", "role": "Tax Partner", "co": "Deloitte Tax LLP", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Todd Morrison · Tax Partner at Deloitte Tax LLP", "signal": "14+ years Deloitte; 3 years in Washington National Tax (subchapter C and international). Specializes in spin-offs, acquisitions, dispositions, restructurings, 165(g) loss transactions, 382 issues.", "approach": "Top-priority co-counsel relationship. Reach out via Polsinelli professional channels too.", "score": 78}, {"name": "Christopher Miller", "role": "CEO", "co": "Strategic Healthcare Risk & Financial Advisors", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · CEO at Strategic Healthcare Risk & Financial Advisors", "signal": "Healthcare risk/financial consulting CEO.", "approach": "Direct healthcare practice match. Engage on physician practice consolidation, healthcare PE.", "score": 77}, {"name": "Gregory Payne", "role": "Partner (likely)", "co": "Grant Thornton", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Jennifer Payne · Partner (likely) at Grant Thornton", "signal": "GT is a top mid-market audit/tax firm — direct co-advisor for M&A deals.", "approach": "Same logic as Sally Morrison/Deloitte.", "score": 77}, {"name": "Dan Hearshman", "role": "Executive", "co": "BNY Mellon", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Tracy Hearshman · Executive at BNY Mellon", "signal": "BNY Mellon — trust company / private bank.", "approach": "Trust officers see family-business succession constantly.", "score": 76}, {"name": "Fred Graessle", "role": "Partner", "co": "IAG LLP", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Pam Graessle · Partner at IAG LLP", "signal": "Mid-market accounting firm.", "approach": "Build relationship; smaller-firm CPA referrals are excellent for lower-mid-market deals.", "score": 76}, {"name": "Valerie Bonebrake", "role": "Supply Chain Consultant", "co": "Tompkins International (likely)", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · Supply Chain Consultant at Tompkins International (likely)", "signal": "Bonebrake had senior role at Tompkins (supply chain consulting).", "approach": "Verify current status.", "score": 75}, {"name": "John Scott", "role": "Advisor", "co": "Fletcher Financial", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Victoria Scott · Advisor at Fletcher Financial", "signal": "Boutique wealth advisor.", "approach": "Standard.", "score": 74}, {"name": "Kurt Hill", "role": "Financial Advisor", "co": "Edward Jones", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Elizabeth Hill · Financial Advisor at Edward Jones", "signal": "Edward Jones FA — local wealth management.", "approach": "Standard relationship-build.", "score": 74}, {"name": "Larry Louk", "role": "Executive", "co": "SSC (likely Spencer Stuart Consulting or Strategic Staffing Cos.)", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · Executive at SSC (likely Spencer Stuart Consulting or Strategic Staffing Cos.)", "signal": "SSC — verify business.", "approach": "Verify.", "score": 74}, {"name": "Jason Hendricks", "role": "Consultant", "co": "Public Consulting Group (likely)", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Fellow Shadow Glen member · linked: Barb Hendricks · Consultant at Public Consulting Group (likely)", "signal": "PCG — government services consulting.", "approach": "Lower priority.", "score": 73}, {"name": "Katherine Hollar Barnard", "role": "Managing Partner and CEO", "co": "Firesign | Enlightened Legal Marketing", "lane": "insider", "why": "A law firm leader in your network — could explore an MSO for their own firm, refer one, or co-counsel. A direct line into firm-owner economics.", "conn": "Direct 1st-degree connection · since 18 Jan 2026", "signal": "", "approach": "", "score": 72}, {"name": "Tony White", "role": "Managing Partner", "co": "Thompson Hine LLP", "lane": "insider", "why": "A law firm leader in your network — could explore an MSO for their own firm, refer one, or co-counsel. A direct line into firm-owner economics.", "conn": "Direct 1st-degree connection · since 05 Dec 2025", "signal": "", "approach": "", "score": 72}, {"name": "John Lively", "role": "Managing Partner and Founder", "co": "Practus, LLP", "lane": "insider", "why": "A law firm leader in your network — could explore an MSO for their own firm, refer one, or co-counsel. A direct line into firm-owner economics.", "conn": "Direct 1st-degree connection · since 29 Nov 2025", "signal": "", "approach": "", "score": 72}, {"name": "Jodie Zerega", "role": "Managing Director-Legal Recruiter", "co": "Zerega Consulting", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 25 May 2025", "signal": "", "approach": "", "score": 72}, {"name": "Gosia Glowacka", "role": "Managing Director", "co": "Siegel & Callahan, P.C.", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 09 Dec 2024", "signal": "", "approach": "", "score": 72}, {"name": "Kelly Kenyon", "role": "Experienced Legal Recruiter, Founder and Principal", "co": "Mission Springs Legal Search LLC", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 06 Dec 2024", "signal": "", "approach": "", "score": 72}, {"name": "Catherine Hogan", "role": "Associate Director - Legal Recruitment Consultant (Head of Midwest) at Illapa Search", "co": "Illapa Search", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 26 Feb 2022", "signal": "", "approach": "", "score": 72}, {"name": "Michelle Bigler", "role": "Legal Recruiter and President", "co": "MB Attorney Search LLC", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 22 Dec 2020", "signal": "", "approach": "", "score": 72}, {"name": "Krisztina Klein", "role": "Founder + Principal Legal Recruiter", "co": "Klein Recruiting", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 15 Jun 2020", "signal": "", "approach": "", "score": 72}, {"name": "Chuck Loose", "role": "President", "co": "Legal Search Associates, Inc.", "lane": "insider", "why": "A legal-market / legaltech insider — early intel on which firms are modernizing or seeking capital (the MSO buyer profile), and a warm path into the ecosystem.", "conn": "Direct 1st-degree connection · since 29 May 2020", "signal": "", "approach": "", "score": 72}, {"name": "Eva Rout", "role": "Analyst, Private Equity Practice", "co": "Salesforce", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 25 Mar 2026", "signal": "", "approach": "", "score": 70}, {"name": "Olivia Archibald", "role": "Private Equity Associate", "co": "Tritium Partners", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 19 Mar 2026", "signal": "", "approach": "", "score": 70}, {"name": "Joshua Tana", "role": "Investor Relations", "co": "MicroVentures", "lane": "capital", "why": "A capital source in your own network — potential MSO sponsor or co-investor. Lead with the 50-state map and the roll-up thesis, not a pitch.", "conn": "Direct 1st-degree connection · since 11 Dec 2022", "signal": "", "approach": "", "score": 70}, {"name": "Amber Klobchar", "role": "Vice President, Lead Business Execution Consultant", "co": "Wells Fargo", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Direct 1st-degree connection · since 12 Mar 2026", "signal": "", "approach": "", "score": 68}, {"name": "Sinead O'Flaherty", "role": "Consultant and Head of Resourcing", "co": "Leffler Search", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Direct 1st-degree connection · since 21 Jun 2023", "signal": "", "approach": "", "score": 68}, {"name": "Marcia Moreno, MA, CDE®", "role": "President & Founder", "co": "AmMore Consulting LLC", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Direct 1st-degree connection · since 09 Sep 2017", "signal": "", "approach": "", "score": 68}, {"name": "Ryan Tinker", "role": "Founder", "co": "Ryan Tinker Consulting", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Direct 1st-degree connection · since 27 Dec 2016", "signal": "", "approach": "", "score": 68}, {"name": "Briggy Imbriglia, MBA, MPH, CEPA", "role": "Financial Planner | Co-founder", "co": "Front Porch Financial", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Direct 1st-degree connection · since 14 Dec 2016", "signal": "", "approach": "", "score": 68}, {"name": "Austin Gates, CFP®", "role": "Senior Vice President, Financial Advisor", "co": "Morgan Stanley", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Direct 1st-degree connection · since 18 May 2015", "signal": "", "approach": "", "score": 68}, {"name": "Patrick White", "role": "Audit Managing Director", "co": "KPMG US", "lane": "referral", "why": "Sees owners monetizing constantly — a referral source for both MSO sponsors and firms weighing a sale.", "conn": "Direct 1st-degree connection · since 19 Apr 2015", "signal": "", "approach": "", "score": 68}];
+/* ===================== BD PIPELINE ENGINE ===================== */
+const LANE={sponsor:"PE sponsor",capital:"Capital partner",referral:"Referral & deal-flow",insider:"Legal-market insider"};
+const STAGES=[["new","To engage"],["out","Reached out"],["talk","In conversation"],["meet","Meeting set"],["hold","On hold"]];
+const STLABEL={};STAGES.forEach(s=>STLABEL[s[0]]=s[1]);
+const STIDX={new:0,out:1,talk:2,meet:3,hold:4};
+const SPONSCORE={active:96,exploring:86,advisor:82};
+function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');}
+function deent(s){return (s||'').replace(/&amp;/g,'&');}
+const BD=SPON.map(s=>({id:'sp-'+slug(s.name),name:deent(s.name),role:s.focus,co:s.status==='advisor'?'Sell-side advisor':'PE sponsor / platform',
+    lane:'sponsor',why:deent(s.deals),conn:'Market intelligence · '+s.src.label,signal:'',approach:s.note,score:SPONSCORE[s.status]||80,url:s.src.url}))
+  .concat(RADAR.map(r=>Object.assign({id:'nw-'+slug(r.name)},r)));
+
+/* who is actually a connection vs. market intel */
+function relOf(r){
+  if(r.lane==='sponsor')return{k:'none',t:'⚠ Not a connection'};
+  if((r.conn||'').indexOf('Shadow Glen')>-1)return{k:'sg',t:'Shadow Glen · warm'};
+  return{k:'warm',t:'1st-degree · warm'};
+}
+
+/* intro paths: how the real network reaches each sponsor target */
+const PATHS={
+ 'sp-uplift-investors-orion-legal':{
+  inside:"Founded by MPs Will Hausberg, Doug Rosenstein & Brad Skaf; Orion Legal is the platform. Holland & Knight is already their deal counsel — the open lane is the target-firm side of each add-on (Dudley DeBosier → Hughes & Coleman → John Foy… who's next?). Houlihan Lokey and Baird bank the deals — a second door.",
+  via:[
+   ["Chris Jerkins, Esq.","Recruiters sit inside PI-firm leadership — he'll hear which plaintiff firms are fielding Orion offers before it's public"],
+   ["Katherine Hollar Barnard","PI firms are legal marketing's biggest spenders — she knows the owners Orion courts and when they're weighing a sale"],
+   ["Christopher Miller","The PI roll-up is the physician-practice playbook rerun — healthcare consolidation advisors cross paths with services PE like Uplift"]]},
+ 'sp-fortress-investment-group':{
+  inside:"Target the Legal Assets group — Fortress's litigation-finance arm and the unit behind the Rafi MSO — not generalist coverage.",
+  via:[
+   ["Jonathan D. Hum, CFA","NYC pension systems are LPs across the big alternative managers — LP-side credibility is the cleanest door into Fortress IR and deal teams"],
+   ["Nicholas Holmes","Duff & Phelps/Kroll's valuation world services credit and legal-asset shops — one desk over from Fortress's business"],
+   ["Sally Morrison","Deloitte M&A tax partners rotate through megafund deal teams — a co-advisor intro lands warmer than a pitch"]]},
+ 'sp-apollo-global-management':{
+  inside:"Still 'evaluating' — long cycle. Goal: be the 50-state-map person on file with whoever runs the legal / litigation-adjacent thesis before they commit.",
+  via:[
+   ["Jonathan D. Hum, CFA","Same LP-side logic — Apollo is core to every public-pension alternatives book"],
+   ["Eva Rout","Salesforce's PE practice covers the megafunds as accounts — she can name the ops/BD people who take meetings"],
+   ["Patrick White","KPMG audit MDs sit across fund controllers and deal teams — Big 4 intros carry weight at this tier"]]},
+ 'sp-warburg-pincus-littlejohn-midocean':{
+  inside:"Business-services deal teams. Watchlist — the first to commit validates the space; be the regulatory name they already know.",
+  via:[
+   ["Olivia Archibald","PE associates network across firms constantly — and Tritium (tech-enabled services) is itself a plausible sponsor prospect"],
+   ["Gregory Payne","Grant Thornton runs diligence for exactly this mid/large-market PE tier"],
+   ["Eva Rout","Second warm lane into the megafund ops/BD layer"]]},
+ 'sp-stifel-financial':{
+  inside:"Home-court: St. Louis HQ, deep Missouri bench. Run Polsinelli's conflicts/alumni check first — odds are the firm already has a live Stifel relationship.",
+  via:[
+   ["Austin Gates, CFP®","The FA world crosses Stifel daily — Morgan Stanley SVPs know their Stifel counterparts by name"],
+   ["Dan Hearshman","BNY Mellon trust and banking circles overlap Stifel's wealth and institutional side"],
+   ["Bob McCarthy","Creative Planning anchors the KC wealth ecosystem Stifel recruits from"]]},
+ 'sp-jpmorgan-advisor':{
+  inside:"You don't pitch the bank — you get named as regulatory counsel by a party in the Morgan & Morgan process. Bankers then route the next mandate.",
+  via:[
+   ["Jonathan D. Hum, CFA","NYC institutional finance is a small world — one hop from the coverage bankers"],
+   ["Tony White","AmLaw managing-partner circles hear who's advising on the M&M process in real time"],
+   ["John Lively","Alternative-model firm founders track these processes closely — Practus's world is adjacent to every legal-capital banker"]]}
+};
+const BRIDGE={};
+Object.keys(PATHS).forEach(id=>{const sp=BD.find(x=>x.id===id);if(!sp)return;
+  PATHS[id].via.forEach(v=>{(BRIDGE[v[0]]=BRIDGE[v[0]]||[]).push(sp.name.split(' / ')[0].split(' · ')[0]);});});
+function byName(n){return BD.find(x=>x.name===n);}
+function jumpTo(id){const el=document.getElementById('c-'+id);if(el){el.scrollIntoView({behavior:'smooth',block:'center'});el.classList.add('flash');setTimeout(()=>el.classList.remove('flash'),1800);}}
+function resetAndJump(id){
+  bdStage='all';bdLane='all';bdQuery='';const si=document.getElementById('bdSearch');if(si)si.value='';
+  document.querySelectorAll('#bdFilters .chip').forEach(x=>x.classList.toggle('off',x.dataset.f!=='all'));
+  bdRender();jumpTo(id);
+}
+
+/* workflow state — persists in this browser via localStorage */
+let bdState={};
+try{bdState=JSON.parse(localStorage.getItem('polsinelliBD')||'{}');}catch(e){bdState={};}
+function saveBD(){try{localStorage.setItem('polsinelliBD',JSON.stringify(bdState));}catch(e){}}
+function bdSt(id){return bdState[id]||{};}
+function bdSetSt(id,patch){bdState[id]=Object.assign({},bdState[id]||{},patch);saveBD();bdRender();}
+function stageOf(r){return bdSt(r.id).stg||'new';}
+
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function today(){return new Date().toISOString().slice(0,10);}
+function plusDays(n){return new Date(Date.now()+n*864e5).toISOString().slice(0,10);}
+function dueClass(d){if(!d)return'';if(d<today())return'over';return d<=plusDays(7)?'soon':'';}
+function fmtDate(d){if(!d)return'';const p=d.split('-');return['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][+p[1]-1]+' '+(+p[2]);}
+function copyTxt(txt,b,orig){
+  if(navigator.clipboard){navigator.clipboard.writeText(txt);}else{const t=document.createElement('textarea');t.value=txt;document.body.appendChild(t);t.select();document.execCommand('copy');t.remove();}
+  if(b){b.textContent='Copied ✓';setTimeout(()=>b.textContent=orig,1500);}
+}
+
+/* personalized per contact: connection path + company + live signal hook */
+function draftNote(r){
+  const first=(r.name.split(' ')[0]||'there').replace(/[^A-Za-z]/g,'');
+  const sg=(r.conn||'').indexOf('Shadow Glen')>-1;
+  const open=sg?"Hi "+first+" — always good to catch up around Shadow Glen.":"Hi "+first+" — good to stay connected.";
+  const ln={
+    capital:"I’ve gone deep on a niche that keeps intersecting with private equity — outside investment in law firms through the MSO model. I built a 50-state map of where it’s actually allowed, and given the work you’re doing at "+r.co+" it seemed worth putting on your radar. No ask — I’d just enjoy comparing notes on what you’re seeing in the roll-up market.",
+    referral:"A practice I’ve been building at Polsinelli keeps coming up with owners and advisors: PE is now investing in law firms (as it did in healthcare and accounting) through MSOs. With what you see at "+r.co+", you’re often the first to know when an owner is weighing outside capital or a sale — I’d be glad to be a resource, and I’d value your read on the market.",
+    insider:"I’ve been building a law-firm-MSO / outside-investment practice at Polsinelli and mapping how the rules differ state to state. From your seat at "+r.co+" you see which firms are modernizing or hunting for capital before anyone else — I’d love to swap intel on where this is heading."};
+  if(r.lane==='sponsor'){
+    return "[Sponsor pitch angle — route through the relationship partner; not a cold email.]\n\n"+r.name+" ("+r.role+"): "+(r.approach||'')+"\n\nPolsinelli platform: 50-state MSO risk map · structuring playbook · deal-tested MSA and term-sheet templates.";
+  }
+  let hook='';
+  if(r.signal){const s1=r.signal.split('. ')[0];hook="\n\n[Personal hook on file — work it into your note, then delete this line: "+s1+(s1.slice(-1)==='.'?'':'.')+"]";}
+  return open+" "+ln[r.lane]+hook+"\n\n[Add one line on how you know each other. Clear conflicts and route through firm marketing/ethics review (Rule 7.3) before sending. — Polsinelli]";
+}
+
+/* ask a warm connection for an introduction to a sponsor target */
+function draftIntroAsk(bridge,sp){
+  const first=(bridge.name.split(' ')[0]||'there').replace(/[^A-Za-z]/g,'');
+  const sg=(bridge.conn||'').indexOf('Shadow Glen')>-1;
+  return "Hi "+first+" — "+(sg?"always good to catch up around Shadow Glen.":"hope all's well.")+" Quick ask. I lead Polsinelli's law-firm MSO practice — outside investment in law firms, the thing PE already did to healthcare and accounting — and I built the 50-state regulatory map for it. "+sp.name+" is active in exactly this space ("+sp.role+"), and I think the state-map work would be useful to them. If you know anyone there, would you be open to a light intro? I'll send a two-line forwardable blurb so it's zero lift.\n\n[Clear conflicts and route through firm marketing/ethics review (Rule 7.3) before sending. — Polsinelli]";
+}
+
+let bdLane='all',bdStage='all',bdQuery='',bdSort='score';
+
+/* This week's moves: due follow-ups, then targets to path into, then best warm prospects */
+function renderMoves(){
+  const t=today(),horizon=plusDays(7);
+  const dues=BD.filter(r=>bdSt(r.id).due&&stageOf(r)!=='hold'&&bdSt(r.id).due<=horizon)
+    .sort((a,b)=>bdSt(a.id).due<bdSt(b.id).due?-1:1);
+  const freshAll=BD.filter(r=>stageOf(r)==='new'&&!bdSt(r.id).due);
+  const freshSpon=freshAll.filter(r=>r.lane==='sponsor'&&PATHS[r.id]).sort((a,b)=>b.score-a.score).slice(0,2);
+  const freshWarm=freshAll.filter(r=>r.lane!=='sponsor').sort((a,b)=>b.score-a.score);
+  const moves=dues.concat(freshSpon).concat(freshWarm).slice(0,5);
+  document.getElementById('bdMoves').innerHTML=moves.length?moves.map(r=>{
+    const d=bdSt(r.id).due;
+    let why,act;
+    if(d){why=(d<t?'<span class="due-over">Follow-up overdue — '+fmtDate(d)+'</span>':'Follow-up due '+fmtDate(d))+(bdSt(r.id).note?' · '+esc(bdSt(r.id).note):'');act=(r.lane==='sponsor'&&PATHS[r.id])?'ask':'copy';}
+    else if(r.lane==='sponsor'){const v=PATHS[r.id].via;why='Target — no direct line · start via <strong>'+esc(v[0][0])+'</strong>'+(v[1]?' or '+esc(v[1][0]):'');act='ask';}
+    else{why='Top untouched warm prospect · fit '+r.score+(r.signal?' · ⚡ live signal on file':'');act='copy';}
+    const btn=act==='ask'?'<button data-act="ask" data-id="'+r.id+'">Copy intro ask</button>':'<button data-act="copy" data-id="'+r.id+'">Copy intro</button>';
+    return '<div class="mvrow"><span class="who">'+esc(r.name)+'</span><span class="why">'+why+'</span>'+
+      '<button data-act="go" data-id="'+r.id+'">Open card</button>'+btn+'</div>';
+  }).join(''):'<div class="mvempty">Nothing queued — set follow-up dates on the cards below and this list builds itself.</div>';
+  document.querySelectorAll('#bdMoves button').forEach(b=>b.addEventListener('click',()=>{
+    const r=BD.find(x=>x.id===b.dataset.id);if(!r)return;
+    if(b.dataset.act==='copy'){copyTxt(draftNote(r),b,'Copy intro');}
+    else if(b.dataset.act==='ask'){const p=PATHS[r.id];const br=p&&byName(p.via[0][0]);if(br)copyTxt(draftIntroAsk(br,r),b,'Copy intro ask');}
+    else{resetAndJump(r.id);}
+  }));
+}
+
+function bdRender(){
+  const counts={};STAGES.forEach(s=>counts[s[0]]=0);BD.forEach(r=>counts[stageOf(r)]++);
+  document.getElementById('bdStages').innerHTML=
+    '<div class="stg'+(bdStage==='all'?' on':'')+'" data-s="all"><div class="n">'+BD.length+'</div><div class="l">Pipeline</div></div>'+
+    STAGES.map(s=>'<div class="stg'+(bdStage===s[0]?' on':'')+'" data-s="'+s[0]+'"><div class="n">'+counts[s[0]]+'</div><div class="l">'+s[1]+'</div></div>').join('');
+  document.querySelectorAll('#bdStages .stg').forEach(el=>el.addEventListener('click',()=>{bdStage=(bdStage===el.dataset.s)?'all':el.dataset.s;bdRender();}));
+
+  renderMoves();
+
+  let list=BD.filter(r=>(bdLane==='all'||r.lane===bdLane)&&(bdStage==='all'||stageOf(r)===bdStage)&&
+    (!bdQuery||(r.name+' '+r.co+' '+r.role).toLowerCase().indexOf(bdQuery)>-1));
+  if(bdSort==='score')list.sort((a,b)=>b.score-a.score);
+  else if(bdSort==='name')list.sort((a,b)=>a.name.localeCompare(b.name));
+  else if(bdSort==='due')list.sort((a,b)=>((bdSt(a.id).due||'9999')<(bdSt(b.id).due||'9999'))?-1:1);
+  else if(bdSort==='stage')list.sort((a,b)=>(STIDX[stageOf(b)]-STIDX[stageOf(a)])||(b.score-a.score));
+
+  document.getElementById('bdList').innerHTML=list.map(r=>{
+    const s=bdSt(r.id),stg=stageOf(r),rel=relOf(r);
+    const sig=r.signal?'<div class="rsig"><strong>⚡ Signal:</strong> '+esc(r.signal)+'</div>':'';
+    const appr=r.approach?'<div class="bdnote"><strong>Play: </strong>'+esc(r.approach)+'</div>':'';
+    const due=s.due?' <span class="duebadge '+dueClass(s.due)+'">'+(dueClass(s.due)==='over'?'⚠ ':'')+'follow up '+fmtDate(s.due)+'</span>':'';
+    const link=r.url?' · <a href="'+r.url+'" target="_blank" rel="noopener">source →</a>':'';
+    const p=PATHS[r.id];
+    const paths=p?'<div class="pathbox"><div class="pathhead">🧭 Path in: '+esc(p.inside)+'</div>'+
+      p.via.map(v=>{const b=byName(v[0]);if(!b)return'';
+        return '<div class="pathrow"><a class="plink" data-id="'+b.id+'">'+esc(v[0])+'</a><span class="preason">'+esc(v[1])+'</span><button class="pask" data-b="'+b.id+'" data-s="'+r.id+'">Copy intro ask</button></div>';}).join('')+'</div>':'';
+    const bridges=BRIDGE[r.name]?'<div class="bridgeto">🧭 <strong>Bridge to:</strong> '+BRIDGE[r.name].map(esc).join(' · ')+' — this contact is also an intro path to targets above</div>':'';
+    return '<div class="rcard" id="c-'+r.id+'"><h3>'+esc(r.name)+' <span class="lane '+r.lane+'">'+LANE[r.lane]+'</span> <span class="relb '+rel.k+'">'+rel.t+'</span> <span class="stagepill st-'+stg+'">'+STLABEL[stg]+'</span>'+due+'</h3>'+
+      '<div class="meta">'+esc(r.role)+' · '+esc(r.co)+link+'</div>'+
+      '<div class="fit"><span class="num">'+r.score+'</span><div class="bar"><i style="width:'+r.score+'%"></i></div></div>'+
+      '<div class="rconn">🔗 '+esc(r.conn)+'</div><div class="rwhy">'+esc(r.why)+'</div>'+sig+
+      (r.lane==='sponsor'?'':'<button class="rcopy" data-id="'+r.id+'">Copy warm-intro draft</button>')+appr+paths+bridges+
+      '<div class="rwork">'+
+        '<select class="stgsel" data-id="'+r.id+'" title="Pipeline stage">'+STAGES.map(x=>'<option value="'+x[0]+'"'+(x[0]===stg?' selected':'')+'>'+x[1]+'</option>').join('')+'</select>'+
+        '<input type="text" class="notein" data-id="'+r.id+'" placeholder="Next step…" value="'+esc(s.note||'')+'">'+
+        '<span class="duewrap">follow up <input type="date" class="duein" data-id="'+r.id+'" value="'+(s.due||'')+'"></span>'+
+      '</div></div>';
+  }).join('');
+
+  document.querySelectorAll('#bdList .rcopy').forEach(b=>b.addEventListener('click',()=>{
+    const r=BD.find(x=>x.id===b.dataset.id);if(r)copyTxt(draftNote(r),b,b.textContent);}));
+  document.querySelectorAll('#bdList .plink').forEach(a=>a.addEventListener('click',()=>resetAndJump(a.dataset.id)));
+  document.querySelectorAll('#bdList .pask').forEach(b=>b.addEventListener('click',()=>{
+    const br=BD.find(x=>x.id===b.dataset.b),sp=BD.find(x=>x.id===b.dataset.s);
+    if(br&&sp)copyTxt(draftIntroAsk(br,sp),b,'Copy intro ask');}));
+  document.querySelectorAll('#bdList .stgsel').forEach(el=>el.addEventListener('change',()=>bdSetSt(el.dataset.id,{stg:el.value})));
+  document.querySelectorAll('#bdList .notein').forEach(el=>el.addEventListener('change',()=>bdSetSt(el.dataset.id,{note:el.value.trim()})));
+  document.querySelectorAll('#bdList .duein').forEach(el=>el.addEventListener('change',()=>bdSetSt(el.dataset.id,{due:el.value})));
+}
+
+document.querySelectorAll('#bdFilters .chip').forEach(c=>{
+  if(c.dataset.f!=='all')c.classList.add('off');
+  c.addEventListener('click',()=>{
+    document.querySelectorAll('#bdFilters .chip').forEach(x=>x.classList.add('off'));c.classList.remove('off');
+    bdLane=c.dataset.f;bdRender();});
+});
+document.getElementById('bdSearch').addEventListener('input',e=>{bdQuery=e.target.value.trim().toLowerCase();bdRender();});
+document.getElementById('bdSort').addEventListener('change',e=>{bdSort=e.target.value;bdRender();});
+bdRender();
+
+/* ===================== DEAL BUILDER ===================== */
+(function(){
+  var sel=document.getElementById('df-primary');
+  Object.keys(NAMES).sort(function(a,b){return NAMES[a].localeCompare(NAMES[b]);}).forEach(function(ab){
+    var o=document.createElement('option');o.value=ab;o.textContent=NAMES[ab]+' ('+ab+')';sel.appendChild(o);});
+  sel.value='TX';
+  function val(id){return (document.getElementById(id).value||'').trim();}
+  function parseStates(){
+    var prim=val('df-primary');
+    var others=val('df-other').toUpperCase().split(/[^A-Z]+/).filter(function(s){return s&&NAMES[s];});
+    var all=[prim].concat(others);
+    return all.filter(function(v,i,a){return v&&NAMES[v]&&a.indexOf(v)===i;});
+  }
+  function facts(){
+    var f={firm:val('df-firm')||'[Law Firm, P.C.]',mso:val('df-mso')||'[MSO / Platform, LLC]',
+      sponsor:val('df-sponsor')||'[Investor / Sponsor]',practice:val('df-practice')||'[practice area]',
+      states:parseStates(),goal:document.querySelector('input[name="df-goal"]:checked').value,
+      structureChoice:val('df-structure'),fee:val('df-fee'),rollover:val('df-rollover')||'30',
+      term:val('df-term')||'30',earnout:document.getElementById('df-earnout').checked,
+      captive:document.getElementById('df-captive').checked,revenue:val('df-revenue')};
+    if(f.states.length===0)f.states=['TX'];
+    return f;
+  }
+  var feeText={
+    flat:"a fixed monthly management fee (set at fair market value for the Services and reviewed periodically), expressly NOT calculated by reference to the Firm's fees, revenues, or profits",
+    fixed:"a fixed annual management fee invoiced monthly (set at fair market value and reviewed periodically), expressly NOT tied to the Firm's fees, revenues, or profits",
+    costplus:"an amount equal to the MSO's documented cost of providing the Services plus a fixed margin, in each case NOT tied to the Firm's fees, revenues, or profits"};
+  var feeShort={flat:'Flat monthly fee',fixed:'Fixed annual fee',costplus:'Cost-plus'};
+  function rec(f){
+    var F=f.states,multi=F.length>1;
+    var cail=F.filter(function(s){return s==='CA'||s==='IL';});
+    var permIn=F.filter(function(s){return s==='AZ'||s==='UT'||s==='DC';});
+    var structure=f.structureChoice;
+    if(structure==='auto'){
+      if(multi)structure='MSO';
+      else if(F[0]==='AZ'&&f.goal==='equity')structure='ABS';
+      else structure='MSO';}
+    return {structure:structure,multi:multi,cail:cail,permIn:permIn};
+  }
+  var tierLabel={green:'Permissive — nonlawyer ownership allowed',blue:'MSO-favorable published guidance',yellow:'Standard Rule 5.4 — MSO OK if structured right (untested)',orange:'Elevated scrutiny / restrictive trend'};
+  function memo(f,r){
+    var rows=f.states.map(function(s){return '   - '+NAMES[s]+' ('+s+'): '+tierLabel[DATA[s].tier];}).join('\n');
+    var untested=f.states.filter(function(s){return DATA[s].tier==='yellow';});
+    var rationale;
+    if(r.structure==='ABS')rationale="Single-state Arizona footprint with an investor seeking direct equity/profit participation. A licensed Arizona ABS is the only structure that delivers true nonlawyer ownership; budget for the Supreme Court application and a designated compliance lawyer. Do NOT extend the ABS into other states via branch offices (ABA Formal Op. 91-360).";
+    else if(r.multi)rationale="Multi-state footprint. The MSO model is required: a nonlawyer-owned ABS cannot operate branch offices in Rule 5.4 states (ABA Formal Op. 91-360). The core firm stays lawyer-owned and shares no fees, so the structure travels across all "+f.states.length+" footprint states.";
+    else rationale="Single-state Rule 5.4 (or limited-permissive) footprint. The MSO model is the compliant route: the firm stays 100% lawyer-owned and pays the MSO an arm's-length service fee that is not a share of legal fees.";
+    var cailNote=r.cail.length?("\n   [!] "+r.cail.map(function(s){return NAMES[s];}).join(' & ')+": active legislation (CA AB 931 / IL HB 5487) attacks fees tied directly or INDIRECTLY to firm revenue, with private enforcement and penalties. Build the fee and MSA to that standard."):"";
+    var captiveLine=(f.captive&&r.structure==='MSO')?("\n - Captive-PC controls: equity transfer restrictions + pledge + successor-designation so the lawyer-owner cannot sell, encumber, or walk off with the firm. NOTE: strong in permissive states; weaker and legally riskier in Rule 5.4 states (and targeted by IL HB 5487) -- calibrate accordingly."):"";
+    var earnoutLine=f.earnout?"\n - Earnout / deferred consideration tied to post-close performance to sustain seller motivation.":"";
+    return [
+"STRUCTURING MEMORANDUM -- PRIVILEGED & CONFIDENTIAL -- DRAFT",
+"Re:  Proposed "+r.structure+" transaction -- "+f.mso+" / "+f.firm,
+"Sponsor:  "+f.sponsor+"     Primary practice:  "+f.practice,
+"Prepared by Polsinelli  -  DRAFT for attorney review; not legal advice",
+"",
+"1.  RECOMMENDED STRUCTURE:  "+r.structure,
+"    "+rationale,
+"",
+"2.  FOOTPRINT & STATE-BY-STATE RISK",
+rows+cailNote,
+"",
+"3.  REQUIRED PROTECTIONS (deal-specific)",
+" - Management fee: "+feeShort[f.fee]+" -- must NOT be tied to the Firm's fees, revenue, or profits.",
+" - Lawyer independence reserved to the Firm: client selection, case strategy, matter staffing, settlement, lawyer personnel decisions.",
+" - Excluded assets remain Firm-owned: client files, engagement letters, trust/IOLTA accounts, lawyer employment agreements.",
+" - MSO financial administration limited to billing, collections, budgeting, cash management -- never legal decisions."+captiveLine,
+" - Retention: "+f.rollover+"% rollover equity in the MSO + vesting / bad-leaver forfeiture, in lieu of lawyer non-competes (Rule 5.6)."+earnoutLine,
+"",
+"4.  OPEN ITEMS / CONDITIONS TO CLOSING",
+" - Written state ethics opinion for untested jurisdictions: "+(untested.length?untested.join(', '):'none flagged')+".",
+" - Conflicts clearance for "+f.sponsor+" and all related parties.",
+" - Fair-market-value support / benchmarking for the management fee.",
+(r.structure==='ABS'?" - Arizona ABS license application (designated compliance lawyer, ownership disclosures, ongoing reporting).":" - Confirm the core firm remains 100% lawyer-owned; no nonlawyer equity in the Firm."),
+""].join('\n');
+  }
+  function term(f,r){
+    var ev=f.revenue?("Indicative: management fee approximates Firm EBITDA on revenue of $"+Number(f.revenue).toLocaleString()+" (set at FMV)"):"[ ___ ] (management fee set at FMV for the Services)";
+    return [
+"NON-BINDING TERM SHEET -- DRAFT  -  PRIVILEGED & CONFIDENTIAL",
+"For discussion only; non-binding except for any expressly binding provisions.",
+"",
+"PARTIES",
+"   Law Firm:      "+f.firm+' (the "Firm") -- owned exclusively by licensed lawyers.',
+'   MSO/Platform:  '+f.mso+' (the "MSO").',
+"   Sponsor:       "+f.sponsor+".",
+"",
+"STRUCTURE:  "+r.structure+(r.structure==='MSO'?" (two-entity). The MSO acquires substantially all NON-LEGAL assets of the Firm and provides management services under a long-term Management Services Agreement (MSA). The Firm continues to practice law, holds client relationships, and retains all legal fees.":" -- licensed Arizona Alternative Business Structure; nonlawyer equity permitted under Arizona rules."),
+"",
+"TRANSACTION",
+"   - MSO acquires non-legal assets (technology, IP/trade name, equipment, leases, back-office systems).",
+"   - Excluded (remain with Firm): client files, engagement letters, trust accounts, lawyer employment agreements.",
+"",
+"MANAGEMENT FEE:  "+feeShort[f.fee]+" -- "+feeText[f.fee]+".",
+"   Indicative quantum: "+ev+".",
+"",
+"SERVICES:  Technology/IT, marketing & lead generation, finance & accounting, HR & staffing, facilities, licensed IP -- all non-legal.",
+"",
+"ROLLOVER EQUITY:  Selling lawyers roll "+f.rollover+"% of proceeds into MSO equity, subject to vesting and good-/bad-leaver provisions.",
+(f.earnout?"EARNOUT:  Portion of consideration deferred and contingent on agreed post-close performance targets.":"EARNOUT:  None."),
+"",
+"TERM:  "+f.term+" years, with renewal and defined termination events.",
+"",
+"LAWYER INDEPENDENCE:  The MSO has no right to control legal judgment, client selection, case strategy, staffing of matters, or settlement. Lawyer personnel and compensation decisions rest with the Firm.",
+"",
+"RESTRICTIVE COVENANTS:  No lawyer non-competes (Rule 5.6). Alignment via rollover-equity vesting and forfeiture."+((f.captive&&r.structure==='MSO')?"\n   Captive-PC: equity transfer restrictions, pledge, and successor-designation over the Firm's stock.":""),
+"",
+"CONDITIONS:  Written ethics opinion(s); conflicts clearance; FMV fee support"+(r.cail.length?"; CA/IL regulatory compliance review (AB 931 / HB 5487)":"")+(r.structure==='ABS'?"; Arizona ABS license":"")+".",
+"",
+"CONFIDENTIALITY / EXCLUSIVITY:  [to be completed].",
+""].join('\n');
+  }
+  function msa(f,r){
+    var caClause=r.cail.length?("\n\n10.  REGULATORY COMPLIANCE -- CA / IL.  Notwithstanding anything herein, no compensation shall be tied directly or INDIRECTLY to the Firm's fees, revenues, or profits; the MSO shall not control or be delegated any core legal function; no provision shall restrict a lawyer's or staff member's ability to comment on service quality or ethics; and the parties acknowledge the private-enforcement and statutory-damages exposure under Illinois HB 5487 and the fee-sharing limits of California AB 931. (Triggered by: "+r.cail.map(function(s){return NAMES[s];}).join(', ')+")"):"";
+    var captiveRecital=(f.captive&&r.structure==='MSO')?"\nWHEREAS, the equity of the Firm is subject to transfer restrictions, a pledge, and a successor-designation arrangement to preserve continuity of the management relationship while keeping ownership in the hands of licensed lawyers;":"";
+    return [
+"MANAGEMENT SERVICES AGREEMENT -- DRAFT OUTLINE  -  PRIVILEGED & CONFIDENTIAL",
+"(Illustrative skeleton assembled from your inputs -- NOT execution-ready; attorney drafting and review required.)",
+"",
+'This Management Services Agreement (this "Agreement") is entered into as of [date] by and between '+f.firm+' (the "Firm") and '+f.mso+' (the "MSO").',
+"",
+"RECITALS",
+"WHEREAS, the Firm is a law firm owned exclusively by licensed attorneys and engaged in the practice of "+f.practice+";",
+"WHEREAS, the MSO provides non-legal management and administrative services and has acquired the non-legal assets used in the Firm's operations;"+captiveRecital,
+"WHEREAS, the parties intend that the Firm retain exclusive control over the practice of law and all professional judgment, and that no provision be construed to permit fee-splitting or nonlawyer ownership of the Firm in violation of applicable Rules of Professional Conduct;",
+"",
+"1.  DEFINITIONS.  'Services', 'Excluded Assets', 'Management Fee', 'Professional Services', and related terms.",
+"",
+"2.  ENGAGEMENT & SERVICES.  The Firm engages the MSO to provide the non-legal Services: technology/IT, marketing and lead generation, finance and accounting, HR and staffing, facilities, equipment, and licensed IP/trade name. The MSO shall not provide legal services or control the practice of law.",
+"",
+"3.  MANAGEMENT FEE.  In consideration of the Services, the Firm shall pay the MSO "+feeText[f.fee]+". The Management Fee is a senior obligation of the Firm payable before any distribution of Firm profit. The parties shall support the Management Fee with fair-market-value documentation.",
+"",
+"4.  RESERVED POWERS / LAWYER INDEPENDENCE.  The Firm retains sole authority over: acceptance or declination of clients and matters; legal strategy and judgment; staffing of matters; settlement; and the hiring, supervision, evaluation, and compensation of lawyers. Nothing herein grants the MSO control over any of the foregoing.",
+"",
+"5.  EXCLUDED ASSETS.  Client files and records, engagement letters, trust/IOLTA accounts, privileged communications, and lawyer employment agreements remain owned and controlled exclusively by the Firm.",
+"",
+"6.  FINANCIAL ADMINISTRATION.  The MSO shall administer billing, collections, accounts payable, budgeting, and cash management on the Firm's behalf, subject to the Firm's ultimate authority over legal matters and client funds.",
+"",
+"7.  TERM & TERMINATION.  Initial term of "+f.term+" years, with renewal and defined termination events; transition and wind-down mechanics on termination.",
+"",
+"8.  RESTRICTIVE COVENANTS.  Consistent with Rule 5.6, no provision restricts any lawyer's right to practice. Alignment is achieved through rollover-equity vesting and good-/bad-leaver forfeiture ("+f.rollover+"% rollover)."+((f.captive&&r.structure==='MSO')?" The Firm's equity is subject to transfer restrictions, pledge, and successor designation.":""),
+"",
+"9.  BOOKS, RECORDS & COMPLIANCE.  Separate governance, books, accounts, and personnel; audit rights; conflicts and regulatory-change cooperation."+caClause,
+"",
+(r.cail.length?"11":"10")+".  INDEMNIFICATION; LIMITATION OF LIABILITY.  [to be completed].",
+(r.cail.length?"12":"11")+".  MISCELLANEOUS.  Governing law, assignment, dispute resolution, notices, entire agreement.",
+"",
+"-- END OF OUTLINE --  Generated "+new Date().toLocaleDateString()+"  -  Polsinelli MSO Command Center  -  DRAFT, not legal advice."].join('\n');
+  }
+  var docs={};
+  window.__deal={facts:facts,rec:rec,feeText:feeText,feeShort:feeShort};
+  function generate(){
+    var f=facts(),r=rec(f);
+    docs={memo:memo(f,r),term:term(f,r),msa:msa(f,r)};
+    document.getElementById('dfMemo').textContent=docs.memo;
+    document.getElementById('dfTerm').textContent=docs.term;
+    document.getElementById('dfMsa').textContent=docs.msa;
+    document.getElementById('dfRecBadge').textContent='Recommended structure: '+r.structure;
+    document.getElementById('dfOut').style.display='block';
+  }
+  document.getElementById('dfGen').addEventListener('click',generate);
+  document.querySelectorAll('#dfOut .doctab').forEach(function(t){t.addEventListener('click',function(){
+    document.querySelectorAll('#dfOut .doctab').forEach(function(x){x.classList.remove('active');});
+    document.querySelectorAll('#dfOut .docbody').forEach(function(x){x.classList.remove('active');});
+    t.classList.add('active');document.getElementById('db-'+t.dataset.d).classList.add('active');});});
+  function dl(name,text){var b=new Blob([text],{type:'text/plain;charset=utf-8'});var u=URL.createObjectURL(b);var a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(function(){URL.revokeObjectURL(u);},500);}
+  document.getElementById('dfCopy').addEventListener('click',function(){
+    var active=document.querySelector('#dfOut .doctab.active').dataset.d;var t=docs[active]||'';
+    if(navigator.clipboard)navigator.clipboard.writeText(t);
+    var b=this;b.textContent='Copied ✓';setTimeout(function(){b.textContent='Copy current';},1500);});
+  document.getElementById('dfDownload').addEventListener('click',function(){
+    var bar=Array(62).join('=');
+    var all=bar+'\n'+docs.memo+'\n\n'+bar+'\n'+docs.term+'\n\n'+bar+'\n'+docs.msa;
+    dl('MSO-Deal-Draft.txt',all);});
+})();
+
+/* ===================== TEMPLATE MERGE / SMART REVISE ===================== */
+(function(){
+  if(!document.getElementById('tplMerge'))return;
+  var docxZip=null,docxName='',lastOut='';
+  function deal(){var d=window.__deal;if(!d)return null;var f=d.facts();return {f:f,r:d.rec(f),d:d};}
+  /* ---------- token map ---------- */
+  function tokens(){
+    var x=deal();if(!x)return null;var f=x.f,r=x.r,d=x.d;
+    var foot=f.states.map(function(s){return NAMES[s];}).join(', ');
+    return {map:{FIRM:f.firm,MSO:f.mso,SPONSOR:f.sponsor,PRACTICE:f.practice,
+      PRIMARY_STATE:(NAMES[f.states[0]]||f.states[0]),FOOTPRINT:foot,STRUCTURE:r.structure,
+      FEE_TYPE:d.feeShort[f.fee],FEE_CLAUSE:d.feeText[f.fee],ROLLOVER:f.rollover+'%',
+      TERM:f.term+' years',REVENUE:(f.revenue?('$'+Number(f.revenue).toLocaleString()):'[___]'),
+      DATE:new Date().toLocaleDateString()},
+    cond:{IF_MSO:r.structure==='MSO',IF_ABS:r.structure==='ABS',IF_CAIL:r.cail.length>0,
+      IF_CAPTIVE:(f.captive&&r.structure==='MSO'),IF_EARNOUT:f.earnout,IF_MULTISTATE:f.states.length>1}};
+  }
+  function tokenMerge(text,T){
+    Object.keys(T.cond).forEach(function(k){
+      var re=new RegExp('\\{\\{#'+k+'\\}\\}([\\s\\S]*?)\\{\\{\\/'+k+'\\}\\}','g');
+      text=text.replace(re,T.cond[k]?'$1':'');});
+    Object.keys(T.map).forEach(function(k){
+      var re=new RegExp('\\{\\{'+k+'\\}\\}','g');
+      text=text.replace(re,function(){return T.map[k];});});
+    return text;
+  }
+  /* ---------- smart revise (no tokens) ---------- */
+  function esc(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
+  function smartRevise(text){
+    var x=deal();if(!x)return {text:text,log:['Enter deal facts above first.']};
+    var f=x.f,r=x.r,d=x.d,log=[];
+    var brackets=[
+      [/\[(?:law firm name|firm name|the firm|firm)\]/gi,f.firm,'Firm name'],
+      [/\[(?:mso(?: name)?|management company|manager|platform|company)\]/gi,f.mso,'MSO name'],
+      [/\[(?:sponsor|investor)(?: name)?\]/gi,f.sponsor,'Sponsor'],
+      [/\[(?:practice area|practice)\]/gi,f.practice,'Practice area'],
+      [/\[date\]/gi,new Date().toLocaleDateString(),'Date'],
+      [/\[(?:governing law|state|jurisdiction)\]/gi,(NAMES[f.states[0]]||f.states[0]),'Governing-law state']
+    ];
+    brackets.forEach(function(b){ if(b[0].test(text)){ text=text.replace(b[0],b[1]); log.push(b[2]+' → '+b[1]); }});
+    var q='[\\u201C\\u201D"]';
+    function defName(term,val,label){
+      var re=new RegExp('([A-Z][^()\\n]{1,60}?)\\s*\\((?:the\\s+)?'+q+term+q+'\\)');
+      var m=text.match(re);
+      if(m&&m[1]){var old=m[1].trim().replace(/[,\s]+$/,'');
+        if(old&&old.toLowerCase()!==val.toLowerCase()&&!/^the$/i.test(old)&&old.length>1){
+          text=text.replace(new RegExp(esc(old),'g'),val);
+          log.push(label+': “'+old+'” → '+val);}}
+    }
+    defName('Firm',f.firm,'Firm party'); defName('MSO',f.mso,'MSO party');
+    defName('Manager',f.mso,'Manager party'); defName('Company',f.mso,'Company party');
+    text=text.replace(/((?:initial\s+)?term\s+of\s+)(?:\[[^\]]*\]|[A-Za-z0-9]+)(\s+years)/gi,function(m,a,b){log.push('Term → '+f.term+' years');return a+f.term+b;});
+    text=text.replace(/(roll[-\s]?over[^.\n]{0,90}?)(\[[^\]]*\]|\d{1,3}\s*%)/i,function(m,a){log.push('Rollover → '+f.rollover+'%');return a+f.rollover+'%';});
+    text=text.replace(/(laws of(?:\s+the\s+State of)?\s+)([A-Z][A-Za-z .]+?)(?=[,.;)])/g,function(m,a){var st=(NAMES[f.states[0]]||f.states[0]);log.push('Governing law → '+st);return a+st;});
+    if(/management fee/i.test(text)){
+      if(/percentage|%/.test(text)) log.push('⚠ Review the Management Fee clause — it references a percentage; confirm it is '+d.feeShort[f.fee]+' and NOT tied to revenue.');
+      else log.push('ℹ Confirm the Management Fee clause reflects: '+d.feeShort[f.fee]+'.');
+    }
+    var appends=[];
+    if(r.cail.length && !/AB ?931|HB ?5487/i.test(text)) appends.push('REGULATORY COMPLIANCE — CALIFORNIA / ILLINOIS. No compensation shall be tied directly or indirectly to the Firm’s fees, revenues, or profits; the MSO shall not control any core legal function; and the parties acknowledge California AB 931 and Illinois HB 5487. (Added because '+r.cail.map(function(s){return NAMES[s];}).join(' & ')+' is in the footprint.)');
+    if(r.structure==='ABS' && !/alternative business structure/i.test(text)) appends.push('ALTERNATIVE BUSINESS STRUCTURE. The Firm is a licensed Arizona ABS; nonlawyer ownership is permitted under Arizona rules.');
+    if(f.states.length>1 && !/91-?360|branch office/i.test(text)) appends.push('MULTI-JURISDICTION. The structure relies on the MSO model (not a nonlawyer-owned firm with branch offices) to comply with ABA Formal Op. 91-360 across all footprint states.');
+    if(appends.length){ text=text+'\n\n----- SUGGESTED ADDITIONS (review and place appropriately) -----\n\n'+appends.join('\n\n'); appends.forEach(function(a){log.push('Added clause: '+a.split('.')[0]+'.');}); }
+    if(log.length===0) log.push('No high-confidence term changes detected — review manually, or use Token-merge mode with {{tokens}}.');
+    return {text:text,log:log};
+  }
+  function mode(){var m=document.querySelector('input[name="tplMode"]:checked');return m?m.value:'token';}
+  function run(){
+    var tpl=document.getElementById('tplText').value||'';
+    if(!tpl.trim()){document.getElementById('tplStatus').textContent='Paste or upload a template first.';return;}
+    var log;
+    if(mode()==='token'){var T=tokens();if(!T){document.getElementById('tplStatus').textContent='Enter deal facts above first.';return;}lastOut=tokenMerge(tpl,T);log=['Token merge complete — all matching {{tokens}} filled and conditional blocks resolved.'];}
+    else {var res=smartRevise(tpl);lastOut=res.text;log=res.log;}
+    document.getElementById('tplOut').textContent=lastOut;
+    document.getElementById('tplOutWrap').style.display='block';
+    var lg=document.getElementById('tplLog');
+    lg.style.display='block';
+    lg.innerHTML='<div style="font-weight:700;font-size:12px;color:var(--accent);letter-spacing:.04em;text-transform:uppercase;margin-bottom:6px">Change log ('+log.length+')</div>'+log.map(function(c){return '<div style="font-size:12.5px;color:#333;margin:3px 0">• '+c.replace(/&/g,'&amp;').replace(/</g,'&lt;')+'</div>';}).join('');
+    document.getElementById('tplStatus').textContent=(mode()==='smart'?'Smart revise done':'Merged')+' — review every change before use.'+(docxZip&&mode()==='token'?' Download gives a formatted .docx.':'');
+  }
+  var SAMPLE=[
+"MANAGEMENT SERVICES AGREEMENT",
+"",
+'This Agreement is entered into as of {{DATE}} between {{FIRM}} (the "Firm") and {{MSO}} (the "MSO"), with investment from {{SPONSOR}}.',
+"",
+"The Firm practices {{PRACTICE}} and maintains a footprint in {{FOOTPRINT}}. Structure: {{STRUCTURE}}.",
+"",
+"MANAGEMENT FEE. The Firm shall pay the MSO {{FEE_CLAUSE}}.",
+"",
+"ROLLOVER. Selling lawyers roll {{ROLLOVER}} of proceeds into MSO equity, vesting over the {{TERM}} term.",
+"",
+"{{#IF_CAPTIVE}}CAPTIVE-PC. The Firm's equity is subject to transfer restrictions, a pledge, and successor designation.",
+"{{/IF_CAPTIVE}}{{#IF_CAIL}}REGULATORY (CA/IL). No compensation shall be tied directly or indirectly to the Firm's revenue; the parties acknowledge California AB 931 and Illinois HB 5487.",
+"{{/IF_CAIL}}{{#IF_ABS}}ABS. The Firm is a licensed Arizona Alternative Business Structure.",
+"{{/IF_ABS}}"].join("\n");
+  var SAMPLE_PLAIN=[
+"MANAGEMENT SERVICES AGREEMENT",
+"",
+'This Agreement is entered into as of [date] between [Law Firm Name] (the "Firm") and [MSO Name] (the "MSO"), with investment from [Sponsor].',
+"",
+"The Firm practices [practice area]. This Agreement is governed by the laws of Delaware.",
+"",
+"MANAGEMENT FEE. The Firm shall pay the MSO a management fee equal to a percentage of the Firm's revenue.",
+"",
+"ROLLOVER. Selling lawyers roll 20% of proceeds into MSO equity.",
+"",
+"TERM. The initial term of this Agreement is 10 years."].join("\n");
+  document.getElementById('tplSample').addEventListener('click',function(){
+    document.getElementById('tplText').value=(mode()==='smart'?SAMPLE_PLAIN:SAMPLE);docxZip=null;docxName='';
+    document.getElementById('tplStatus').textContent='Sample loaded ('+(mode()==='smart'?'plain, no tokens':'tokenized')+').';});
+  document.getElementById('tplFile').addEventListener('change',function(e){
+    var file=e.target.files[0];if(!file)return;var st=document.getElementById('tplStatus');
+    if(/\.docx$/i.test(file.name)){
+      if(typeof JSZip==='undefined'){st.textContent='.docx needs an internet connection. Paste text or use .txt/.md instead.';return;}
+      JSZip.loadAsync(file).then(function(zip){docxZip=zip;docxName=file.name;return zip.file('word/document.xml').async('string');}).then(function(xml){
+        var txt=xml.replace(/<\/w:p>/g,'\n').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>');
+        document.getElementById('tplText').value=txt;
+        st.textContent='Loaded '+file.name+(mode()==='token'?' — token download keeps Word formatting.':' — smart-revise outputs text + change log.');
+      }).catch(function(){st.textContent='Could not read that .docx. Try pasting the text instead.';});
+    } else {var rd=new FileReader();rd.onload=function(){document.getElementById('tplText').value=rd.result;docxZip=null;docxName=file.name;st.textContent='Loaded '+file.name;};rd.readAsText(file);}
+  });
+  document.getElementById('tplMerge').addEventListener('click',run);
+  document.querySelectorAll('input[name="tplMode"]').forEach(function(rb){rb.addEventListener('change',function(){
+    document.getElementById('tplMerge').textContent=(mode()==='smart'?'Smart-revise my template':'Merge facts into my template');});});
+  document.getElementById('tplCopy').addEventListener('click',function(){
+    if(navigator.clipboard)navigator.clipboard.writeText(lastOut);
+    var b=this;b.textContent='Copied ✓';setTimeout(function(){b.textContent='Copy';},1500);});
+  document.getElementById('tplDownload').addEventListener('click',function(){
+    if(docxZip&&mode()==='token'){
+      var T=tokens();
+      docxZip.file('word/document.xml').async('string').then(function(xml){
+        docxZip.file('word/document.xml',tokenMerge(xml,T));
+        return docxZip.generateAsync({type:'blob'});
+      }).then(function(blob){var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download=(docxName.replace(/\.docx$/i,'')||'MSO-template')+'-DRAFT.docx';a.click();setTimeout(function(){URL.revokeObjectURL(u);},600);});
+    } else {
+      var b=new Blob([lastOut],{type:'text/plain;charset=utf-8'});var u=URL.createObjectURL(b);
+      var a=document.createElement('a');a.href=u;a.download='MSO-template-DRAFT.txt';a.click();setTimeout(function(){URL.revokeObjectURL(u);},600);
+    }
+  });
+})();
+
+/* ===================== FOOTER ===================== */
+document.getElementById('foot').innerHTML='Primary sources: ABA Model Rule 5.4 · ABA Formal Op. 91-360 · ABA Law Practice Magazine (Jan./Feb. 2026) · DLA Piper, "MSOs vs. ABS" (Jan. 2026) · Sidley Austin (Mar. 2026) · Bloomberg Law · The Lawyer · LawFuel · Texas Ethics Ops. 704 &amp; 706 · California AB 931 · Illinois HB 5487 · NYC Bar Formal Op. 2024-4. Compiled for the Polsinelli MSO Practice Area, June 2026.';
+</script>
+</body>
+</html>

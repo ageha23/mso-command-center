@@ -1,0 +1,41 @@
+name: Daily Ethics Watch update
+
+on:
+  schedule:
+    # 11:00 UTC = 6:00 AM America/Chicago (5:00 AM during CST) - before the workday starts.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-ethics-watch
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run daily search
+        run: python3 scripts/update_watch.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "mso-ethics-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/ethics-watch.json; then
+            echo "No new items today - nothing to commit."
+          else
+            git add data/ethics-watch.json
+            git commit -m "Daily Ethics Watch: $(date -u +%Y-%m-%d) automated update"
+            git push
+          fi
