@@ -1,8 +1,44 @@
 {
-  "lastRun": "2026-08-11T11:46:05.396995+00:00",
+  "lastRun": "2026-08-12T11:48:57.338970+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 33,
+  "addedThisRun": 12,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnZUMDE2V1I3RzJzX1lWa1dmSWI0YmpORzFza0JJU1oxb1RtUmhmdFBpMk1PTzNrbUJhazZfX3hxZWFGV011NVlfYVE5Q0RYdXlTaXY2Y0VGb013Nmp1eFRkQmJkLVN6Wi14LWVkaTNRMENveDdEOGNOMERFVENjYmM4RHR4bmN2Y2w5V0wwLUtkbVBPWkM2Sk5faU1DUTRob0NQZGpkS0I4Vk4xTGJ2ems2QUpfS3ZZ?oc=5",
+      "type": "article",
+      "title": "Law Bear Names Vanessa Soto Vice President of Intake Operations - 24-7 Press Release Newswire",
+      "date": "2026-08-12",
+      "source": "24-7 Press Release Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnZUMDE2V1I3RzJzX1lWa1dmSWI0YmpORzFza0JJU1oxb1RtUmhmdFBpMk1PTzNrbUJhazZfX3hxZWFGV011NVlfYVE5Q0RYdXlTaXY2Y0VGb013Nmp1eFRkQmJkLVN6Wi14LWVkaTNRMENveDdEOGNOMERFVENjYmM4RHR4bmN2Y2w5V0wwLUtkbVBPWkM2Sk5faU1DUTRob0NQZGpkS0I4Vk4xTGJ2ems2QUpfS3ZZ?oc=5",
+      "snippet": "Law Bear Names Vanessa Soto Vice President of Intake Operations &nbsp;&nbsp; 24-7 Press Release Newswire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZGJJYlhtMzctclF5U3RaVjgyVUJfZmxDVENTZzJERmRGbWsxWWI1dXZkb3hDcC1zYl9QOHoyQ3Vva1BNczhQRWhuczF6YzMyNm8tTXJKTFN2a0dYVGF4YnR6TzEwT0dyZndQekotTU1rODczY0tWY05zTm44dm5TTloxOFFZVkdTdldxQ0NJWi1DZDdjb01GeWg3c3dxN3RmVE04MU05Z0V4NExFQXcwR0lWMW9yaG55QWJKSklZOWFjaExDZkhCMUsyYzhDQjFqZE10Y2xrUXduQXpZ?oc=5",
+      "type": "article",
+      "title": "Singapore bankers, China-linked clients brace for Beijing’s scrutiny of offshore trusts - The Straits Times",
+      "date": "2026-08-12",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZGJJYlhtMzctclF5U3RaVjgyVUJfZmxDVENTZzJERmRGbWsxWWI1dXZkb3hDcC1zYl9QOHoyQ3Vva1BNczhQRWhuczF6YzMyNm8tTXJKTFN2a0dYVGF4YnR6TzEwT0dyZndQekotTU1rODczY0tWY05zTm44dm5TTloxOFFZVkdTdldxQ0NJWi1DZDdjb01GeWg3c3dxN3RmVE04MU05Z0V4NExFQXcwR0lWMW9yaG55QWJKSklZOWFjaExDZkhCMUsyYzhDQjFqZE10Y2xrUXduQXpZ?oc=5",
+      "snippet": "Singapore bankers, China-linked clients brace for Beijing’s scrutiny of offshore trusts &nbsp;&nbsp; The Straits Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzdyTGN2RTkwa2l5S2QtOHlsOW5jeFN6UDBLckZ0VE5TODA0bHVoZlY3RDB0Z1FQblV4VUFpTkJmUDhuUlZLQ00xTC1fR2w0UDdlYWhRY0dzcWZweFczY3BUUmlfMm12QVlkUTZIUXJXT0Q1QmwwSEVVY1c3Wl8tWGVQbjFnOFlsREdSb25qOWxoSTBfNXJzMFluUjI3WWhDWDRpX2hEV2pWUVNSR2tXa0gtMDN3b2tkSXRrNlFuTHAwWG8?oc=5",
+      "type": "article",
+      "title": "Chutes & Ladders— Humana names new Medicaid chief; Tufts Medicine CEO, CFO to exit - Fierce Healthcare",
+      "date": "2026-08-12",
+      "source": "Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzdyTGN2RTkwa2l5S2QtOHlsOW5jeFN6UDBLckZ0VE5TODA0bHVoZlY3RDB0Z1FQblV4VUFpTkJmUDhuUlZLQ00xTC1fR2w0UDdlYWhRY0dzcWZweFczY3BUUmlfMm12QVlkUTZIUXJXT0Q1QmwwSEVVY1c3Wl8tWGVQbjFnOFlsREdSb25qOWxoSTBfNXJzMFluUjI3WWhDWDRpX2hEV2pWUVNSR2tXa0gtMDN3b2tkSXRrNlFuTHAwWG8?oc=5",
+      "snippet": "Chutes & Ladders— Humana names new Medicaid chief; Tufts Medicine CEO, CFO to exit &nbsp;&nbsp; Fierce Healthcare"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlUwZ3BqQ2V1SWZoNWJ3RF9PNmdYdVlRNklDazNIaUZrenNCOWlRajgwWFgzS3hLTlpQQUE5UFNQMXl6QWVHLTVZWjRWM29Cb0RocGU1S0NRcE50NFlTWjFBYlU5VXFRZEllcnVXX2dESWR1MWhFekVqbkVoSW1PLU80VVBRQzNYeFdaUWxPZw?oc=5",
+      "type": "article",
+      "title": "Yankees receiving $2.6 billion in deal with Apollo Sports Capital - Newsday",
+      "date": "2026-08-12",
+      "source": "Newsday",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlUwZ3BqQ2V1SWZoNWJ3RF9PNmdYdVlRNklDazNIaUZrenNCOWlRajgwWFgzS3hLTlpQQUE5UFNQMXl6QWVHLTVZWjRWM29Cb0RocGU1S0NRcE50NFlTWjFBYlU5VXFRZEllcnVXX2dESWR1MWhFekVqbkVoSW1PLU80VVBRQzNYeFdaUWxPZw?oc=5",
+      "snippet": "Yankees receiving $2.6 billion in deal with Apollo Sports Capital &nbsp;&nbsp; Newsday"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi5gFBVV95cUxNal9uU2U2eFNzOWpnd1h3N1RKOHBzOWxPaGpwNEhDT01SSmhjRjE2cmplS1hBQ2ZGRE1ad2R5ZnJJcFNRc2FKcWNJMk1FdG1QVW5HMW9lOXFtWmFzaWhDYkhJdXBDY3JKTGw4T0UtQUlhTDhsMzFKcW8wd1ZzcjU0YnV6RWRaNVd4MkNlcHBJUUJEY0U5c043LWZ4MFZvQ1NJM1dRbEtLWl9RbTl0MzQxR1N6WjZObGp5enBBM05OQ2dJWmd1blNoUlVRRTd5cVVza0h4MGVKaDRMbGNvNHpwY1NWeHREZw?oc=5",
       "type": "article",
@@ -20,6 +56,60 @@
       "source": "Law.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc3hFa1p4SDR0Ml9kR1Q4eHc0MG9OcmdoWmVfM1JsTGZBcUhRTU1qalR4alBMNUVhdzM0TW9objB1aE5yYmtoZnc2cUpQS1R6MGtraUNDc0JZVmF0TzBaeUIxMHMtT1lUWTFua1lIV3liZnptWkR5eDBYa0hQa0dTYXlVS0xvQVVEdkY0bk9fM3Nkb2c2NVZfRVA3X2xDRldsbERqX3NLU1VfRVVJdzZJUWxUbEpWeUZ2YU1LZHBONFI4djRkUjVONEdwQng2TE93aFpUN1pUQnd2MnFwN29qTUZSNzFFOW1WRnJlandaVQ?oc=5",
       "snippet": "Judge May Advise Statewide Pre-Trial Services Association on Judicial Training: Judicial Ethics Opinion 26-09 &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekp3OXRJZE1vTmhYc2JGOEp5YmtqbW1yeWw2bnREWmk3UHhuc25scFU2VktzMG11NzAxRjFGU0pMTmtRR0x5Z0xvZnpXUVRQbmFxMXRaNlNZQjl5NUlFcXhWUTBsWUg2WHIybVVzNy1hNTFiMFZCSnp5dWxqQW9sLVRHN1NDYkY2Q2JMWkdlTE1mRV9BaXdJdVAtQ01IMWdOVXhXbWRMdl9Wa1FrT2xfWEFQd3I0SkJOSklhVDBuRzhFYXNEOVp1eE0tOTNCSDR3Z2FaYXRKaUNHWURxYW5pWkFB?oc=5",
+      "type": "article",
+      "title": "In New Assault on Trans Youth Care, Trump Administration Bars… - HRC | Human Rights Campaign",
+      "date": "2026-08-11",
+      "source": "HRC | Human Rights Campaign",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekp3OXRJZE1vTmhYc2JGOEp5YmtqbW1yeWw2bnREWmk3UHhuc25scFU2VktzMG11NzAxRjFGU0pMTmtRR0x5Z0xvZnpXUVRQbmFxMXRaNlNZQjl5NUlFcXhWUTBsWUg2WHIybVVzNy1hNTFiMFZCSnp5dWxqQW9sLVRHN1NDYkY2Q2JMWkdlTE1mRV9BaXdJdVAtQ01IMWdOVXhXbWRMdl9Wa1FrT2xfWEFQd3I0SkJOSklhVDBuRzhFYXNEOVp1eE0tOTNCSDR3Z2FaYXRKaUNHWURxYW5pWkFB?oc=5",
+      "snippet": "In New Assault on Trans Youth Care, Trump Administration Bars… &nbsp;&nbsp; HRC | Human Rights Campaign"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi2gJBVV95cUxOMzdrcVprTkZwaUE3RVZ6WkJ6dklXeFlmVkpfOVZ1Tnp3V3Q4T3Nnd29USzJQZmtkYk1LS2hFcjNXcHBWc1JmcHhkYnRYbEo3WEoxX0MyZ2JjMnJEN3ROaXJpYVY5TVFKWWEyNksyN2t0V0RpbzdJWU9GQzJFbENBUXlyaW44aW55Z0N5M3FGMTBBQlBOWG5DN1daOFlPWko5Mk5qNTNVR0hzZVRGVjhibjF5NHdKM3ctVUdKRUMyeDVEanFGRnVkRWVfUlU0bTdEeGhlMkpiWDJyZlFjZi1iUThYMVU2SjlZdVQtdUw2cVMyRGRIMjFpc3BjcVQtMkV6S0hzbmdZZ0FYRXhFbkU2SGp6OER0YkhDVHpobnlDdGxiUTIyS29hZlNCQlY5M01hQm4tb29oNmlzdnFSZmc2UFhGRXdQSkJIMnNsZUZQcDJoR2xaMmRhVVV3?oc=5",
+      "type": "article",
+      "title": "Deloitte study for ABSL: Romania strengthens its position as a strategic destination for the business services industry. The sector contributes 35.5 billion euros to the local economy - Deloitte",
+      "date": "2026-08-11",
+      "source": "Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOMzdrcVprTkZwaUE3RVZ6WkJ6dklXeFlmVkpfOVZ1Tnp3V3Q4T3Nnd29USzJQZmtkYk1LS2hFcjNXcHBWc1JmcHhkYnRYbEo3WEoxX0MyZ2JjMnJEN3ROaXJpYVY5TVFKWWEyNksyN2t0V0RpbzdJWU9GQzJFbENBUXlyaW44aW55Z0N5M3FGMTBBQlBOWG5DN1daOFlPWko5Mk5qNTNVR0hzZVRGVjhibjF5NHdKM3ctVUdKRUMyeDVEanFGRnVkRWVfUlU0bTdEeGhlMkpiWDJyZlFjZi1iUThYMVU2SjlZdVQtdUw2cVMyRGRIMjFpc3BjcVQtMkV6S0hzbmdZZ0FYRXhFbkU2SGp6OER0YkhDVHpobnlDdGxiUTIyS29hZlNCQlY5M01hQm4tb29oNmlzdnFSZmc2UFhGRXdQSkJIMnNsZUZQcDJoR2xaMmRhVVV3?oc=5",
+      "snippet": "Deloitte study for ABSL: Romania strengthens its position as a strategic destination for the business services industry. The sector contributes 35.5 billion euros to the local economy &nbsp;&nbsp; Deloitte"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGxVVjYzOFpHb2VxcjlxbHY5aUpIYkptZ3hnUFdkUlBDRGxVUkxId2RlaTRySjZrTmlGVHBoY0UzTWdYM2d3eVNBdFlQS2Y0VGNBNEpiYUM3VWFvR0VxQ2dmYTRaS0ZQT2pPQkdnYjczQW5kdlFnbVZjQzEtYkpZQVNSMTE2dklGc2VkRloycmo?oc=5",
+      "type": "article",
+      "title": "AI puts pressure on law firms’ billable hour model - Wisconsin Law Journal",
+      "date": "2026-08-11",
+      "source": "Wisconsin Law Journal",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGxVVjYzOFpHb2VxcjlxbHY5aUpIYkptZ3hnUFdkUlBDRGxVUkxId2RlaTRySjZrTmlGVHBoY0UzTWdYM2d3eVNBdFlQS2Y0VGNBNEpiYUM3VWFvR0VxQ2dmYTRaS0ZQT2pPQkdnYjczQW5kdlFnbVZjQzEtYkpZQVNSMTE2dklGc2VkRloycmo?oc=5",
+      "snippet": "AI puts pressure on law firms’ billable hour model &nbsp;&nbsp; Wisconsin Law Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1hxVUExNmxkc200S2dTVHdJc29pSEFuRElXRENVWE5FVm9XeFdFQzN5NTlBeC1pRjNTUFlJa180MGRpa2FHZ3E2ZnRCWHpXT2RUX1A2VHdCeXRUQV9NcEdCTVh6OEFwT3JrYzIzTkUxVGo0UmZ0c3hqUnFSdFMzclhLS0JVUG1oQ1VfTWl5QnlCUUZ0YWlxTHg2b01pUDFwLUk3VWxqVkpYTTZ3ZFFJMXBNbjdWX3N2NGlhYl8xckxmVXE4OXByMW9EdmJ6NXVWeUFva1FZUjRXb1pRYkJxOW9sLXc3Ml9nNXNKNWR5R1Z4UEU?oc=5",
+      "type": "article",
+      "title": "New Guzmán law takes on private equity’s growing influence in health care - Illinois Senate Democratic Caucus",
+      "date": "2026-08-11",
+      "source": "Illinois Senate Democratic Caucus",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1hxVUExNmxkc200S2dTVHdJc29pSEFuRElXRENVWE5FVm9XeFdFQzN5NTlBeC1pRjNTUFlJa180MGRpa2FHZ3E2ZnRCWHpXT2RUX1A2VHdCeXRUQV9NcEdCTVh6OEFwT3JrYzIzTkUxVGo0UmZ0c3hqUnFSdFMzclhLS0JVUG1oQ1VfTWl5QnlCUUZ0YWlxTHg2b01pUDFwLUk3VWxqVkpYTTZ3ZFFJMXBNbjdWX3N2NGlhYl8xckxmVXE4OXByMW9EdmJ6NXVWeUFva1FZUjRXb1pRYkJxOW9sLXc3Ml9nNXNKNWR5R1Z4UEU?oc=5",
+      "snippet": "New Guzmán law takes on private equity’s growing influence in health care &nbsp;&nbsp; Illinois Senate Democratic Caucus"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1lQeU9vN19NeURhN29WblN5a01tcEVkTEtSTmZ5VVJPbXZfSWNUVzRWX1VlSU9vZVBnZFQ4LUtFQVVtRG1RTHBUdVhzV2VGVF80RVJieTU4cmFDN2RnLVBqTkZBWFozX09ad1ozVF9qd2tfSWxmaG1KSi1DRGFxWnFxZHlZUHRhUTBzSHlNRzdZRTNIZVlyQnRR0gFWQVVfeXFMUFJDQ05pUlJVcnpnanJqVHN0S3NIbmJxNmhBYU9hbmlOWnZhYTlxUkdpdzNwQzJhTDBIT3hhb25Ed3plREc1VVNaVUREUWhLRkw2YnZ0dHc?oc=5",
+      "type": "article",
+      "title": "Apollo Sports Capital Plugs $2.6B Into NY Yankees - Law360",
+      "date": "2026-08-11",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1lQeU9vN19NeURhN29WblN5a01tcEVkTEtSTmZ5VVJPbXZfSWNUVzRWX1VlSU9vZVBnZFQ4LUtFQVVtRG1RTHBUdVhzV2VGVF80RVJieTU4cmFDN2RnLVBqTkZBWFozX09ad1ozVF9qd2tfSWxmaG1KSi1DRGFxWnFxZHlZUHRhUTBzSHlNRzdZRTNIZVlyQnRR0gFWQVVfeXFMUFJDQ05pUlJVcnpnanJqVHN0S3NIbmJxNmhBYU9hbmlOWnZhYTlxUkdpdzNwQzJhTDBIT3hhb25Ed3plREc1VVNaVUREUWhLRkw2YnZ0dHc?oc=5",
+      "snippet": "Apollo Sports Capital Plugs $2.6B Into NY Yankees &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxPZC0xRXFiZWUwd3JPejZsT2haQ1gwQ3kwRXdmUVFTbEIxV2xSbUNZOUprRHJuZDVRVnY4emJmTEhqY0k0czVNN096QjRfUDZkY1c3QzhjSXJPMmJRaTdqNHh0clBMYWRTNFlwRUJMaXQxY0hlN3NiOUQxbnV1UjBEUkYwdXZDcWhIS0tOZXZ6cE16NWZ1UUZIS2VYTno0MmpvZkZfTEZ1XzlPQlpxbi1HUHFvV19XZ9IBuwFBVV95cUxQdGplRnNSRzFSbm5acFZyb0tzQkhGQzdyY3NqbmRrSF9STUpFUkxoRTVwSnR0a1ItNlFZN1BUQ0QwWXpvN1F2bkxWWW9KeVlVR1ZKblRnX2NyZHZGNjR4ZE9ET1NEQkMzQllOQ1RlS2lzLXc2eHBuYXNZUTM5aVZ2aXFRd1FSSDBwdGxwZUxJSmZVOGVYSFNFTmE1TGRYQXBpT1hnSEFyUmg5RU1oYklFWjJFM3A3b2g4aFFJ?oc=5",
+      "type": "article",
+      "title": "The New Playbook: Eight Key Takeaways on How and Why Institutional Investors Are Reshaping Professional Sports Ownership - The National Law Review",
+      "date": "2026-08-11",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZC0xRXFiZWUwd3JPejZsT2haQ1gwQ3kwRXdmUVFTbEIxV2xSbUNZOUprRHJuZDVRVnY4emJmTEhqY0k0czVNN096QjRfUDZkY1c3QzhjSXJPMmJRaTdqNHh0clBMYWRTNFlwRUJMaXQxY0hlN3NiOUQxbnV1UjBEUkYwdXZDcWhIS0tOZXZ6cE16NWZ1UUZIS2VYTno0MmpvZkZfTEZ1XzlPQlpxbi1HUHFvV19XZ9IBuwFBVV95cUxQdGplRnNSRzFSbm5acFZyb0tzQkhGQzdyY3NqbmRrSF9STUpFUkxoRTVwSnR0a1ItNlFZN1BUQ0QwWXpvN1F2bkxWWW9KeVlVR1ZKblRnX2NyZHZGNjR4ZE9ET1NEQkMzQllOQ1RlS2lzLXc2eHBuYXNZUTM5aVZ2aXFRd1FSSDBwdGxwZUxJSmZVOGVYSFNFTmE1TGRYQXBpT1hnSEFyUmg5RU1oYklFWjJFM3A3b2g4aFFJ?oc=5",
+      "snippet": "The New Playbook: Eight Key Takeaways on How and Why Institutional Investors Are Reshaping Professional Sports Ownership &nbsp;&nbsp; The National Law Review"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDRoQXFjTE1Id0dqUWo4V29PbUJGdnZtZlREZ2xpUHktLVIyNW9NdzAxTW44NnFzTVBUVnkyc2dQOGVvdVR2SjBFczhJdTZhNDZRQVh6TFZDdGNMQ0NXcHE0dmE2RGRRRERlU0E4TTFvbEh3c3RoaWJJb1lrekpKQzBBNHFDT2FGOHRfRk9iNEVJLVBtX2ZDWU5WdFNkR2hoeHJYT1NXWlhYZw?oc=5",
@@ -227,6 +317,24 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2dWZkg0Y3YyZU0wckQwS3V6bDNINVFMdzN3N1BYQTgxejd4WDFfOFI3bHdmb2paVFRvd21PdFNtV05lUzNXcXZGZUVTaDR2RXJaTmFzY0ZrTXdrWTYzTWVoNGEzODhqcXBVanIzdkUteTFyV2I1UzhLcml2eWxOTDZFYlM5cGJBSlFYQjZkNnZBRW51b3MxSy1fcVJZci1ZbDZoRi1FUU5lQdIBVkFVX3lxTFBiMC1BWUZNdG96RklvOU55ZHpVUnBJbllMZEtPa2NkX1hhdGJwZ2JuSG90NFBlRHpHbEhHbHJGMllsQ1I2TnhlOWtWNjczc2Nvay1ncXh3?oc=5",
       "snippet": "Biz Owners Appeal Morgan Lewis Win In Tax Shelter Suit &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxOeE82Tnc5WnVkcVF0bUVOQ1ZLcUVmUmstaDFzdDN1VnNLSmc5eUdUMGJNdHZKXzBaRzZLel91SjEyNFZsYUtKV3R2aXgxaktYVHhhb0ZhbG1DVjFkRFJhbFZNY1A3djBOZktMa0c3djdmNjMyMklTajlJdWNoRHo4aEpONnl5OXhnYkZJV1B6ekZfV0hFQ3ZpZUp0eWRLU0J4dkJJQ3daX3QzVEd1?oc=5",
+      "type": "article",
+      "title": "SPAC King Attorney Weighs Selling Stake in His Own NYC Law Firm - Bloomberg Law News",
+      "date": "2026-08-10",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeE82Tnc5WnVkcVF0bUVOQ1ZLcUVmUmstaDFzdDN1VnNLSmc5eUdUMGJNdHZKXzBaRzZLel91SjEyNFZsYUtKV3R2aXgxaktYVHhhb0ZhbG1DVjFkRFJhbFZNY1A3djBOZktMa0c3djdmNjMyMklTajlJdWNoRHo4aEpONnl5OXhnYkZJV1B6ekZfV0hFQ3ZpZUp0eWRLU0J4dkJJQ3daX3QzVEd1?oc=5",
+      "snippet": "SPAC King Attorney Weighs Selling Stake in His Own NYC Law Firm &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3B5aDJvdmVSSS1WR1l5T3g0eS1wdWQySjROakVibUxVRHkzT3VYdWVPM1RkSVFoMWY5bVhZaXkwTDQ5aWpPcXFKZV8xVVpXTGdiUXJkdExYT2E4bndCUE9JQXZEVUtTMUdpdUZFMmREb0lJUDQ5Y0FXQXkwdmhldTJydUZPWTBhMVBvTjlEbFNmVEI4WlpJVWJHUl9NME5FY0dickRhVnp5Y3VNRGc3VDVVeDU4Y1NG0gG4AUFVX3lxTFBzcHloMm92ZVJJLVZHWXlPeDR5LXB1ZDJKNE5qRWJtTFVEeTNPdVh1ZU8zVGRJUWgxZjltWFlpeTBMNDlpak9xcUplXzFVWldMZ2JRcmR0TFhPYThud0JQT0lBdkRVS1MxR2l1RkUyZERvSUlQNDljQVdBeTB2aGV1MnJ1Rk9ZMGExUG9OOURsU2ZUQjhaWklVYkdSX00wTkVjR2JyRGFWenljdU1EZzdUNVV4NThjU0Y?oc=5",
+      "type": "article",
+      "title": "Court of Chancery Reaffirms That Minority Members of Manager-Managed LLCs Do Not Ordinarily Owe Fiduciary Duties - The National Law Review",
+      "date": "2026-08-10",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3B5aDJvdmVSSS1WR1l5T3g0eS1wdWQySjROakVibUxVRHkzT3VYdWVPM1RkSVFoMWY5bVhZaXkwTDQ5aWpPcXFKZV8xVVpXTGdiUXJkdExYT2E4bndCUE9JQXZEVUtTMUdpdUZFMmREb0lJUDQ5Y0FXQXkwdmhldTJydUZPWTBhMVBvTjlEbFNmVEI4WlpJVWJHUl9NME5FY0dickRhVnp5Y3VNRGc3VDVVeDU4Y1NG0gG4AUFVX3lxTFBzcHloMm92ZVJJLVZHWXlPeDR5LXB1ZDJKNE5qRWJtTFVEeTNPdVh1ZU8zVGRJUWgxZjltWFlpeTBMNDlpak9xcUplXzFVWldMZ2JRcmR0TFhPYThud0JQT0lBdkRVS1MxR2l1RkUyZERvSUlQNDljQVdBeTB2aGV1MnJ1Rk9ZMGExUG9OOURsU2ZUQjhaWklVYkdSX00wTkVjR2JyRGFWenljdU1EZzdUNVV4NThjU0Y?oc=5",
+      "snippet": "Court of Chancery Reaffirms That Minority Members of Manager-Managed LLCs Do Not Ordinarily Owe Fiduciary Duties &nbsp;&nbsp; The National Law Review"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zNHhNa0JrUWdheTNnUXE0bnV4UkFycnpqbzk5U1J5ODkwd1RzeFZUTjI0cVRpTjVPSUxSeW9jZnBrNVU4alAxTG9YcG5lczV2RFVaYkhxcHBJYlkt?oc=5",
