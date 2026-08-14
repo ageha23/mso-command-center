@@ -1,8 +1,116 @@
 {
-  "lastRun": "2026-08-13T11:50:00.309353+00:00",
+  "lastRun": "2026-08-14T11:45:34.432128+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 10,
+  "addedThisRun": 13,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVAwNHZyQTctMS03eDBWd3VxX1lNblNxQTdYdGkzTVNBMlFPc0VQdmxMZWRXYlNYYnlPZEZwVHhPSXlHeDhqZ2tqazZMY0RPS09HTXd2YmZTZjdTb09uTFB3MmNCRzVqZURJSFFrV2hZenJyWF9faW5PM2ZTN3JrNVpYbW9NOVY4aGdBRzB0S08?oc=5",
+      "type": "article",
+      "title": "ABS insight: The 'Tesco Law' that never happened - The Law Society Gazette",
+      "date": "2026-08-14",
+      "source": "The Law Society Gazette",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVAwNHZyQTctMS03eDBWd3VxX1lNblNxQTdYdGkzTVNBMlFPc0VQdmxMZWRXYlNYYnlPZEZwVHhPSXlHeDhqZ2tqazZMY0RPS09HTXd2YmZTZjdTb09uTFB3MmNCRzVqZURJSFFrV2hZenJyWF9faW5PM2ZTN3JrNVpYbW9NOVY4aGdBRzB0S08?oc=5",
+      "snippet": "ABS insight: The 'Tesco Law' that never happened &nbsp;&nbsp; The Law Society Gazette"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVpuV2g0Q0IxZmhpaHJXeDhCc3JoaDdjbDlmUlVPdUlBWW1HV29TTHYtYl91SmVuVEdwOWZleW9EYlhBR2tnS1gzaVA3eXJDajRKc25BSUZqaG5YRWM3dHRNNVdYYlV5WDdrV081V3dlZEI5S2RnLW9RZ0dLOFVUc2JiTHZlY3NsSWJ2dGpqZDNDVkRLa1djY0I2aXNneGZyVFM0N1d1bW1aRy0wa29kejhHLWFNZw?oc=5",
+      "type": "article",
+      "title": "States are cracking down on DSO deals. Is yours next? - drbicuspid.com",
+      "date": "2026-08-14",
+      "source": "drbicuspid.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVpuV2g0Q0IxZmhpaHJXeDhCc3JoaDdjbDlmUlVPdUlBWW1HV29TTHYtYl91SmVuVEdwOWZleW9EYlhBR2tnS1gzaVA3eXJDajRKc25BSUZqaG5YRWM3dHRNNVdYYlV5WDdrV081V3dlZEI5S2RnLW9RZ0dLOFVUc2JiTHZlY3NsSWJ2dGpqZDNDVkRLa1djY0I2aXNneGZyVFM0N1d1bW1aRy0wa29kejhHLWFNZw?oc=5",
+      "snippet": "States are cracking down on DSO deals. Is yours next? &nbsp;&nbsp; drbicuspid.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijgJBVV95cUxPN3ItcnBUaVFIYW1PekpVZWwxdV9ycXRJbkVQRkNNbEk4SGJzRWVKNUs0UkY0UnA4bEdVWWNyYkc3S2xLc000QWJTNFg4SkxfT3Z1MUVoM2xLYk4ya193UmZjVTlWcEg0R1hvM1FNMU5GcWMwdGR0VWdUTjQ4bWQ4RnRzaUF6Yi03MHNLZFVINHNmZzZlaHdXZUZna3BFSm9SYzg4b09ZZFFhMVBLbm9jSE80RW45RjhncXhXeWtiY0pWNVoxX1FtRUZDZl9nd2otanFOcXM0T2cyLU5PdWp5ZFFiN0hnVDVBNi1yX0Q3VEFOQlJMekN1aHdPTWhFM3NmdDJBSUEtZ0pJSUpMMlE?oc=5",
+      "type": "article",
+      "title": "Pa. has quietly passed a law undermining a court decision on lucrative mineral rights - The Latrobe Bulletin",
+      "date": "2026-08-14",
+      "source": "The Latrobe Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPN3ItcnBUaVFIYW1PekpVZWwxdV9ycXRJbkVQRkNNbEk4SGJzRWVKNUs0UkY0UnA4bEdVWWNyYkc3S2xLc000QWJTNFg4SkxfT3Z1MUVoM2xLYk4ya193UmZjVTlWcEg0R1hvM1FNMU5GcWMwdGR0VWdUTjQ4bWQ4RnRzaUF6Yi03MHNLZFVINHNmZzZlaHdXZUZna3BFSm9SYzg4b09ZZFFhMVBLbm9jSE80RW45RjhncXhXeWtiY0pWNVoxX1FtRUZDZl9nd2otanFOcXM0T2cyLU5PdWp5ZFFiN0hnVDVBNi1yX0Q3VEFOQlJMekN1aHdPTWhFM3NmdDJBSUEtZ0pJSUpMMlE?oc=5",
+      "snippet": "Pa. has quietly passed a law undermining a court decision on lucrative mineral rights &nbsp;&nbsp; The Latrobe Bulletin"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmxvbmdpaGQyME01YTNnNk1OSVN5Q3FnVVdiT2ZNMGJRZGVhY3JHNzBNdF9uWC1nbmc4U3lRSVVzSDVBMDFKX25fZ1JscWRSV1phX01FTHVxajhnR21JSVhwMWllcFozVTY4cTA3VUdEYzd0WEdNZzNFdnFGUUl2dHdtZTdCNGttR2hTX2xWMzEwMTDSAVZBVV95cUxNT29Jbm93QkYyYUtCT0FvTW1YdGQ5U0R0RHN0OVd5ZHdJeTVHM05VSDVxM2h4T0NTSWFGM1NvUVdrWHljN0UySFhWVFBSby1aRmVVTFM4Zw?oc=5",
+      "type": "article",
+      "title": "J&J Says No To Reviving Stelara Case - Law360",
+      "date": "2026-08-14",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmxvbmdpaGQyME01YTNnNk1OSVN5Q3FnVVdiT2ZNMGJRZGVhY3JHNzBNdF9uWC1nbmc4U3lRSVVzSDVBMDFKX25fZ1JscWRSV1phX01FTHVxajhnR21JSVhwMWllcFozVTY4cTA3VUdEYzd0WEdNZzNFdnFGUUl2dHdtZTdCNGttR2hTX2xWMzEwMTDSAVZBVV95cUxNT29Jbm93QkYyYUtCT0FvTW1YdGQ5U0R0RHN0OVd5ZHdJeTVHM05VSDVxM2h4T0NTSWFGM1NvUVdrWHljN0UySFhWVFBSby1aRmVVTFM4Zw?oc=5",
+      "snippet": "J&J Says No To Reviving Stelara Case &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTFOcEZHSlVkZ0MwTU9ndUFfSWtmQUhjZXVqR3lXZWtaRWhPQ1o5ZFpHdmw0MnUxVXExLWFPYWZ0ZXVIT3VuUmMtblF6QlJTLXBkWEJtRTJTM3VEOVV0YXVrUWJoaDRjWlBTdUdVR2dzcHB6dFpidldBeE1oOUlHb3RZQ3Z1Z0FtbHpJdTAxYkpwb3BTdXlWSjUyUERlZThuWllNWExQSm9mVTVjVjRIVmZuMmU4QkY1MWtJNEtqc1FsNWM?oc=5",
+      "type": "article",
+      "title": "Cyrus Das honoured with Malaysian Bar Lifetime Achievement Award - Free Malaysia Today",
+      "date": "2026-08-14",
+      "source": "Free Malaysia Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTFOcEZHSlVkZ0MwTU9ndUFfSWtmQUhjZXVqR3lXZWtaRWhPQ1o5ZFpHdmw0MnUxVXExLWFPYWZ0ZXVIT3VuUmMtblF6QlJTLXBkWEJtRTJTM3VEOVV0YXVrUWJoaDRjWlBTdUdVR2dzcHB6dFpidldBeE1oOUlHb3RZQ3Z1Z0FtbHpJdTAxYkpwb3BTdXlWSjUyUERlZThuWllNWExQSm9mVTVjVjRIVmZuMmU4QkY1MWtJNEtqc1FsNWM?oc=5",
+      "snippet": "Cyrus Das honoured with Malaysian Bar Lifetime Achievement Award &nbsp;&nbsp; Free Malaysia Today"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMidkFVX3lxTE9VblBHU1FScDc4Q2VIMDRqUmhWbmk5ZVdpaU8xQ0xSMWF1dXFRU1UxdTdKZ0RuZ09ZM3E0UG1RYUFQc09rSWdwWHZJNlBDbDZ2dGpPNDFMV3h1ekhvMVBobHZ1RXpNLVkwaUJDdEZIUzlsU1o2cEE?oc=5",
+      "type": "article",
+      "title": "It’s ‘Follow the PE Leader’ in Big Law - Law.com",
+      "date": "2026-08-13",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VblBHU1FScDc4Q2VIMDRqUmhWbmk5ZVdpaU8xQ0xSMWF1dXFRU1UxdTdKZ0RuZ09ZM3E0UG1RYUFQc09rSWdwWHZJNlBDbDZ2dGpPNDFMV3h1ekhvMVBobHZ1RXpNLVkwaUJDdEZIUzlsU1o2cEE?oc=5",
+      "snippet": "It’s ‘Follow the PE Leader’ in Big Law &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjBacHR6alVCWjdEYlZ4alAta1dkTWlDaEJwMVNoMVlxWjE0dWlET0kybFZJbWpnZXNxTXNJQkFJMW8tRmFzSUg1Z0VFaFI5SWh2N3A2VW80Nm1CSTRIV0hoMEdjYnUtekhoUGVUZUxrZ2EyMXVHdVB0dDBaSHRtaU1fMGEyemtQQ0RBS2JTM2lnLW41OXVQOUlQTkRQR1FUa2xjamRjaXdBa1E?oc=5",
+      "type": "article",
+      "title": "US Supreme Court case tests fees for immigration detainees - Reuters",
+      "date": "2026-08-13",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjBacHR6alVCWjdEYlZ4alAta1dkTWlDaEJwMVNoMVlxWjE0dWlET0kybFZJbWpnZXNxTXNJQkFJMW8tRmFzSUg1Z0VFaFI5SWh2N3A2VW80Nm1CSTRIV0hoMEdjYnUtekhoUGVUZUxrZ2EyMXVHdVB0dDBaSHRtaU1fMGEyemtQQ0RBS2JTM2lnLW41OXVQOUlQTkRQR1FUa2xjamRjaXdBa1E?oc=5",
+      "snippet": "US Supreme Court case tests fees for immigration detainees &nbsp;&nbsp; Reuters"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXNCcEo0MmQ1VTk5TXB1b3J3ZDM4VkIwZldJczdiMW5iYTF3aE1FNjRqVVM3UFBJX0ZpcGpNM0FueUZ1bEZGWTlydW9VNHVOY3hJNm1YLTNIUkQ0b3o5RUR3em1VN2ZUWThDTUVzam05WEdKZ0JlRmtnRDhpRmdiVHlwWk9TaDFqdEdsR0RwS2c1ZDMyeDl5aHVvUmwyRkZzOVpTbFpwT2xPWEludDhVUnlLMA?oc=5",
+      "type": "article",
+      "title": "CMOs have raised their game. Now law firms need to raise theirs. - Lawdragon",
+      "date": "2026-08-13",
+      "source": "Lawdragon",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXNCcEo0MmQ1VTk5TXB1b3J3ZDM4VkIwZldJczdiMW5iYTF3aE1FNjRqVVM3UFBJX0ZpcGpNM0FueUZ1bEZGWTlydW9VNHVOY3hJNm1YLTNIUkQ0b3o5RUR3em1VN2ZUWThDTUVzam05WEdKZ0JlRmtnRDhpRmdiVHlwWk9TaDFqdEdsR0RwS2c1ZDMyeDl5aHVvUmwyRkZzOVpTbFpwT2xPWEludDhVUnlLMA?oc=5",
+      "snippet": "CMOs have raised their game. Now law firms need to raise theirs. &nbsp;&nbsp; Lawdragon"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkctQUJNWGdmb0I2TW5jTHRtaW5aNHhqZFEtWEllZzdEX3h2QmtENFF6Q2xlQUczRkgtV0NoV2lmMVR0bnl2LVJPdTU2Y2wxOW8tamhjVHphejlMU1hGQlNvWG1KWXZFXy1VUWo3Ym56eVJWVGhjWkFBSHdMSzd1TXlRNEs3Tk5YS1JGeEFiNlJINFQ4LWZzanNjQ04?oc=5",
+      "type": "article",
+      "title": "Unregulated divorce service poised to launch law firm - Legal Futures",
+      "date": "2026-08-13",
+      "source": "Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkctQUJNWGdmb0I2TW5jTHRtaW5aNHhqZFEtWEllZzdEX3h2QmtENFF6Q2xlQUczRkgtV0NoV2lmMVR0bnl2LVJPdTU2Y2wxOW8tamhjVHphejlMU1hGQlNvWG1KWXZFXy1VUWo3Ym56eVJWVGhjWkFBSHdMSzd1TXlRNEs3Tk5YS1JGeEFiNlJINFQ4LWZzanNjQ04?oc=5",
+      "snippet": "Unregulated divorce service poised to launch law firm &nbsp;&nbsp; Legal Futures"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXU3N2dpeUV4S3plUkk3dUM3V09CeTBWWFM3UGdrUGgyeWtiN2ROazdKMEN4elltV1lfQnFWQ203bWZPcEdobTVudk9Qa01ZQWJyM200NmlJYWwyWWc5eXVWQm1MNlViel9xRzhxemllUm9WQTZraUFMYTA1eWxsTW1UOTZXYkNmcFNsX3VPd1ZSS2w4OTQyTGduVjU4SmJLbHp2Z3lidnFPOEVuNWpnd2RicDRyelJOOFZB?oc=5",
+      "type": "article",
+      "title": "Houston law firm with ties to Trump administration declines offer to represent migrant children - ABC7 New York",
+      "date": "2026-08-13",
+      "source": "ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXU3N2dpeUV4S3plUkk3dUM3V09CeTBWWFM3UGdrUGgyeWtiN2ROazdKMEN4elltV1lfQnFWQ203bWZPcEdobTVudk9Qa01ZQWJyM200NmlJYWwyWWc5eXVWQm1MNlViel9xRzhxemllUm9WQTZraUFMYTA1eWxsTW1UOTZXYkNmcFNsX3VPd1ZSS2w4OTQyTGduVjU4SmJLbHp2Z3lidnFPOEVuNWpnd2RicDRyelJOOFZB?oc=5",
+      "snippet": "Houston law firm with ties to Trump administration declines offer to represent migrant children &nbsp;&nbsp; ABC7 New York"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOEZDR1FDVklBcldfRnNXM1dBUTFnVHFLX3R0WGZtN3ViQ0FkWTRLTVZfT2RJbjhNd0FBQjVuTVJyWHBUTmVzS3VOZ3cxWlhCemZybDVqTmU0YnF0ZFJ4a0dQOG1sT2EwcmdXdUpER05pU3MxVGxvUGFHejhsZUJVVjE3VHBFQmV2MjZqYkNaM0s4RFJOU2VYM0FQZThST0xqVFA2SUJfN3VUQ3FscWZSUG50enJRTUYybnR5dGpBbEpWdkV2RGpUX1VEMTFTWFdycWk0d3N3NXFNWTZVYXoyOUZCUVo?oc=5",
+      "type": "article",
+      "title": "Hastings law cracks down on private influence of law firms - Illinois Senate Democratic Caucus",
+      "date": "2026-08-13",
+      "source": "Illinois Senate Democratic Caucus",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOEZDR1FDVklBcldfRnNXM1dBUTFnVHFLX3R0WGZtN3ViQ0FkWTRLTVZfT2RJbjhNd0FBQjVuTVJyWHBUTmVzS3VOZ3cxWlhCemZybDVqTmU0YnF0ZFJ4a0dQOG1sT2EwcmdXdUpER05pU3MxVGxvUGFHejhsZUJVVjE3VHBFQmV2MjZqYkNaM0s4RFJOU2VYM0FQZThST0xqVFA2SUJfN3VUQ3FscWZSUG50enJRTUYybnR5dGpBbEpWdkV2RGpUX1VEMTFTWFdycWk0d3N3NXFNWTZVYXoyOUZCUVo?oc=5",
+      "snippet": "Hastings law cracks down on private influence of law firms &nbsp;&nbsp; Illinois Senate Democratic Caucus"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlMxWUs0SmdfNklzVEJXa0lnQ0ItZDEyS0NHMEhCZDBQVVQydHZlTzE1WEtkNDYyU1NpRjRZOXM4MVVkMkZWcmQ5ZmtXSmx0MjVjNUdyY05Yc2ktVzhScXdRUDB4dnpYdU8xRTNkQm5mTVhxWkJMUTVoMDFPeFIzbzVsWkh6MHBlLWhUSmtTRWxnbk1iNV91dk9zRldiOE4wR0wxb2U5U21KZmhNNkFoeGJPcw?oc=5",
+      "type": "article",
+      "title": "Yankees’ Apollo Deal Offers Glimpse of Big Law’s Sports Thesis - news.bloombergtax.com",
+      "date": "2026-08-13",
+      "source": "news.bloombergtax.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlMxWUs0SmdfNklzVEJXa0lnQ0ItZDEyS0NHMEhCZDBQVVQydHZlTzE1WEtkNDYyU1NpRjRZOXM4MVVkMkZWcmQ5ZmtXSmx0MjVjNUdyY05Yc2ktVzhScXdRUDB4dnpYdU8xRTNkQm5mTVhxWkJMUTVoMDFPeFIzbzVsWkh6MHBlLWhUSmtTRWxnbk1iNV91dk9zRldiOE4wR0wxb2U5U21KZmhNNkFoeGJPcw?oc=5",
+      "snippet": "Yankees’ Apollo Deal Offers Glimpse of Big Law’s Sports Thesis &nbsp;&nbsp; news.bloombergtax.com"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnZUMDE2V1I3RzJzX1lWa1dmSWI0YmpORzFza0JJU1oxb1RtUmhmdFBpMk1PTzNrbUJhazZfX3hxZWFGV011NVlfYVE5Q0RYdXlTaXY2Y0VGb013Nmp1eFRkQmJkLVN6Wi14LWVkaTNRMENveDdEOGNOMERFVENjYmM4RHR4bmN2Y2w5V0wwLUtkbVBPWkM2Sk5faU1DUTRob0NQZGpkS0I4Vk4xTGJ2ems2QUpfS3ZZ?oc=5",
       "type": "article",
@@ -74,6 +182,15 @@
       "source": "NPR",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZHlIQnhBbElpYjgzdldTTjM5OHpXeW4yTXIxSDBOcVZXTkxDcGl1Z2RBdkV3eDdxdks0dWxJbWpOcHN5T0QzVkNFaWFhSUF4VzJITVZYMzFya05oaFAySHppSHFRYThfaC1iTkFCY2VvZjdPdkg1Y0pDNWw?oc=5",
       "snippet": "Controversial group wins $158M-contract to represent unaccompanied immigrant children &nbsp;&nbsp; NPR"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDhpaEpCVU1YdlNGWUphbE5jY1laalJJd21IRTJSdDU2VWtYRnJLWFNmY3NpQzVKTnJyNDFYQURsLTlvLWpucTNwR29VTzB5TVBIRmpVLTdMcmp4S2U1aXB3aXdGQm5XV0xlam0xMllKdlIyWFVUVEZ1ODVXN3dvdDVOc2tCaUJ1dVBFbGw3SlFITWxjblN3ZS16YTNUNm5yU3FvRUVWbjBlSnl3VGQ3VFZB0gFWQVVfeXFMUDMtN2ZWS0hQbzJPbWxZcFlHMkhBaXRtZktsLUpKV3h0WndwTWVYbkFmOW92eUpZcXNycXZ3VTllNGlQTmxPZklVV3dXamVacXRXOEpXWGc?oc=5",
+      "type": "article",
+      "title": "Brazilian FC Share Sale Blocked In £24M Ownership Dispute - Law360",
+      "date": "2026-08-12",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDhpaEpCVU1YdlNGWUphbE5jY1laalJJd21IRTJSdDU2VWtYRnJLWFNmY3NpQzVKTnJyNDFYQURsLTlvLWpucTNwR29VTzB5TVBIRmpVLTdMcmp4S2U1aXB3aXdGQm5XV0xlam0xMllKdlIyWFVUVEZ1ODVXN3dvdDVOc2tCaUJ1dVBFbGw3SlFITWxjblN3ZS16YTNUNm5yU3FvRUVWbjBlSnl3VGQ3VFZB0gFWQVVfeXFMUDMtN2ZWS0hQbzJPbWxZcFlHMkhBaXRtZktsLUpKV3h0WndwTWVYbkFmOW92eUpZcXNycXZ3VTllNGlQTmxPZklVV3dXamVacXRXOEpXWGc?oc=5",
+      "snippet": "Brazilian FC Share Sale Blocked In £24M Ownership Dispute &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi5gFBVV95cUxNal9uU2U2eFNzOWpnd1h3N1RKOHBzOWxPaGpwNEhDT01SSmhjRjE2cmplS1hBQ2ZGRE1ad2R5ZnJJcFNRc2FKcWNJMk1FdG1QVW5HMW9lOXFtWmFzaWhDYkhJdXBDY3JKTGw4T0UtQUlhTDhsMzFKcW8wd1ZzcjU0YnV6RWRaNVd4MkNlcHBJUUJEY0U5c043LWZ4MFZvQ1NJM1dRbEtLWl9RbTl0MzQxR1N6WjZObGp5enBBM05OQ2dJWmd1blNoUlVRRTd5cVVza0h4MGVKaDRMbGNvNHpwY1NWeHREZw?oc=5",
