@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-08-15T11:22:22.035620+00:00",
+  "lastRun": "2026-08-16T11:22:40.094824+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 13,
+  "addedThisRun": 7,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUkdMRUJZUnJRYkJpUjZ5WjlXNDhJZGg1N0s1Z1ZZb3F3Y0FuSEhKRHVlNUNOM1hvakIyYXRGNjd1dWlmNG5yTHpJdWZDRWdMT2VKdFpuaTFEOGNleU1tSFREMFBwNm5MU1pnSHdYLTRhMGFwYjJRRElZNXVqbGx3Mm1mcUZJbnM3b2p1TEI4MWFUNXM2MUV5NmQ3V0poMXJlUlBiemJjSjRuYm1vcWxsSnpJQ1hrdGN4ckpOUlM5bEVCSWE1VVpPcnRpNUNSTVg1Mkc2TXZ1ekExaFQzXzN2RmllWlpDQ0p4Z3c?oc=5",
@@ -20,6 +20,24 @@
       "source": "The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1NZeTZFV0cxMWpKXy1WVEVGcWhMTXVmd016MjZKYk40ME51dEdyNkllbFBZa2tUUEhNZTR1bHU0T241RnI1YUdCTVA3ckpkWnNoQTJ5dEpwU0FRSjczS1hqb0VtRlRZUFBvUlpaTzZzOGd4bi1tNUFFc05sTm1VbWJlQ3JydnZVYkRKTWVLRnVQYjZtQjkydVRvaVFQMjVMR1lZ?oc=5",
       "snippet": "How Trump Is Trying to Weaken Migrant Children’s Legal Defense &nbsp;&nbsp; The New Yorker"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGpLaUpCSFVaM0VmSWdUWGtwbXdvbkFmaDcyNW9XR1FMTEg1UDhaNGRPV3JsbUJFVUFqbE9zM2pDM3dnQk41OW5nRmZTZ0E3OVdXaEtZdnRmWlV6LWJvNnU1SnBBczhScGVQbDU0aXpWSnktR0RnbFQtN0ZuSGRTYjVSSlhEUEpjUVIwdzh1TmFnM3Z3d1Nlem5kcUxnNEVaRm5ydm5wVEljdFlvaV9mSzJTY054TjNIbVd1WWZB0gG-AUFVX3lxTE9saktpSkJIVVozRWZJZ1RYa3Btd29uQWZoNzI1b1dHUUxMSDVQOFo0ZE9XcmxtQkVVQWpsT3MzakMzd2dCTjU5bmdGZlNnQTc5V1doS1l2dGZaVXotYm82dTVKcEFzOFJwZVBsNTRpelZKeS1HRGdsVC03Rm5IZFNiNVJKWERQSmNRUjB3OHVOYWczdnd3U2V6bmRxTGc0RVpGbnJ2bnBUSWN0WW9pX2ZLMlNjTnhOM0htV3VZZkE?oc=5",
+      "type": "article",
+      "title": "Star Equity To Acquire Harte Hanks For $38.4 Million, Targeting $10 Million In Annual Cost Synergies - Pulse 2.0",
+      "date": "2026-08-15",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGpLaUpCSFVaM0VmSWdUWGtwbXdvbkFmaDcyNW9XR1FMTEg1UDhaNGRPV3JsbUJFVUFqbE9zM2pDM3dnQk41OW5nRmZTZ0E3OVdXaEtZdnRmWlV6LWJvNnU1SnBBczhScGVQbDU0aXpWSnktR0RnbFQtN0ZuSGRTYjVSSlhEUEpjUVIwdzh1TmFnM3Z3d1Nlem5kcUxnNEVaRm5ydm5wVEljdFlvaV9mSzJTY054TjNIbVd1WWZB0gG-AUFVX3lxTE9saktpSkJIVVozRWZJZ1RYa3Btd29uQWZoNzI1b1dHUUxMSDVQOFo0ZE9XcmxtQkVVQWpsT3MzakMzd2dCTjU5bmdGZlNnQTc5V1doS1l2dGZaVXotYm82dTVKcEFzOFJwZVBsNTRpelZKeS1HRGdsVC03Rm5IZFNiNVJKWERQSmNRUjB3OHVOYWczdnd3U2V6bmRxTGc0RVpGbnJ2bnBUSWN0WW9pX2ZLMlNjTnhOM0htV3VZZkE?oc=5",
+      "snippet": "Star Equity To Acquire Harte Hanks For $38.4 Million, Targeting $10 Million In Annual Cost Synergies &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVVnWlpCa1RWRU05Z3NSUjhibnkwcU1LMW1UUC1oYXdoY3FKZ1NXWWlzSGVmN2RBMGRiTDZPVFg1c3JmcGxfTW9fM3kwTWthbGxDZzdtWjVGd3pIMkdmSTNVcVo3TGM1QjJHTzlmR1ZWbjBNUUdaT1hseWdsQmxvV2hFMktzcUNlcHdKVEFHMUFtUFpGc1NIT0U2RU1uQmFVT3M3REY2dU9rMGJwZThURzhNd3pCSmVmekk5eGJ1dENjYUtyOGRJT0ZjMjUxbjFQV18tVmhMUE83MUt0a09z?oc=5",
+      "type": "article",
+      "title": "Colliers continues growth of Greater Philadelphia region industrial team with hire of Jonathan Klear - Colliers",
+      "date": "2026-08-15",
+      "source": "Colliers",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVVnWlpCa1RWRU05Z3NSUjhibnkwcU1LMW1UUC1oYXdoY3FKZ1NXWWlzSGVmN2RBMGRiTDZPVFg1c3JmcGxfTW9fM3kwTWthbGxDZzdtWjVGd3pIMkdmSTNVcVo3TGM1QjJHTzlmR1ZWbjBNUUdaT1hseWdsQmxvV2hFMktzcUNlcHdKVEFHMUFtUFpGc1NIT0U2RU1uQmFVT3M3REY2dU9rMGJwZThURzhNd3pCSmVmekk5eGJ1dENjYUtyOGRJT0ZjMjUxbjFQV18tVmhMUE83MUt0a09z?oc=5",
+      "snippet": "Colliers continues growth of Greater Philadelphia region industrial team with hire of Jonathan Klear &nbsp;&nbsp; Colliers"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVAwNHZyQTctMS03eDBWd3VxX1lNblNxQTdYdGkzTVNBMlFPc0VQdmxMZWRXYlNYYnlPZEZwVHhPSXlHeDhqZ2tqazZMY0RPS09HTXd2YmZTZjdTb09uTFB3MmNCRzVqZURJSFFrV2hZenJyWF9faW5PM2ZTN3JrNVpYbW9NOVY4aGdBRzB0S08?oc=5",
@@ -128,6 +146,42 @@
       "source": "Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlo4d0NpOVltSDJtTDdFMFlhZmZPVDk3ZjJrWWlneE1VTGJSb2VUWG5ENUhHVHR0VnY0cjhxZG5LQXRaWUNIODk3S1dkaE9YanoyekJEY09OZHh6OVVfZHhMdXdfZXhmeFBrV2ZnZldCQ0xqYWRaNHRhOVlXaTdpQnpNTWY2U3hNVmo3aVJsUWxIS1F6anFUdFNvY0dtODRJdEt4VS1PVV81dmVHMk9N0gGvAUFVX3lxTFA2Wjh3Q2k5WW1IMm1MN0UwWWFmZk9UOTdmMmtZaWd4TVVMYlJvZVRYbkQ1SEdUdHRWdjRyOHFkbktBdFpZQ0g4OTdLV2RoT1hqejJ6QkRjT05keHo5VV9keEx1d19leGZ4UGtXZmdmV0JDTGphZFo0dGE5WVdpN2lCek1NZjZTeE1WajdpUmxRbEhLUXpqcVR0U29jR204NEl0S3hVLU9VXzV2ZUcyT00?oc=5",
       "snippet": "Workday: Silver Lake Reportedly In Acquisition Talks For Potential Mega Software Buyout &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWGhocWR2Z2FSU0tmbHJuUjItWDhIQldjU0lNeDVjTGlvdmdVNWFuOEs4Ml81NkFXbFRwNlVKYnlXT3hsaHcwSXg0eUVEVmRLaUNNR2phSkF6ZmMwbkwwNUg4N1VqVzB1Rm1GeklJNEFRQTFxUVRIbWwwd1dDeVZ4RmJTU0hLVVFtamV5NE40WTZTczZVMUE2MHRTeFQtM1d5RHR3WEl1NFJKWTZxLTEtSTNCellUWlhkT3BaUk42LXEyaTczbU9zdGxHYjJDcjhkWFlqeElVTzUzMENwQmhFMG9XZkzSAeQBQVVfeXFMT1hoaHFkdmdhUlNLZmxyblIyLVg4SEJXY1NJTXg1Y0xpb3ZnVTVhbjhLODJfNTZBV2xUcDZVSmJ5V094bGh3MEl4NHlFRFZkS2lDTUdqYUpBemZjMG5MMDVIODdValcwdUZtRnpJSTRBUUExcVFUSG1sMHdXQ3lWeEZiU1NIS1VRbWpleTRONFk2U3M2VTFBNjB0U3hULTNXeUR0d1hJdTRSSlk2cS0xLUkzQnpZVFpYZE9wWlJONi1xMmk3M21Pc3RsR2IyQ3I4ZFhZanhJVU81MzBDcEJoRTBvV2ZM?oc=5",
+      "type": "article",
+      "title": "NITI Aayog suggests allowing multi-disciplinary law firms, easing advertising rules - The Tribune",
+      "date": "2026-08-14",
+      "source": "The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWGhocWR2Z2FSU0tmbHJuUjItWDhIQldjU0lNeDVjTGlvdmdVNWFuOEs4Ml81NkFXbFRwNlVKYnlXT3hsaHcwSXg0eUVEVmRLaUNNR2phSkF6ZmMwbkwwNUg4N1VqVzB1Rm1GeklJNEFRQTFxUVRIbWwwd1dDeVZ4RmJTU0hLVVFtamV5NE40WTZTczZVMUE2MHRTeFQtM1d5RHR3WEl1NFJKWTZxLTEtSTNCellUWlhkT3BaUk42LXEyaTczbU9zdGxHYjJDcjhkWFlqeElVTzUzMENwQmhFMG9XZkzSAeQBQVVfeXFMT1hoaHFkdmdhUlNLZmxyblIyLVg4SEJXY1NJTXg1Y0xpb3ZnVTVhbjhLODJfNTZBV2xUcDZVSmJ5V094bGh3MEl4NHlFRFZkS2lDTUdqYUpBemZjMG5MMDVIODdValcwdUZtRnpJSTRBUUExcVFUSG1sMHdXQ3lWeEZiU1NIS1VRbWpleTRONFk2U3M2VTFBNjB0U3hULTNXeUR0d1hJdTRSSlk2cS0xLUkzQnpZVFpYZE9wWlJONi1xMmk3M21Pc3RsR2IyQ3I4ZFhZanhJVU81MzBDcEJoRTBvV2ZM?oc=5",
+      "snippet": "NITI Aayog suggests allowing multi-disciplinary law firms, easing advertising rules &nbsp;&nbsp; The Tribune"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWJPSFN0ZndwZFpWTjJvemhZX3JRQVd0YlpPYTlBYmZyUENrN09iN3R5Q3dwbk9ya2pVT3hQU2JlRURoNFhsT2pzeFlnYVB4RUVFWWlVOHpPd1pacEw4ZkZLTzhZaEdnWVVNVnFhcjVFODhVZVlDRV9NSEFwb09qNVd2SnlrVTU5SFR2MS1KaDZGbmhtR2NhUm1xNlBFSzg2enQtbnNuZVRnWHZxYW5Jd2JTVmZRU2xuTnl5QlFaZUxHYzE4bjIwZXZkMnlGdDlRTG1yTDJTbXFaWXJ0TzAwelRhbkk?oc=5",
+      "type": "article",
+      "title": "Digital Systems and Their Effect on Local PA Businesses - Tri-County Independent",
+      "date": "2026-08-14",
+      "source": "Tri-County Independent",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWJPSFN0ZndwZFpWTjJvemhZX3JRQVd0YlpPYTlBYmZyUENrN09iN3R5Q3dwbk9ya2pVT3hQU2JlRURoNFhsT2pzeFlnYVB4RUVFWWlVOHpPd1pacEw4ZkZLTzhZaEdnWVVNVnFhcjVFODhVZVlDRV9NSEFwb09qNVd2SnlrVTU5SFR2MS1KaDZGbmhtR2NhUm1xNlBFSzg2enQtbnNuZVRnWHZxYW5Jd2JTVmZRU2xuTnl5QlFaZUxHYzE4bjIwZXZkMnlGdDlRTG1yTDJTbXFaWXJ0TzAwelRhbkk?oc=5",
+      "snippet": "Digital Systems and Their Effect on Local PA Businesses &nbsp;&nbsp; Tri-County Independent"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "type": "article",
+      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions - Just Security",
+      "date": "2026-08-14",
+      "source": "Just Security",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxORmlqTFVEQjZMbkE1cGtmRmZWX2hRdGpvTFNXQUpDNGc5czFtY1k4R1NPOFIxdUNDa2pqZFRaanZGVjgzLXM4Y3FuN3lDQUk3SXRuT0FMMkd3d1JtbDZUUDV0andIS1phZktUV1h6MGpSdFozbTFjNEJ6X0tzczEwaWp5SjFqOHUweDlIdnRNS2VpNE1lcUFfbVNtTE1DYUh4VmhiNUl3enhPbW5HZVUxTnNHLXQ0UkMtMUFQay00S2ItTHVWa3hXTEFR0gHKAUFVX3lxTE5GaWpMVURCNkxuQTVwa2ZGZlZfaFF0am9MU1dBSkM0ZzlzMW1jWThHU084UjF1Q0NrampkVFpqdkZWODMtczhjcW43eUNBSTdJdG5PQUwyR3d3Um1sNlRQNXRqd0hLWmFmS1RXWHowalJ0WjNtMWM0QnpfS3NzMTBpanlKMWo4dTB4OUh2dE1LZWk0TWVxQV9tU21MTUNhSHhWaGI1SXd6eE9tbkdlVTFOc0ctdDRSQy0xQVBrLTRLYi1MdVZreFdMQVE?oc=5",
+      "type": "article",
+      "title": "CardVault By Tom Brady Adds JAY-Z, Aaron Judge, Connor McDavid And Top Investors To Fuel 100-Store Expansion - Pulse 2.0",
+      "date": "2026-08-14",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmlqTFVEQjZMbkE1cGtmRmZWX2hRdGpvTFNXQUpDNGc5czFtY1k4R1NPOFIxdUNDa2pqZFRaanZGVjgzLXM4Y3FuN3lDQUk3SXRuT0FMMkd3d1JtbDZUUDV0andIS1phZktUV1h6MGpSdFozbTFjNEJ6X0tzczEwaWp5SjFqOHUweDlIdnRNS2VpNE1lcUFfbVNtTE1DYUh4VmhiNUl3enhPbW5HZVUxTnNHLXQ0UkMtMUFQay00S2ItTHVWa3hXTEFR0gHKAUFVX3lxTE5GaWpMVURCNkxuQTVwa2ZGZlZfaFF0am9MU1dBSkM0ZzlzMW1jWThHU084UjF1Q0NrampkVFpqdkZWODMtczhjcW43eUNBSTdJdG5PQUwyR3d3Um1sNlRQNXRqd0hLWmFmS1RXWHowalJ0WjNtMWM0QnpfS3NzMTBpanlKMWo4dTB4OUh2dE1LZWk0TWVxQV9tU21MTUNhSHhWaGI1SXd6eE9tbkdlVTFOc0ctdDRSQy0xQVBrLTRLYi1MdVZreFdMQVE?oc=5",
+      "snippet": "CardVault By Tom Brady Adds JAY-Z, Aaron Judge, Connor McDavid And Top Investors To Fuel 100-Store Expansion &nbsp;&nbsp; Pulse 2.0"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMidkFVX3lxTE9VblBHU1FScDc4Q2VIMDRqUmhWbmk5ZVdpaU8xQ0xSMWF1dXFRU1UxdTdKZ0RuZ09ZM3E0UG1RYUFQc09rSWdwWHZJNlBDbDZ2dGpPNDFMV3h1ekhvMVBobHZ1RXpNLVkwaUJDdEZIUzlsU1o2cEE?oc=5",
@@ -308,6 +362,15 @@
       "source": "news.bloombergtax.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzRzWnVldXo0cnk0M3hVcVJYbFllalByYV9TNGdxQkZDZk9hVWJIbjltV0hGUnJuV05QVVh0QXRoaGhRSU01d2VhYUpfZkdwaThuZjFVeEdtczFwNm9YdmotdzlxaHJLVXVpWFBjSEdsUXlVU1hESG10MUtqRDRzVHdYQ1RzVmtVYlo0aUp5NXdsQzZEVmhFVzE3aHpWU1gtNUg0ZnhBVHVOak14ZDdZQXdJdw?oc=5",
       "snippet": "Auditors, Investors Press US Watchdog to Fast-Track AI Guidance &nbsp;&nbsp; news.bloombergtax.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkhVXzctSFVnRWp5TXRuR0NjZ2E1azk0cWJOeDVmTnpjLXV0RFd0UTVtWGhwQkt3UEk2MEVuclFnWEhEbGVpQUxBZ0dfSkhKcEFmeGFpWTQzQmZ0bjBNV29MUk1yU0QyZ29DSTdWbVdzV2E4c3NHTlVFbnVRMHhSVGNKMnZGeWU1eHJDM2pldzBtOUYyN2dfcGFyYVQzM3JOTV9DZEpJM1FMRFJmNjY0dUFMSnA2YlRIMHRUUUYwcU04Y3ViNDlCSldNTUdjaWs?oc=5",
+      "type": "article",
+      "title": "‘What It Means to Be Excellent’: A-List Firms Succeed Because of—Not in Spite of—Disruption - Law.com",
+      "date": "2026-08-12",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkhVXzctSFVnRWp5TXRuR0NjZ2E1azk0cWJOeDVmTnpjLXV0RFd0UTVtWGhwQkt3UEk2MEVuclFnWEhEbGVpQUxBZ0dfSkhKcEFmeGFpWTQzQmZ0bjBNV29MUk1yU0QyZ29DSTdWbVdzV2E4c3NHTlVFbnVRMHhSVGNKMnZGeWU1eHJDM2pldzBtOUYyN2dfcGFyYVQzM3JOTV9DZEpJM1FMRFJmNjY0dUFMSnA2YlRIMHRUUUYwcU04Y3ViNDlCSldNTUdjaWs?oc=5",
+      "snippet": "‘What It Means to Be Excellent’: A-List Firms Succeed Because of—Not in Spite of—Disruption &nbsp;&nbsp; Law.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi5gFBVV95cUxNal9uU2U2eFNzOWpnd1h3N1RKOHBzOWxPaGpwNEhDT01SSmhjRjE2cmplS1hBQ2ZGRE1ad2R5ZnJJcFNRc2FKcWNJMk1FdG1QVW5HMW9lOXFtWmFzaWhDYkhJdXBDY3JKTGw4T0UtQUlhTDhsMzFKcW8wd1ZzcjU0YnV6RWRaNVd4MkNlcHBJUUJEY0U5c043LWZ4MFZvQ1NJM1dRbEtLWl9RbTl0MzQxR1N6WjZObGp5enBBM05OQ2dJWmd1blNoUlVRRTd5cVVza0h4MGVKaDRMbGNvNHpwY1NWeHREZw?oc=5",
