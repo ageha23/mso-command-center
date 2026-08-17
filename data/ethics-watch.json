@@ -1,8 +1,71 @@
 {
-  "lastRun": "2026-08-16T11:22:40.094824+00:00",
+  "lastRun": "2026-08-17T11:28:43.269105+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 7,
+  "addedThisRun": 11,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjFFVEFiR0h1WENDM09BV0hBdzFXVVZiUkZEMm41cGNVajRBM0k0d0tFbHdLeVQyMlZVU1ZlcFNXZmF1cG9MczdDN1ZXQXdOT0tSX2xLcVN3dHYtOG1uTW9QUFM0VXNvNy1tSVRHMTJ1bEhHZE4wX0NieWZEcXB0WjlUZjBSMkFZUjUwbUlHZ2xCSV9KQ0RiZi1ZX1lONGVjSmc?oc=5",
+      "type": "article",
+      "title": "Judicial Notice (08.16.26): Curtain Time - Original Jurisdiction | David Lat",
+      "date": "2026-08-17",
+      "source": "Original Jurisdiction | David Lat",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjFFVEFiR0h1WENDM09BV0hBdzFXVVZiUkZEMm41cGNVajRBM0k0d0tFbHdLeVQyMlZVU1ZlcFNXZmF1cG9MczdDN1ZXQXdOT0tSX2xLcVN3dHYtOG1uTW9QUFM0VXNvNy1tSVRHMTJ1bEhHZE4wX0NieWZEcXB0WjlUZjBSMkFZUjUwbUlHZ2xCSV9KQ0RiZi1ZX1lONGVjSmc?oc=5",
+      "snippet": "Judicial Notice (08.16.26): Curtain Time &nbsp;&nbsp; Original Jurisdiction | David Lat"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUdsdlZxY3N5LXRKSWt5U0pwVk5qNVhVTEtWNnVRMk8zTFV6Vk5reHY2cnVNUURkQXpJUzh4ZFJmZ2NNLWtkVk9VZ3FHamt4SUZWWkpGRGZOeV9xVWp2VUdpWWFjNnpELWU2REhMLVVkSFpWU284ZWRRWVl2QTYwZTA1RzdFOWZ4RnhDWFFQVUV2NF9TOTk3TmxFdDRXYUtZTEdtQTQteVJYZGdxVkFreXhaMA?oc=5",
+      "type": "article",
+      "title": "Kirkland's Alternative Fee Structures Help Fuel Litigation Business - Law.com",
+      "date": "2026-08-17",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUdsdlZxY3N5LXRKSWt5U0pwVk5qNVhVTEtWNnVRMk8zTFV6Vk5reHY2cnVNUURkQXpJUzh4ZFJmZ2NNLWtkVk9VZ3FHamt4SUZWWkpGRGZOeV9xVWp2VUdpWWFjNnpELWU2REhMLVVkSFpWU284ZWRRWVl2QTYwZTA1RzdFOWZ4RnhDWFFQVUV2NF9TOTk3TmxFdDRXYUtZTEdtQTQteVJYZGdxVkFreXhaMA?oc=5",
+      "snippet": "Kirkland's Alternative Fee Structures Help Fuel Litigation Business &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSm41STBqREtzSVlVNlNvM1c4RnBsYklWX095cDhHZ1ZsRUlJdmRYN1FzX0RPaUF0bVdEdGFqU01XeGRwXzdsa2hCZnNsakM3X1VBbDc4SkpTZUhEUjVtdDJpejBVSm1xdWtsb0lHMFAtYjJLT1BRNTZNV0w3ZlpDR0xYSXIzQkZwaHJWeWFiX1duczN4dlpHTGhna2ZVdzdOb1F0elVTQmY2N2tWZ0hqdDBtZ3BNUXpMdmJpWVF3Rk1nNksyaWx6aW8xMjgtU0g2WktQbVhIZEtZQ3ZwekowbEZUOFlabktv?oc=5",
+      "type": "article",
+      "title": "When a Portfolio Company is Under Stress: Preparing for Liability Management and Other Capital Solutions - Law.com",
+      "date": "2026-08-17",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSm41STBqREtzSVlVNlNvM1c4RnBsYklWX095cDhHZ1ZsRUlJdmRYN1FzX0RPaUF0bVdEdGFqU01XeGRwXzdsa2hCZnNsakM3X1VBbDc4SkpTZUhEUjVtdDJpejBVSm1xdWtsb0lHMFAtYjJLT1BRNTZNV0w3ZlpDR0xYSXIzQkZwaHJWeWFiX1duczN4dlpHTGhna2ZVdzdOb1F0elVTQmY2N2tWZ0hqdDBtZ3BNUXpMdmJpWVF3Rk1nNksyaWx6aW8xMjgtU0g2WktQbVhIZEtZQ3ZwekowbEZUOFlabktv?oc=5",
+      "snippet": "When a Portfolio Company is Under Stress: Preparing for Liability Management and Other Capital Solutions &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxPVm5rMW5iQXRYVUEwNkxGamVpaUNfWjczc2pSMHByb0dwY1hQSS1tVDh1THVpN0RDRFFJQWlUY1FsSnlQYUplVWdMZ1BibkZpeDBBdC1rYldNeXdYcjl2ZWRvUERSZGpRd1Q1aktmMWVTV3VJRHEzZnU3MEthMUhxbHFyUm4zblpLTVBDUkFXUXBPR3dwNHFNYS1DUHdRLWw5ZDctTjUtZnp1clZq?oc=5",
+      "type": "article",
+      "title": "State laws may be curbing private equity takeovers of physician group - STAT",
+      "date": "2026-08-17",
+      "source": "STAT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVm5rMW5iQXRYVUEwNkxGamVpaUNfWjczc2pSMHByb0dwY1hQSS1tVDh1THVpN0RDRFFJQWlUY1FsSnlQYUplVWdMZ1BibkZpeDBBdC1rYldNeXdYcjl2ZWRvUERSZGpRd1Q1aktmMWVTV3VJRHEzZnU3MEthMUhxbHFyUm4zblpLTVBDUkFXUXBPR3dwNHFNYS1DUHdRLWw5ZDctTjUtZnp1clZq?oc=5",
+      "snippet": "State laws may be curbing private equity takeovers of physician group &nbsp;&nbsp; STAT"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0dqSGFrVkd2SEYwdnVUckR1VXBsRHA1MkN4MXNaOTVWaHFsSzc3cTJaVU9RNGdWSjBHdVFkUEJkWFBDYXU1UGpJRGZMWDU0YTZ2MEZPZFVPMHppcHRXbE4wdjhpSkd5TG55VWRWcWpwcFp3T2dmSDVkdXl6by1waW13VnVVMDFHZGZfWGV0NkF1YWJXeVJCVXdhem1BeWdDMWc2QW9tSG5sSHo4VVkyNkFCMA?oc=5",
+      "type": "article",
+      "title": "The 2026 Trailblazers in Real Estate - City & State New York",
+      "date": "2026-08-17",
+      "source": "City & State New York",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0dqSGFrVkd2SEYwdnVUckR1VXBsRHA1MkN4MXNaOTVWaHFsSzc3cTJaVU9RNGdWSjBHdVFkUEJkWFBDYXU1UGpJRGZMWDU0YTZ2MEZPZFVPMHppcHRXbE4wdjhpSkd5TG55VWRWcWpwcFp3T2dmSDVkdXl6by1waW13VnVVMDFHZGZfWGV0NkF1YWJXeVJCVXdhem1BeWdDMWc2QW9tSG5sSHo4VVkyNkFCMA?oc=5",
+      "snippet": "The 2026 Trailblazers in Real Estate &nbsp;&nbsp; City & State New York"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUlKTWYzMTNycW0xc0N1ZHgySXpsMVlhb2JLTDhmcGhyZEFHWVRSOFlhZHlwNURjZ2xsUGtaSTljS2NUdk00aWp2NU1kTDUxSnI3bXBlc0ZpNjF2OXNIU3QycnBBNmxQMW96VlBOWW5tS3VnWmtpZ1RKN1NqZHZTdDB0Zw?oc=5",
+      "type": "article",
+      "title": "The complete Power 200 Women list for 2026 - Buffalo Business First - The Business Journals",
+      "date": "2026-08-17",
+      "source": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUlKTWYzMTNycW0xc0N1ZHgySXpsMVlhb2JLTDhmcGhyZEFHWVRSOFlhZHlwNURjZ2xsUGtaSTljS2NUdk00aWp2NU1kTDUxSnI3bXBlc0ZpNjF2OXNIU3QycnBBNmxQMW96VlBOWW5tS3VnWmtpZ1RKN1NqZHZTdDB0Zw?oc=5",
+      "snippet": "The complete Power 200 Women list for 2026 - Buffalo Business First &nbsp;&nbsp; The Business Journals"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXNEc2dRdjRpN1NDQW9mdXNyTGVpNlppRElQbDJ2M0ZHRkdibGo0bTNnNWdHZGxuT0ZVOUx2ai15S3FmeGlHVkhNSTlHUmtkR1ZoRnVSTmwtNnplNjNRUS1TY2NnMm04TXJYR2NNaVVZWEs4aWZfZ1plNkJQUThBU1NDOXN0NjVKQzJmZ3ZQcmlqQVZ1SWhxV3l5UUxoT2JNbWFJ?oc=5",
+      "type": "article",
+      "title": "Rural, impoverished areas of Alabama lack access to attorneys - Alabama Reflector",
+      "date": "2026-08-17",
+      "source": "Alabama Reflector",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXNEc2dRdjRpN1NDQW9mdXNyTGVpNlppRElQbDJ2M0ZHRkdibGo0bTNnNWdHZGxuT0ZVOUx2ai15S3FmeGlHVkhNSTlHUmtkR1ZoRnVSTmwtNnplNjNRUS1TY2NnMm04TXJYR2NNaVVZWEs4aWZfZ1plNkJQUThBU1NDOXN0NjVKQzJmZ3ZQcmlqQVZ1SWhxV3l5UUxoT2JNbWFJ?oc=5",
+      "snippet": "Rural, impoverished areas of Alabama lack access to attorneys &nbsp;&nbsp; Alabama Reflector"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUkdMRUJZUnJRYkJpUjZ5WjlXNDhJZGg1N0s1Z1ZZb3F3Y0FuSEhKRHVlNUNOM1hvakIyYXRGNjd1dWlmNG5yTHpJdWZDRWdMT2VKdFpuaTFEOGNleU1tSFREMFBwNm5MU1pnSHdYLTRhMGFwYjJRRElZNXVqbGx3Mm1mcUZJbnM3b2p1TEI4MWFUNXM2MUV5NmQ3V0poMXJlUlBiemJjSjRuYm1vcWxsSnpJQ1hrdGN4ckpOUlM5bEVCSWE1VVpPcnRpNUNSTVg1Mkc2TXZ1ekExaFQzXzN2RmllWlpDQ0p4Z3c?oc=5",
       "type": "article",
@@ -38,6 +101,24 @@
       "source": "Colliers",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVVnWlpCa1RWRU05Z3NSUjhibnkwcU1LMW1UUC1oYXdoY3FKZ1NXWWlzSGVmN2RBMGRiTDZPVFg1c3JmcGxfTW9fM3kwTWthbGxDZzdtWjVGd3pIMkdmSTNVcVo3TGM1QjJHTzlmR1ZWbjBNUUdaT1hseWdsQmxvV2hFMktzcUNlcHdKVEFHMUFtUFpGc1NIT0U2RU1uQmFVT3M3REY2dU9rMGJwZThURzhNd3pCSmVmekk5eGJ1dENjYUtyOGRJT0ZjMjUxbjFQV18tVmhMUE83MUt0a09z?oc=5",
       "snippet": "Colliers continues growth of Greater Philadelphia region industrial team with hire of Jonathan Klear &nbsp;&nbsp; Colliers"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1N5S1ZUbTVwc0JqWkJYa2hkcVZvSFZlOWMxTUdQMWx5c004U2RVUkFyX0I5S0t0VUUteklJQ3hGYUN4VHpQZnVvN3FuZ092UEdpWmNyNU90b2xlWm90N2l2eXBXSG5MZUtSXzFlLWZGNjFLQUpYZlR5WDdJdU0tQnVWbVB5T19ZTkFXY05VS1B0UEhhTHNiN2ktODUwS0dWWkhNUkVUUUdZejZ3SFIwLUFqSjJoVHNkZFI2cDhpT0hIM2VDWDc4WC1YbGMzcnZIZ2kySWlxYW5RUi1ucS1FMl84blR2MnBsWVNyempSWjQwcUhhVUVWamJLRQ?oc=5",
+      "type": "article",
+      "title": "TLRY, CGC, ACB, MSOS Pare Early Gains After Marijuana Reclassification: Retail Says ‘Weed Industry Is Reborn’ - Stocktwits",
+      "date": "2026-08-15",
+      "source": "Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1N5S1ZUbTVwc0JqWkJYa2hkcVZvSFZlOWMxTUdQMWx5c004U2RVUkFyX0I5S0t0VUUteklJQ3hGYUN4VHpQZnVvN3FuZ092UEdpWmNyNU90b2xlWm90N2l2eXBXSG5MZUtSXzFlLWZGNjFLQUpYZlR5WDdJdU0tQnVWbVB5T19ZTkFXY05VS1B0UEhhTHNiN2ktODUwS0dWWkhNUkVUUUdZejZ3SFIwLUFqSjJoVHNkZFI2cDhpT0hIM2VDWDc4WC1YbGMzcnZIZ2kySWlxYW5RUi1ucS1FMl84blR2MnBsWVNyempSWjQwcUhhVUVWamJLRQ?oc=5",
+      "snippet": "TLRY, CGC, ACB, MSOS Pare Early Gains After Marijuana Reclassification: Retail Says ‘Weed Industry Is Reborn’ &nbsp;&nbsp; Stocktwits"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxONlBFVEFKaFVHS0NhbnJjQXN0aDdyVkc0OWt3QkU4TDFvREItelkzd1RTTGVQcUtyTW9JX3RIcE1GaUF2VWNRaHhLSC0zaFNOY3NseV80M3dKV05FaVpGOGpHdmJlNThFcXVRSEhNOFVFT2QtWDZfSzhBQVhaaXZucEFqT0I1RHNlQTVEM00zVQ?oc=5",
+      "type": "article",
+      "title": "Marek: They’ve made a lot of changes - Shaw Local",
+      "date": "2026-08-15",
+      "source": "Shaw Local",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlBFVEFKaFVHS0NhbnJjQXN0aDdyVkc0OWt3QkU4TDFvREItelkzd1RTTGVQcUtyTW9JX3RIcE1GaUF2VWNRaHhLSC0zaFNOY3NseV80M3dKV05FaVpGOGpHdmJlNThFcXVRSEhNOFVFT2QtWDZfSzhBQVhaaXZucEFqT0I1RHNlQTVEM00zVQ?oc=5",
+      "snippet": "Marek: They’ve made a lot of changes &nbsp;&nbsp; Shaw Local"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVAwNHZyQTctMS03eDBWd3VxX1lNblNxQTdYdGkzTVNBMlFPc0VQdmxMZWRXYlNYYnlPZEZwVHhPSXlHeDhqZ2tqazZMY0RPS09HTXd2YmZTZjdTb09uTFB3MmNCRzVqZURJSFFrV2hZenJyWF9faW5PM2ZTN3JrNVpYbW9NOVY4aGdBRzB0S08?oc=5",
@@ -184,6 +265,15 @@
       "snippet": "CardVault By Tom Brady Adds JAY-Z, Aaron Judge, Connor McDavid And Top Investors To Fuel 100-Store Expansion &nbsp;&nbsp; Pulse 2.0"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEhaLWtyLWpyY1EyTW1OMFlpMGNkRkVKRmd3cWFfNXJHZDFPNjRJMUpQV2c3aEp4MDd1ZXdTYjl2Uk5FNFlwME0yNERzcmljYURQNHVsNk5NUjBuOWtaTFk5WEl3UWhyUHl2M2hLeGJ6QXVTbjVFNk54a0NSSTk4azhXNzJvbENFNHlLQjRSZy1vdkhEd2syS3NMVXNsMVUybXRlcEV5UEhmUzBIZEw0S0N4dndvd0hoVkwySG5oNGxYeDNuc0tLUHBzUnIwOVZLcVhZWmY4OA?oc=5",
+      "type": "article",
+      "title": "KATRIBU and Ayta from Pampanga protest outside the National Commission on Indigenous Peoples (NCIP) Central Office in Quezon City on Friday, August 14, 2026, opposing destructive mining and energy projects, alleged intensified human rights violations - facebook.com",
+      "date": "2026-08-14",
+      "source": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEhaLWtyLWpyY1EyTW1OMFlpMGNkRkVKRmd3cWFfNXJHZDFPNjRJMUpQV2c3aEp4MDd1ZXdTYjl2Uk5FNFlwME0yNERzcmljYURQNHVsNk5NUjBuOWtaTFk5WEl3UWhyUHl2M2hLeGJ6QXVTbjVFNk54a0NSSTk4azhXNzJvbENFNHlLQjRSZy1vdkhEd2syS3NMVXNsMVUybXRlcEV5UEhmUzBIZEw0S0N4dndvd0hoVkwySG5oNGxYeDNuc0tLUHBzUnIwOVZLcVhZWmY4OA?oc=5",
+      "snippet": "KATRIBU and Ayta from Pampanga protest outside the National Commission on Indigenous Peoples (NCIP) Central Office in Quezon City on Friday, August 14, 2026, opposing destructive mining and energy projects, alleged intensified human rights violations &nbsp;&nbsp; facebook.com"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMidkFVX3lxTE9VblBHU1FScDc4Q2VIMDRqUmhWbmk5ZVdpaU8xQ0xSMWF1dXFRU1UxdTdKZ0RuZ09ZM3E0UG1RYUFQc09rSWdwWHZJNlBDbDZ2dGpPNDFMV3h1ekhvMVBobHZ1RXpNLVkwaUJDdEZIUzlsU1o2cEE?oc=5",
       "type": "article",
       "title": "It’s ‘Follow the PE Leader’ in Big Law - Law.com",
@@ -263,6 +353,15 @@
       "source": "Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkdROUwzdzAyVXl5cHhOMnlNWjc5LXEyd0dTVm55anduN0xqMzk3TlVEcE5IaTYtR0IxdFk0YnRRX3Jja2JuNjNxcUxQQklOUHZ4cmI4Mm5yMF8yb2l0d0RjXzJkbWdTSEwzaG1PYVdEUXdzcXUzR284dDVIWGJ2NDE1WjBqVk5zQkhfYldVVHV1RHVNZWtFVlZCNDdHSFk1aE9rNk9PYmxicGdKc19ndjdn?oc=5",
       "snippet": "Yankees’ Apollo Deal Offers Glimpse of Big Law’s Sports Thesis &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2R3QTQ5aVNxNFA3eFpYVEVPVVp0ZWNRR0pzWi1ES00tVDVxek1LbjFVQmtFT1hRTkVoTnlkdE5mdWxUVk9TbS1rQ0w2TkRqY1hONGs4VWlIT091V3FYemtFWmZERGR6OFlEQXJ5bGVWRS1jbUc0d280ZjJyTFY4ME9HU0VDU2xNbTlGa1gyMUQteUlGRnNwOFVnYk1PSUR2bzJFYm16MDZkenhMN051eDdidm9rNUxWWjV4c3h3?oc=5",
+      "type": "article",
+      "title": "Houston law firm with ties to Trump administration declines offer to represent migrant children - ABC7 Bay Area",
+      "date": "2026-08-13",
+      "source": "ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2R3QTQ5aVNxNFA3eFpYVEVPVVp0ZWNRR0pzWi1ES00tVDVxek1LbjFVQmtFT1hRTkVoTnlkdE5mdWxUVk9TbS1rQ0w2TkRqY1hONGs4VWlIT091V3FYemtFWmZERGR6OFlEQXJ5bGVWRS1jbUc0d280ZjJyTFY4ME9HU0VDU2xNbTlGa1gyMUQteUlGRnNwOFVnYk1PSUR2bzJFYm16MDZkenhMN051eDdidm9rNUxWWjV4c3h3?oc=5",
+      "snippet": "Houston law firm with ties to Trump administration declines offer to represent migrant children &nbsp;&nbsp; ABC7 Bay Area"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnZUMDE2V1I3RzJzX1lWa1dmSWI0YmpORzFza0JJU1oxb1RtUmhmdFBpMk1PTzNrbUJhazZfX3hxZWFGV011NVlfYVE5Q0RYdXlTaXY2Y0VGb013Nmp1eFRkQmJkLVN6Wi14LWVkaTNRMENveDdEOGNOMERFVENjYmM4RHR4bmN2Y2w5V0wwLUtkbVBPWkM2Sk5faU1DUTRob0NQZGpkS0I4Vk4xTGJ2ems2QUpfS3ZZ?oc=5",
