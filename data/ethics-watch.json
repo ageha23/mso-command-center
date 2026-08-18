@@ -1,8 +1,53 @@
 {
-  "lastRun": "2026-08-17T11:28:43.269105+00:00",
+  "lastRun": "2026-08-18T11:27:10.286330+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 11,
+  "addedThisRun": 13,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTNjQkRidFpveVVxdW1yOHZnY1BUbkM1aGxXMjJDdDRNdGtQRi0wQl9DY1J1TXFPTVB3aFI5UWFlX3A0VjhBcmhGdm5WN291dFh1RERIMEpBQW1NRGZsd0gyNVd5MUE2SjI4c1YwcGJ2amZGck4wdC1NMi1tc2JHcV8yYUxOdkJYTnJfMjFPQlRTRWg2V0R4QWVVbFJGMXRhMzBIVA?oc=5",
+      "type": "article",
+      "title": "Built by design. An overview of private equity investment in AEC. - winstontaylor.com",
+      "date": "2026-08-18",
+      "source": "winstontaylor.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTNjQkRidFpveVVxdW1yOHZnY1BUbkM1aGxXMjJDdDRNdGtQRi0wQl9DY1J1TXFPTVB3aFI5UWFlX3A0VjhBcmhGdm5WN291dFh1RERIMEpBQW1NRGZsd0gyNVd5MUE2SjI4c1YwcGJ2amZGck4wdC1NMi1tc2JHcV8yYUxOdkJYTnJfMjFPQlRTRWg2V0R4QWVVbFJGMXRhMzBIVA?oc=5",
+      "snippet": "Built by design. An overview of private equity investment in AEC. &nbsp;&nbsp; winstontaylor.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXJXM2hKczhWUkJTU0JDdVVwbmRFbW40VEtFMWNJbTdYYkJOc0hsVlhPSjlwTHlvaVpZT1ZSNGRZNmdSSi1lcGFEcUpucm5WZ2lDTlp0R2wzaDBfUXVRYUFybkl4RlRWSXFhRUJobXJnc2hiSE9HTFhoWk84UDJfRzktbXVGZ1ctU3hJczlYdGszZVZWNTJQWUFRQ3FjdnFl?oc=5",
+      "type": "article",
+      "title": "Why Outside Investors Are Suddenly Interested in Law Firms That Used to Turn Them Away - openPR.com",
+      "date": "2026-08-18",
+      "source": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXJXM2hKczhWUkJTU0JDdVVwbmRFbW40VEtFMWNJbTdYYkJOc0hsVlhPSjlwTHlvaVpZT1ZSNGRZNmdSSi1lcGFEcUpucm5WZ2lDTlp0R2wzaDBfUXVRYUFybkl4RlRWSXFhRUJobXJnc2hiSE9HTFhoWk84UDJfRzktbXVGZ1ctU3hJczlYdGszZVZWNTJQWUFRQ3FjdnFl?oc=5",
+      "snippet": "Why Outside Investors Are Suddenly Interested in Law Firms That Used to Turn Them Away &nbsp;&nbsp; openPR.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiekFVX3lxTE9WR25oRU1yYzZvdUphOG8wTnRiOFVMX2tVWHVvTzg5cXBRbUpiOGpvYUNKc2diVUZtdzlad3JYQ3M0LUlBMElYTTdwMkRiYWJqTXZkYmF1WDZmbXJHTFA1YnM4QlkwUVNzMkRocVRoNzE3T3Q2aWE0VGNB?oc=5",
+      "type": "article",
+      "title": "Neural Network - August 2026 - Stephenson Harwood",
+      "date": "2026-08-18",
+      "source": "Stephenson Harwood",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WR25oRU1yYzZvdUphOG8wTnRiOFVMX2tVWHVvTzg5cXBRbUpiOGpvYUNKc2diVUZtdzlad3JYQ3M0LUlBMElYTTdwMkRiYWJqTXZkYmF1WDZmbXJHTFA1YnM4QlkwUVNzMkRocVRoNzE3T3Q2aWE0VGNB?oc=5",
+      "snippet": "Neural Network - August 2026 &nbsp;&nbsp; Stephenson Harwood"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXlxaWVlQzFoQXlZQXUxWUR6dGlyY1hnYzVkdTdMYjVPdlAyZlc2X0x6QTF5NFlwVDJoM0UxLUhwT0p2YmdhS25lNS11QXhlVFhkdnlXM25CZ25FUVdubGF1MTN4N1BqV2Y4aUItX2NxZ3dWdmdRaTA5eDB1SUllckFGOV9wMkVLb2FYQURmX2xzZkNqRDd6NlB6Ql9hcHFtY2pncQ?oc=5",
+      "type": "article",
+      "title": "Uplift acquires financial services technology consultant Engage Fi - PitchBook",
+      "date": "2026-08-18",
+      "source": "PitchBook",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXlxaWVlQzFoQXlZQXUxWUR6dGlyY1hnYzVkdTdMYjVPdlAyZlc2X0x6QTF5NFlwVDJoM0UxLUhwT0p2YmdhS25lNS11QXhlVFhkdnlXM25CZ25FUVdubGF1MTN4N1BqV2Y4aUItX2NxZ3dWdmdRaTA5eDB1SUllckFGOV9wMkVLb2FYQURmX2xzZkNqRDd6NlB6Ql9hcHFtY2pncQ?oc=5",
+      "snippet": "Uplift acquires financial services technology consultant Engage Fi &nbsp;&nbsp; PitchBook"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdlBaYmQ5a08tc1NkbGZqRGRpaFphZ09iR29BOTdxS0ZvakJsOU5lM0RlVUhZaGI0UXY2bWNPRloxcHNhMWJrRDczbEY3eHZubVVQMVYtc3dLSFVIMG1TMnhwUENzQ044dzBObE0tOUR0dnJ0N0gwSzNtYTdBYWVlTzVRN0x5ZnNTaDN6M1ZJYWNMOU9pcXdYNy1IM0JJVFgtajNkak8xN1llWmNkeTVZX3Q1U0JvREV3NzdjRmtEOVBQM1J0R3Fqcmk3MXFwYklaQzFKTzhpQ1ZBbWpI?oc=5",
+      "type": "article",
+      "title": "Greenberg Traurig's Marissa A. Neufeld Appointed to Miami Homes For All Board of Directors - PR Newswire",
+      "date": "2026-08-18",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdlBaYmQ5a08tc1NkbGZqRGRpaFphZ09iR29BOTdxS0ZvakJsOU5lM0RlVUhZaGI0UXY2bWNPRloxcHNhMWJrRDczbEY3eHZubVVQMVYtc3dLSFVIMG1TMnhwUENzQ044dzBObE0tOUR0dnJ0N0gwSzNtYTdBYWVlTzVRN0x5ZnNTaDN6M1ZJYWNMOU9pcXdYNy1IM0JJVFgtajNkak8xN1llWmNkeTVZX3Q1U0JvREV3NzdjRmtEOVBQM1J0R3Fqcmk3MXFwYklaQzFKTzhpQ1ZBbWpI?oc=5",
+      "snippet": "Greenberg Traurig's Marissa A. Neufeld Appointed to Miami Homes For All Board of Directors &nbsp;&nbsp; PR Newswire"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjFFVEFiR0h1WENDM09BV0hBdzFXVVZiUkZEMm41cGNVajRBM0k0d0tFbHdLeVQyMlZVU1ZlcFNXZmF1cG9MczdDN1ZXQXdOT0tSX2xLcVN3dHYtOG1uTW9QUFM0VXNvNy1tSVRHMTJ1bEhHZE4wX0NieWZEcXB0WjlUZjBSMkFZUjUwbUlHZ2xCSV9KQ0RiZi1ZX1lONGVjSmc?oc=5",
       "type": "article",
@@ -65,6 +110,78 @@
       "source": "Alabama Reflector",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXNEc2dRdjRpN1NDQW9mdXNyTGVpNlppRElQbDJ2M0ZHRkdibGo0bTNnNWdHZGxuT0ZVOUx2ai15S3FmeGlHVkhNSTlHUmtkR1ZoRnVSTmwtNnplNjNRUS1TY2NnMm04TXJYR2NNaVVZWEs4aWZfZ1plNkJQUThBU1NDOXN0NjVKQzJmZ3ZQcmlqQVZ1SWhxV3l5UUxoT2JNbWFJ?oc=5",
       "snippet": "Rural, impoverished areas of Alabama lack access to attorneys &nbsp;&nbsp; Alabama Reflector"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaNzBfazBJOWU3QlFvNE4xWmhyekl6U2NUeGl6Z1VibGxSY25zMHFVS1dLOU5IaG8wbVAzVkplc1J4aW9iMW1iWE5KYnFSNFQ2WWN2VVo0LXhoOUJYV0tBRGFRTEtYUWdr?oc=5",
+      "type": "article",
+      "title": "Private equity gunning for Big Law - ICLG",
+      "date": "2026-08-17",
+      "source": "ICLG",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaNzBfazBJOWU3QlFvNE4xWmhyekl6U2NUeGl6Z1VibGxSY25zMHFVS1dLOU5IaG8wbVAzVkplc1J4aW9iMW1iWE5KYnFSNFQ2WWN2VVo0LXhoOUJYV0tBRGFRTEtYUWdr?oc=5",
+      "snippet": "Private equity gunning for Big Law &nbsp;&nbsp; ICLG"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDgxVTBRREdja0hlZ2k4em9YUlMtYVFIVi13eUk5RDBtS3ZFbFdfWTJVQXNPaVhfVnYtV3pSa3dPZVRGb0xqQ3ppdlhXUzZtRzZaLTVwTi1nM0VacUlBdGRoXzFhdllFTlktWFF0YXI5bTZUN1ZkQWhlNHhORFM0SGNPU19wM1pBa1NnRlE5djE?oc=5",
+      "type": "article",
+      "title": "MSO Curaleaf Wins Labor Peace Lawsuit, Investigated by FBI - Heady NJ",
+      "date": "2026-08-17",
+      "source": "Heady NJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDgxVTBRREdja0hlZ2k4em9YUlMtYVFIVi13eUk5RDBtS3ZFbFdfWTJVQXNPaVhfVnYtV3pSa3dPZVRGb0xqQ3ppdlhXUzZtRzZaLTVwTi1nM0VacUlBdGRoXzFhdllFTlktWFF0YXI5bTZUN1ZkQWhlNHhORFM0SGNPU19wM1pBa1NnRlE5djE?oc=5",
+      "snippet": "MSO Curaleaf Wins Labor Peace Lawsuit, Investigated by FBI &nbsp;&nbsp; Heady NJ"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa0ItM19yVWlIekV1aWMzN01KdU03eThrMVk1MXVROUF2YnNxa2k3cURvdExQem01WGl0Z0tNZEluWGJIQjFHSE5zVnh0bjduVWhHRDBhTFVkdk1FcVFMcU9NTlB1VDRzTXVkOWNtQVVmYUhyeFRhTi1WUU9qaThJMGFkSHh0RktIZG1TTW1IT1l4V0JlaVAzM0dEcDhyemoyc1N2bWhPVmdFSEhZS1lDVXlnTlU1WEdCZXNFU3FLVDRfY0xrOW8zejFGMzVMdGtWTkw0SDNxQTYyWmMwLXVKSGVFVU16LUR0eDIteGlIVU8tOTQ0M2JtZHNSSVU?oc=5",
+      "type": "article",
+      "title": "DOJ Issues First Healthcare Declination Under Revised Corporate Enforcement Policy: Key Takeaways for Healthcare Companies and MSOs - Wilson Sonsini",
+      "date": "2026-08-17",
+      "source": "Wilson Sonsini",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa0ItM19yVWlIekV1aWMzN01KdU03eThrMVk1MXVROUF2YnNxa2k3cURvdExQem01WGl0Z0tNZEluWGJIQjFHSE5zVnh0bjduVWhHRDBhTFVkdk1FcVFMcU9NTlB1VDRzTXVkOWNtQVVmYUhyeFRhTi1WUU9qaThJMGFkSHh0RktIZG1TTW1IT1l4V0JlaVAzM0dEcDhyemoyc1N2bWhPVmdFSEhZS1lDVXlnTlU1WEdCZXNFU3FLVDRfY0xrOW8zejFGMzVMdGtWTkw0SDNxQTYyWmMwLXVKSGVFVU16LUR0eDIteGlIVU8tOTQ0M2JtZHNSSVU?oc=5",
+      "snippet": "DOJ Issues First Healthcare Declination Under Revised Corporate Enforcement Policy: Key Takeaways for Healthcare Companies and MSOs &nbsp;&nbsp; Wilson Sonsini"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1FxZ0NKZkRwZjFIc1R5VzVlRlFSQmRMUEV4NHZGOVZONGtTRDNoU1hQWmRMRXFNZEIxam9SeUFKRTQ3Xzg0aTkyUlNfNXFjYUNLclVwQW94R2hQTnV4YTdrMEdTdG53cENfUTBDNUR3U2U3Rk5FVUZrU0ZLLUlQV0lqTnhsallPbEwtdTBoS05jRkJLWDBoMFhiZl9saXhyUXF2RDh2VGFKNFBQSTR5XzFBOHczcnNmVDRaSlBKVEpBQV9ibGxuTklpX01BUW56azZuSQ?oc=5",
+      "type": "article",
+      "title": "FDIC Considers Industry Standard-Setting Organization for Third-Party Service Providers - Consumer Finance Monitor",
+      "date": "2026-08-17",
+      "source": "Consumer Finance Monitor",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1FxZ0NKZkRwZjFIc1R5VzVlRlFSQmRMUEV4NHZGOVZONGtTRDNoU1hQWmRMRXFNZEIxam9SeUFKRTQ3Xzg0aTkyUlNfNXFjYUNLclVwQW94R2hQTnV4YTdrMEdTdG53cENfUTBDNUR3U2U3Rk5FVUZrU0ZLLUlQV0lqTnhsallPbEwtdTBoS05jRkJLWDBoMFhiZl9saXhyUXF2RDh2VGFKNFBQSTR5XzFBOHczcnNmVDRaSlBKVEpBQV9ibGxuTklpX01BUW56azZuSQ?oc=5",
+      "snippet": "FDIC Considers Industry Standard-Setting Organization for Third-Party Service Providers &nbsp;&nbsp; Consumer Finance Monitor"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTNHVzBkOU9PclZYY3pNMlEtRE4xLTByYlJYZVlVbFRKSWR2NUhMQkxSTVVKMElOV1JMOC1PVE5hSWZ5NmRYRFZNM0VBdUxRdHZZNkJyZFJsX1BVOUxpekVXdkk1enlmQTJ2bUZZUE80bTFrcC05QkVSV2R0bDN2QkowVDlWQlZiT25zcGtDRFoyaDJ5dHFZbVMteXI?oc=5",
+      "type": "article",
+      "title": "Rural, impoverished areas of Alabama lack access to attorneys - timesfreepress.com",
+      "date": "2026-08-17",
+      "source": "timesfreepress.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTNHVzBkOU9PclZYY3pNMlEtRE4xLTByYlJYZVlVbFRKSWR2NUhMQkxSTVVKMElOV1JMOC1PVE5hSWZ5NmRYRFZNM0VBdUxRdHZZNkJyZFJsX1BVOUxpekVXdkk1enlmQTJ2bUZZUE80bTFrcC05QkVSV2R0bDN2QkowVDlWQlZiT25zcGtDRFoyaDJ5dHFZbVMteXI?oc=5",
+      "snippet": "Rural, impoverished areas of Alabama lack access to attorneys &nbsp;&nbsp; timesfreepress.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxNRFluOFFDRG9SbXlfY0RGbE9GX0E3QmpiNmYxVXRiNW9HaXBlY3pwaU52RUQ5c2l4T0dHX002a3lfLUVZaGlYUTIxbEppcHZqNHNfWXF5R3YxM1BBTjllZDBlMWtaeHAzajlqLXY4ZE9pQmxOX2VmMC00SVdrclVZQmdSZ18wQWVoUU1LUlFoN2dpOFh2TkEyS1BTVGc4Y2dEcnl1QlNDMjVUN1pL?oc=5",
+      "type": "article",
+      "title": "These are the Best Places to Work in Ohio for 2026 - Crain's Cleveland Business",
+      "date": "2026-08-17",
+      "source": "Crain's Cleveland Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRFluOFFDRG9SbXlfY0RGbE9GX0E3QmpiNmYxVXRiNW9HaXBlY3pwaU52RUQ5c2l4T0dHX002a3lfLUVZaGlYUTIxbEppcHZqNHNfWXF5R3YxM1BBTjllZDBlMWtaeHAzajlqLXY4ZE9pQmxOX2VmMC00SVdrclVZQmdSZ18wQWVoUU1LUlFoN2dpOFh2TkEyS1BTVGc4Y2dEcnl1QlNDMjVUN1pL?oc=5",
+      "snippet": "These are the Best Places to Work in Ohio for 2026 &nbsp;&nbsp; Crain's Cleveland Business"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjBWeWx5SFhtN0JOdnZMS01DbS1rTGE0RVBCdWxOWW1jNFlUbE9tOUc3bTJxT3ZWbXZnc3BDYXpmSDV0dU91dGM2dGpyM0NybzNWUHZLTTZFd0g1R3FTSldMWmp0Z3NQeXczck00SGM1Yk5NNVpCVUdwYnVYTnQ0OGlOVks?oc=5",
+      "type": "article",
+      "title": "Chelsea shareholders Mark Walter and Todd Boehly in talks to sell their stakes to Clearlake - Financial Times",
+      "date": "2026-08-17",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjBWeWx5SFhtN0JOdnZMS01DbS1rTGE0RVBCdWxOWW1jNFlUbE9tOUc3bTJxT3ZWbXZnc3BDYXpmSDV0dU91dGM2dGpyM0NybzNWUHZLTTZFd0g1R3FTSldMWmp0Z3NQeXczck00SGM1Yk5NNVpCVUdwYnVYTnQ0OGlOVks?oc=5",
+      "snippet": "Chelsea shareholders Mark Walter and Todd Boehly in talks to sell their stakes to Clearlake &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3Y4cWVRWWJuQVloN2VYTk5adjgwUnZGN2pzODFudDFoZU0xa1BQRjlBUi1oUkJubmJrM2EtMDlVUGxCNEUyT3NUVWViSXpVeXlhRW5FY3hnaElENmdwMEQzQUZ5aW5qaTA2Z3h6OExub1BqVEkyTjkzOEhJWVFpN09kcnRtcTBVamRpRS1SODBJRGp3Y2JDS1FKSkZEV1BqdXpqYVMwLXNRblRqMy11N0530gGyAUFVX3lxTE9LdjhxZVFZYm5BWWg3ZVhOTlp2ODBSdkY3anM4MW50MWhlTTFrUFBGOUFSLWhSQm5uYmszYS0wOVVQbEI0RTJPc1RVZWJJelV5eWFFbkVjeGdoSUQ2Z3AwRDNBRnlpbmppMDZneHo4TG5vUGpUSTJOOTM4SElZUWk3T2RydG1xMFVqZGlFLVI4MElEandjYkNLUUpKRkRXUGp1emphUzAtc1FuVGozLXU3Tnc?oc=5",
+      "type": "article",
+      "title": "Alibaba To Sell Lingxi Games To Trustar For At Least $1.5 Billion As AI Pivot Accelerates - Pulse 2.0",
+      "date": "2026-08-17",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3Y4cWVRWWJuQVloN2VYTk5adjgwUnZGN2pzODFudDFoZU0xa1BQRjlBUi1oUkJubmJrM2EtMDlVUGxCNEUyT3NUVWViSXpVeXlhRW5FY3hnaElENmdwMEQzQUZ5aW5qaTA2Z3h6OExub1BqVEkyTjkzOEhJWVFpN09kcnRtcTBVamRpRS1SODBJRGp3Y2JDS1FKSkZEV1BqdXpqYVMwLXNRblRqMy11N0530gGyAUFVX3lxTE9LdjhxZVFZYm5BWWg3ZVhOTlp2ODBSdkY3anM4MW50MWhlTTFrUFBGOUFSLWhSQm5uYmszYS0wOVVQbEI0RTJPc1RVZWJJelV5eWFFbkVjeGdoSUQ2Z3AwRDNBRnlpbmppMDZneHo4TG5vUGpUSTJOOTM4SElZUWk3T2RydG1xMFVqZGlFLVI4MElEandjYkNLUUpKRkRXUGp1emphUzAtc1FuVGozLXU3Tnc?oc=5",
+      "snippet": "Alibaba To Sell Lingxi Games To Trustar For At Least $1.5 Billion As AI Pivot Accelerates &nbsp;&nbsp; Pulse 2.0"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUkdMRUJZUnJRYkJpUjZ5WjlXNDhJZGg1N0s1Z1ZZb3F3Y0FuSEhKRHVlNUNOM1hvakIyYXRGNjd1dWlmNG5yTHpJdWZDRWdMT2VKdFpuaTFEOGNleU1tSFREMFBwNm5MU1pnSHdYLTRhMGFwYjJRRElZNXVqbGx3Mm1mcUZJbnM3b2p1TEI4MWFUNXM2MUV5NmQ3V0poMXJlUlBiemJjSjRuYm1vcWxsSnpJQ1hrdGN4ckpOUlM5bEVCSWE1VVpPcnRpNUNSTVg1Mkc2TXZ1ekExaFQzXzN2RmllWlpDQ0p4Z3c?oc=5",
