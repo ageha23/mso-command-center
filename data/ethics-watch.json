@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-08-20T11:28:53.399966+00:00",
+  "lastRun": "2026-08-21T11:28:41.632746+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 13,
+  "addedThisRun": 7,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUhnRWdtYUFPMU0zd21CVC1Hc2JnV0R5M24yNmpjUzNGcXdfS0cxdXBtQU8xY3FnNEhjVHY5MFV4ejVFTDZwSWN3RnJMdjNNWlZpTVhBazFQRmZadTh0T3lSUzRoamVSRUZ5cEo3YmdBSFd5ZDlCaUdUM090cGhXT2c1M1VSbWtBbk1TcTd5bTN0c3ZHNlJlTUZYWUliWHh2VU01Slc5QjMtY2JJeFE?oc=5",
+      "type": "article",
+      "title": "Eric Knickrehm and Matt Stockstill discuss the future of law firm MSOs - Winston Taylor",
+      "date": "2026-08-21",
+      "source": "Winston Taylor",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUhnRWdtYUFPMU0zd21CVC1Hc2JnV0R5M24yNmpjUzNGcXdfS0cxdXBtQU8xY3FnNEhjVHY5MFV4ejVFTDZwSWN3RnJMdjNNWlZpTVhBazFQRmZadTh0T3lSUzRoamVSRUZ5cEo3YmdBSFd5ZDlCaUdUM090cGhXT2c1M1VSbWtBbk1TcTd5bTN0c3ZHNlJlTUZYWUliWHh2VU01Slc5QjMtY2JJeFE?oc=5",
+      "snippet": "Eric Knickrehm and Matt Stockstill discuss the future of law firm MSOs &nbsp;&nbsp; Winston Taylor"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxObEtVaG1PaHFhaEtZR0pXbjNmajNpWGcxRUdKSDIxUnNxakdSd0ZCWDFyTE5iajhPVERXMzNLb0p6endrSFRxQzFsMjVUdE05VklRSEhUMklodHIyQmtZT2ZWYmlPbkd4Qkk0TG5FX3VjczNCZl92Mmlvc2E2QWVadkxFYjdtdFBzODMzN25yeUtnN0x3WUNVd2NMRWFCOUxvYWcyalBjdTFjLWNR?oc=5",
+      "type": "article",
+      "title": "Why have private equity firms taken an interest in buying professional sports teams? - Los Angeles Times",
+      "date": "2026-08-21",
+      "source": "Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEtVaG1PaHFhaEtZR0pXbjNmajNpWGcxRUdKSDIxUnNxakdSd0ZCWDFyTE5iajhPVERXMzNLb0p6endrSFRxQzFsMjVUdE05VklRSEhUMklodHIyQmtZT2ZWYmlPbkd4Qkk0TG5FX3VjczNCZl92Mmlvc2E2QWVadkxFYjdtdFBzODMzN25yeUtnN0x3WUNVd2NMRWFCOUxvYWcyalBjdTFjLWNR?oc=5",
+      "snippet": "Why have private equity firms taken an interest in buying professional sports teams? &nbsp;&nbsp; Los Angeles Times"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3c3MUNJU2JxM2FhckpOU0xzZUtMSE1TMEgwRmtrVkRGamczVEZVdWZEUVMwck1qTlV1VV9OMjQxMHFZaUE5NnoyZGMyblVjX2FYNjJUMmtTN0U3VjNjWEhuX2J1TDFhOG1hSkVldDk2VlR4bkhFdFRteWFJVkdrSzN0cXlhNWw2aXhRVkhIM3hUMXNaaDhwSXBRYWp0QjVWTUs1WA?oc=5",
       "type": "article",
@@ -56,6 +74,42 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkp5ZnUtMXN5Mkw4UFBDdVhHbUhka0JYdl9JTVZhNXRURWVMaGR0NGJsNTd3TTEwdGVqVDFTV3RJSU9DRmJKbmZLRzFGNXAyUUU1SU02ZUNvX3NTVE9MdjFrcjFXUkZRYWJldmNNdTQ0SkNjWURIcXpoZWVGZ0pDNmZmZnVWNjhqYUFGbzFfRm0yQ3pXdDliR19mQjZ0RmhWRy1pNFBTbVdyQ3JYWWJpeNIBVkFVX3lxTFB5NEZabHdVNkpoRF9WeXZSdnhOVVhvcnNoZjBBR0JabEpWbEFYUkl3aEY1N2F3UTFRczhPUm9uR1lzVEJUa2paNU9mY0IwaWlVclV5RFRB?oc=5",
       "snippet": "3rd Circ. Urged To Revisit Arbitration Doctrine In Award Fight &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHdVMkY3T2JmLXdqVEVYYldRN1R3OTNSNzQ5dnEzWU00Z2R3SkJhQkJFcW84Y0lPSkxKY0Frb01EWHVyaWRRMzZCQ3oxS0FnLVJrTEtHbmxsaFREOThMSE5LaVo1eG9rX1dVTWxjbV9kUUhydU42QThXS2R1NTZzV2g5YlI?oc=5",
+      "type": "article",
+      "title": "Private Equity Found A Law Firm That Said Yes - Above the Law",
+      "date": "2026-08-20",
+      "source": "Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHdVMkY3T2JmLXdqVEVYYldRN1R3OTNSNzQ5dnEzWU00Z2R3SkJhQkJFcW84Y0lPSkxKY0Frb01EWHVyaWRRMzZCQ3oxS0FnLVJrTEtHbmxsaFREOThMSE5LaVo1eG9rX1dVTWxjbV9kUUhydU42QThXS2R1NTZzV2g5YlI?oc=5",
+      "snippet": "Private Equity Found A Law Firm That Said Yes &nbsp;&nbsp; Above the Law"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxONGFPbWtNV2pyYzFlUzdQSzVKSXlUei11Y3dGS1JTaVFNNERfLXN4N2hrbmVtbm1GLXdwR0gtQnRYZl93eDhDVFdqNXFTY0hzbnR2V3A3S1hwd3BJa1otVEJYQzFYNndRNXZSX3Z4X0YxSmxOX1pBYlV2VHc0X2Z4MlVQWmlvS1FXNlB1TTc1S0NVXzVrNjBEVGpDbENqeTFWQVdfaUp4VHBDbWZkeHk0YVIzTkJjV3RLaVZSZnREbF9uV3pMYWpBcFZ5LXBydXhHR0YyZDg0cw?oc=5",
+      "type": "article",
+      "title": "Shared Practices Group Announces Strategic Minority Investment from M-One Capital - markets.businessinsider.com",
+      "date": "2026-08-20",
+      "source": "markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONGFPbWtNV2pyYzFlUzdQSzVKSXlUei11Y3dGS1JTaVFNNERfLXN4N2hrbmVtbm1GLXdwR0gtQnRYZl93eDhDVFdqNXFTY0hzbnR2V3A3S1hwd3BJa1otVEJYQzFYNndRNXZSX3Z4X0YxSmxOX1pBYlV2VHc0X2Z4MlVQWmlvS1FXNlB1TTc1S0NVXzVrNjBEVGpDbENqeTFWQVdfaUp4VHBDbWZkeHk0YVIzTkJjV3RLaVZSZnREbF9uV3pMYWpBcFZ5LXBydXhHR0YyZDg0cw?oc=5",
+      "snippet": "Shared Practices Group Announces Strategic Minority Investment from M-One Capital &nbsp;&nbsp; markets.businessinsider.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihwJBVV95cUxPTjFVYUY0SlFYRUdPTzhiakgtMmkxSG9xa1hUQmVqNWtMbkd5OGNqdmNJWG02eWw5VHdVdTh6VTQyT3V6TUt5SlJKbWVOUVg4dTV2T1pZYWN1X00wdVZyZUItUnNIbGxkTmNId3A3REYzSXhHVG5MejAtX0tOeklLcFExeXZzaXZUc09PaXQwN0RUYmVLQzdaZVR6N0k4d1hwSVY2eWtsbjI0WEJ1Q1c2UmtLZG9WWG0wVEwxdjcwME83TWRqbHFoYmlwVTg3S0hJWUhsd1JVMlNIUkRTTm5pM3VNZlZWTmEzRXg4MTdHQUxVN0xqLU1DQ0J2T2VqWlpMczNGWVhMUQ?oc=5",
+      "type": "article",
+      "title": "Today’s Podcast Release: The “Confidence Advantage”: Why Privacy, Cybersecurity and AI Governance Are Becoming Business Imperatives - Consumer Finance Monitor",
+      "date": "2026-08-20",
+      "source": "Consumer Finance Monitor",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTjFVYUY0SlFYRUdPTzhiakgtMmkxSG9xa1hUQmVqNWtMbkd5OGNqdmNJWG02eWw5VHdVdTh6VTQyT3V6TUt5SlJKbWVOUVg4dTV2T1pZYWN1X00wdVZyZUItUnNIbGxkTmNId3A3REYzSXhHVG5MejAtX0tOeklLcFExeXZzaXZUc09PaXQwN0RUYmVLQzdaZVR6N0k4d1hwSVY2eWtsbjI0WEJ1Q1c2UmtLZG9WWG0wVEwxdjcwME83TWRqbHFoYmlwVTg3S0hJWUhsd1JVMlNIUkRTTm5pM3VNZlZWTmEzRXg4MTdHQUxVN0xqLU1DQ0J2T2VqWlpMczNGWVhMUQ?oc=5",
+      "snippet": "Today’s Podcast Release: The “Confidence Advantage”: Why Privacy, Cybersecurity and AI Governance Are Becoming Business Imperatives &nbsp;&nbsp; Consumer Finance Monitor"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkt6WEFBeWVRbHo5NWdyakNTd2JsMTJuLW05c3Z0UHVqYlVUVUN4Q0NhX0JabldIMVhyTk15R0dOTGI2and3TVhDOVEyN3o5eEJuMUh3ZHY5VTJCTUU0SHdlSC1nM1loRUV2aHVvc2lIbTJrMVQ3ZGMzU01oOF9NcUZXVmg3T3NsRDM5bnNxcmR5RjI2YXFXV212LVhLd3lwNTd0TzRIZVdvNG5y0gFWQVVfeXFMTThTZ2c1UkR1WnRnQmJrRnRNQ0M0SEduaURFYXc3ZVFXdnpfRE50MThXTVN1b3dwbnczZ1VEa0IwQmFmcG1OQnBpcy04Q1psa1VHaGs3NFE?oc=5",
+      "type": "article",
+      "title": "Fed. Circ. Rulings Emphasize Adjudicative Access And Review - Law360",
+      "date": "2026-08-20",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkt6WEFBeWVRbHo5NWdyakNTd2JsMTJuLW05c3Z0UHVqYlVUVUN4Q0NhX0JabldIMVhyTk15R0dOTGI2and3TVhDOVEyN3o5eEJuMUh3ZHY5VTJCTUU0SHdlSC1nM1loRUV2aHVvc2lIbTJrMVQ3ZGMzU01oOF9NcUZXVmg3T3NsRDM5bnNxcmR5RjI2YXFXV212LVhLd3lwNTd0TzRIZVdvNG5y0gFWQVVfeXFMTThTZ2c1UkR1WnRnQmJrRnRNQ0M0SEduaURFYXc3ZVFXdnpfRE50MThXTVN1b3dwbnczZ1VEa0IwQmFmcG1OQnBpcy04Q1psa1VHaGs3NFE?oc=5",
+      "snippet": "Fed. Circ. Rulings Emphasize Adjudicative Access And Review &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi_AFBVV95cUxORVpxbzd5Q00welR2N3FjLUhnZU0yQ3Mwd01TV2F2RXJVR0Vva3kwQ3M2cllUSTRJeUROeWc5RExQMWgyZXNVRDJUeklSOUpJNjRORXhRNFdFLUtmaGdvTHA3eWtPTjhVSmd0cE04SWZKZ3FfMXA4UmZ1UlNlakRNcWp3ZU5xVThrdjBhdEVOeU9SS1JjNVlXQU5UVkIteDZ2Wm9CeVpyWmQ2bHFKMHpfTEVEVkxXTEFXUkVHNXpLaS1KdjVITlc0cGxFSWRrM2RoQVFCRktzSmpva0NhZW1sTnpiOXZSREdZQU5uZXZ2N2tGZmR0QmVJWFYyUHDSAYICQVVfeXFMTmhZTGFZa3NQMFdGd0x0MTJZc3hjWkNJcUtlTlB4U0ZodTJtd2YwNW5lb3p6TFNCV2xwbU1PQXJ5bnZEV2ZEMnFXSDRGZUt3d3c2RmhEZnY2VnB5RENSUUo5MENlTTc3MzVEUTJlM2FRTzluVWN1VTV3TnpWSlloTGRmRnRodUdyYmJXekQtWTBwVUR3NlhvY3ZmeWNncUZ6SjJveVpMN3J3VDdTd29zY0J5YW1FajU4V3BSRE95OXVReHlCZnI4U28tcUlMMWhYdmpTblM0MG16YWZNbHN3NW1UMkdNOFdCbzhpeENXZUxSakxyS3ZrR0VDU3hERnBjdGZR?oc=5",
@@ -290,6 +344,15 @@
       "source": "Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUlkTEJvZzkyb3BqUW11WWtpQ1lWeDBYWmYxcXl0VGJkdXlkcHZFRUpOWV95RHpPQkt1OHBhTW52c3daZW9faGZ4RzVGVHN3Rm11cVRYNjBUYVk5NGdmaGkyNDhhVGJBNzFUZHJtNTF1d0ZQMmJwLXBfYjlnQ3o2UTBUYTdOdTR2NDJSbFAxTVpYa3FzRm9LZTBuM0s?oc=5",
       "snippet": "Next Gen ‘Harvey II’ Launches with Memory at Its Core &nbsp;&nbsp; Artificial Lawyer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizAFBVV95cUxOb1V3QlNfN2tqUVp2YjN3TW9KNGVldG04MVlMNXU1R2RjQ2x6YkdUaUJOZkFyVENuX3pua2VDN0ptU1hwd0xoM2pzVDRZS0Rkb3QwSFdJRE5Mb09uYTN0OUJCWmlqb2RYcUJlTUxXNU1kdW5Ea3lib04wbGMzNEhURko5VF9KNmhUZlRiNFlXa2R6UmdfdkNrUXMxalFmMkY2RXFHbUJ4VjF4OExfSkRDZDlyNktqaWgycTVrYUdocE5sUTFRcTBmdDJ2Q3Q?oc=5",
+      "type": "article",
+      "title": "Quinn Emanuel Expects to Reach $3B Revenue Goal, as Leaders Reshape Management Strategy - Law.com",
+      "date": "2026-08-18",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb1V3QlNfN2tqUVp2YjN3TW9KNGVldG04MVlMNXU1R2RjQ2x6YkdUaUJOZkFyVENuX3pua2VDN0ptU1hwd0xoM2pzVDRZS0Rkb3QwSFdJRE5Mb09uYTN0OUJCWmlqb2RYcUJlTUxXNU1kdW5Ea3lib04wbGMzNEhURko5VF9KNmhUZlRiNFlXa2R6UmdfdkNrUXMxalFmMkY2RXFHbUJ4VjF4OExfSkRDZDlyNktqaWgycTVrYUdocE5sUTFRcTBmdDJ2Q3Q?oc=5",
+      "snippet": "Quinn Emanuel Expects to Reach $3B Revenue Goal, as Leaders Reshape Management Strategy &nbsp;&nbsp; Law.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjFFVEFiR0h1WENDM09BV0hBdzFXVVZiUkZEMm41cGNVajRBM0k0d0tFbHdLeVQyMlZVU1ZlcFNXZmF1cG9MczdDN1ZXQXdOT0tSX2xLcVN3dHYtOG1uTW9QUFM0VXNvNy1tSVRHMTJ1bEhHZE4wX0NieWZEcXB0WjlUZjBSMkFZUjUwbUlHZ2xCSV9KQ0RiZi1ZX1lONGVjSmc?oc=5",
