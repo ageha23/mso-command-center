@@ -1,8 +1,17 @@
 {
-  "lastRun": "2026-08-22T11:23:08.962529+00:00",
+  "lastRun": "2026-08-23T11:22:51.265068+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 9,
+  "addedThisRun": 8,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1F6V1NGUHlnc2syTGVTZkE2X2tlLTkxbER3MWFrNXZWVHdRQXdzcy13UGptYU9wbkJjVDVGZVpFRVZVY05MYnZUUktPTEpTR01QQngyV0gzWE1oVXF0ZFR6Vm1yejU1c2VvSk9WSFU2emxySXJmVXdtT1FwVWE5LXowTFQ3MGxITHMwUFlIckhLTTJuWHVpcHdXZF92OWEwR0V1UndRY2U3MEgyX0cycGZab05keW01?oc=5",
+      "type": "article",
+      "title": "Why have private equity firms taken interest in buying pro sports teams? - Jefferson City News Tribune",
+      "date": "2026-08-23",
+      "source": "Jefferson City News Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1F6V1NGUHlnc2syTGVTZkE2X2tlLTkxbER3MWFrNXZWVHdRQXdzcy13UGptYU9wbkJjVDVGZVpFRVZVY05MYnZUUktPTEpTR01QQngyV0gzWE1oVXF0ZFR6Vm1yejU1c2VvSk9WSFU2emxySXJmVXdtT1FwVWE5LXowTFQ3MGxITHMwUFlIckhLTTJuWHVpcHdXZF92OWEwR0V1UndRY2U3MEgyX0cycGZab05keW01?oc=5",
+      "snippet": "Why have private equity firms taken interest in buying pro sports teams? &nbsp;&nbsp; Jefferson City News Tribune"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMikAJBVV95cUxQa1pRa0hXQWZRSkRQT3pjZkIwNWhlS005SS1JbExUNkU2X2E0SmpFTEZPbUxWaC1rWVlCNnNqRGJydUZ4MHBpMEx2Ym5rMzBLa013R011Yi1PdHVsaHJURXl4OF9CTFdsM0pDM0RLeE4xUnpkU2szcFNfd00zNkk2ZmM2dUxfU0xSeER2M0xsdzlXWTVkVGM0Z2dCMDJWNTJmbkk5cnZnSHo0RzlmOUc2SzRGUEFRS2txOXAycEgxY0l1RVBZQVJEQW9qQ3FWaUhrNGNhSURiSmozYVhGbHJOUk03UGRhSTUzQ1FWZTloSWMzdVdDdFdoSWZlNHB3UEQtWE5nTGJ5Mk0yaWVxWFpwVg?oc=5",
       "type": "article",
@@ -92,6 +101,15 @@
       "source": "Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUzdieHdGcXU4NTBTUVF3OW45Wlg5NjZFekpZdTRQNy1NM29KVk9uVEVYZW5kMms3NkxxS3VPN1FMYXJwYWlvY3EyVDZ3Q2JKYk1RRnh2VzhYRFhGbEhfSUtfdWVkYmxjT2JxeGtYeGlrZ3Fod1g5dDlTZ1dqRUo4ZXF3VC0wOHNsSVI1TmZkbWZaWlI0VFkzdlRENjI0UjExVFdPblloWGYycUo0ZUtIZEdsd3Nuc0x6WTl4ZGJReXF2bWlpbDVmOThEWHZsdlXSAc8BQVVfeXFMTlM3Ynh3RnF1ODUwU1FRdzluOVpYOTY2RXpKWXU0UDctTTNvSlZPblRFWGVuZDJrNzZMcUt1TzdRTGFycGFpb2NxMlQ2d0NiSmJNUUZ4dlc4WERYRmxIX0lLX3VlZGJsY09icXhrWHhpa2dxaHdYOXQ5U2dXakVKOGVxd1QtMDhzbElSNU5mZG1mWlpSNFRZM3ZURDYyNFIxMVRXT25ZaFhmMnFKNGVLSGRHbHdzbnNMelk5eGRiUXlxdm1paWw1Zjk4RFh2bHZV?oc=5",
       "snippet": "Stone Point And Genstar To Co-Own $1.3 Trillion Ascensus Savings Platform &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxPUkxMaUcycHl2cS0tTVRwMmtoVmtIVWFGR1BmcFB0eFFxOXU4dXZ5WU00YTdTNXBVeFcwNXNuUlZyTThMOXZWQzYwZXNrR1o2dWw2dFc1clMzc0pzUHM1R1hjRDdUa0ZfTDB5akdqYmdWbFdwWFhjVGg0aDVaVk10N3FkOA?oc=5",
+      "type": "article",
+      "title": "Report: Private equity firm Arctos buying 10% of Falcons - AOL.com",
+      "date": "2026-08-21",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUkxMaUcycHl2cS0tTVRwMmtoVmtIVWFGR1BmcFB0eFFxOXU4dXZ5WU00YTdTNXBVeFcwNXNuUlZyTThMOXZWQzYwZXNrR1o2dWw2dFc1clMzc0pzUHM1R1hjRDdUa0ZfTDB5akdqYmdWbFdwWFhjVGg0aDVaVk10N3FkOA?oc=5",
+      "snippet": "Report: Private equity firm Arctos buying 10% of Falcons &nbsp;&nbsp; AOL.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3c3MUNJU2JxM2FhckpOU0xzZUtMSE1TMEgwRmtrVkRGamczVEZVdWZEUVMwck1qTlV1VV9OMjQxMHFZaUE5NnoyZGMyblVjX2FYNjJUMmtTN0U3VjNjWEhuX2J1TDFhOG1hSkVldDk2VlR4bkhFdFRteWFJVkdrSzN0cXlhNWw2aXhRVkhIM3hUMXNaaDhwSXBRYWp0QjVWTUs1WA?oc=5",
@@ -193,6 +211,51 @@
       "snippet": "The new economics of AI-powered legal services: How smart law firms are redefining profit &nbsp;&nbsp; Thomson Reuters Legal Solutions"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQzhkZ2RzRWNFRmdhdFVGSmVQai1SMC1IQUJ6SWtFOEwwTldOZm9RUVlfZ3pGaGJiQkVqbFNNMTdCdDZxZW9SVlJnLVVrNkVfYVQ3ejk3SktESi1xNHNpMmNfejZiUnczVU5wNGhkZ2lrUGhRNmtQcDBrdDN6QlRNbjdmc2E2ZG1XSEFEUDNuRW9QaDNVR3o4SUtndkpzYUdoSEtkc1J1SUdONmVEbkY0bzVNbXcxLWhRWVlWOWxfYmFOT1BVS3M0ZVdRSlViUl9VVHFuX05SRUVxOEhjNmJsNmRwNA?oc=5",
+      "type": "article",
+      "title": "ABS, legal aid and unprecedented change — Ben Kemp on six months as Law Society of Scotland CEO - Law Society of Scotland",
+      "date": "2026-08-20",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQzhkZ2RzRWNFRmdhdFVGSmVQai1SMC1IQUJ6SWtFOEwwTldOZm9RUVlfZ3pGaGJiQkVqbFNNMTdCdDZxZW9SVlJnLVVrNkVfYVQ3ejk3SktESi1xNHNpMmNfejZiUnczVU5wNGhkZ2lrUGhRNmtQcDBrdDN6QlRNbjdmc2E2ZG1XSEFEUDNuRW9QaDNVR3o4SUtndkpzYUdoSEtkc1J1SUdONmVEbkY0bzVNbXcxLWhRWVlWOWxfYmFOT1BVS3M0ZVdRSlViUl9VVHFuX05SRUVxOEhjNmJsNmRwNA?oc=5",
+      "snippet": "ABS, legal aid and unprecedented change — Ben Kemp on six months as Law Society of Scotland CEO &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkhXWUNDYmJGSDRncU9kVzg3Mkl2eV9Nc2RuQ3N1anVzUnR0Q0VUY0kyS1FMajdwVjY2dWszT00weEoyLVZZaGhfNmhJRWN2QzhydGdlbGpqb2MzeG03SXNHZExJRDJpQmZkWnpLTEtpZ1JqYVpWNGFoMGRxclpaWUxMcVFDbVlmdGdGWEhrcmNoQmpkOGppcU5CMl9HTXBMVnRSN2J3clRhaXhUWlFtdkpnTjZjdHhs?oc=5",
+      "type": "article",
+      "title": "Franklin Templeton Closes Inaugural $1.5 Billion Collateralized Fund Obligation - citybiz",
+      "date": "2026-08-20",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkhXWUNDYmJGSDRncU9kVzg3Mkl2eV9Nc2RuQ3N1anVzUnR0Q0VUY0kyS1FMajdwVjY2dWszT00weEoyLVZZaGhfNmhJRWN2QzhydGdlbGpqb2MzeG03SXNHZExJRDJpQmZkWnpLTEtpZ1JqYVpWNGFoMGRxclpaWUxMcVFDbVlmdGdGWEhrcmNoQmpkOGppcU5CMl9HTXBMVnRSN2J3clRhaXhUWlFtdkpnTjZjdHhs?oc=5",
+      "snippet": "Franklin Templeton Closes Inaugural $1.5 Billion Collateralized Fund Obligation &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzh0cDZlYXB6dGMzRGg5MGxlTTVLekZrcS1TLW50ejc3REUtQlV5bXlvSkZBZGNCWmNrRXU3NTJWSGs0eG4zbWlERlprVVJQSGpBajN6SE1TMnJ1Nkd6YXJFNU5ORUZPX1N2LW1WQjVHcElmbmdMcEVFeUJ1VmdvY2pKbnI0T1Zma0lCR0RNUF90ckVjYk14eno1RnR5Mk5ONF8xYnRTOGNKamI5MlJhQURB?oc=5",
+      "type": "article",
+      "title": "Making legal AI work with the systems firms already trust - Thomson Reuters",
+      "date": "2026-08-20",
+      "source": "Thomson Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzh0cDZlYXB6dGMzRGg5MGxlTTVLekZrcS1TLW50ejc3REUtQlV5bXlvSkZBZGNCWmNrRXU3NTJWSGs0eG4zbWlERlprVVJQSGpBajN6SE1TMnJ1Nkd6YXJFNU5ORUZPX1N2LW1WQjVHcElmbmdMcEVFeUJ1VmdvY2pKbnI0T1Zma0lCR0RNUF90ckVjYk14eno1RnR5Mk5ONF8xYnRTOGNKamI5MlJhQURB?oc=5",
+      "snippet": "Making legal AI work with the systems firms already trust &nbsp;&nbsp; Thomson Reuters"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxQczVHYnhLamVwLUJ0R2JOWGVlWVVqS0xrYW5LRUJHUEJreXRxM3h6amRYX3JubF9kTDdCcUxsMzgxTUZEZGljWThfUW93QlJHVlNpYVVMend5eU85NFdmZUIzcE9uVWlpdm9GMnFkMFltZ3I5cF9CZWoyNUxnam9UQ3kzRFJLYnBNd3ZVbg?oc=5",
+      "type": "article",
+      "title": "Corporate Social Responsibility in India: A Guide - India Briefing",
+      "date": "2026-08-20",
+      "source": "India Briefing",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQczVHYnhLamVwLUJ0R2JOWGVlWVVqS0xrYW5LRUJHUEJreXRxM3h6amRYX3JubF9kTDdCcUxsMzgxTUZEZGljWThfUW93QlJHVlNpYVVMend5eU85NFdmZUIzcE9uVWlpdm9GMnFkMFltZ3I5cF9CZWoyNUxnam9UQ3kzRFJLYnBNd3ZVbg?oc=5",
+      "snippet": "Corporate Social Responsibility in India: A Guide &nbsp;&nbsp; India Briefing"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUFkNmpoRkRkd3oxTU95T3RacDNyR2RHdS1maEY0MnZEVlFDUHdieEZTYjJRTDZGa2dIVXNrRzFvaDZKR3ZUby1OTlFlRkp4YmJQeGVCZXotWm5ET2g4WnI5X2JqN0lRM290THRjUWI5TmFuTm12MUV5NWJob3loZUszVzd6Z0RfT19SZGJ0V1BodGtNQTJhdThhZUFhZGFKME96cdIBVkFVX3lxTE0zRGYxQWRTNWZLUFF5WjBwWnVGVW5peVRULXFxYmJJcDdTemtKbDVmdjJZQnV1TmRuMmNjcWhmT0x3MlN5MlZ6bG82ZnFvdVRJc3RBeG53?oc=5",
+      "type": "article",
+      "title": "Staffing Co. Owner Charged In $7M Employment Tax Scheme - Law360",
+      "date": "2026-08-20",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUFkNmpoRkRkd3oxTU95T3RacDNyR2RHdS1maEY0MnZEVlFDUHdieEZTYjJRTDZGa2dIVXNrRzFvaDZKR3ZUby1OTlFlRkp4YmJQeGVCZXotWm5ET2g4WnI5X2JqN0lRM290THRjUWI5TmFuTm12MUV5NWJob3loZUszVzd6Z0RfT19SZGJ0V1BodGtNQTJhdThhZUFhZGFKME96cdIBVkFVX3lxTE0zRGYxQWRTNWZLUFF5WjBwWnVGVW5peVRULXFxYmJJcDdTemtKbDVmdjJZQnV1TmRuMmNjcWhmT0x3MlN5MlZ6bG82ZnFvdVRJc3RBeG53?oc=5",
+      "snippet": "Staffing Co. Owner Charged In $7M Employment Tax Scheme &nbsp;&nbsp; Law360"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMi_AFBVV95cUxORVpxbzd5Q00welR2N3FjLUhnZU0yQ3Mwd01TV2F2RXJVR0Vva3kwQ3M2cllUSTRJeUROeWc5RExQMWgyZXNVRDJUeklSOUpJNjRORXhRNFdFLUtmaGdvTHA3eWtPTjhVSmd0cE04SWZKZ3FfMXA4UmZ1UlNlakRNcWp3ZU5xVThrdjBhdEVOeU9SS1JjNVlXQU5UVkIteDZ2Wm9CeVpyWmQ2bHFKMHpfTEVEVkxXTEFXUkVHNXpLaS1KdjVITlc0cGxFSWRrM2RoQVFCRktzSmpva0NhZW1sTnpiOXZSREdZQU5uZXZ2N2tGZmR0QmVJWFYyUHDSAYICQVVfeXFMTmhZTGFZa3NQMFdGd0x0MTJZc3hjWkNJcUtlTlB4U0ZodTJtd2YwNW5lb3p6TFNCV2xwbU1PQXJ5bnZEV2ZEMnFXSDRGZUt3d3c2RmhEZnY2VnB5RENSUUo5MENlTTc3MzVEUTJlM2FRTzluVWN1VTV3TnpWSlloTGRmRnRodUdyYmJXekQtWTBwVUR3NlhvY3ZmeWNncUZ6SjJveVpMN3J3VDdTd29zY0J5YW1FajU4V3BSRE95OXVReHlCZnI4U28tcUlMMWhYdmpTblM0MG16YWZNbHN3NW1UMkdNOFdCbzhpeENXZUxSakxyS3ZrR0VDU3hERnBjdGZR?oc=5",
       "type": "article",
       "title": "Cardium Law Selects iManage to Strengthen Document Management and Support Future AI Innovation - manilatimes.net",
@@ -263,6 +326,15 @@
       "source": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2Y4TzE4T3JaVzRjRUtkc3FodmJQWGJaTUt3RUZ0QllMWjNVcTMtSVBYcFJkNGpxZzk0OXFVLWEzQldGVGZ3TVVSVENwbTQ5M2Nvbm4xSHlELUl3QUdITUx5ZWtfRFFXM1N2Qk8wRE9EY2ZIYTNsT3RWWGo5MHl2QVlFVVlkaDhXcGJKeWhuV1JvQkxyQmg3NjVRelZPUHVBMlg2dmpKZHFxTDZxN09iWQ?oc=5",
       "snippet": "Michelle R. Generaux Named a 2026 Private Equity and M&A Visionary by LA Times &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXd4ZGNDTlJzZEo1TUM3VFhiRm5wUTNEdnpKX2kxd0RmaEJYenZhV0dRUGxfNFVEOXNxQU9Uc0FwR1BrRFFjSUs2VWZoYUJuTjRPc2I5SHdKRWtDN2pYR2Zma3hNX3VHNnE5clRNZVA4a1BoaENpWWppX2t1V2d4cENiZVNvOFNhRTItZ3VlR1VEOW5fcHRLakZR?oc=5",
+      "type": "article",
+      "title": "States Are Putting the Brakes on Private Equity in Healthcare - Governing",
+      "date": "2026-08-19",
+      "source": "Governing",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXd4ZGNDTlJzZEo1TUM3VFhiRm5wUTNEdnpKX2kxd0RmaEJYenZhV0dRUGxfNFVEOXNxQU9Uc0FwR1BrRFFjSUs2VWZoYUJuTjRPc2I5SHdKRWtDN2pYR2Zma3hNX3VHNnE5clRNZVA4a1BoaENpWWppX2t1V2d4cENiZVNvOFNhRTItZ3VlR1VEOW5fcHRLakZR?oc=5",
+      "snippet": "States Are Putting the Brakes on Private Equity in Healthcare &nbsp;&nbsp; Governing"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTNjQkRidFpveVVxdW1yOHZnY1BUbkM1aGxXMjJDdDRNdGtQRi0wQl9DY1J1TXFPTVB3aFI5UWFlX3A0VjhBcmhGdm5WN291dFh1RERIMEpBQW1NRGZsd0gyNVd5MUE2SjI4c1YwcGJ2amZGck4wdC1NMi1tc2JHcV8yYUxOdkJYTnJfMjFPQlRTRWg2V0R4QWVVbFJGMXRhMzBIVA?oc=5",
@@ -1280,78 +1352,6 @@
       "source": "Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeE82Tnc5WnVkcVF0bUVOQ1ZLcUVmUmstaDFzdDN1VnNLSmc5eUdUMGJNdHZKXzBaRzZLel91SjEyNFZsYUtKV3R2aXgxaktYVHhhb0ZhbG1DVjFkRFJhbFZNY1A3djBOZktMa0c3djdmNjMyMklTajlJdWNoRHo4aEpONnl5OXhnYkZJV1B6ekZfV0hFQ3ZpZUp0eWRLU0J4dkJJQ3daX3QzVEd1?oc=5",
       "snippet": "SPAC King Attorney Weighs Selling Stake in His Own NYC Law Firm &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3B5aDJvdmVSSS1WR1l5T3g0eS1wdWQySjROakVibUxVRHkzT3VYdWVPM1RkSVFoMWY5bVhZaXkwTDQ5aWpPcXFKZV8xVVpXTGdiUXJkdExYT2E4bndCUE9JQXZEVUtTMUdpdUZFMmREb0lJUDQ5Y0FXQXkwdmhldTJydUZPWTBhMVBvTjlEbFNmVEI4WlpJVWJHUl9NME5FY0dickRhVnp5Y3VNRGc3VDVVeDU4Y1NG0gG4AUFVX3lxTFBzcHloMm92ZVJJLVZHWXlPeDR5LXB1ZDJKNE5qRWJtTFVEeTNPdVh1ZU8zVGRJUWgxZjltWFlpeTBMNDlpak9xcUplXzFVWldMZ2JRcmR0TFhPYThud0JQT0lBdkRVS1MxR2l1RkUyZERvSUlQNDljQVdBeTB2aGV1MnJ1Rk9ZMGExUG9OOURsU2ZUQjhaWklVYkdSX00wTkVjR2JyRGFWenljdU1EZzdUNVV4NThjU0Y?oc=5",
-      "type": "article",
-      "title": "Court of Chancery Reaffirms That Minority Members of Manager-Managed LLCs Do Not Ordinarily Owe Fiduciary Duties - The National Law Review",
-      "date": "2026-08-10",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3B5aDJvdmVSSS1WR1l5T3g0eS1wdWQySjROakVibUxVRHkzT3VYdWVPM1RkSVFoMWY5bVhZaXkwTDQ5aWpPcXFKZV8xVVpXTGdiUXJkdExYT2E4bndCUE9JQXZEVUtTMUdpdUZFMmREb0lJUDQ5Y0FXQXkwdmhldTJydUZPWTBhMVBvTjlEbFNmVEI4WlpJVWJHUl9NME5FY0dickRhVnp5Y3VNRGc3VDVVeDU4Y1NG0gG4AUFVX3lxTFBzcHloMm92ZVJJLVZHWXlPeDR5LXB1ZDJKNE5qRWJtTFVEeTNPdVh1ZU8zVGRJUWgxZjltWFlpeTBMNDlpak9xcUplXzFVWldMZ2JRcmR0TFhPYThud0JQT0lBdkRVS1MxR2l1RkUyZERvSUlQNDljQVdBeTB2aGV1MnJ1Rk9ZMGExUG9OOURsU2ZUQjhaWklVYkdSX00wTkVjR2JyRGFWenljdU1EZzdUNVV4NThjU0Y?oc=5",
-      "snippet": "Court of Chancery Reaffirms That Minority Members of Manager-Managed LLCs Do Not Ordinarily Owe Fiduciary Duties &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQaU80YXhPeUw0YVpfSVhGOVpEYXQ5WkNHZVdRT21xMFBIZldmTlEzQzNEekRrUGp4aVJCSTFqblV3MmNLU1BlbkV2Yk5vbWVHMzFPVmlIN21BR1JJLXlabHBsdjhSMkdvazI2eDFwZnVDRWlGYnJfQjhfMDJMY18tN1A0aU9HVlNfaC01NXlUQlJtb01NeVVzWTZkZFVOZDZTbmhfZtIBXkFVX3lxTFAzNC1DdTVYMUs4VWVNb3EtdW1BTFBEMFJfUWtpaEJnaVk0WEFlV3BFazZrYTdUYkxzX3lMclUxdTdmc0E4NXo2NjRrcGNHSTF2R1M3cThaOTJldlVEN3c?oc=5",
-      "type": "article",
-      "title": "Ill. Gov. Signs Bill Restricting PE Role In Legal Industry - Law360",
-      "date": "2026-08-10",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaU80YXhPeUw0YVpfSVhGOVpEYXQ5WkNHZVdRT21xMFBIZldmTlEzQzNEekRrUGp4aVJCSTFqblV3MmNLU1BlbkV2Yk5vbWVHMzFPVmlIN21BR1JJLXlabHBsdjhSMkdvazI2eDFwZnVDRWlGYnJfQjhfMDJMY18tN1A0aU9HVlNfaC01NXlUQlJtb01NeVVzWTZkZFVOZDZTbmhfZtIBXkFVX3lxTFAzNC1DdTVYMUs4VWVNb3EtdW1BTFBEMFJfUWtpaEJnaVk0WEFlV3BFazZrYTdUYkxzX3lMclUxdTdmc0E4NXo2NjRrcGNHSTF2R1M3cThaOTJldlVEN3c?oc=5",
-      "snippet": "Ill. Gov. Signs Bill Restricting PE Role In Legal Industry &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmNxMG5USGY4d284TWI1bWpTMFVianBOdWxHM3A2NFRPbFVCVWJMQmozcDViREVGTU5nVGo0VmJiYzdDQmhJX3hxNmxiUE5DV1RRdlVjNkpZMXVicnFqMkt2MndQWl96V1pfVU1ITl9sLUpPSXJOZmR0SHpDYml1Z0hLbHpxS0pRZ2pVYTU1cm80OGhWSlBPOEFxc2Izc3ktN1p5UmdNVVktMFJCbFE?oc=5",
-      "type": "article",
-      "title": "The billable hour is not dead, but AI is chipping away at its prevalence - wislawjournal.com",
-      "date": "2026-08-10",
-      "source": "wislawjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmNxMG5USGY4d284TWI1bWpTMFVianBOdWxHM3A2NFRPbFVCVWJMQmozcDViREVGTU5nVGo0VmJiYzdDQmhJX3hxNmxiUE5DV1RRdlVjNkpZMXVicnFqMkt2MndQWl96V1pfVU1ITl9sLUpPSXJOZmR0SHpDYml1Z0hLbHpxS0pRZ2pVYTU1cm80OGhWSlBPOEFxc2Izc3ktN1p5UmdNVVktMFJCbFE?oc=5",
-      "snippet": "The billable hour is not dead, but AI is chipping away at its prevalence &nbsp;&nbsp; wislawjournal.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KWXY5S1NmQ2lyWktiNmZDZkNSQzhjV0ptbEQwbG5tNFR1ekE1eTFnVGxTZGphQmtUTnFZVF9WSlFRVVFfczZQOF8xVDI1UHJ2QkVaTDZZeEFmYUk?oc=5",
-      "type": "article",
-      "title": "EBIT vs. EBITDA: Difference, What It Means, & Calculation - Encyclopedia Britannica",
-      "date": "2026-08-10",
-      "source": "Encyclopedia Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KWXY5S1NmQ2lyWktiNmZDZkNSQzhjV0ptbEQwbG5tNFR1ekE1eTFnVGxTZGphQmtUTnFZVF9WSlFRVVFfczZQOF8xVDI1UHJ2QkVaTDZZeEFmYUk?oc=5",
-      "snippet": "EBIT vs. EBITDA: Difference, What It Means, & Calculation &nbsp;&nbsp; Encyclopedia Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWM3MmVRZmM5bUc5T0lucS1wOEdYc1I0c284aVhtYnFHUHlwUWQwdUgyMHh1Q3FCOFhHdTBBTzcwaU9zdVQ0TjhVa2pHcEN2TktUZWxnQ2ZIU0R0eVR1WWpkekVmZFBaYWVEQXF2bTd5V3BkU3JvYWViTllkby1fUG92X1o1WE5GcjVjVWhsemZwcUt5MjVlT2N5TWgwWjNnNFEtLUgtTjhyVUo5MUJDajNqNDJBM05zT09KQkdfSQ?oc=5",
-      "type": "article",
-      "title": "FCA proposes simplification of remuneration rules for solo-regulated firms - Lewis Silkin",
-      "date": "2026-08-10",
-      "source": "Lewis Silkin",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWM3MmVRZmM5bUc5T0lucS1wOEdYc1I0c284aVhtYnFHUHlwUWQwdUgyMHh1Q3FCOFhHdTBBTzcwaU9zdVQ0TjhVa2pHcEN2TktUZWxnQ2ZIU0R0eVR1WWpkekVmZFBaYWVEQXF2bTd5V3BkU3JvYWViTllkby1fUG92X1o1WE5GcjVjVWhsemZwcUt5MjVlT2N5TWgwWjNnNFEtLUgtTjhyVUo5MUJDajNqNDJBM05zT09KQkdfSQ?oc=5",
-      "snippet": "FCA proposes simplification of remuneration rules for solo-regulated firms &nbsp;&nbsp; Lewis Silkin"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zNHhNa0JrUWdheTNnUXE0bnV4UkFycnpqbzk5U1J5ODkwd1RzeFZUTjI0cVRpTjVPSUxSeW9jZnBrNVU4alAxTG9YcG5lczV2RFVaYkhxcHBJYlkt?oc=5",
-      "type": "article",
-      "title": "Ethics Compliance: The Outsourcing Option - Law.com",
-      "date": "2026-08-09",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zNHhNa0JrUWdheTNnUXE0bnV4UkFycnpqbzk5U1J5ODkwd1RzeFZUTjI0cVRpTjVPSUxSeW9jZnBrNVU4alAxTG9YcG5lczV2RFVaYkhxcHBJYlkt?oc=5",
-      "snippet": "Ethics Compliance: The Outsourcing Option &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW9MU3VkSTVraFNYWlZMX0k3d3AwQ1NLQjJYZDBWSVFnZTMyazZBV09fUzdmeTZ6WTlyNERUX015NzJiOUJ5MHNDN0JBUS1KNDhiNjZwR2JSU09KT25pSk90X3RwWjhFWEJwQU8ySTJmMW9lSk9mYXF0Q0FZQjNRa3VVLWhoZ294aUJyOHA0SjRqdDVJYVltdXBkdkg3YUFtVWZTc0xiS05lVVNNRXB1YVo5dHZzOS05RDhvTExwZw?oc=5",
-      "type": "article",
-      "title": "Israeli lawyers told to ditch TikTok dances, boastful claims under new ethics rules - www.israelhayom.com",
-      "date": "2026-08-09",
-      "source": "www.israelhayom.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW9MU3VkSTVraFNYWlZMX0k3d3AwQ1NLQjJYZDBWSVFnZTMyazZBV09fUzdmeTZ6WTlyNERUX015NzJiOUJ5MHNDN0JBUS1KNDhiNjZwR2JSU09KT25pSk90X3RwWjhFWEJwQU8ySTJmMW9lSk9mYXF0Q0FZQjNRa3VVLWhoZ294aUJyOHA0SjRqdDVJYVltdXBkdkg3YUFtVWZTc0xiS05lVVNNRXB1YVo5dHZzOS05RDhvTExwZw?oc=5",
-      "snippet": "Israeli lawyers told to ditch TikTok dances, boastful claims under new ethics rules &nbsp;&nbsp; www.israelhayom.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxPME9jUEFobFFFVl8yWjgwUmEzS203OFVteHExSUpkVC1jbEZpa3ZRTXdHU2NCUkdHRGg3aFBtLU1DREJ3VFJZNi1MMWU4RHhYTk1hcWFuSkhoaDV4Z25HVUVwRXdBdTlOLWplSnJ6UDcweUQySS1aN19HaWEtQXFMZ3RYUUM?oc=5",
-      "type": "article",
-      "title": "FTC Ends Disparate-Impact Cases; RI Leans on State Law - Uprise RI",
-      "date": "2026-08-08",
-      "source": "Uprise RI",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPME9jUEFobFFFVl8yWjgwUmEzS203OFVteHExSUpkVC1jbEZpa3ZRTXdHU2NCUkdHRGg3aFBtLU1DREJ3VFJZNi1MMWU4RHhYTk1hcWFuSkhoaDV4Z25HVUVwRXdBdTlOLWplSnJ6UDcweUQySS1aN19HaWEtQXFMZ3RYUUM?oc=5",
-      "snippet": "FTC Ends Disparate-Impact Cases; RI Leans on State Law &nbsp;&nbsp; Uprise RI"
     }
   ]
 }
