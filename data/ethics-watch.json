@@ -1,8 +1,71 @@
 {
-  "lastRun": "2026-08-23T11:22:51.265068+00:00",
+  "lastRun": "2026-08-24T11:31:23.311485+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 8,
+  "addedThisRun": 13,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFNFaWpGQm9NX2d0bWYtSHh1cTZ3Q05CbkRVYnYxNWlteGRybzYwcnNINk9XWlp2Q0pVLTRPVk9TekhZdWFtcHBXeGVpVDdsTVdsN2l3QzJURHhwSFZQa2ZVVmFPSW5xdGU2VFBrRDVzeFpMRG1jSUJ0a2V3bFBfOFlfX2NKZ2MtUFU1UWJHd0YwYmVLODdMUXZTRzNlWmlFclliSy14NEhBZkhqa0FVeFdZYmQ?oc=5",
+      "type": "article",
+      "title": "Law Firms Can Use Private Equity’s Positives to Benefit Culture - Bloomberg Law News",
+      "date": "2026-08-24",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFNFaWpGQm9NX2d0bWYtSHh1cTZ3Q05CbkRVYnYxNWlteGRybzYwcnNINk9XWlp2Q0pVLTRPVk9TekhZdWFtcHBXeGVpVDdsTVdsN2l3QzJURHhwSFZQa2ZVVmFPSW5xdGU2VFBrRDVzeFpMRG1jSUJ0a2V3bFBfOFlfX2NKZ2MtUFU1UWJHd0YwYmVLODdMUXZTRzNlWmlFclliSy14NEhBZkhqa0FVeFdZYmQ?oc=5",
+      "snippet": "Law Firms Can Use Private Equity’s Positives to Benefit Culture &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTl4dVI3SHZaWVRRck50eVNFYWZrQzlkdkRuNGhfcHhPVGFUOHdXeXdUVHcwbWVlUjdjaWVfXzVSVnVvN0c3QkdpUHY0LTE0WFEzSHZGM3Q1RjFNOWM4XzNGa3VKejFrenJWWVdOVkRPMjdkZ2xFUWdHN2J2RUdtYl95d0Vpel9OUV9fQXpOcE5mbnB5cFd2UzZIdU5sVmxOZGcxRVB1N3N6NV9WMEE?oc=5",
+      "type": "article",
+      "title": "Law Firms Can Use Private Equity’s Positives to Benefit Culture - news.bloombergtax.com",
+      "date": "2026-08-24",
+      "source": "news.bloombergtax.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTl4dVI3SHZaWVRRck50eVNFYWZrQzlkdkRuNGhfcHhPVGFUOHdXeXdUVHcwbWVlUjdjaWVfXzVSVnVvN0c3QkdpUHY0LTE0WFEzSHZGM3Q1RjFNOWM4XzNGa3VKejFrenJWWVdOVkRPMjdkZ2xFUWdHN2J2RUdtYl95d0Vpel9OUV9fQXpOcE5mbnB5cFd2UzZIdU5sVmxOZGcxRVB1N3N6NV9WMEE?oc=5",
+      "snippet": "Law Firms Can Use Private Equity’s Positives to Benefit Culture &nbsp;&nbsp; news.bloombergtax.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWpYTFVUcW1ZcElmeTFWVmh5QllrNktiSkpudk9XYmdZcWF4ckZFcElBR2FRanZyRjBJLU8yWTdBd0R6dzZlem5YUFh2MGRZS3RqNl9HRnptaGJFazhOallVXzlnaTdFY1l1bmtQb05panJycDJubXpJbk9jVWVaUFlBendrTlctMjVzY1gzMVVaSkh2Nlp2ZlpDYWFtN085VmlJ?oc=5",
+      "type": "article",
+      "title": "Judicial Notice (08.23.26): No Nonsense - Original Jurisdiction | David Lat",
+      "date": "2026-08-24",
+      "source": "Original Jurisdiction | David Lat",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWpYTFVUcW1ZcElmeTFWVmh5QllrNktiSkpudk9XYmdZcWF4ckZFcElBR2FRanZyRjBJLU8yWTdBd0R6dzZlem5YUFh2MGRZS3RqNl9HRnptaGJFazhOallVXzlnaTdFY1l1bmtQb05panJycDJubXpJbk9jVWVaUFlBendrTlctMjVzY1gzMVVaSkh2Nlp2ZlpDYWFtN085VmlJ?oc=5",
+      "snippet": "Judicial Notice (08.23.26): No Nonsense &nbsp;&nbsp; Original Jurisdiction | David Lat"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVZGanQ1THNCeUVRSFBpWTBlVnVLWmNDcFdYdHNaQ09UMU9laHQtbmZvR21iLTRodVlZNEx6Mlp6b3JEcFR0OUdZTkdKdkZxS3pWaEVRX3JjT2Rtd190Sl9MU2dkUDNjVEd4bGJFZ01nUHZ0UlFUN3pReTk4NTVlc2F1RHFvc05UbVFpaXlOMDlkb09GWDkxVnhIZlMydHFYd0ZiT2ZZMm1KbTNXOF9v?oc=5",
+      "type": "article",
+      "title": "At Your Service: Aug. 24 edition - Alternatives Watch",
+      "date": "2026-08-24",
+      "source": "Alternatives Watch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVZGanQ1THNCeUVRSFBpWTBlVnVLWmNDcFdYdHNaQ09UMU9laHQtbmZvR21iLTRodVlZNEx6Mlp6b3JEcFR0OUdZTkdKdkZxS3pWaEVRX3JjT2Rtd190Sl9MU2dkUDNjVEd4bGJFZ01nUHZ0UlFUN3pReTk4NTVlc2F1RHFvc05UbVFpaXlOMDlkb09GWDkxVnhIZlMydHFYd0ZiT2ZZMm1KbTNXOF9v?oc=5",
+      "snippet": "At Your Service: Aug. 24 edition &nbsp;&nbsp; Alternatives Watch"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWRHSkdDMl9IZFlDaG5wQXJZa08tWVRTdno4bHFJRnl0OVhJQmpWODJ6alREclF1NmxLTEJxdnAxaF9sR3htdzg2ekNCT29RZ0VBVTQySGJIMGxmMzRJSV9aYzNOWFRIZ0dfSUNsemdyRTdvYWloelRFWml2bWRGbXRfN0tGeG9fVWxpNXd3Wm1lS3dlLThmSQ?oc=5",
+      "type": "article",
+      "title": "Kestra Financial Appoints Apple as Next Head of Wealth Management - ABF Journal",
+      "date": "2026-08-24",
+      "source": "ABF Journal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWRHSkdDMl9IZFlDaG5wQXJZa08tWVRTdno4bHFJRnl0OVhJQmpWODJ6alREclF1NmxLTEJxdnAxaF9sR3htdzg2ekNCT29RZ0VBVTQySGJIMGxmMzRJSV9aYzNOWFRIZ0dfSUNsemdyRTdvYWloelRFWml2bWRGbXRfN0tGeG9fVWxpNXd3Wm1lS3dlLThmSQ?oc=5",
+      "snippet": "Kestra Financial Appoints Apple as Next Head of Wealth Management &nbsp;&nbsp; ABF Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZVaHZsRkZOdEdTeTAyMlNab2VIS2UxSFRXTHkxNG5LTmQ3cV94RnZ2ZGd0QklZQmdQUi1pc1I1MFBTcWN2eXUzckdseGZ6OWdoeDdRODg1bEJNVVh3cVBDT1E2bVVaclBraFVXOW9mNTEtZk9uSE1scVRydHZ1TU1tVENjLTBXRVhnMTZfeTZ6X1hLcDRBS3JCV0pJRV9RWnY4VlFpWTlhYUhGRkJURk9xMEFld9IBuwFBVV95cUxQb05iek9kdDFDbWZUVzFGNzl6ODRfQV9mZUY4YjBXeTczbTJlRmRsNEN6RVZ5MDZmRThwTGNFY1J0bHhoYWUtbjhoQV9nRGZyR1R1YTJLZGFaZ0xtQUpGZFMxTEQxaHRlWWRQZDBOQXRvNS1xNDR1VjJwODJ4bU9wckVEa0tjd3FwZ3NwU3I2cFMtU0psWEZ5MFg5anFZSWM2U3BaanVja052cGwzd0JtRmtBTlNESU0zZEQ4?oc=5",
+      "type": "article",
+      "title": "2026 Services for Victims of Human Trafficking (United States) - fundsforNGOs",
+      "date": "2026-08-24",
+      "source": "fundsforNGOs",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZVaHZsRkZOdEdTeTAyMlNab2VIS2UxSFRXTHkxNG5LTmQ3cV94RnZ2ZGd0QklZQmdQUi1pc1I1MFBTcWN2eXUzckdseGZ6OWdoeDdRODg1bEJNVVh3cVBDT1E2bVVaclBraFVXOW9mNTEtZk9uSE1scVRydHZ1TU1tVENjLTBXRVhnMTZfeTZ6X1hLcDRBS3JCV0pJRV9RWnY4VlFpWTlhYUhGRkJURk9xMEFld9IBuwFBVV95cUxQb05iek9kdDFDbWZUVzFGNzl6ODRfQV9mZUY4YjBXeTczbTJlRmRsNEN6RVZ5MDZmRThwTGNFY1J0bHhoYWUtbjhoQV9nRGZyR1R1YTJLZGFaZ0xtQUpGZFMxTEQxaHRlWWRQZDBOQXRvNS1xNDR1VjJwODJ4bU9wckVEa0tjd3FwZ3NwU3I2cFMtU0psWEZ5MFg5anFZSWM2U3BaanVja052cGwzd0JtRmtBTlNESU0zZEQ4?oc=5",
+      "snippet": "2026 Services for Victims of Human Trafficking (United States) &nbsp;&nbsp; fundsforNGOs"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFZCTHNCaWI4QnRfX081SHhUMVBaZmQ3YlZ1QXN0SW5fYzZYdTl0QWxlSHoxeWRLdVJkWVJLbW90V3h5c1BuLUxUWjBFWHdzdGJjVUEwTE9jWjF5YUhQN0NBd0VXRWZ5WUpGdlk3Yk50LXZqa3daMlROMnpIR3Y0V3ZaMkQ?oc=5",
+      "type": "article",
+      "title": "Why a Saudi prince is helping a Charlotte medtech firm’s $200M overseas expansion - AOL.com",
+      "date": "2026-08-24",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFZCTHNCaWI4QnRfX081SHhUMVBaZmQ3YlZ1QXN0SW5fYzZYdTl0QWxlSHoxeWRLdVJkWVJLbW90V3h5c1BuLUxUWjBFWHdzdGJjVUEwTE9jWjF5YUhQN0NBd0VXRWZ5WUpGdlk3Yk50LXZqa3daMlROMnpIR3Y0V3ZaMkQ?oc=5",
+      "snippet": "Why a Saudi prince is helping a Charlotte medtech firm’s $200M overseas expansion &nbsp;&nbsp; AOL.com"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1F6V1NGUHlnc2syTGVTZkE2X2tlLTkxbER3MWFrNXZWVHdRQXdzcy13UGptYU9wbkJjVDVGZVpFRVZVY05MYnZUUktPTEpTR01QQngyV0gzWE1oVXF0ZFR6Vm1yejU1c2VvSk9WSFU2emxySXJmVXdtT1FwVWE5LXowTFQ3MGxITHMwUFlIckhLTTJuWHVpcHdXZF92OWEwR0V1UndRY2U3MEgyX0cycGZab05keW01?oc=5",
       "type": "article",
@@ -13,6 +76,15 @@
       "snippet": "Why have private equity firms taken interest in buying pro sports teams? &nbsp;&nbsp; Jefferson City News Tribune"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHRGZlNMUEdOVFpIeUFUN0ZScXkwd3FPTzBUXzcwR0RZcWlYSG92eUV4NHF1dUVzamhwYjVTY1VDZWNDN05xQjU1MDdGQVpJazA4dC1zb3Fnb1JQSG1zcUJiSjJxN0pQLWMwWGJRWDlJY0xFdnNad3NHZXBwMlBfaU1NRQ?oc=5",
+      "type": "article",
+      "title": "True Crime Fame and Entertainment Economics Explained - The Bulletin Time",
+      "date": "2026-08-23",
+      "source": "The Bulletin Time",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHRGZlNMUEdOVFpIeUFUN0ZScXkwd3FPTzBUXzcwR0RZcWlYSG92eUV4NHF1dUVzamhwYjVTY1VDZWNDN05xQjU1MDdGQVpJazA4dC1zb3Fnb1JQSG1zcUJiSjJxN0pQLWMwWGJRWDlJY0xFdnNad3NHZXBwMlBfaU1NRQ?oc=5",
+      "snippet": "True Crime Fame and Entertainment Economics Explained &nbsp;&nbsp; The Bulletin Time"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMikAJBVV95cUxQa1pRa0hXQWZRSkRQT3pjZkIwNWhlS005SS1JbExUNkU2X2E0SmpFTEZPbUxWaC1rWVlCNnNqRGJydUZ4MHBpMEx2Ym5rMzBLa013R011Yi1PdHVsaHJURXl4OF9CTFdsM0pDM0RLeE4xUnpkU2szcFNfd00zNkk2ZmM2dUxfU0xSeER2M0xsdzlXWTVkVGM0Z2dCMDJWNTJmbkk5cnZnSHo0RzlmOUc2SzRGUEFRS2txOXAycEgxY0l1RVBZQVJEQW9qQ3FWaUhrNGNhSURiSmozYVhGbHJOUk03UGRhSTUzQ1FWZTloSWMzdVdDdFdoSWZlNHB3UEQtWE5nTGJ5Mk0yaWVxWFpwVg?oc=5",
       "type": "article",
       "title": "Why have private equity firms taken an interest in buying professional sports teams? - The Derrick",
@@ -20,6 +92,24 @@
       "source": "The Derrick",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQa1pRa0hXQWZRSkRQT3pjZkIwNWhlS005SS1JbExUNkU2X2E0SmpFTEZPbUxWaC1rWVlCNnNqRGJydUZ4MHBpMEx2Ym5rMzBLa013R011Yi1PdHVsaHJURXl4OF9CTFdsM0pDM0RLeE4xUnpkU2szcFNfd00zNkk2ZmM2dUxfU0xSeER2M0xsdzlXWTVkVGM0Z2dCMDJWNTJmbkk5cnZnSHo0RzlmOUc2SzRGUEFRS2txOXAycEgxY0l1RVBZQVJEQW9qQ3FWaUhrNGNhSURiSmozYVhGbHJOUk03UGRhSTUzQ1FWZTloSWMzdVdDdFdoSWZlNHB3UEQtWE5nTGJ5Mk0yaWVxWFpwVg?oc=5",
       "snippet": "Why have private equity firms taken an interest in buying professional sports teams? &nbsp;&nbsp; The Derrick"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY21CYnZNR0YwZnNMRE5DR3FHVE5zQVpEaVJocTdwcUF1bHVzMHN0NFhvTVZDajl1dDNvZVhqRTNfRjNWNWczZTgzeUJJa2ZaWUd3QXdyaFQ2MVJaeXJhSGhZbWRNNlFGTUVjQVMwTE85eEpfV25XcGxhazdTN3o0Y2dVb05Ed2VMZ2ZFbUxnQjN6NExGUGpqMXh5VWRTNDJVLV83S2pkQWFqejhDbEhFTDVrQjhSQURzT3cwNFdsdTVud0FlV2o2OHBDSVVPc1VHYUQ1SNIB2wFBVV95cUxPOV82Nng0elVEel9RT0pEZDBYUElPNWEtcEltZFVwTGhLbFp0UVY4eDA5RmNOYm9QQ1hrYTR1VV9Va1JROUhPRkNHSGl3OWJ5S0xySEpGcUJXOUxsajNWVXdoUkdUVkw2bWpKNUM4QTVLdDgydmhwNHh2QlVJa0plUVNTOHZKOU5DYkczUkpmbzdUR01HZnRVMXpPaE1naE1TdjhKNExSR1d4Q05reEF4NEJ6b2VYTHRwejJQRnYzcDhreXBQUExQa21DNVhlMkNTVnVJQkc4aUNVQm8?oc=5",
+      "type": "article",
+      "title": "India’s alternative assets market set to surge 5X to over $2 trillion by 2034: Report - financialexpress.com",
+      "date": "2026-08-22",
+      "source": "financialexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY21CYnZNR0YwZnNMRE5DR3FHVE5zQVpEaVJocTdwcUF1bHVzMHN0NFhvTVZDajl1dDNvZVhqRTNfRjNWNWczZTgzeUJJa2ZaWUd3QXdyaFQ2MVJaeXJhSGhZbWRNNlFGTUVjQVMwTE85eEpfV25XcGxhazdTN3o0Y2dVb05Ed2VMZ2ZFbUxnQjN6NExGUGpqMXh5VWRTNDJVLV83S2pkQWFqejhDbEhFTDVrQjhSQURzT3cwNFdsdTVud0FlV2o2OHBDSVVPc1VHYUQ1SNIB2wFBVV95cUxPOV82Nng0elVEel9RT0pEZDBYUElPNWEtcEltZFVwTGhLbFp0UVY4eDA5RmNOYm9QQ1hrYTR1VV9Va1JROUhPRkNHSGl3OWJ5S0xySEpGcUJXOUxsajNWVXdoUkdUVkw2bWpKNUM4QTVLdDgydmhwNHh2QlVJa0plUVNTOHZKOU5DYkczUkpmbzdUR01HZnRVMXpPaE1naE1TdjhKNExSR1d4Q05reEF4NEJ6b2VYTHRwejJQRnYzcDhreXBQUExQa21DNVhlMkNTVnVJQkc4aUNVQm8?oc=5",
+      "snippet": "India’s alternative assets market set to surge 5X to over $2 trillion by 2034: Report &nbsp;&nbsp; financialexpress.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXAwYWpkclVveGdPY21GZTZNQnBPZEVxVXM1VFFBMmxadEpkajg1TmFZNzJfamNNLXpueUF2STBHRFFHU1N3X0lmZXRFU1JhbHlnTGtSbjJ2M3dfNlAwcHhKRHlXN2FxOGgwY3FYVFhnUkFLeFA0S2I2LU1rZjVZVHdpc2QxS292T3dZUnJwU0xCWHBVRVFtdFMzWVB4d085NFNhd3BvbTZDd0pwQk4w?oc=5",
+      "type": "article",
+      "title": "Oregon policy among state laws slowing private equity healthcare deals, report finds - Philomath News",
+      "date": "2026-08-22",
+      "source": "Philomath News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXAwYWpkclVveGdPY21GZTZNQnBPZEVxVXM1VFFBMmxadEpkajg1TmFZNzJfamNNLXpueUF2STBHRFFHU1N3X0lmZXRFU1JhbHlnTGtSbjJ2M3dfNlAwcHhKRHlXN2FxOGgwY3FYVFhnUkFLeFA0S2I2LU1rZjVZVHdpc2QxS292T3dZUnJwU0xCWHBVRVFtdFMzWVB4d085NFNhd3BvbTZDd0pwQk4w?oc=5",
+      "snippet": "Oregon policy among state laws slowing private equity healthcare deals, report finds &nbsp;&nbsp; Philomath News"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUhnRWdtYUFPMU0zd21CVC1Hc2JnV0R5M24yNmpjUzNGcXdfS0cxdXBtQU8xY3FnNEhjVHY5MFV4ejVFTDZwSWN3RnJMdjNNWlZpTVhBazFQRmZadTh0T3lSUzRoamVSRUZ5cEo3YmdBSFd5ZDlCaUdUM090cGhXT2c1M1VSbWtBbk1TcTd5bTN0c3ZHNlJlTUZYWUliWHh2VU01Slc5QjMtY2JJeFE?oc=5",
@@ -110,6 +200,33 @@
       "source": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUkxMaUcycHl2cS0tTVRwMmtoVmtIVWFGR1BmcFB0eFFxOXU4dXZ5WU00YTdTNXBVeFcwNXNuUlZyTThMOXZWQzYwZXNrR1o2dWw2dFc1clMzc0pzUHM1R1hjRDdUa0ZfTDB5akdqYmdWbFdwWFhjVGg0aDVaVk10N3FkOA?oc=5",
       "snippet": "Report: Private equity firm Arctos buying 10% of Falcons &nbsp;&nbsp; AOL.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxPa3pwQUVPQWFOLWlwUXgySTVpa1pzTDhYMEVRVWU4M2hDVkd2M2x0c2hKNzItVVlfVW40VnQxbzFRQXFnV0JOMGRNOGJ3UEk3VXN1T0dkTWZhOUNTNmExejNSdk1SdEhzWUJHSUZiTUt2NXhiZTFhZ0w1STBLUEI3RTl0SlBWNk1QMU1FN2kxZ29wUlB6amc3VTZfSmlNUQ?oc=5",
+      "type": "article",
+      "title": "Apple Makes Concessions As EU’s Digital Markets Act Gains Traction - teleSUR English",
+      "date": "2026-08-21",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3pwQUVPQWFOLWlwUXgySTVpa1pzTDhYMEVRVWU4M2hDVkd2M2x0c2hKNzItVVlfVW40VnQxbzFRQXFnV0JOMGRNOGJ3UEk3VXN1T0dkTWZhOUNTNmExejNSdk1SdEhzWUJHSUZiTUt2NXhiZTFhZ0w1STBLUEI3RTl0SlBWNk1QMU1FN2kxZ29wUlB6amc3VTZfSmlNUQ?oc=5",
+      "snippet": "Apple Makes Concessions As EU’s Digital Markets Act Gains Traction &nbsp;&nbsp; teleSUR English"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2lQcGY3NzV0X0pYQzBGQVpNRzUtQ2E1MnBtaVMyMUFaWTNPR1Q3c1QxdXM2ei1KZFhTZDhSY0JtbzZwWFZnemxNeWRMaGx6QlgyWXlGcDAxSWZqYUZoU282cEVuVVZMSzVrcUw4RTg3MjVPM3RrdUpJbmhQRENNY2ZGOGtSLW9PZkJxZFZSY2pDUjNqcnpaajNBUkZlVDZ4ZXZFaDV2ZVFvNnhxNGpFQWNvaHpoNFk?oc=5",
+      "type": "article",
+      "title": "The court postponed the selection of a preventive measure for Iryna Mudra to Monday, August 24 - Судово-юридична газета",
+      "date": "2026-08-21",
+      "source": "Судово-юридична газета",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2lQcGY3NzV0X0pYQzBGQVpNRzUtQ2E1MnBtaVMyMUFaWTNPR1Q3c1QxdXM2ei1KZFhTZDhSY0JtbzZwWFZnemxNeWRMaGx6QlgyWXlGcDAxSWZqYUZoU282cEVuVVZMSzVrcUw4RTg3MjVPM3RrdUpJbmhQRENNY2ZGOGtSLW9PZkJxZFZSY2pDUjNqcnpaajNBUkZlVDZ4ZXZFaDV2ZVFvNnhxNGpFQWNvaHpoNFk?oc=5",
+      "snippet": "The court postponed the selection of a preventive measure for Iryna Mudra to Monday, August 24 &nbsp;&nbsp; Судово-юридична газета"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMifkFVX3lxTE5UM0wtWTdiNjFOZl8tX1pWV25CaEkyMGZIa3JfNEJEODRDS0FjMUY3aHFDek9HZ0xEV1ZPRV9ubGxGdTFGUlVXcWFfblNEdl8yTlZaQTk1Qzk1a3B2amRya1FqMVhlUlEyYVRVQ0ZBNGk2UVI0eVBLZ0pzYW9kdw?oc=5",
+      "type": "article",
+      "title": "Why have private equity firms taken an interest in buying professional sports teams? - AOL.ca",
+      "date": "2026-08-21",
+      "source": "AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UM0wtWTdiNjFOZl8tX1pWV25CaEkyMGZIa3JfNEJEODRDS0FjMUY3aHFDek9HZ0xEV1ZPRV9ubGxGdTFGUlVXcWFfblNEdl8yTlZaQTk1Qzk1a3B2amRya1FqMVhlUlEyYVRVQ0ZBNGk2UVI0eVBLZ0pzYW9kdw?oc=5",
+      "snippet": "Why have private equity firms taken an interest in buying professional sports teams? &nbsp;&nbsp; AOL.ca"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3c3MUNJU2JxM2FhckpOU0xzZUtMSE1TMEgwRmtrVkRGamczVEZVdWZEUVMwck1qTlV1VV9OMjQxMHFZaUE5NnoyZGMyblVjX2FYNjJUMmtTN0U3VjNjWEhuX2J1TDFhOG1hSkVldDk2VlR4bkhFdFRteWFJVkdrSzN0cXlhNWw2aXhRVkhIM3hUMXNaaDhwSXBRYWp0QjVWTUs1WA?oc=5",
@@ -1235,123 +1352,6 @@
       "source": "Межа. Новини України.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DV2wzM2p6UjZ5SS0wVkFNNkl3MVR2amxRZ1pTMTNhUW5sV05Uc0JIUGRJRENQQ1JsRXdsbWF1RUFFSjdMa3FUTUpOd1N5eklqOENhUl9LdU1HaU9aRDE2YXFNUkZGUFh4X05ZRWEyNGpiN3Nh?oc=5",
       "snippet": "Khmelnytskyi Community Sends More Than 300 FPV Drones to Ukrainian Defenders &nbsp;&nbsp; Межа. Новини України."
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMlRvM2VUMXBGa0F5U2RlQThwWkJMcVczWTdLUXROVUlsZDh4clhWX3lxaXFkdmxiSjhZQ3NMMGJDWWc3alJ1dDI3VHVCUjdhZ3I5MkxfalJyUURzd2puWUxSeWlaUWFBWFU3TzlIUXNQSmNYeExoLU13dldwcElyaWUzZWlVVk00Mm9xMnFoVW5hOTY1Z19nbF9pY2hsT3BxYk5OdUE5VEI2Y3U1Z0tLdnFwRjV4ODlNdVNuUm1rVDN5M004ZGZ5djQ5MHJVLWdPZUl3bEp5Z183LVJTY09MU2o0QXRReGNoZW90OHJna0lOSDNIQ0trRGhnRDR1cE0?oc=5",
-      "type": "article",
-      "title": "Navigating the new wave of state healthcare transaction laws - Norton Rose Fulbright",
-      "date": "2026-08-10",
-      "source": "Norton Rose Fulbright",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMlRvM2VUMXBGa0F5U2RlQThwWkJMcVczWTdLUXROVUlsZDh4clhWX3lxaXFkdmxiSjhZQ3NMMGJDWWc3alJ1dDI3VHVCUjdhZ3I5MkxfalJyUURzd2puWUxSeWlaUWFBWFU3TzlIUXNQSmNYeExoLU13dldwcElyaWUzZWlVVk00Mm9xMnFoVW5hOTY1Z19nbF9pY2hsT3BxYk5OdUE5VEI2Y3U1Z0tLdnFwRjV4ODlNdVNuUm1rVDN5M004ZGZ5djQ5MHJVLWdPZUl3bEp5Z183LVJTY09MU2o0QXRReGNoZW90OHJna0lOSDNIQ0trRGhnRDR1cE0?oc=5",
-      "snippet": "Navigating the new wave of state healthcare transaction laws &nbsp;&nbsp; Norton Rose Fulbright"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVFLc1doS25OeUZzOWZjVFZhV3ZRM1pHRGZZQndLeHRfZEp1aXljQ2N4U1UxOTNacjZfNk41QldHc09MNXN5amxoaTZqUEs2Mk1uYlFuQ3BfVHRvaUFUak1vS0wtSmpLTFpkdWdqVTFUemI3REN4TVVpcDc4U21TMk5Yd0xHejh5akFneWpta21yYVVFaGFQWEMtdUxidjlyaWVUNkNYUdIBXkFVX3lxTFA1eUpEZThQRjdmOVZFVExnMmdjdS0zcWVKbllPT09EcDhOby03VkZ6azRVNW50MENjZGxZeHpSdWI4ZnVPRjFHX3NTdExOMW95bUZVeHVGckNOUnNlaXc?oc=5",
-      "type": "article",
-      "title": "Ellenoff Grossman Explores Outside Investment Via MSO Deal - Law360",
-      "date": "2026-08-10",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVFLc1doS25OeUZzOWZjVFZhV3ZRM1pHRGZZQndLeHRfZEp1aXljQ2N4U1UxOTNacjZfNk41QldHc09MNXN5amxoaTZqUEs2Mk1uYlFuQ3BfVHRvaUFUak1vS0wtSmpLTFpkdWdqVTFUemI3REN4TVVpcDc4U21TMk5Yd0xHejh5akFneWpta21yYVVFaGFQWEMtdUxidjlyaWVUNkNYUdIBXkFVX3lxTFA1eUpEZThQRjdmOVZFVExnMmdjdS0zcWVKbllPT09EcDhOby03VkZ6azRVNW50MENjZGxZeHpSdWI4ZnVPRjFHX3NTdExOMW95bUZVeHVGckNOUnNlaXc?oc=5",
-      "snippet": "Ellenoff Grossman Explores Outside Investment Via MSO Deal &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmpLbjZFRGJyY3BPMlVsQ25XQVppRXBNXzd4UERUeEZ3SE9oN3RONHVIZnZUQnFKeHJSQ0I0cWtzSUFlQlp2b1VSQjFfeXVuUVBQaVBYRlVxNEthbUpsTFBMR2JUTXdwUDRjSkI3N3RqYTRaTF9YWlJQdGRxbTFhck55RQ?oc=5",
-      "type": "article",
-      "title": "AI Won’t Fix Your Law Firm. It Will Reveal It. - JD Supra",
-      "date": "2026-08-10",
-      "source": "JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmpLbjZFRGJyY3BPMlVsQ25XQVppRXBNXzd4UERUeEZ3SE9oN3RONHVIZnZUQnFKeHJSQ0I0cWtzSUFlQlp2b1VSQjFfeXVuUVBQaVBYRlVxNEthbUpsTFBMR2JUTXdwUDRjSkI3N3RqYTRaTF9YWlJQdGRxbTFhck55RQ?oc=5",
-      "snippet": "AI Won’t Fix Your Law Firm. It Will Reveal It. &nbsp;&nbsp; JD Supra"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN1pUSUtJYlBQNjRJQVR1Rml0UlJ2enBVWUxyZ01GX3ZHR0oySEFWQVpKVWRGZXpjVVhFMl8tYnFNLS1xdDFlbERsaDVnOUxpcHM1YW51amZDWmNKNlNtSTR3Mi1zVXo4NWdsdGFiWG1Hanh4bjRELXQ2YXBaZXVLS21GOThwbE1wU1R6dUs0N3RUUGZrSmZxYk5DNi1Yc0Z6OUxSdENIVkZ3bnltRldPVDZsejRjTFdmdWJyX2RNc2V6UWtvaVNUNi1peUpVSHB1VW13V2Z2ZzR5ZFZkY2c?oc=5",
-      "type": "article",
-      "title": "Brian McGrath Selected to Crain’s New York Business 2026 Notable Leaders in Accounting, Consulting & Law - Hinshaw & Culbertson LLP",
-      "date": "2026-08-10",
-      "source": "Hinshaw & Culbertson LLP",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN1pUSUtJYlBQNjRJQVR1Rml0UlJ2enBVWUxyZ01GX3ZHR0oySEFWQVpKVWRGZXpjVVhFMl8tYnFNLS1xdDFlbERsaDVnOUxpcHM1YW51amZDWmNKNlNtSTR3Mi1zVXo4NWdsdGFiWG1Hanh4bjRELXQ2YXBaZXVLS21GOThwbE1wU1R6dUs0N3RUUGZrSmZxYk5DNi1Yc0Z6OUxSdENIVkZ3bnltRldPVDZsejRjTFdmdWJyX2RNc2V6UWtvaVNUNi1peUpVSHB1VW13V2Z2ZzR5ZFZkY2c?oc=5",
-      "snippet": "Brian McGrath Selected to Crain’s New York Business 2026 Notable Leaders in Accounting, Consulting & Law &nbsp;&nbsp; Hinshaw & Culbertson LLP"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjFKSkJ5RXNGcDBIWGIwYlAxVEhYLXFSYXVLTi1rcVM1R0lHUFFWUHRtUHN6UWJDOHRWWXhPUTlJVHBiZ2x6Z0ktSGNuVlUwbVNrQ1R1anJIZW5ieFh6V3pfd2pLci12YTBMVzBfVDkzTU5GUFRqSU1DN2ZFRnJjcUhLMm9VT1YtZm4wakktQjFZYUtub3E2WWZyU3TSAVZBVV95cUxPQVpjaUh5eG9jTjdMVUxaOVdFN2VpR2ZPSFNaR01VVXJNQm55U1QwUWVQbUVyRV8wVnpYeE56R0hmZHJjNkRaOVJhclp2V1M1emxzcFFkUQ?oc=5",
-      "type": "article",
-      "title": "Ill. Gov. Signs Bill Restricting PE Role In Legal Industry - Law360",
-      "date": "2026-08-10",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjFKSkJ5RXNGcDBIWGIwYlAxVEhYLXFSYXVLTi1rcVM1R0lHUFFWUHRtUHN6UWJDOHRWWXhPUTlJVHBiZ2x6Z0ktSGNuVlUwbVNrQ1R1anJIZW5ieFh6V3pfd2pLci12YTBMVzBfVDkzTU5GUFRqSU1DN2ZFRnJjcUhLMm9VT1YtZm4wakktQjFZYUtub3E2WWZyU3TSAVZBVV95cUxPQVpjaUh5eG9jTjdMVUxaOVdFN2VpR2ZPSFNaR01VVXJNQm55U1QwUWVQbUVyRV8wVnpYeE56R0hmZHJjNkRaOVJhclp2V1M1emxzcFFkUQ?oc=5",
-      "snippet": "Ill. Gov. Signs Bill Restricting PE Role In Legal Industry &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzVNalhjWUd2bWs2d092RVh2NGhlaVFmZV9XVzhuZGUxN1FucFRRYjZ1YTdYajhBUGlOWVkybFphb3EzWDdiNWVkVTItT2F5ZmcwcnNEU2c3bS1icVBZNU93QUcwckEzdDlIQ2pIdm9oVmlLRFBkT095bHpJNlFZWkNHa1c3aWE2SnhIamZLOFRTb2dyMTdGb2NFeng4WC1QbEtHSEkyYXVjZTTSAasBQVVfeXFMT1M1TWpYY1lHdm1rNndPdkVYdjRoZWlRZmVfV1c4bmRlMTdRbnBUUWI2dWE3WGo4QVBpTllZMmxaYW9xM1g3YjVlZFUyLU9heWZnMHJzRFNnN20tYnFQWTVPd0FHMHJBM3Q5SENqSHZvaFZpS0RQZE9PeWx6STZRWVpDR2tXN2lhNkp4SGpmSzhUU29ncjE3Rm9jRXp4OFgtUGxLR0hJMmF1Y2U0?oc=5",
-      "type": "article",
-      "title": "Chancery Rejects Prevention Doctrine Argument in Breach of Contract Analysis - The National Law Review",
-      "date": "2026-08-10",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzVNalhjWUd2bWs2d092RVh2NGhlaVFmZV9XVzhuZGUxN1FucFRRYjZ1YTdYajhBUGlOWVkybFphb3EzWDdiNWVkVTItT2F5ZmcwcnNEU2c3bS1icVBZNU93QUcwckEzdDlIQ2pIdm9oVmlLRFBkT095bHpJNlFZWkNHa1c3aWE2SnhIamZLOFRTb2dyMTdGb2NFeng4WC1QbEtHSEkyYXVjZTTSAasBQVVfeXFMT1M1TWpYY1lHdm1rNndPdkVYdjRoZWlRZmVfV1c4bmRlMTdRbnBUUWI2dWE3WGo4QVBpTllZMmxaYW9xM1g3YjVlZFUyLU9heWZnMHJzRFNnN20tYnFQWTVPd0FHMHJBM3Q5SENqSHZvaFZpS0RQZE9PeWx6STZRWVpDR2tXN2lhNkp4SGpmSzhUU29ncjE3Rm9jRXp4OFgtUGxLR0hJMmF1Y2U0?oc=5",
-      "snippet": "Chancery Rejects Prevention Doctrine Argument in Breach of Contract Analysis &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0RHaDdyNEpqbmlVLVlTMURyNjVaZ2JFLWtIUVktWjJRSVd5Z01KUkoxcUl2ZmtyNk5iSDZyampFRzNESWNrR1otZlhGV1Z6NlQ0Z0htTjh3Mml3U2draWltR0MzYl9WR29CVWVJVTFUMDM2VEc4OWkyOWVkVmU0ZTB2THRNQzB3eVQ3NG1zMFJQZkJEZ3FBVXBTRkRWSkg0YkxLM9IBpAFBVV95cUxPd0RHaDdyNEpqbmlVLVlTMURyNjVaZ2JFLWtIUVktWjJRSVd5Z01KUkoxcUl2ZmtyNk5iSDZyampFRzNESWNrR1otZlhGV1Z6NlQ0Z0htTjh3Mml3U2draWltR0MzYl9WR29CVWVJVTFUMDM2VEc4OWkyOWVkVmU0ZTB2THRNQzB3eVQ3NG1zMFJQZkJEZ3FBVXBTRkRWSkg0YkxLMw?oc=5",
-      "type": "article",
-      "title": "Chancery Explains 21 Reasons Why an LLC Is Not Purely a Creature of Contract - The National Law Review",
-      "date": "2026-08-10",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0RHaDdyNEpqbmlVLVlTMURyNjVaZ2JFLWtIUVktWjJRSVd5Z01KUkoxcUl2ZmtyNk5iSDZyampFRzNESWNrR1otZlhGV1Z6NlQ0Z0htTjh3Mml3U2draWltR0MzYl9WR29CVWVJVTFUMDM2VEc4OWkyOWVkVmU0ZTB2THRNQzB3eVQ3NG1zMFJQZkJEZ3FBVXBTRkRWSkg0YkxLM9IBpAFBVV95cUxPd0RHaDdyNEpqbmlVLVlTMURyNjVaZ2JFLWtIUVktWjJRSVd5Z01KUkoxcUl2ZmtyNk5iSDZyampFRzNESWNrR1otZlhGV1Z6NlQ0Z0htTjh3Mml3U2draWltR0MzYl9WR29CVWVJVTFUMDM2VEc4OWkyOWVkVmU0ZTB2THRNQzB3eVQ3NG1zMFJQZkJEZ3FBVXBTRkRWSkg0YkxLMw?oc=5",
-      "snippet": "Chancery Explains 21 Reasons Why an LLC Is Not Purely a Creature of Contract &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiWkFVX3lxTFBERXZfa0c2d2N1X2pFMGhoZnczRE9tSGVxNXZIRDdESUZoSDd1TFNlTVBmbWY1OHkwcVlQWElPbHpsY0xTX0Vaa3dWSUxlaF9JSXN5bjdUYklSQQ?oc=5",
-      "type": "article",
-      "title": "CA Foundation Business Laws: The Companies Act, 2013 With Writing Practice | CA Chaitanya Jain Alex Tuch (CZqoo718SM) - Mshale",
-      "date": "2026-08-10",
-      "source": "Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBERXZfa0c2d2N1X2pFMGhoZnczRE9tSGVxNXZIRDdESUZoSDd1TFNlTVBmbWY1OHkwcVlQWElPbHpsY0xTX0Vaa3dWSUxlaF9JSXN5bjdUYklSQQ?oc=5",
-      "snippet": "CA Foundation Business Laws: The Companies Act, 2013 With Writing Practice | CA Chaitanya Jain Alex Tuch (CZqoo718SM) &nbsp;&nbsp; Mshale"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxQY011N2V3VXc4Q092STVmcUgtZDBQX1Fsb2l4b1ZUcTA1QkZzR2N5WmlFUFdCaTVMYWVXUnh6cGlQWjNsbndLY1lmTHZDVXJQWEhRaHlCMnY2bFI3TjhvRDFfMnZjdjdyTDdJb3hwbG5UZklZSnZvMXRqcGYyazJ6T3J2QmZ2b2lLVXMxSDRiYkVleWxZNUpTNURScGI4OG4xdzl6SXF6ajhDaXhKeF9j0gFWQVVfeXFMUFMzUDRSQmdxOWQ3RGktZV9XTmZFQTlRS3o4dVNWMXctQjg0M2xTdGFDTkV0SkJVU190VjBJR2ZRUmJWbG5zTzFkWjB2NTZna21kUjBfb1E?oc=5",
-      "type": "article",
-      "title": "H.I.G. Can't Block Calif. Suit Over $17.5M Health Deal - Law360",
-      "date": "2026-08-10",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY011N2V3VXc4Q092STVmcUgtZDBQX1Fsb2l4b1ZUcTA1QkZzR2N5WmlFUFdCaTVMYWVXUnh6cGlQWjNsbndLY1lmTHZDVXJQWEhRaHlCMnY2bFI3TjhvRDFfMnZjdjdyTDdJb3hwbG5UZklZSnZvMXRqcGYyazJ6T3J2QmZ2b2lLVXMxSDRiYkVleWxZNUpTNURScGI4OG4xdzl6SXF6ajhDaXhKeF9j0gFWQVVfeXFMUFMzUDRSQmdxOWQ3RGktZV9XTmZFQTlRS3o4dVNWMXctQjg0M2xTdGFDTkV0SkJVU190VjBJR2ZRUmJWbG5zTzFkWjB2NTZna21kUjBfb1E?oc=5",
-      "snippet": "H.I.G. Can't Block Calif. Suit Over $17.5M Health Deal &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PZnlGS2xfTDNoNko5WmVyY1lRT0JxRUJ2bS04S0dfZXhRMUg3eDdrUzJGelgxQW1KRHlUTDJoNnRqdkFFRkpiVFR0djdsNExYNHJYNHBINmFlTWs?oc=5",
-      "type": "article",
-      "title": "Data Control, Broker Control, Legal Control Meadow Walker (BoAbsdeJVz) - Mshale",
-      "date": "2026-08-10",
-      "source": "Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PZnlGS2xfTDNoNko5WmVyY1lRT0JxRUJ2bS04S0dfZXhRMUg3eDdrUzJGelgxQW1KRHlUTDJoNnRqdkFFRkpiVFR0djdsNExYNHJYNHBINmFlTWs?oc=5",
-      "snippet": "Data Control, Broker Control, Legal Control Meadow Walker (BoAbsdeJVz) &nbsp;&nbsp; Mshale"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXU2bXMxVERLNEktSmNMZi1KTnFiNjM5Z2dRSkpMN0I3QVJ0M1hLeTQ2eG5jTmg3WHNORWd0czhUZXU4S3BtWjJpbVVOZE5BRHRMVDlvdnVhMjk1TGFMeWdDQlhyVlV2eVlPZkt3RFBWdlZnMFZvTG83YzlfcF9JUnRGQllDZW5RbVVPYjNEZTlBdm1GVmZjT2hnblFFODlON2l1Yy1ZTGVuc2VXc1Vjd2ZIR0Y4Zw?oc=5",
-      "type": "article",
-      "title": "DeSarno: Corruption red flags spread through this administration - Dallas News",
-      "date": "2026-08-10",
-      "source": "Dallas News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXU2bXMxVERLNEktSmNMZi1KTnFiNjM5Z2dRSkpMN0I3QVJ0M1hLeTQ2eG5jTmg3WHNORWd0czhUZXU4S3BtWjJpbVVOZE5BRHRMVDlvdnVhMjk1TGFMeWdDQlhyVlV2eVlPZkt3RFBWdlZnMFZvTG83YzlfcF9JUnRGQllDZW5RbVVPYjNEZTlBdm1GVmZjT2hnblFFODlON2l1Yy1ZTGVuc2VXc1Vjd2ZIR0Y4Zw?oc=5",
-      "snippet": "DeSarno: Corruption red flags spread through this administration &nbsp;&nbsp; Dallas News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2dWZkg0Y3YyZU0wckQwS3V6bDNINVFMdzN3N1BYQTgxejd4WDFfOFI3bHdmb2paVFRvd21PdFNtV05lUzNXcXZGZUVTaDR2RXJaTmFzY0ZrTXdrWTYzTWVoNGEzODhqcXBVanIzdkUteTFyV2I1UzhLcml2eWxOTDZFYlM5cGJBSlFYQjZkNnZBRW51b3MxSy1fcVJZci1ZbDZoRi1FUU5lQdIBVkFVX3lxTFBiMC1BWUZNdG96RklvOU55ZHpVUnBJbllMZEtPa2NkX1hhdGJwZ2JuSG90NFBlRHpHbEhHbHJGMllsQ1I2TnhlOWtWNjczc2Nvay1ncXh3?oc=5",
-      "type": "article",
-      "title": "Biz Owners Appeal Morgan Lewis Win In Tax Shelter Suit - Law360",
-      "date": "2026-08-10",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2dWZkg0Y3YyZU0wckQwS3V6bDNINVFMdzN3N1BYQTgxejd4WDFfOFI3bHdmb2paVFRvd21PdFNtV05lUzNXcXZGZUVTaDR2RXJaTmFzY0ZrTXdrWTYzTWVoNGEzODhqcXBVanIzdkUteTFyV2I1UzhLcml2eWxOTDZFYlM5cGJBSlFYQjZkNnZBRW51b3MxSy1fcVJZci1ZbDZoRi1FUU5lQdIBVkFVX3lxTFBiMC1BWUZNdG96RklvOU55ZHpVUnBJbllMZEtPa2NkX1hhdGJwZ2JuSG90NFBlRHpHbEhHbHJGMllsQ1I2TnhlOWtWNjczc2Nvay1ncXh3?oc=5",
-      "snippet": "Biz Owners Appeal Morgan Lewis Win In Tax Shelter Suit &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxOeE82Tnc5WnVkcVF0bUVOQ1ZLcUVmUmstaDFzdDN1VnNLSmc5eUdUMGJNdHZKXzBaRzZLel91SjEyNFZsYUtKV3R2aXgxaktYVHhhb0ZhbG1DVjFkRFJhbFZNY1A3djBOZktMa0c3djdmNjMyMklTajlJdWNoRHo4aEpONnl5OXhnYkZJV1B6ekZfV0hFQ3ZpZUp0eWRLU0J4dkJJQ3daX3QzVEd1?oc=5",
-      "type": "article",
-      "title": "SPAC King Attorney Weighs Selling Stake in His Own NYC Law Firm - Bloomberg Law News",
-      "date": "2026-08-10",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeE82Tnc5WnVkcVF0bUVOQ1ZLcUVmUmstaDFzdDN1VnNLSmc5eUdUMGJNdHZKXzBaRzZLel91SjEyNFZsYUtKV3R2aXgxaktYVHhhb0ZhbG1DVjFkRFJhbFZNY1A3djBOZktMa0c3djdmNjMyMklTajlJdWNoRHo4aEpONnl5OXhnYkZJV1B6ekZfV0hFQ3ZpZUp0eWRLU0J4dkJJQ3daX3QzVEd1?oc=5",
-      "snippet": "SPAC King Attorney Weighs Selling Stake in His Own NYC Law Firm &nbsp;&nbsp; Bloomberg Law News"
     }
   ]
 }
