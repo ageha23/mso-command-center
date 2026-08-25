@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-08-24T11:31:23.311485+00:00",
+  "lastRun": "2026-08-25T11:30:35.119896+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 13,
+  "addedThisRun": 10,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFNFaWpGQm9NX2d0bWYtSHh1cTZ3Q05CbkRVYnYxNWlteGRybzYwcnNINk9XWlp2Q0pVLTRPVk9TekhZdWFtcHBXeGVpVDdsTVdsN2l3QzJURHhwSFZQa2ZVVmFPSW5xdGU2VFBrRDVzeFpMRG1jSUJ0a2V3bFBfOFlfX2NKZ2MtUFU1UWJHd0YwYmVLODdMUXZTRzNlWmlFclliSy14NEhBZkhqa0FVeFdZYmQ?oc=5",
@@ -65,6 +65,96 @@
       "source": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFZCTHNCaWI4QnRfX081SHhUMVBaZmQ3YlZ1QXN0SW5fYzZYdTl0QWxlSHoxeWRLdVJkWVJLbW90V3h5c1BuLUxUWjBFWHdzdGJjVUEwTE9jWjF5YUhQN0NBd0VXRWZ5WUpGdlk3Yk50LXZqa3daMlROMnpIR3Y0V3ZaMkQ?oc=5",
       "snippet": "Why a Saudi prince is helping a Charlotte medtech firm’s $200M overseas expansion &nbsp;&nbsp; AOL.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFpVbnpHWXJVc28wb1BCNlcxSHF3MWtsR3dsRmFNREtqNC1LOFp3XzJLVHYyb3VMaEhwWk5TMXFQUGQ0bnF5S2E2d3NsSTh0aUdJbzRQd2pvRDlPUnB4M2R0c2c1M2Z6TXBGZDBpQlpWM05qQW5pSm5rcWk4c0ZJNzNPbDdBMUsyc2FyR25SZEEyUEE0Nmt4LUpSdWcySUhRV3lGb2VBM2lYc1JSN2JydjMtZGJvSFAwbXJUbl9tZGxFMVg5ZHg2NlEtNA?oc=5",
+      "type": "article",
+      "title": "Law Firms Can Use Private Equity’s Positives to Benefit Culture - Bloomberg Law News",
+      "date": "2026-08-24",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFpVbnpHWXJVc28wb1BCNlcxSHF3MWtsR3dsRmFNREtqNC1LOFp3XzJLVHYyb3VMaEhwWk5TMXFQUGQ0bnF5S2E2d3NsSTh0aUdJbzRQd2pvRDlPUnB4M2R0c2c1M2Z6TXBGZDBpQlpWM05qQW5pSm5rcWk4c0ZJNzNPbDdBMUsyc2FyR25SZEEyUEE0Nmt4LUpSdWcySUhRV3lGb2VBM2lYc1JSN2JydjMtZGJvSFAwbXJUbl9tZGxFMVg5ZHg2NlEtNA?oc=5",
+      "snippet": "Law Firms Can Use Private Equity’s Positives to Benefit Culture &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUdIBswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUQ?oc=5",
+      "type": "article",
+      "title": "Feature — Top Intelligence Provider for Investment Banks and Corporate Law Firms Predicts Signals for Deal Makers: Financial Services and Fintech Deal Predictions (August 7, 2026) - The National Law Review",
+      "date": "2026-08-24",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUdIBswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUQ?oc=5",
+      "snippet": "Feature — Top Intelligence Provider for Investment Banks and Corporate Law Firms Predicts Signals for Deal Makers: Financial Services and Fintech Deal Predictions (August 7, 2026) &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEFaTkFsUUZ6UnlqQkEwMktmemthaElaTEtCX21EYkU5V25TWTRhTHduczBVMTkzVVdtenIwZXBRZnFJRWROSnBJLVhkZ1F5NEh2UERsZlgwcExPbFBiclJnbVZoY3ZaMVdSelhLWWxqck9UV2FQTUdqelBPVHFZSl9LeDdEeXByRVdBclRIQmpMby12MFM4aURLbGRmeWhuRjRzWWZZanlnR1hER0p2T3ZDR0NwRGNOREpyOXFGTkdMTkM3SkRpUXg5c3N2S05GQVpMQlFJOVJYMFE?oc=5",
+      "type": "article",
+      "title": "Demotech, Inc.: Tech-enabled Litigation Instigation Necessitates Granularity of Loss Costs - PR Newswire",
+      "date": "2026-08-24",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEFaTkFsUUZ6UnlqQkEwMktmemthaElaTEtCX21EYkU5V25TWTRhTHduczBVMTkzVVdtenIwZXBRZnFJRWROSnBJLVhkZ1F5NEh2UERsZlgwcExPbFBiclJnbVZoY3ZaMVdSelhLWWxqck9UV2FQTUdqelBPVHFZSl9LeDdEeXByRVdBclRIQmpMby12MFM4aURLbGRmeWhuRjRzWWZZanlnR1hER0p2T3ZDR0NwRGNOREpyOXFGTkdMTkM3SkRpUXg5c3N2S05GQVpMQlFJOVJYMFE?oc=5",
+      "snippet": "Demotech, Inc.: Tech-enabled Litigation Instigation Necessitates Granularity of Loss Costs &nbsp;&nbsp; PR Newswire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMib0FVX3lxTFBlUG5jZlRNU3VMVTZMNnJPU0E3bG1Wc3FJQVFKZHhSOThIY0laOXBLTzlPSjdyZXlkcHlpTWtWdXZxVFVZb3RIV1IyWUx4RlcwVzVoUG5UdnBoZG12RWFMNGlJMUlxU2pLNzhqSmZYYw?oc=5",
+      "type": "article",
+      "title": "[How to Invest in AIDCs] \"Korea Faces Data Center Shortage... Numerous Equity Investment Opportunities for Institutions\" - 아시아경제",
+      "date": "2026-08-24",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlUG5jZlRNU3VMVTZMNnJPU0E3bG1Wc3FJQVFKZHhSOThIY0laOXBLTzlPSjdyZXlkcHlpTWtWdXZxVFVZb3RIV1IyWUx4RlcwVzVoUG5UdnBoZG12RWFMNGlJMUlxU2pLNzhqSmZYYw?oc=5",
+      "snippet": "[How to Invest in AIDCs] \"Korea Faces Data Center Shortage... Numerous Equity Investment Opportunities for Institutions\" &nbsp;&nbsp; 아시아경제"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnFGNTVfTkpUSHZRWDNVQ2VxSUtrbmJuaXJuMDBxUTF4MTM0NjdEa3pWS2RBNzdwV2tQNWFSdzMyMUJYSGphZWxJeXVTa1RvdGE1VEYzdERHQWRsQURfdWVBSlhOWklNbnlMLUJzbDJKMWZ5cktOZ3k5aGZVb0lNX25RaUxwYzhRNzdLSkpETG90T1U?oc=5",
+      "type": "article",
+      "title": "Mark Parker: 5 Things to Know About This Leading Melbourne Family Lawyer Handling Complex Cases in 2026 - International Business Times Australia",
+      "date": "2026-08-24",
+      "source": "International Business Times Australia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnFGNTVfTkpUSHZRWDNVQ2VxSUtrbmJuaXJuMDBxUTF4MTM0NjdEa3pWS2RBNzdwV2tQNWFSdzMyMUJYSGphZWxJeXVTa1RvdGE1VEYzdERHQWRsQURfdWVBSlhOWklNbnlMLUJzbDJKMWZ5cktOZ3k5aGZVb0lNX25RaUxwYzhRNzdLSkpETG90T1U?oc=5",
+      "snippet": "Mark Parker: 5 Things to Know About This Leading Melbourne Family Lawyer Handling Complex Cases in 2026 &nbsp;&nbsp; International Business Times Australia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0xGc1NXRHlFQUw5VlgzVjhXblpqckJxS2dsR3k1ZWV2MjY5c0NPcFFiQVNLQmVzNzNaNk90N1R6YUdsUUc0ckhiOXRseWpjVnFQVWR6dHlTYXJUYWFhOUdsMDRiUjh2dE1nNU90VmlQek92Unc0OHA2X0Y4R2w5d0dIbTV2WXNjdUg4alFuMA?oc=5",
+      "type": "article",
+      "title": "Luigi’s Double Jeopardy Gamble And The DOJ’s Complicity - Above the Law",
+      "date": "2026-08-24",
+      "source": "Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0xGc1NXRHlFQUw5VlgzVjhXblpqckJxS2dsR3k1ZWV2MjY5c0NPcFFiQVNLQmVzNzNaNk90N1R6YUdsUUc0ckhiOXRseWpjVnFQVWR6dHlTYXJUYWFhOUdsMDRiUjh2dE1nNU90VmlQek92Unc0OHA2X0Y4R2w5d0dIbTV2WXNjdUg4alFuMA?oc=5",
+      "snippet": "Luigi’s Double Jeopardy Gamble And The DOJ’s Complicity &nbsp;&nbsp; Above the Law"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigAFBVV95cUxNempMdlQybVRZVnBON3BtSnJiWTNqS2VtYndMbjBfWWF4UjFiNzNtSV96LUh1Wm1oZmJseVNfOHZ2b3dPZWY1bnNhUEhLTkN1YWM0Z3pXZks4bXR1U3M3NndPaml3NWdRLVk5ZktjOTBIeURuTUl0LW9IMURIMWhJcg?oc=5",
+      "type": "article",
+      "title": "Q2 2026 Healthcare Antitrust and Competition Update - JD Supra",
+      "date": "2026-08-24",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNempMdlQybVRZVnBON3BtSnJiWTNqS2VtYndMbjBfWWF4UjFiNzNtSV96LUh1Wm1oZmJseVNfOHZ2b3dPZWY1bnNhUEhLTkN1YWM0Z3pXZks4bXR1U3M3NndPaml3NWdRLVk5ZktjOTBIeURuTUl0LW9IMURIMWhJcg?oc=5",
+      "snippet": "Q2 2026 Healthcare Antitrust and Competition Update &nbsp;&nbsp; JD Supra"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTlaeHJ4d0puem9lRm1zcnZ5VWtYaWRJMGw3ZVZmOVdqdEY5ZFdNazdWSzBPWFdIUW83Z3p1bHc1ODJCTDZJMEk0MlFjdlVoSVBDaDBHQlVuNG5Ic3VLMS1PWmxnM2FMNzVsaFRxanR3aUZNd0c5UGFSTmdCRmk3bGFPX0w0YVVvSGY2ZUNXdzZGUElSbDd1MUlZbVJoZGRzcUVVTXRpWk9CbmMzNVBvakdzaDJPSGlqVHNWZ2lIZVpQa1Itbm5udE9QLURDclE?oc=5",
+      "type": "article",
+      "title": "The law firm of Kollman, Saucier & Jackson has moved from Towson to Executive Plaza in Hunt Valley - Baltimore Fishbowl",
+      "date": "2026-08-24",
+      "source": "Baltimore Fishbowl",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTlaeHJ4d0puem9lRm1zcnZ5VWtYaWRJMGw3ZVZmOVdqdEY5ZFdNazdWSzBPWFdIUW83Z3p1bHc1ODJCTDZJMEk0MlFjdlVoSVBDaDBHQlVuNG5Ic3VLMS1PWmxnM2FMNzVsaFRxanR3aUZNd0c5UGFSTmdCRmk3bGFPX0w0YVVvSGY2ZUNXdzZGUElSbDd1MUlZbVJoZGRzcUVVTXRpWk9CbmMzNVBvakdzaDJPSGlqVHNWZ2lIZVpQa1Itbm5udE9QLURDclE?oc=5",
+      "snippet": "The law firm of Kollman, Saucier & Jackson has moved from Towson to Executive Plaza in Hunt Valley &nbsp;&nbsp; Baltimore Fishbowl"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckhLTVhQWkJuMG9GTmlvRXpobXZGeTBvUjJSVUlDWER5M1JCNmtScG9LVTkzNHgtbC0wNnFNNUl6bzVuQ0JMb255YmNJNFRXREdsQzZzdEM2OHZySS1ON2pwWDBQdjlEbW9Fa0lpb19QQ2pLWTVDUHFOVlg2c0NrVTR5anZPSTFQXzVZUnBxc0doY1J5aVlYbzFVZXhIRlNrbVJBR3ZRVTBmQVJzWmQxZnIwZ0Vxd0tycEkwVlJXbXdPeU5BbnJBTWtob0xMcjFldHgwMnBhZw?oc=5",
+      "type": "article",
+      "title": "Lana Manganiello Recognized by San Diego Business Journal as a 2026 Woman of Influence in Law - EIN Presswire",
+      "date": "2026-08-24",
+      "source": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckhLTVhQWkJuMG9GTmlvRXpobXZGeTBvUjJSVUlDWER5M1JCNmtScG9LVTkzNHgtbC0wNnFNNUl6bzVuQ0JMb255YmNJNFRXREdsQzZzdEM2OHZySS1ON2pwWDBQdjlEbW9Fa0lpb19QQ2pLWTVDUHFOVlg2c0NrVTR5anZPSTFQXzVZUnBxc0doY1J5aVlYbzFVZXhIRlNrbVJBR3ZRVTBmQVJzWmQxZnIwZ0Vxd0tycEkwVlJXbXdPeU5BbnJBTWtob0xMcjFldHgwMnBhZw?oc=5",
+      "snippet": "Lana Manganiello Recognized by San Diego Business Journal as a 2026 Woman of Influence in Law &nbsp;&nbsp; EIN Presswire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmhPWlZsSU81dGJlWjVEdE9fVWdUcW5SUm9wdkVvbGhPdGRhc0VZcnRINkZTNjBXdFZVdmxiZzZFSjhqaVZUeXMtak1RUkx1alIxb3BNY3dKUGZxYTAtTEFiaGFld0psU0o0S1N5U1FXSjRWSEZnRmFLNl9FYzBOdzJuWXN1WEFxcjVBaC1xcjR4Zy1ST195WmQzeTlBS2VhV1o1MEtFMWUyM3lO?oc=5",
+      "type": "article",
+      "title": "From Salomon to Akonta: the end of political immunity for corporate galamsey - Business & Financial Times",
+      "date": "2026-08-24",
+      "source": "Business & Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmhPWlZsSU81dGJlWjVEdE9fVWdUcW5SUm9wdkVvbGhPdGRhc0VZcnRINkZTNjBXdFZVdmxiZzZFSjhqaVZUeXMtak1RUkx1alIxb3BNY3dKUGZxYTAtTEFiaGFld0psU0o0S1N5U1FXSjRWSEZnRmFLNl9FYzBOdzJuWXN1WEFxcjVBaC1xcjR4Zy1ST195WmQzeTlBS2VhV1o1MEtFMWUyM3lO?oc=5",
+      "snippet": "From Salomon to Akonta: the end of political immunity for corporate galamsey &nbsp;&nbsp; Business & Financial Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1F6V1NGUHlnc2syTGVTZkE2X2tlLTkxbER3MWFrNXZWVHdRQXdzcy13UGptYU9wbkJjVDVGZVpFRVZVY05MYnZUUktPTEpTR01QQngyV0gzWE1oVXF0ZFR6Vm1yejU1c2VvSk9WSFU2emxySXJmVXdtT1FwVWE5LXowTFQ3MGxITHMwUFlIckhLTTJuWHVpcHdXZF92OWEwR0V1UndRY2U3MEgyX0cycGZab05keW01?oc=5",
@@ -1262,96 +1352,6 @@
       "source": "Law.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDRoQXFjTE1Id0dqUWo4V29PbUJGdnZtZlREZ2xpUHktLVIyNW9NdzAxTW44NnFzTVBUVnkyc2dQOGVvdVR2SjBFczhJdTZhNDZRQVh6TFZDdGNMQ0NXcHE0dmE2RGRRRERlU0E4TTFvbEh3c3RoaWJJb1lrekpKQzBBNHFDT2FGOHRfRk9iNEVJLVBtX2ZDWU5WdFNkR2hoeHJYT1NXWlhYZw?oc=5",
       "snippet": "Meet the Attorneys Behind Law Firm Private Equity-MSO Deals &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTJqTC1hZmRkWVMzNl9jdzM0NjZKdGJlSFR1MXJHM1QxcVZjczBCQ0xwMUYzMXh6c1lMTG90WkJkeV9XSUZXMDJuTlpkalJRb1JNZkNhOWVDZVRybHk3QkJiSlFFME1jaG5JMGV5WXFNTGpfblFsbkEtbTRWdGVnRmtpU3AxZXpTNmh5bEd3dkduTDZscF8wVk8yRGRxbmtKRTdoVmlzV3hRVEhMQ0NrODNXLWhTWEg5OGcxUVROcmhhb3hYdGpaY2J2djdZUQ?oc=5",
-      "type": "article",
-      "title": "The Richest Law Firms Are Looking At Private Equity Cash Because I Guess They Don't Have Enough Money - Above the Law",
-      "date": "2026-08-10",
-      "source": "Above the Law",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTJqTC1hZmRkWVMzNl9jdzM0NjZKdGJlSFR1MXJHM1QxcVZjczBCQ0xwMUYzMXh6c1lMTG90WkJkeV9XSUZXMDJuTlpkalJRb1JNZkNhOWVDZVRybHk3QkJiSlFFME1jaG5JMGV5WXFNTGpfblFsbkEtbTRWdGVnRmtpU3AxZXpTNmh5bEd3dkduTDZscF8wVk8yRGRxbmtKRTdoVmlzV3hRVEhMQ0NrODNXLWhTWEg5OGcxUVROcmhhb3hYdGpaY2J2djdZUQ?oc=5",
-      "snippet": "The Richest Law Firms Are Looking At Private Equity Cash Because I Guess They Don't Have Enough Money &nbsp;&nbsp; Above the Law"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2UtcWl3cGJpRExydl9lcEFmYUtYQmYyQkpGek85NDVCb3pzTEFPbDI5ay16Sy11TlpreVMwVUlXNDExQXVBTkpKeXZIU0xJdTRQSFV3RnVYWXVpdjdSU2JoaVJqamhrbTFnTUdZb1hqWWpKNGhQSlJULTE4a2RaMlpzUFVveU9JUVVaREFBMGpFMmhrODVySlFuaFNCNGE3dU82MElpendXOG1xQXBGeWd4dENYazFkeFk0?oc=5",
-      "type": "article",
-      "title": "Illinois governor signs bill limiting investor influence on law firms - Reuters",
-      "date": "2026-08-10",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2UtcWl3cGJpRExydl9lcEFmYUtYQmYyQkpGek85NDVCb3pzTEFPbDI5ay16Sy11TlpreVMwVUlXNDExQXVBTkpKeXZIU0xJdTRQSFV3RnVYWXVpdjdSU2JoaVJqamhrbTFnTUdZb1hqWWpKNGhQSlJULTE4a2RaMlpzUFVveU9JUVVaREFBMGpFMmhrODVySlFuaFNCNGE3dU82MElpendXOG1xQXBGeWd4dENYazFkeFk0?oc=5",
-      "snippet": "Illinois governor signs bill limiting investor influence on law firms &nbsp;&nbsp; Reuters"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNWUYtX0E4QVZtbE5yRUVIcGV5NkdJTTU3dDEzc3dRT2VSdk1FRm82bmE3Q0pKWi1CUWM3cTJaRndCaXlQT2NQY00wTFVXd1RuTjhVVmVlZHdvN0RkTUVXcUNGeDFSTFkzRWlBRVZTZHVRd05fcDE0djVvTWJzMVdCT3hlQnRpN19KNGRUUHlHMkt5OUJHTm5KX3IwbjBLY2VkNlplTDRGS3E3bU5JNjFSclpiNVh5Zw?oc=5",
-      "type": "article",
-      "title": "SPAC King Attorney Weighs Selling Stake in His Own NYC Law Firm - Bloomberg Law News",
-      "date": "2026-08-10",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWUYtX0E4QVZtbE5yRUVIcGV5NkdJTTU3dDEzc3dRT2VSdk1FRm82bmE3Q0pKWi1CUWM3cTJaRndCaXlQT2NQY00wTFVXd1RuTjhVVmVlZHdvN0RkTUVXcUNGeDFSTFkzRWlBRVZTZHVRd05fcDE0djVvTWJzMVdCT3hlQnRpN19KNGRUUHlHMkt5OUJHTm5KX3IwbjBLY2VkNlplTDRGS3E3bU5JNjFSclpiNVh5Zw?oc=5",
-      "snippet": "SPAC King Attorney Weighs Selling Stake in His Own NYC Law Firm &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinwFBVV95cUxPakpYc2locUE5SVVnSHJnWUdreVJIV3ppZXd0ZkpJNm5WVTVNU0poOGxMMTRJcGFYLXpMTlZBOWU5cmN2TUJKdXZPeGxWaFlVb2FpNzFhbVJnWVNLSDhMLUpnU2treWYxX0w2SXF1OWppYUpxeXM3eFNWaERYMHlCMjFtS0FpYkZXV0NCcS05SEVTOUdyaUY5SmFEbmJCRVnSAV5BVV95cUxQNXlKRGU4UEY3ZjlWRVRMZzJnY3UtM3FlSm5ZT09PRHA4Tm8tN1ZGems0VTVudDBDY2RsWXh6UnViOGZ1T0YxR19zU3RMTjFveW1GVXh1RnJDTlJzZWl3?oc=5",
-      "type": "article",
-      "title": "Ellenoff Grossman Explores Outside Investment Via MSO Deal - Law360",
-      "date": "2026-08-10",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakpYc2locUE5SVVnSHJnWUdreVJIV3ppZXd0ZkpJNm5WVTVNU0poOGxMMTRJcGFYLXpMTlZBOWU5cmN2TUJKdXZPeGxWaFlVb2FpNzFhbVJnWVNLSDhMLUpnU2treWYxX0w2SXF1OWppYUpxeXM3eFNWaERYMHlCMjFtS0FpYkZXV0NCcS05SEVTOUdyaUY5SmFEbmJCRVnSAV5BVV95cUxQNXlKRGU4UEY3ZjlWRVRMZzJnY3UtM3FlSm5ZT09PRHA4Tm8tN1ZGems0VTVudDBDY2RsWXh6UnViOGZ1T0YxR19zU3RMTjFveW1GVXh1RnJDTlJzZWl3?oc=5",
-      "snippet": "Ellenoff Grossman Explores Outside Investment Via MSO Deal &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sM1JGWGZScl82aXZ6VkFyRHprT0w4TU9YVmFDQ3JUcGNkdHNCOTNscmY0eHVmUFdnQUxKTTVUZ1RDS1hTbTdxT21hcmxVWWdTZzA5YnUtRVlyNUx3cEQydkkyaW1QZw?oc=5",
-      "type": "article",
-      "title": "BigLaw’s Private Equity Moment -The Next Deal Won’t Be Paul Weiss - LawFuel",
-      "date": "2026-08-10",
-      "source": "LawFuel",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sM1JGWGZScl82aXZ6VkFyRHprT0w4TU9YVmFDQ3JUcGNkdHNCOTNscmY0eHVmUFdnQUxKTTVUZ1RDS1hTbTdxT21hcmxVWWdTZzA5YnUtRVlyNUx3cEQydkkyaW1QZw?oc=5",
-      "snippet": "BigLaw’s Private Equity Moment -The Next Deal Won’t Be Paul Weiss &nbsp;&nbsp; LawFuel"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTY1VmQ0dEc3VVhzeTJMQjJ1X2lTMHNxVk5OUjdOamw1eWRGVDdNeWxXNGJjUEE3Wm9pYkxGakhscVBBZmh2di0xdWExRnozRGVJaVRLc0dIYU0wTjdDRGtoYWM1UWcwTnR4bGppZ0IwWkFxdndzSVFybkl4dURqRjg5azdtNGxiRDEzYzhoNTZPRl9tVHFXc3dIeWlYMXJjVjhJNHRma0U0S1FVR0FV0gFeQVVfeXFMUDM0LUN1NVgxSzhVZU1vcS11bUFMUEQwUl9Ra2loQmdpWTRYQWVXcEVrNmthN1RiTHNfeUxyVTF1N2ZzQTg1ejY2NGtwY0dJMXZHUzdxOFo5MmV2VUQ3dw?oc=5",
-      "type": "article",
-      "title": "Ill. Gov. Signs Bill Restricting PE Role In Legal Industry - Law360",
-      "date": "2026-08-10",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTY1VmQ0dEc3VVhzeTJMQjJ1X2lTMHNxVk5OUjdOamw1eWRGVDdNeWxXNGJjUEE3Wm9pYkxGakhscVBBZmh2di0xdWExRnozRGVJaVRLc0dIYU0wTjdDRGtoYWM1UWcwTnR4bGppZ0IwWkFxdndzSVFybkl4dURqRjg5azdtNGxiRDEzYzhoNTZPRl9tVHFXc3dIeWlYMXJjVjhJNHRma0U0S1FVR0FV0gFeQVVfeXFMUDM0LUN1NVgxSzhVZU1vcS11bUFMUEQwUl9Ra2loQmdpWTRYQWVXcEVrNmthN1RiTHNfeUxyVTF1N2ZzQTg1ejY2NGtwY0dJMXZHUzdxOFo5MmV2VUQ3dw?oc=5",
-      "snippet": "Ill. Gov. Signs Bill Restricting PE Role In Legal Industry &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxPZERyamxqcDZpeW1udl9KU0d0bUI3MGpQRkFmaU5pY0FkakxIMjRqTk1lMVhXaVNWektxa0lrYUV1SktYZUtDb0JwM1V3Yl93bGZmTlFVZi1qZFBRUEdBbmlFdWxPTTZQUmIzQ2pOc09ETHVOWFl3eHIwOEVYeWUzUnRxbjlZdw?oc=5",
-      "type": "article",
-      "title": "New Illinois Law Restricts Law Firm Investors - jdjournal.com",
-      "date": "2026-08-10",
-      "source": "jdjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZERyamxqcDZpeW1udl9KU0d0bUI3MGpQRkFmaU5pY0FkakxIMjRqTk1lMVhXaVNWektxa0lrYUV1SktYZUtDb0JwM1V3Yl93bGZmTlFVZi1qZFBRUEdBbmlFdWxPTTZQUmIzQ2pOc09ETHVOWFl3eHIwOEVYeWUzUnRxbjlZdw?oc=5",
-      "snippet": "New Illinois Law Restricts Law Firm Investors &nbsp;&nbsp; jdjournal.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMic0FVX3lxTFAyWFJMblBfMEx4T05sU2VKZkVyY2o3UWFTbkxqTjZzNmdxbXc5eVBYYWEzemFuQXZqcWZxUEZtMWotTlRrdzR4bGFQN285VkN6ckt6ZFVLNjE2bVJRVU9BZGp4QXgwUEdfSFNvYnBHZVhhdEk?oc=5",
-      "type": "article",
-      "title": "Illinois Restricts Investor Influence Over Law Firms - Межа. Новини України.",
-      "date": "2026-08-10",
-      "source": "Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyWFJMblBfMEx4T05sU2VKZkVyY2o3UWFTbkxqTjZzNmdxbXc5eVBYYWEzemFuQXZqcWZxUEZtMWotTlRrdzR4bGFQN285VkN6ckt6ZFVLNjE2bVJRVU9BZGp4QXgwUEdfSFNvYnBHZVhhdEk?oc=5",
-      "snippet": "Illinois Restricts Investor Influence Over Law Firms &nbsp;&nbsp; Межа. Новини України."
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGNRdVJJUzhrSlRoOG9qQ014TnIxWVRacWh0ekhOb0tuRWxxb3ZfdENmeUVuZEQtNHZ0NXFhdFJFbFdKVjBhbWdjOUxNY2dIajFzUGZkVHhDMHFLcnZ0ZzVtM0dPZ0kyYy11NUR4Q2lDNnVxOG1aZUJsM1pWYVF3NVZGbVRiRTA1dTlQdzE3RVhBR0FXMkpfUU1hSmp3UThmaFozYU5PbVFYQTJ4d1VDZlltTUU5MTQ?oc=5",
-      "type": "article",
-      "title": "The billable hour is not dead, but AI is chipping away at its prevalence - South Carolina Lawyers Weekly",
-      "date": "2026-08-10",
-      "source": "South Carolina Lawyers Weekly",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGNRdVJJUzhrSlRoOG9qQ014TnIxWVRacWh0ekhOb0tuRWxxb3ZfdENmeUVuZEQtNHZ0NXFhdFJFbFdKVjBhbWdjOUxNY2dIajFzUGZkVHhDMHFLcnZ0ZzVtM0dPZ0kyYy11NUR4Q2lDNnVxOG1aZUJsM1pWYVF3NVZGbVRiRTA1dTlQdzE3RVhBR0FXMkpfUU1hSmp3UThmaFozYU5PbVFYQTJ4d1VDZlltTUU5MTQ?oc=5",
-      "snippet": "The billable hour is not dead, but AI is chipping away at its prevalence &nbsp;&nbsp; South Carolina Lawyers Weekly"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMidEFVX3lxTE1DV2wzM2p6UjZ5SS0wVkFNNkl3MVR2amxRZ1pTMTNhUW5sV05Uc0JIUGRJRENQQ1JsRXdsbWF1RUFFSjdMa3FUTUpOd1N5eklqOENhUl9LdU1HaU9aRDE2YXFNUkZGUFh4X05ZRWEyNGpiN3Nh?oc=5",
-      "type": "article",
-      "title": "Khmelnytskyi Community Sends More Than 300 FPV Drones to Ukrainian Defenders - Межа. Новини України.",
-      "date": "2026-08-10",
-      "source": "Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DV2wzM2p6UjZ5SS0wVkFNNkl3MVR2amxRZ1pTMTNhUW5sV05Uc0JIUGRJRENQQ1JsRXdsbWF1RUFFSjdMa3FUTUpOd1N5eklqOENhUl9LdU1HaU9aRDE2YXFNUkZGUFh4X05ZRWEyNGpiN3Nh?oc=5",
-      "snippet": "Khmelnytskyi Community Sends More Than 300 FPV Drones to Ukrainian Defenders &nbsp;&nbsp; Межа. Новини України."
     }
   ]
 }
