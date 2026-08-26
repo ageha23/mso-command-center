@@ -1,8 +1,107 @@
 {
-  "lastRun": "2026-08-25T11:30:35.119896+00:00",
+  "lastRun": "2026-08-26T11:32:24.440682+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 10,
+  "addedThisRun": 13,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3phS1JDdFdLRC1QQmlSNFQyamJ3TUlyVm9yb3BlZ0hkNG5UUmpYNDNwNXBaczR2LXV1bk1NazY5Ung0dG54OTNuMGhYNFgtc04xR2JyczlBaW01N2lpMkYyOFNDM2NEMVJmS2hfNU5DVVVFd0laWkE0Qk9ZQmlsNF8tQ3lGdlhDaTl4cllEa2JSb05DQ3U5elVkOXlkTUE3UDNXZFpqbmlrNXZyTXkxNGtNaGdDd2ZxcURvejd5bEZJUUJDWDFyQ3pxUGdsWEpTWENBb0xoUzRTYWhPQ21WaA?oc=5",
+      "type": "article",
+      "title": "These Am Law Firms Lead the Way on AFAs. Here's How AI and Data Collection Are Pushing More to Explore - Law.com",
+      "date": "2026-08-26",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3phS1JDdFdLRC1QQmlSNFQyamJ3TUlyVm9yb3BlZ0hkNG5UUmpYNDNwNXBaczR2LXV1bk1NazY5Ung0dG54OTNuMGhYNFgtc04xR2JyczlBaW01N2lpMkYyOFNDM2NEMVJmS2hfNU5DVVVFd0laWkE0Qk9ZQmlsNF8tQ3lGdlhDaTl4cllEa2JSb05DQ3U5elVkOXlkTUE3UDNXZFpqbmlrNXZyTXkxNGtNaGdDd2ZxcURvejd5bEZJUUJDWDFyQ3pxUGdsWEpTWENBb0xoUzRTYWhPQ21WaA?oc=5",
+      "snippet": "These Am Law Firms Lead the Way on AFAs. Here's How AI and Data Collection Are Pushing More to Explore &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0JNVldya1dMSk5YaEpBUU5zb25uME5fdFh0cE9pODJBS002U1dFS0JqZFZHRjNaY3pYOEc4OWFtdGo0QVFLbUdTT1lFaUg3ekxIWURrb0k3TnBqOTV4SVlmcGc0dmlpaFRqc0JnWmxrdFdFcFhZWnFSdjk0Q0VCbFFBdkF3T3dtVndVQTdZS1pmLTlPQVpVVjJhbVVScmo5Vnk5ZmJ2cVdCenVpa3VjRkpjRDhUOEFFQkNMdVhDVQ?oc=5",
+      "type": "article",
+      "title": "New Illinois MSO Legal Industry Law May Be Ripe for a Challenge, Experts Say - Law.com",
+      "date": "2026-08-25",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0JNVldya1dMSk5YaEpBUU5zb25uME5fdFh0cE9pODJBS002U1dFS0JqZFZHRjNaY3pYOEc4OWFtdGo0QVFLbUdTT1lFaUg3ekxIWURrb0k3TnBqOTV4SVlmcGc0dmlpaFRqc0JnWmxrdFdFcFhZWnFSdjk0Q0VCbFFBdkF3T3dtVndVQTdZS1pmLTlPQVpVVjJhbVVScmo5Vnk5ZmJ2cVdCenVpa3VjRkpjRDhUOEFFQkNMdVhDVQ?oc=5",
+      "snippet": "New Illinois MSO Legal Industry Law May Be Ripe for a Challenge, Experts Say &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMif0FVX3lxTE9FdFJ2XzlXREppZmtBS0c4cktKdlBUSjBwSTFMZG5ZeDZ2VlBkNTFyMUFNWUtVVXdIV0p4Nnc3RjlhNHFWaEJXUnI1dEJkUzAtNmZOc24xaVlXNmtoZGpFWmk1NGt4SVctYjFUY2M0bzR3Yy01QWVDUnBGOG9LVlk?oc=5",
+      "type": "article",
+      "title": "Leading change in complex systems - ABA Journal",
+      "date": "2026-08-25",
+      "source": "ABA Journal",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FdFJ2XzlXREppZmtBS0c4cktKdlBUSjBwSTFMZG5ZeDZ2VlBkNTFyMUFNWUtVVXdIV0p4Nnc3RjlhNHFWaEJXUnI1dEJkUzAtNmZOc24xaVlXNmtoZGpFWmk1NGt4SVctYjFUY2M0bzR3Yy01QWVDUnBGOG9LVlk?oc=5",
+      "snippet": "Leading change in complex systems &nbsp;&nbsp; ABA Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkh2OThTMVZESTRYQS1vNGhHVXpWN0drSXRPMWdoWnRieDhmUl8zRVVVZXd0X013QjB2S0lMTlBXLXRVby12SU1ndzlqbm9FeWxjWGl3N19jLVA2QmRreE1oX1p0eENaY0daRExlMTJkUzMwOXBlMDFtV0NOcUJEX1RkbnFxWU1qMDFNbFVOd3JaZkotRVIyaEhrOTMwbUpTNTBWajIwWkZfTVNzMnk5MQ?oc=5",
+      "type": "article",
+      "title": "Data centre securitisation explained: how the US, Europe and Asia are funding digital infrastructure - Dentons",
+      "date": "2026-08-25",
+      "source": "Dentons",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkh2OThTMVZESTRYQS1vNGhHVXpWN0drSXRPMWdoWnRieDhmUl8zRVVVZXd0X013QjB2S0lMTlBXLXRVby12SU1ndzlqbm9FeWxjWGl3N19jLVA2QmRreE1oX1p0eENaY0daRExlMTJkUzMwOXBlMDFtV0NOcUJEX1RkbnFxWU1qMDFNbFVOd3JaZkotRVIyaEhrOTMwbUpTNTBWajIwWkZfTVNzMnk5MQ?oc=5",
+      "snippet": "Data centre securitisation explained: how the US, Europe and Asia are funding digital infrastructure &nbsp;&nbsp; Dentons"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmw0dEF0STRfY19sYWhrSWhmSmhLd3dqSTREX0RVLXdxVE92ekxFOUdsNHpMT0tYMXNvUWV6Z21IQnpkbGRGOVViWUhFRTZ6eEJ1SFlzRC1ITk0tTkxpOHp6WkJCQi1nVlBLenRzVnBoZ0FJcE9yQkEzLWtMcjZUZzFwdmJPek1fVXhGc2ROdW01a05Ral9SV1BOaER4WHdiU2VvVE9xOFpPWldaSFNN?oc=5",
+      "type": "article",
+      "title": "KVETOiQ Expands Managed Web Scraping and Data Extraction Services for U.S. Businesses - Digital Journal",
+      "date": "2026-08-25",
+      "source": "Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmw0dEF0STRfY19sYWhrSWhmSmhLd3dqSTREX0RVLXdxVE92ekxFOUdsNHpMT0tYMXNvUWV6Z21IQnpkbGRGOVViWUhFRTZ6eEJ1SFlzRC1ITk0tTkxpOHp6WkJCQi1nVlBLenRzVnBoZ0FJcE9yQkEzLWtMcjZUZzFwdmJPek1fVXhGc2ROdW01a05Ral9SV1BOaER4WHdiU2VvVE9xOFpPWldaSFNN?oc=5",
+      "snippet": "KVETOiQ Expands Managed Web Scraping and Data Extraction Services for U.S. Businesses &nbsp;&nbsp; Digital Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxNblFmSmpMbld0Q2FqWi1oSHNibUd1QzdxNU9FWGpqeS05WGFvMHJKc0V1b0JjNG1STVJhdWViQjQ5ODhldTFxaDF1UUExQVBkM2x2dlRaQ3ZEbWpfRWlGdmZfQ25CVFg0RG0wMEpSdlVrY0xmcXRaZjA4ZTJqTVlrVzlITEJBdkNKeHRfYUo0MkZGWkpnY2RlNjUxYllESzZMemxXUktKbjBIS3RZbnBzaG1ZZEU4bU51Z2VZZ05LNFpCS3VKUThsaVNET25xNV9vN3FuYjNXLTE2OHRTVGt0cmJZd1Q?oc=5",
+      "type": "article",
+      "title": "Crystal Wright Law Wins 2026 Southeastern Legal Award - ACCESS Newswire",
+      "date": "2026-08-25",
+      "source": "ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNblFmSmpMbld0Q2FqWi1oSHNibUd1QzdxNU9FWGpqeS05WGFvMHJKc0V1b0JjNG1STVJhdWViQjQ5ODhldTFxaDF1UUExQVBkM2x2dlRaQ3ZEbWpfRWlGdmZfQ25CVFg0RG0wMEpSdlVrY0xmcXRaZjA4ZTJqTVlrVzlITEJBdkNKeHRfYUo0MkZGWkpnY2RlNjUxYllESzZMemxXUktKbjBIS3RZbnBzaG1ZZEU4bU51Z2VZZ05LNFpCS3VKUThsaVNET25xNV9vN3FuYjNXLTE2OHRTVGt0cmJZd1Q?oc=5",
+      "snippet": "Crystal Wright Law Wins 2026 Southeastern Legal Award &nbsp;&nbsp; ACCESS Newswire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmlZd053NG9sRl9sWlp6MU9xSGpRenBhVFR2QmRGV3E5Umo2ekxUY082dmEzZEFOVXFraEYxd01RdUtfa2RBcXRpVFIzU015M3RlN0E4Y2hfY3BNb3FPSWRMY0xzRUNoVjNkUmVWcWVFeTdObHZNeTR4b25jSmxhMGg1UlBjeG9HQjBidnh2R3BQRVVRdWtIeVVLeTBoajNt?oc=5",
+      "type": "article",
+      "title": "Google Cloud Launches Gemini Enterprise for Legal - Google Cloud Press Corner",
+      "date": "2026-08-25",
+      "source": "Google Cloud Press Corner",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmlZd053NG9sRl9sWlp6MU9xSGpRenBhVFR2QmRGV3E5Umo2ekxUY082dmEzZEFOVXFraEYxd01RdUtfa2RBcXRpVFIzU015M3RlN0E4Y2hfY3BNb3FPSWRMY0xzRUNoVjNkUmVWcWVFeTdObHZNeTR4b25jSmxhMGg1UlBjeG9HQjBidnh2R3BQRVVRdWtIeVVLeTBoajNt?oc=5",
+      "snippet": "Google Cloud Launches Gemini Enterprise for Legal &nbsp;&nbsp; Google Cloud Press Corner"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlI2NFRxZGNOV3JhYzBkX2RqMUN1S3FkaEZFcGJvdGhNS0JjV3Z4U0d0VHZvQlYyT0lmTGp3VkkxRnUtdHA2Z3ZaWWhwSEVEVHoxc0RLWnlLdlhlVkZhUUpSQ29IT3IwdTFSZWlrRFZhY3FDcTV3Ni1uTm5fY29OcXNrNTJ4bU1GdXhVbnExMnJrZGN5T0FuV1g3T0QtQ1hTNGNaZHZ0RQ?oc=5",
+      "type": "article",
+      "title": "Frontline’s 2026 Benchmark Reframes Law Firm IT as an Operating System - The Futurum Group",
+      "date": "2026-08-25",
+      "source": "The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlI2NFRxZGNOV3JhYzBkX2RqMUN1S3FkaEZFcGJvdGhNS0JjV3Z4U0d0VHZvQlYyT0lmTGp3VkkxRnUtdHA2Z3ZaWWhwSEVEVHoxc0RLWnlLdlhlVkZhUUpSQ29IT3IwdTFSZWlrRFZhY3FDcTV3Ni1uTm5fY29OcXNrNTJ4bU1GdXhVbnExMnJrZGN5T0FuV1g3T0QtQ1hTNGNaZHZ0RQ?oc=5",
+      "snippet": "Frontline’s 2026 Benchmark Reframes Law Firm IT as an Operating System &nbsp;&nbsp; The Futurum Group"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG13Ny1KRTB6cW1xXzBKR0VpM0l1VWE3c2o0OWJtVlpVTEw2eHloVGNIT1EtLUpRUjhYdGdxbTNqbzk0QkNFaENFN1NXTWhJVENweGJYNnVUZ3ZZZnR1cmVRY0FJNzRKamxHY3JmZkZrX190RkhRRHVGRXpfcGgyWFQwU0tRMmFWLWtxMWdqM2F3QQ?oc=5",
+      "type": "article",
+      "title": "MNU Plans 90-Credit Public Service Leadership Bachelor’s Degree - MidAmerica Nazarene University",
+      "date": "2026-08-25",
+      "source": "MidAmerica Nazarene University",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG13Ny1KRTB6cW1xXzBKR0VpM0l1VWE3c2o0OWJtVlpVTEw2eHloVGNIT1EtLUpRUjhYdGdxbTNqbzk0QkNFaENFN1NXTWhJVENweGJYNnVUZ3ZZZnR1cmVRY0FJNzRKamxHY3JmZkZrX190RkhRRHVGRXpfcGgyWFQwU0tRMmFWLWtxMWdqM2F3QQ?oc=5",
+      "snippet": "MNU Plans 90-Credit Public Service Leadership Bachelor’s Degree &nbsp;&nbsp; MidAmerica Nazarene University"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiW0FVX3lxTE91YW9ERHVrWDFKY3FVOU5DRUFPODlsaVVHWm9meVhwNFlZUm1HMEQ0ZEIwQjFlTXpSaXVjd2FzdmtPemlRZjFGd1pZTVppaGtFTC1DWktESWYzbEE?oc=5",
+      "type": "article",
+      "title": "CA Foundation Business Laws: The Companies Act, 2013 With Writing Practice | CA Chaitanya Jain Sondaggi Politici (rD2azttUWc) - Mshale",
+      "date": "2026-08-25",
+      "source": "Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91YW9ERHVrWDFKY3FVOU5DRUFPODlsaVVHWm9meVhwNFlZUm1HMEQ0ZEIwQjFlTXpSaXVjd2FzdmtPemlRZjFGd1pZTVppaGtFTC1DWktESWYzbEE?oc=5",
+      "snippet": "CA Foundation Business Laws: The Companies Act, 2013 With Writing Practice | CA Chaitanya Jain Sondaggi Politici (rD2azttUWc) &nbsp;&nbsp; Mshale"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMif0FVX3lxTE10amZTWmZNY1RlZFRNVU4xaXAySG5id2g4NGxSenMzM3NmQXNPcnF0T2l2bnpiZi1zazhRVDFueTJkOWwxRWxDUHZGRjlXbTEwSGRjMktEaEJ3Njh6MG1yREE1NGFlV3luWTlaTWhPQlEzWHY5cmItTDdDd0NWd2s?oc=5",
+      "type": "article",
+      "title": "Why have private equity firms taken an interest in buying professional sports teams? - AOL.com",
+      "date": "2026-08-25",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10amZTWmZNY1RlZFRNVU4xaXAySG5id2g4NGxSenMzM3NmQXNPcnF0T2l2bnpiZi1zazhRVDFueTJkOWwxRWxDUHZGRjlXbTEwSGRjMktEaEJ3Njh6MG1yREE1NGFlV3luWTlaTWhPQlEzWHY5cmItTDdDd0NWd2s?oc=5",
+      "snippet": "Why have private equity firms taken an interest in buying professional sports teams? &nbsp;&nbsp; AOL.com"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFNFaWpGQm9NX2d0bWYtSHh1cTZ3Q05CbkRVYnYxNWlteGRybzYwcnNINk9XWlp2Q0pVLTRPVk9TekhZdWFtcHBXeGVpVDdsTVdsN2l3QzJURHhwSFZQa2ZVVmFPSW5xdGU2VFBrRDVzeFpMRG1jSUJ0a2V3bFBfOFlfX2NKZ2MtUFU1UWJHd0YwYmVLODdMUXZTRzNlWmlFclliSy14NEhBZkhqa0FVeFdZYmQ?oc=5",
       "type": "article",
@@ -157,6 +256,15 @@
       "snippet": "From Salomon to Akonta: the end of political immunity for corporate galamsey &nbsp;&nbsp; Business & Financial Times"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEI5cDU0M0EtLXJNSno0N1hBbDR6dVpGLTlhcThuUUt0SjB1SzBQTnRuN2JyeUd4bEFIMVpQWjVPdkxoOVZQUXNfVkxDNlBTZlM4NzNsSmNYdTE4M2U2QXF1NVVsZ0JUNlBSRVRaNlEyVy1XN25kenNsd2xUTGFrZGwzVjIwU2ZFVU55aFBDQ0ZNdEhmYldDOU0xdHBfVHZfZjJDdklMZmQ1V3N6QmFtTGZDNmVQUnk0NHdLaw?oc=5",
+      "type": "article",
+      "title": "Structural load: Business models, power, and professional control - rdhmag.com",
+      "date": "2026-08-24",
+      "source": "rdhmag.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEI5cDU0M0EtLXJNSno0N1hBbDR6dVpGLTlhcThuUUt0SjB1SzBQTnRuN2JyeUd4bEFIMVpQWjVPdkxoOVZQUXNfVkxDNlBTZlM4NzNsSmNYdTE4M2U2QXF1NVVsZ0JUNlBSRVRaNlEyVy1XN25kenNsd2xUTGFrZGwzVjIwU2ZFVU55aFBDQ0ZNdEhmYldDOU0xdHBfVHZfZjJDdklMZmQ1V3N6QmFtTGZDNmVQUnk0NHdLaw?oc=5",
+      "snippet": "Structural load: Business models, power, and professional control &nbsp;&nbsp; rdhmag.com"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1F6V1NGUHlnc2syTGVTZkE2X2tlLTkxbER3MWFrNXZWVHdRQXdzcy13UGptYU9wbkJjVDVGZVpFRVZVY05MYnZUUktPTEpTR01QQngyV0gzWE1oVXF0ZFR6Vm1yejU1c2VvSk9WSFU2emxySXJmVXdtT1FwVWE5LXowTFQ3MGxITHMwUFlIckhLTTJuWHVpcHdXZF92OWEwR0V1UndRY2U3MEgyX0cycGZab05keW01?oc=5",
       "type": "article",
       "title": "Why have private equity firms taken interest in buying pro sports teams? - Jefferson City News Tribune",
@@ -200,6 +308,15 @@
       "source": "Philomath News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXAwYWpkclVveGdPY21GZTZNQnBPZEVxVXM1VFFBMmxadEpkajg1TmFZNzJfamNNLXpueUF2STBHRFFHU1N3X0lmZXRFU1JhbHlnTGtSbjJ2M3dfNlAwcHhKRHlXN2FxOGgwY3FYVFhnUkFLeFA0S2I2LU1rZjVZVHdpc2QxS292T3dZUnJwU0xCWHBVRVFtdFMzWVB4d085NFNhd3BvbTZDd0pwQk4w?oc=5",
       "snippet": "Oregon policy among state laws slowing private equity healthcare deals, report finds &nbsp;&nbsp; Philomath News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXItTlRxR0ZybXVEN213R2RPQVdOa1g2UFh3VGc3OUJqYTJOOVF2V0pyMzhHaENWbEpPbXJFOTFqVGM0RWRIN1RzWW9YSndoblRQcXVfekR3THZOWFFzRVVSamNZUDM0NnpwbzdVLXcxbkd5MmxKYVBrVTJVYnlWd3A2OVJyUQ?oc=5",
+      "type": "article",
+      "title": "‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail? - AOL.co.uk",
+      "date": "2026-08-22",
+      "source": "AOL.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXItTlRxR0ZybXVEN213R2RPQVdOa1g2UFh3VGc3OUJqYTJOOVF2V0pyMzhHaENWbEpPbXJFOTFqVGM0RWRIN1RzWW9YSndoblRQcXVfekR3THZOWFFzRVVSamNZUDM0NnpwbzdVLXcxbkd5MmxKYVBrVTJVYnlWd3A2OVJyUQ?oc=5",
+      "snippet": "‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail? &nbsp;&nbsp; AOL.co.uk"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUhnRWdtYUFPMU0zd21CVC1Hc2JnV0R5M24yNmpjUzNGcXdfS0cxdXBtQU8xY3FnNEhjVHY5MFV4ejVFTDZwSWN3RnJMdjNNWlZpTVhBazFQRmZadTh0T3lSUzRoamVSRUZ5cEo3YmdBSFd5ZDlCaUdUM090cGhXT2c1M1VSbWtBbk1TcTd5bTN0c3ZHNlJlTUZYWUliWHh2VU01Slc5QjMtY2JJeFE?oc=5",
@@ -1235,123 +1352,6 @@
       "source": "ICLG",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUU2dWdxYlR0c1pZV2lNYkIwdUNzaUpxbkNTUjZqNE9wdnBkUlVRdFgzdF9OWThqSFRnNjRqRU9pX1pkekZWRnQ4VXM0R0Z0alRuQzFvMkx6bHdyVVREanNfYmdHX1ZFUHFGYUcwRkcydHo3ekRWcHdEVC1rUmM1a20wZXJ2aDVBX1NFbXVVcw?oc=5",
       "snippet": "USA - Alternative Investment Funds Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzRzWnVldXo0cnk0M3hVcVJYbFllalByYV9TNGdxQkZDZk9hVWJIbjltV0hGUnJuV05QVVh0QXRoaGhRSU01d2VhYUpfZkdwaThuZjFVeEdtczFwNm9YdmotdzlxaHJLVXVpWFBjSEdsUXlVU1hESG10MUtqRDRzVHdYQ1RzVmtVYlo0aUp5NXdsQzZEVmhFVzE3aHpWU1gtNUg0ZnhBVHVOak14ZDdZQXdJdw?oc=5",
-      "type": "article",
-      "title": "Auditors, Investors Press US Watchdog to Fast-Track AI Guidance - news.bloombergtax.com",
-      "date": "2026-08-12",
-      "source": "news.bloombergtax.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzRzWnVldXo0cnk0M3hVcVJYbFllalByYV9TNGdxQkZDZk9hVWJIbjltV0hGUnJuV05QVVh0QXRoaGhRSU01d2VhYUpfZkdwaThuZjFVeEdtczFwNm9YdmotdzlxaHJLVXVpWFBjSEdsUXlVU1hESG10MUtqRDRzVHdYQ1RzVmtVYlo0aUp5NXdsQzZEVmhFVzE3aHpWU1gtNUg0ZnhBVHVOak14ZDdZQXdJdw?oc=5",
-      "snippet": "Auditors, Investors Press US Watchdog to Fast-Track AI Guidance &nbsp;&nbsp; news.bloombergtax.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkhVXzctSFVnRWp5TXRuR0NjZ2E1azk0cWJOeDVmTnpjLXV0RFd0UTVtWGhwQkt3UEk2MEVuclFnWEhEbGVpQUxBZ0dfSkhKcEFmeGFpWTQzQmZ0bjBNV29MUk1yU0QyZ29DSTdWbVdzV2E4c3NHTlVFbnVRMHhSVGNKMnZGeWU1eHJDM2pldzBtOUYyN2dfcGFyYVQzM3JOTV9DZEpJM1FMRFJmNjY0dUFMSnA2YlRIMHRUUUYwcU04Y3ViNDlCSldNTUdjaWs?oc=5",
-      "type": "article",
-      "title": "‘What It Means to Be Excellent’: A-List Firms Succeed Because of—Not in Spite of—Disruption - Law.com",
-      "date": "2026-08-12",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkhVXzctSFVnRWp5TXRuR0NjZ2E1azk0cWJOeDVmTnpjLXV0RFd0UTVtWGhwQkt3UEk2MEVuclFnWEhEbGVpQUxBZ0dfSkhKcEFmeGFpWTQzQmZ0bjBNV29MUk1yU0QyZ29DSTdWbVdzV2E4c3NHTlVFbnVRMHhSVGNKMnZGeWU1eHJDM2pldzBtOUYyN2dfcGFyYVQzM3JOTV9DZEpJM1FMRFJmNjY0dUFMSnA2YlRIMHRUUUYwcU04Y3ViNDlCSldNTUdjaWs?oc=5",
-      "snippet": "‘What It Means to Be Excellent’: A-List Firms Succeed Because of—Not in Spite of—Disruption &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi5gFBVV95cUxNal9uU2U2eFNzOWpnd1h3N1RKOHBzOWxPaGpwNEhDT01SSmhjRjE2cmplS1hBQ2ZGRE1ad2R5ZnJJcFNRc2FKcWNJMk1FdG1QVW5HMW9lOXFtWmFzaWhDYkhJdXBDY3JKTGw4T0UtQUlhTDhsMzFKcW8wd1ZzcjU0YnV6RWRaNVd4MkNlcHBJUUJEY0U5c043LWZ4MFZvQ1NJM1dRbEtLWl9RbTl0MzQxR1N6WjZObGp5enBBM05OQ2dJWmd1blNoUlVRRTd5cVVza0h4MGVKaDRMbGNvNHpwY1NWeHREZw?oc=5",
-      "type": "article",
-      "title": "Jeometri secures GFSC licence for Guernsey captive PCC - Captive Insurance Times",
-      "date": "2026-08-11",
-      "source": "Captive Insurance Times",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNal9uU2U2eFNzOWpnd1h3N1RKOHBzOWxPaGpwNEhDT01SSmhjRjE2cmplS1hBQ2ZGRE1ad2R5ZnJJcFNRc2FKcWNJMk1FdG1QVW5HMW9lOXFtWmFzaWhDYkhJdXBDY3JKTGw4T0UtQUlhTDhsMzFKcW8wd1ZzcjU0YnV6RWRaNVd4MkNlcHBJUUJEY0U5c043LWZ4MFZvQ1NJM1dRbEtLWl9RbTl0MzQxR1N6WjZObGp5enBBM05OQ2dJWmd1blNoUlVRRTd5cVVza0h4MGVKaDRMbGNvNHpwY1NWeHREZw?oc=5",
-      "snippet": "Jeometri secures GFSC licence for Guernsey captive PCC &nbsp;&nbsp; Captive Insurance Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc3hFa1p4SDR0Ml9kR1Q4eHc0MG9OcmdoWmVfM1JsTGZBcUhRTU1qalR4alBMNUVhdzM0TW9objB1aE5yYmtoZnc2cUpQS1R6MGtraUNDc0JZVmF0TzBaeUIxMHMtT1lUWTFua1lIV3liZnptWkR5eDBYa0hQa0dTYXlVS0xvQVVEdkY0bk9fM3Nkb2c2NVZfRVA3X2xDRldsbERqX3NLU1VfRVVJdzZJUWxUbEpWeUZ2YU1LZHBONFI4djRkUjVONEdwQng2TE93aFpUN1pUQnd2MnFwN29qTUZSNzFFOW1WRnJlandaVQ?oc=5",
-      "type": "article",
-      "title": "Judge May Advise Statewide Pre-Trial Services Association on Judicial Training: Judicial Ethics Opinion 26-09 - Law.com",
-      "date": "2026-08-11",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc3hFa1p4SDR0Ml9kR1Q4eHc0MG9OcmdoWmVfM1JsTGZBcUhRTU1qalR4alBMNUVhdzM0TW9objB1aE5yYmtoZnc2cUpQS1R6MGtraUNDc0JZVmF0TzBaeUIxMHMtT1lUWTFua1lIV3liZnptWkR5eDBYa0hQa0dTYXlVS0xvQVVEdkY0bk9fM3Nkb2c2NVZfRVA3X2xDRldsbERqX3NLU1VfRVVJdzZJUWxUbEpWeUZ2YU1LZHBONFI4djRkUjVONEdwQng2TE93aFpUN1pUQnd2MnFwN29qTUZSNzFFOW1WRnJlandaVQ?oc=5",
-      "snippet": "Judge May Advise Statewide Pre-Trial Services Association on Judicial Training: Judicial Ethics Opinion 26-09 &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekp3OXRJZE1vTmhYc2JGOEp5YmtqbW1yeWw2bnREWmk3UHhuc25scFU2VktzMG11NzAxRjFGU0pMTmtRR0x5Z0xvZnpXUVRQbmFxMXRaNlNZQjl5NUlFcXhWUTBsWUg2WHIybVVzNy1hNTFiMFZCSnp5dWxqQW9sLVRHN1NDYkY2Q2JMWkdlTE1mRV9BaXdJdVAtQ01IMWdOVXhXbWRMdl9Wa1FrT2xfWEFQd3I0SkJOSklhVDBuRzhFYXNEOVp1eE0tOTNCSDR3Z2FaYXRKaUNHWURxYW5pWkFB?oc=5",
-      "type": "article",
-      "title": "In New Assault on Trans Youth Care, Trump Administration Bars… - HRC | Human Rights Campaign",
-      "date": "2026-08-11",
-      "source": "HRC | Human Rights Campaign",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekp3OXRJZE1vTmhYc2JGOEp5YmtqbW1yeWw2bnREWmk3UHhuc25scFU2VktzMG11NzAxRjFGU0pMTmtRR0x5Z0xvZnpXUVRQbmFxMXRaNlNZQjl5NUlFcXhWUTBsWUg2WHIybVVzNy1hNTFiMFZCSnp5dWxqQW9sLVRHN1NDYkY2Q2JMWkdlTE1mRV9BaXdJdVAtQ01IMWdOVXhXbWRMdl9Wa1FrT2xfWEFQd3I0SkJOSklhVDBuRzhFYXNEOVp1eE0tOTNCSDR3Z2FaYXRKaUNHWURxYW5pWkFB?oc=5",
-      "snippet": "In New Assault on Trans Youth Care, Trump Administration Bars… &nbsp;&nbsp; HRC | Human Rights Campaign"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi2gJBVV95cUxOMzdrcVprTkZwaUE3RVZ6WkJ6dklXeFlmVkpfOVZ1Tnp3V3Q4T3Nnd29USzJQZmtkYk1LS2hFcjNXcHBWc1JmcHhkYnRYbEo3WEoxX0MyZ2JjMnJEN3ROaXJpYVY5TVFKWWEyNksyN2t0V0RpbzdJWU9GQzJFbENBUXlyaW44aW55Z0N5M3FGMTBBQlBOWG5DN1daOFlPWko5Mk5qNTNVR0hzZVRGVjhibjF5NHdKM3ctVUdKRUMyeDVEanFGRnVkRWVfUlU0bTdEeGhlMkpiWDJyZlFjZi1iUThYMVU2SjlZdVQtdUw2cVMyRGRIMjFpc3BjcVQtMkV6S0hzbmdZZ0FYRXhFbkU2SGp6OER0YkhDVHpobnlDdGxiUTIyS29hZlNCQlY5M01hQm4tb29oNmlzdnFSZmc2UFhGRXdQSkJIMnNsZUZQcDJoR2xaMmRhVVV3?oc=5",
-      "type": "article",
-      "title": "Deloitte study for ABSL: Romania strengthens its position as a strategic destination for the business services industry. The sector contributes 35.5 billion euros to the local economy - Deloitte",
-      "date": "2026-08-11",
-      "source": "Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOMzdrcVprTkZwaUE3RVZ6WkJ6dklXeFlmVkpfOVZ1Tnp3V3Q4T3Nnd29USzJQZmtkYk1LS2hFcjNXcHBWc1JmcHhkYnRYbEo3WEoxX0MyZ2JjMnJEN3ROaXJpYVY5TVFKWWEyNksyN2t0V0RpbzdJWU9GQzJFbENBUXlyaW44aW55Z0N5M3FGMTBBQlBOWG5DN1daOFlPWko5Mk5qNTNVR0hzZVRGVjhibjF5NHdKM3ctVUdKRUMyeDVEanFGRnVkRWVfUlU0bTdEeGhlMkpiWDJyZlFjZi1iUThYMVU2SjlZdVQtdUw2cVMyRGRIMjFpc3BjcVQtMkV6S0hzbmdZZ0FYRXhFbkU2SGp6OER0YkhDVHpobnlDdGxiUTIyS29hZlNCQlY5M01hQm4tb29oNmlzdnFSZmc2UFhGRXdQSkJIMnNsZUZQcDJoR2xaMmRhVVV3?oc=5",
-      "snippet": "Deloitte study for ABSL: Romania strengthens its position as a strategic destination for the business services industry. The sector contributes 35.5 billion euros to the local economy &nbsp;&nbsp; Deloitte"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGxVVjYzOFpHb2VxcjlxbHY5aUpIYkptZ3hnUFdkUlBDRGxVUkxId2RlaTRySjZrTmlGVHBoY0UzTWdYM2d3eVNBdFlQS2Y0VGNBNEpiYUM3VWFvR0VxQ2dmYTRaS0ZQT2pPQkdnYjczQW5kdlFnbVZjQzEtYkpZQVNSMTE2dklGc2VkRloycmo?oc=5",
-      "type": "article",
-      "title": "AI puts pressure on law firms’ billable hour model - Wisconsin Law Journal",
-      "date": "2026-08-11",
-      "source": "Wisconsin Law Journal",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGxVVjYzOFpHb2VxcjlxbHY5aUpIYkptZ3hnUFdkUlBDRGxVUkxId2RlaTRySjZrTmlGVHBoY0UzTWdYM2d3eVNBdFlQS2Y0VGNBNEpiYUM3VWFvR0VxQ2dmYTRaS0ZQT2pPQkdnYjczQW5kdlFnbVZjQzEtYkpZQVNSMTE2dklGc2VkRloycmo?oc=5",
-      "snippet": "AI puts pressure on law firms’ billable hour model &nbsp;&nbsp; Wisconsin Law Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1hxVUExNmxkc200S2dTVHdJc29pSEFuRElXRENVWE5FVm9XeFdFQzN5NTlBeC1pRjNTUFlJa180MGRpa2FHZ3E2ZnRCWHpXT2RUX1A2VHdCeXRUQV9NcEdCTVh6OEFwT3JrYzIzTkUxVGo0UmZ0c3hqUnFSdFMzclhLS0JVUG1oQ1VfTWl5QnlCUUZ0YWlxTHg2b01pUDFwLUk3VWxqVkpYTTZ3ZFFJMXBNbjdWX3N2NGlhYl8xckxmVXE4OXByMW9EdmJ6NXVWeUFva1FZUjRXb1pRYkJxOW9sLXc3Ml9nNXNKNWR5R1Z4UEU?oc=5",
-      "type": "article",
-      "title": "New Guzmán law takes on private equity’s growing influence in health care - Illinois Senate Democratic Caucus",
-      "date": "2026-08-11",
-      "source": "Illinois Senate Democratic Caucus",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1hxVUExNmxkc200S2dTVHdJc29pSEFuRElXRENVWE5FVm9XeFdFQzN5NTlBeC1pRjNTUFlJa180MGRpa2FHZ3E2ZnRCWHpXT2RUX1A2VHdCeXRUQV9NcEdCTVh6OEFwT3JrYzIzTkUxVGo0UmZ0c3hqUnFSdFMzclhLS0JVUG1oQ1VfTWl5QnlCUUZ0YWlxTHg2b01pUDFwLUk3VWxqVkpYTTZ3ZFFJMXBNbjdWX3N2NGlhYl8xckxmVXE4OXByMW9EdmJ6NXVWeUFva1FZUjRXb1pRYkJxOW9sLXc3Ml9nNXNKNWR5R1Z4UEU?oc=5",
-      "snippet": "New Guzmán law takes on private equity’s growing influence in health care &nbsp;&nbsp; Illinois Senate Democratic Caucus"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1lQeU9vN19NeURhN29WblN5a01tcEVkTEtSTmZ5VVJPbXZfSWNUVzRWX1VlSU9vZVBnZFQ4LUtFQVVtRG1RTHBUdVhzV2VGVF80RVJieTU4cmFDN2RnLVBqTkZBWFozX09ad1ozVF9qd2tfSWxmaG1KSi1DRGFxWnFxZHlZUHRhUTBzSHlNRzdZRTNIZVlyQnRR0gFWQVVfeXFMUFJDQ05pUlJVcnpnanJqVHN0S3NIbmJxNmhBYU9hbmlOWnZhYTlxUkdpdzNwQzJhTDBIT3hhb25Ed3plREc1VVNaVUREUWhLRkw2YnZ0dHc?oc=5",
-      "type": "article",
-      "title": "Apollo Sports Capital Plugs $2.6B Into NY Yankees - Law360",
-      "date": "2026-08-11",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1lQeU9vN19NeURhN29WblN5a01tcEVkTEtSTmZ5VVJPbXZfSWNUVzRWX1VlSU9vZVBnZFQ4LUtFQVVtRG1RTHBUdVhzV2VGVF80RVJieTU4cmFDN2RnLVBqTkZBWFozX09ad1ozVF9qd2tfSWxmaG1KSi1DRGFxWnFxZHlZUHRhUTBzSHlNRzdZRTNIZVlyQnRR0gFWQVVfeXFMUFJDQ05pUlJVcnpnanJqVHN0S3NIbmJxNmhBYU9hbmlOWnZhYTlxUkdpdzNwQzJhTDBIT3hhb25Ed3plREc1VVNaVUREUWhLRkw2YnZ0dHc?oc=5",
-      "snippet": "Apollo Sports Capital Plugs $2.6B Into NY Yankees &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxPZC0xRXFiZWUwd3JPejZsT2haQ1gwQ3kwRXdmUVFTbEIxV2xSbUNZOUprRHJuZDVRVnY4emJmTEhqY0k0czVNN096QjRfUDZkY1c3QzhjSXJPMmJRaTdqNHh0clBMYWRTNFlwRUJMaXQxY0hlN3NiOUQxbnV1UjBEUkYwdXZDcWhIS0tOZXZ6cE16NWZ1UUZIS2VYTno0MmpvZkZfTEZ1XzlPQlpxbi1HUHFvV19XZ9IBuwFBVV95cUxQdGplRnNSRzFSbm5acFZyb0tzQkhGQzdyY3NqbmRrSF9STUpFUkxoRTVwSnR0a1ItNlFZN1BUQ0QwWXpvN1F2bkxWWW9KeVlVR1ZKblRnX2NyZHZGNjR4ZE9ET1NEQkMzQllOQ1RlS2lzLXc2eHBuYXNZUTM5aVZ2aXFRd1FSSDBwdGxwZUxJSmZVOGVYSFNFTmE1TGRYQXBpT1hnSEFyUmg5RU1oYklFWjJFM3A3b2g4aFFJ?oc=5",
-      "type": "article",
-      "title": "The New Playbook: Eight Key Takeaways on How and Why Institutional Investors Are Reshaping Professional Sports Ownership - The National Law Review",
-      "date": "2026-08-11",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZC0xRXFiZWUwd3JPejZsT2haQ1gwQ3kwRXdmUVFTbEIxV2xSbUNZOUprRHJuZDVRVnY4emJmTEhqY0k0czVNN096QjRfUDZkY1c3QzhjSXJPMmJRaTdqNHh0clBMYWRTNFlwRUJMaXQxY0hlN3NiOUQxbnV1UjBEUkYwdXZDcWhIS0tOZXZ6cE16NWZ1UUZIS2VYTno0MmpvZkZfTEZ1XzlPQlpxbi1HUHFvV19XZ9IBuwFBVV95cUxQdGplRnNSRzFSbm5acFZyb0tzQkhGQzdyY3NqbmRrSF9STUpFUkxoRTVwSnR0a1ItNlFZN1BUQ0QwWXpvN1F2bkxWWW9KeVlVR1ZKblRnX2NyZHZGNjR4ZE9ET1NEQkMzQllOQ1RlS2lzLXc2eHBuYXNZUTM5aVZ2aXFRd1FSSDBwdGxwZUxJSmZVOGVYSFNFTmE1TGRYQXBpT1hnSEFyUmg5RU1oYklFWjJFM3A3b2g4aFFJ?oc=5",
-      "snippet": "The New Playbook: Eight Key Takeaways on How and Why Institutional Investors Are Reshaping Professional Sports Ownership &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGVlWk1VbjJxODdDc0VwM3Q2NGJ6SkxKVE1zWDV3bF9TbTJxQ2lKOHdqYmZKRkZzWXN1NzJhV0hkMzRQUEdpSC1LU0oxYVJkVS1memVUWmItTWViX2QyREtfTmtza3dUVmJhdVU4ZEJvTEltWW1nSUZfVS1VQk1zUzg2Q0R4dWZlOWltd3NXT2dBYU5Jd2NKVUY4OVFIT0x1RmNkWTRnRQ?oc=5",
-      "type": "article",
-      "title": "Women In Leadership Cohort 5 - Syracuse University",
-      "date": "2026-08-11",
-      "source": "Syracuse University",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGVlWk1VbjJxODdDc0VwM3Q2NGJ6SkxKVE1zWDV3bF9TbTJxQ2lKOHdqYmZKRkZzWXN1NzJhV0hkMzRQUEdpSC1LU0oxYVJkVS1memVUWmItTWViX2QyREtfTmtza3dUVmJhdVU4ZEJvTEltWW1nSUZfVS1VQk1zUzg2Q0R4dWZlOWltd3NXT2dBYU5Jd2NKVUY4OVFIT0x1RmNkWTRnRQ?oc=5",
-      "snippet": "Women In Leadership Cohort 5 &nbsp;&nbsp; Syracuse University"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUQxRVdacEVWQnV4Wm0yN3psVmtpRmFKcUZlc20tbTRPSllRNy05Vlh3ZC1YTnhtMTUtU3MyVzdsMm04NDJiQ0xQZnZ6WF9RX0pVRENOUTBPa1Vic2s1Q3lPQWtwRTZqR3R6OFJMRF9EMWRzSmRDOF9PQm5iUzZjVg?oc=5",
-      "type": "article",
-      "title": "Netherlands - Franchise Laws and Regulations 2026 - ICLG",
-      "date": "2026-08-11",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUQxRVdacEVWQnV4Wm0yN3psVmtpRmFKcUZlc20tbTRPSllRNy05Vlh3ZC1YTnhtMTUtU3MyVzdsMm04NDJiQ0xQZnZ6WF9RX0pVRENOUTBPa1Vic2s1Q3lPQWtwRTZqR3R6OFJMRF9EMWRzSmRDOF9PQm5iUzZjVg?oc=5",
-      "snippet": "Netherlands - Franchise Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDRoQXFjTE1Id0dqUWo4V29PbUJGdnZtZlREZ2xpUHktLVIyNW9NdzAxTW44NnFzTVBUVnkyc2dQOGVvdVR2SjBFczhJdTZhNDZRQVh6TFZDdGNMQ0NXcHE0dmE2RGRRRERlU0E4TTFvbEh3c3RoaWJJb1lrekpKQzBBNHFDT2FGOHRfRk9iNEVJLVBtX2ZDWU5WdFNkR2hoeHJYT1NXWlhYZw?oc=5",
-      "type": "article",
-      "title": "Meet the Attorneys Behind Law Firm Private Equity-MSO Deals - Law.com",
-      "date": "2026-08-10",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDRoQXFjTE1Id0dqUWo4V29PbUJGdnZtZlREZ2xpUHktLVIyNW9NdzAxTW44NnFzTVBUVnkyc2dQOGVvdVR2SjBFczhJdTZhNDZRQVh6TFZDdGNMQ0NXcHE0dmE2RGRRRERlU0E4TTFvbEh3c3RoaWJJb1lrekpKQzBBNHFDT2FGOHRfRk9iNEVJLVBtX2ZDWU5WdFNkR2hoeHJYT1NXWlhYZw?oc=5",
-      "snippet": "Meet the Attorneys Behind Law Firm Private Equity-MSO Deals &nbsp;&nbsp; Law.com"
     }
   ]
 }
