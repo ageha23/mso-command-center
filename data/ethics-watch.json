@@ -1,8 +1,71 @@
 {
-  "lastRun": "2026-08-27T20:55:40.420036+00:00",
+  "lastRun": "2026-08-28T21:19:52.021154+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 18,
+  "addedThisRun": 10,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlBaNVBvaHNscjF1elk2T1NtRWFXeWNxMms3WmlidjJPTTBRZWxYbGpMd2M4bW95anBLdlhmSjZQZjl0UmNsZUhpTDFIV19ZcVlsSUZtLUFwbFJfdXhFVl96S3l5WU13TGdyY0FWbU9OTl81dzVBbkJWNGVvNlU3RWxYajN2b2NPcVhybXNPMzBFbjNpSDRyN2JWRVJNT1hXVDY0Q0RZSk5COXFrb3o0LTQtY2tIYTA?oc=5",
+      "type": "article",
+      "title": "Allied Health MSO Holdco, LLC Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Names and Social Security Numbers - Carroll County Mirror-Democrat",
+      "date": "2026-08-28",
+      "source": "Carroll County Mirror-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlBaNVBvaHNscjF1elk2T1NtRWFXeWNxMms3WmlidjJPTTBRZWxYbGpMd2M4bW95anBLdlhmSjZQZjl0UmNsZUhpTDFIV19ZcVlsSUZtLUFwbFJfdXhFVl96S3l5WU13TGdyY0FWbU9OTl81dzVBbkJWNGVvNlU3RWxYajN2b2NPcVhybXNPMzBFbjNpSDRyN2JWRVJNT1hXVDY0Q0RZSk5COXFrb3o0LTQtY2tIYTA?oc=5",
+      "snippet": "Allied Health MSO Holdco, LLC Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Names and Social Security Numbers &nbsp;&nbsp; Carroll County Mirror-Democrat"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWZmWlhycy1HQWNFOTF3bWp6T0g1QkZoZUNHNkgxbjdnMnd1bkM0T0VORHc2ZnM1TGp2SlFYWnc2R0Y0a0ZkQkFoc1J6NURoWmFDeUxnd1NkQW5tV2ZvbXFuV1oxM2RGWDRyTkJIeU1ZNmJRS0hTdm5VSmVRNFVJN0pCcw?oc=5",
+      "type": "article",
+      "title": "When the client backs your competitor - Non-Billable",
+      "date": "2026-08-28",
+      "source": "Non-Billable",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWZmWlhycy1HQWNFOTF3bWp6T0g1QkZoZUNHNkgxbjdnMnd1bkM0T0VORHc2ZnM1TGp2SlFYWnc2R0Y0a0ZkQkFoc1J6NURoWmFDeUxnd1NkQW5tV2ZvbXFuV1oxM2RGWDRyTkJIeU1ZNmJRS0hTdm5VSmVRNFVJN0pCcw?oc=5",
+      "snippet": "When the client backs your competitor &nbsp;&nbsp; Non-Billable"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiigJBVV95cUxNSnRGbV9fbkUtcEtXS2Q1SmVveFN3eFU3MHJPazYyOW9hZkh3aG85RW9KUmZmRVhnMFUyMEFZOFNYSURlZzFQU2pDd25tSVRaZE8tQmdxUG4zdGlxRVNhaV9pS3RBUTZyWmI2R2lDZTRlWmh0TlhmZFg0andCMzY5QnZIcUtjU3l4Z1hWU0MxTjJGREJiN3dJWFE3NVRMWkhEeDlDakgxR0dpR3FNUFRyRWEtdTFZaHpyMC1HUFBxS2R3NnRGdHZwZ0wtcW5EcXJUT0I1WEdRUkFrWk96UVh0Z01tY3BjQXhIRFdiSFJPV0RtRVd0Y0lrYzc1RFlha1dtZnFaQkt0dEstQdIBjwJBVV95cUxQeXhMZ0pCREk4Q1F2b2pTVC02T08zcExQVWRpcVVCR21vSFo2dVVXbkx1ZzdCVEZCdHV3NHp6VEJsNmF3YlZiR28xVzVzRWRxRjMwSnc4dFB1dWxIZVhOMUZIX2FETzdqRlZCaGhMdFczYXdpZnE2ZzNtZzZiZUhKQzBQRjNzVkcwSUV2alBaUTQwQ2JGTzMzS0s2NWZ5R0wyQnlMbm1aYkpwYzdPSGJJTWIzM1NKRmplSlZKb2ZRQW11Yl9Sam9PZ243aS16LXYxRXV6UGNDWTZQdWEyWVliajZGOXh3Y2dmeUVocTVvcEllMXhfZzc0MUVfNXQwenlESTI1SW1hbWJFeEZoTDFj?oc=5",
+      "type": "article",
+      "title": "Arvind Krishnamurthy Joins SEDA as a Private Credit, Specialty Finance and Alternative Investments Expert - The Manila Times",
+      "date": "2026-08-28",
+      "source": "The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSnRGbV9fbkUtcEtXS2Q1SmVveFN3eFU3MHJPazYyOW9hZkh3aG85RW9KUmZmRVhnMFUyMEFZOFNYSURlZzFQU2pDd25tSVRaZE8tQmdxUG4zdGlxRVNhaV9pS3RBUTZyWmI2R2lDZTRlWmh0TlhmZFg0andCMzY5QnZIcUtjU3l4Z1hWU0MxTjJGREJiN3dJWFE3NVRMWkhEeDlDakgxR0dpR3FNUFRyRWEtdTFZaHpyMC1HUFBxS2R3NnRGdHZwZ0wtcW5EcXJUT0I1WEdRUkFrWk96UVh0Z01tY3BjQXhIRFdiSFJPV0RtRVd0Y0lrYzc1RFlha1dtZnFaQkt0dEstQdIBjwJBVV95cUxQeXhMZ0pCREk4Q1F2b2pTVC02T08zcExQVWRpcVVCR21vSFo2dVVXbkx1ZzdCVEZCdHV3NHp6VEJsNmF3YlZiR28xVzVzRWRxRjMwSnc4dFB1dWxIZVhOMUZIX2FETzdqRlZCaGhMdFczYXdpZnE2ZzNtZzZiZUhKQzBQRjNzVkcwSUV2alBaUTQwQ2JGTzMzS0s2NWZ5R0wyQnlMbm1aYkpwYzdPSGJJTWIzM1NKRmplSlZKb2ZRQW11Yl9Sam9PZ243aS16LXYxRXV6UGNDWTZQdWEyWVliajZGOXh3Y2dmeUVocTVvcEllMXhfZzc0MUVfNXQwenlESTI1SW1hbWJFeEZoTDFj?oc=5",
+      "snippet": "Arvind Krishnamurthy Joins SEDA as a Private Credit, Specialty Finance and Alternative Investments Expert &nbsp;&nbsp; The Manila Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMifEFVX3lxTFBka0FEUzFBSU5SaHNSSXRkSDdhOTdtY0hISzFMbVNnVFpWZE5TeExQTnhnVDAwa3JCNkxXUExucWllSWJTQ3RTT2hYUEQ1TW1pSjJaX24xUC1FRTFJNjU5c3pRbkhjUzdCbVJnZ3Z4aVd6NVJTLUNqVHNPZ1I?oc=5",
+      "type": "article",
+      "title": "Retirement Industry People Moves - plansponsor",
+      "date": "2026-08-28",
+      "source": "plansponsor",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBka0FEUzFBSU5SaHNSSXRkSDdhOTdtY0hISzFMbVNnVFpWZE5TeExQTnhnVDAwa3JCNkxXUExucWllSWJTQ3RTT2hYUEQ1TW1pSjJaX24xUC1FRTFJNjU5c3pRbkhjUzdCbVJnZ3Z4aVd6NVJTLUNqVHNPZ1I?oc=5",
+      "snippet": "Retirement Industry People Moves &nbsp;&nbsp; plansponsor"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRFJwX1BNX09FTUV5T0lhd0ZZWG1Wd2ptZVlSLXNOQWhXZ0pjUTRsMWRJa3RQY1RHU2lEN2JsMjVYdXR5Y282aHlPTDJZTHV6VjBrNEI1Q0VmTXh1Zks5ellkdUNiN3Jhc1ZwVkxiVXN5ZXBKOWlhclp6ejQydHFqOWlTOG0tTVNKTUxjd2R2VFRMay1JZ0RoQ3FKMkxQVHl3SEh4WXZYMVFib0tIZnFRYUFMakw1SC1xUEtuOVBvV0NRWFJqeUl0dndJRDZlSVROTDBmZjJCeG44MW9KVmlYQ0o0NmVZY1B2Q1pMRTJXVG9RdVJobmc?oc=5",
+      "type": "article",
+      "title": "The Tourigny Law Firm LLC Expands Commercial Vehicle Practice - WBOC TV",
+      "date": "2026-08-28",
+      "source": "WBOC TV",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRFJwX1BNX09FTUV5T0lhd0ZZWG1Wd2ptZVlSLXNOQWhXZ0pjUTRsMWRJa3RQY1RHU2lEN2JsMjVYdXR5Y282aHlPTDJZTHV6VjBrNEI1Q0VmTXh1Zks5ellkdUNiN3Jhc1ZwVkxiVXN5ZXBKOWlhclp6ejQydHFqOWlTOG0tTVNKTUxjd2R2VFRMay1JZ0RoQ3FKMkxQVHl3SEh4WXZYMVFib0tIZnFRYUFMakw1SC1xUEtuOVBvV0NRWFJqeUl0dndJRDZlSVROTDBmZjJCeG44MW9KVmlYQ0o0NmVZY1B2Q1pMRTJXVG9RdVJobmc?oc=5",
+      "snippet": "The Tourigny Law Firm LLC Expands Commercial Vehicle Practice &nbsp;&nbsp; WBOC TV"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzctIBpAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzcg?oc=5",
+      "type": "article",
+      "title": "1 year or 3 years, we are asking the wrong question - Bar and Bench",
+      "date": "2026-08-28",
+      "source": "Bar and Bench",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzctIBpAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzcg?oc=5",
+      "snippet": "1 year or 3 years, we are asking the wrong question &nbsp;&nbsp; Bar and Bench"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTh0TUFqVnd6VVpOaC1Qa2VIcDhvOTlWaE1NVm52QW5Jd2t4a0Exa2tla1N4Q0w4eE4zVDFqQlBQUi1BUjdNZzlYVnRZVTFmUldiY3B5ejVKNmZTTnNiWk9wR1lJYWxKQkdiZkRURHZCdWtsb3k3YVBpdUVsU0MwZVRZamlxSUpnbl9TUzRXcXNhVGI0aVg5d3QtZ2dMcUVyWnVWYU9CMG40aG0xQ2ZB?oc=5",
+      "type": "article",
+      "title": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale - Bloomberg Law News",
+      "date": "2026-08-28",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTh0TUFqVnd6VVpOaC1Qa2VIcDhvOTlWaE1NVm52QW5Jd2t4a0Exa2tla1N4Q0w4eE4zVDFqQlBQUi1BUjdNZzlYVnRZVTFmUldiY3B5ejVKNmZTTnNiWk9wR1lJYWxKQkdiZkRURHZCdWtsb3k3YVBpdUVsU0MwZVRZamlxSUpnbl9TUzRXcXNhVGI0aVg5d3QtZ2dMcUVyWnVWYU9CMG40aG0xQ2ZB?oc=5",
+      "snippet": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale &nbsp;&nbsp; Bloomberg Law News"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWRNTmdFa2c2dEdFaXdxTndVdU5WZ0NFNmNSYlp3SU9mQVVQVlhOX0FZQXlXcGRQYlBTUzNPQXFQYmQzMnEwc0tETlViWTMyc0p5dVVnQXU3WkVvYXc5WkM5ZWtpRmNUZUJLQ2ZmQS01ZzZQbXJtQVBPVTBjaE9NM3lWQ3pJMTZheGx3dmtrSEZ2cENYUnNDT25qZlY5YzhzLTNDTWd6bXVMVFNxcWxranhnWjlfVFE2ZVhoQk1ES3NTTUpiVV9vZmJzb1I0a2M?oc=5",
       "type": "article",
@@ -74,6 +137,15 @@
       "source": "Medical Economics",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUVPdXpnai1xZjlqbEQzeVpNcElaemRjRlNFSzhGeF9YU1JZYU9RTHQtYzc4RjNzZlgxRnBxbnU0RE5wc01YN1ozT0J1RUhzVjlnVWU4c005OWhzel9mamF6bjJveWYtN056WjlkRUN4OWgwMkJDRmpCRkdiRWFYUWVxRy00Z3FrLURLRVJBc0lZYXRSQkNYS1NhTmZ2c1U0MXBrWlpNTWFYSERrRE9QU2ZmU184S2N0UDlibDFwX25KQTVndWdTZ3k1UFVJaWJpMEl5a1JTdFNOYk5oZ2tR?oc=5",
       "snippet": "Why private equity can own a hospital and a physician can't, with Gary Price, M.D., of The Physicians Foundation &nbsp;&nbsp; Medical Economics"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZnBZcV81ZGFLNXRiY1phU1I3VHZVdjRYalhhX1VKWkU2Nnk5Ymw4ZFBJVHN4TkpmNTFmZnMyWklwdHc0cnVUMVd3alZxekpQVEpzdUV6eDdOVEZFVWxpNkFfNGVYa1ZXVUYzUzZDdFpuMVZTTm9ISzZ5bVQzMVl6a2RwQ0tWSDFEeC1Nc1B0Z1pDT3dhVkFfRlI4Qy1Na2UteXEzSXp0VlkzSlVkcndwSDlETzVGY2k5UkNlSDNBaklrazVGWnRMdzR2d2UtREVpM2lv?oc=5",
+      "type": "article",
+      "title": "More States Look to Regulate MSOs, Outside Investment as PE Continues to Eye Legal Industry - Law.com",
+      "date": "2026-08-27",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZnBZcV81ZGFLNXRiY1phU1I3VHZVdjRYalhhX1VKWkU2Nnk5Ymw4ZFBJVHN4TkpmNTFmZnMyWklwdHc0cnVUMVd3alZxekpQVEpzdUV6eDdOVEZFVWxpNkFfNGVYa1ZXVUYzUzZDdFpuMVZTTm9ISzZ5bVQzMVl6a2RwQ0tWSDFEeC1Nc1B0Z1pDT3dhVkFfRlI4Qy1Na2UteXEzSXp0VlkzSlVkcndwSDlETzVGY2k5UkNlSDNBaklrazVGWnRMdzR2d2UtREVpM2lv?oc=5",
+      "snippet": "More States Look to Regulate MSOs, Outside Investment as PE Continues to Eye Legal Industry &nbsp;&nbsp; Law.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3phS1JDdFdLRC1QQmlSNFQyamJ3TUlyVm9yb3BlZ0hkNG5UUmpYNDNwNXBaczR2LXV1bk1NazY5Ung0dG54OTNuMGhYNFgtc04xR2JyczlBaW01N2lpMkYyOFNDM2NEMVJmS2hfNU5DVVVFd0laWkE0Qk9ZQmlsNF8tQ3lGdlhDaTl4cllEa2JSb05DQ3U5elVkOXlkTUE3UDNXZFpqbmlrNXZyTXkxNGtNaGdDd2ZxcURvejd5bEZJUUJDWDFyQ3pxUGdsWEpTWENBb0xoUzRTYWhPQ21WaA?oc=5",
@@ -164,6 +236,24 @@
       "source": "Business Wire",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORm53aTAwc2NNUTIxREtmZzNNeFVFM2xFbjg1ZHNFNDJKVEhtRjdVMk5BMVRUaDV4eUxSVjdmLW81TS1fYm42cEJRalJVRXlCdGFyd0hvQ0F2U0doQ1IzQ0EtVTBOLVVLdjV1SEhVMWxUSVNLRUlWaWphSFF6YllsWUVQWVRhWHlwVnJWZHFFajBZOFJnOFRNMzZUOWE2VU9ReDNFdDBuMzBwYnRuMFF2dlQ3RTYweWlNbVVOaUd6ZWhTWnA1dzdCLVJtSHdRaTh6SVNUa1c2d05EMVpCbUJSSmxtOGswaV90clpkZXh2RU1uTHh1cXlWclkwdVp5LTZVUW5r?oc=5",
       "snippet": "Law Offices of Frank R. Cruz Encourages Aevex Corp. (AVEX) Shareholders to Inquire About Securities Fraud Class Action &nbsp;&nbsp; Business Wire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wb011dTJpRHB5bGt1VFFOVDBUb09TM01mekwwNjZwSTdMSmp1aXhsWkFYQVVJYUJSeHVmTWE1cnplSUttUjQ2cTZvR2RwcW9BelE?oc=5",
+      "type": "article",
+      "title": "Bluesky | History, Social Media, Jack Dorsey, & Features - Britannica",
+      "date": "2026-08-26",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wb011dTJpRHB5bGt1VFFOVDBUb09TM01mekwwNjZwSTdMSmp1aXhsWkFYQVVJYUJSeHVmTWE1cnplSUttUjQ2cTZvR2RwcW9BelE?oc=5",
+      "snippet": "Bluesky | History, Social Media, Jack Dorsey, & Features &nbsp;&nbsp; Britannica"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxOM3pKMDM4ZVJ2N3ltM1FfX2dtdTJNZmdMUmNJd1ZrZUphNEMxMnM3cmdfVmpyYWNIeXQtSkZaRWpoNThFWnZXc1d5amtoM2oyOXVVZXZCRGZWR2tNSzlXZDYyZGJPenpXLVNuS3B6Sm1aNmVsTzl2eHR3T2NWNld3bDdB?oc=5",
+      "type": "article",
+      "title": "Report: Private equity firm Arctos buying 10% of Falcons - AOL.ca",
+      "date": "2026-08-26",
+      "source": "AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM3pKMDM4ZVJ2N3ltM1FfX2dtdTJNZmdMUmNJd1ZrZUphNEMxMnM3cmdfVmpyYWNIeXQtSkZaRWpoNThFWnZXc1d5amtoM2oyOXVVZXZCRGZWR2tNSzlXZDYyZGJPenpXLVNuS3B6Sm1aNmVsTzl2eHR3T2NWNld3bDdB?oc=5",
+      "snippet": "Report: Private equity firm Arctos buying 10% of Falcons &nbsp;&nbsp; AOL.ca"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0JNVldya1dMSk5YaEpBUU5zb25uME5fdFh0cE9pODJBS002U1dFS0JqZFZHRjNaY3pYOEc4OWFtdGo0QVFLbUdTT1lFaUg3ekxIWURrb0k3TnBqOTV4SVlmcGc0dmlpaFRqc0JnWmxrdFdFcFhZWnFSdjk0Q0VCbFFBdkF3T3dtVndVQTdZS1pmLTlPQVpVVjJhbVVScmo5Vnk5ZmJ2cVdCenVpa3VjRkpjRDhUOEFFQkNMdVhDVQ?oc=5",
@@ -1262,96 +1352,6 @@
       "source": "TradingKey",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tYlJ1alpKYVFuQk54NUdheV93THJDUVc0eXI5THM3X29WcllfazlMMUZDMWdTZHpraHhjaG5CaWZWcFRJM1pWSE5TQkFZR0xZNnNadEFqZE8xRVFMQkZWSFc1bUFjOXI3QTZSUmwzQWdLQQ?oc=5",
       "snippet": "MDB Capital Holdings (MDBH) Q2 2026 Earnings Call: Leaner Costs and Core Asset Focus &nbsp;&nbsp; TradingKey"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDZmWnN2cnN6anZXRXFFQTluQk5YWmdrb3lKZU9OWDFjSHdFOXRCWUhlY2ZBQ1hiQ05SaFRoYno0c1NPeno5d1BfUFRpTWdOTWRRd3FZYWh3QkdMNEFPOGtnQ0ZuYnlkS0IxTE5CTGRaYzA4N0cweXZUVU53NGV1cTlJN0VWb3pnZ0JjNVBGRlNDcEJoei1LSE41MkNTYXA5RG50bVEtd3VQcnN5d3YyY080X3o2X1k5dUU5UVVlQUpmNEFiT1VNYVRhaWk?oc=5",
-      "type": "article",
-      "title": "DOJ’s First Decision Not to Prosecute Healthcare Company Under New Policy Carries Lessons - Law.com",
-      "date": "2026-08-14",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDZmWnN2cnN6anZXRXFFQTluQk5YWmdrb3lKZU9OWDFjSHdFOXRCWUhlY2ZBQ1hiQ05SaFRoYno0c1NPeno5d1BfUFRpTWdOTWRRd3FZYWh3QkdMNEFPOGtnQ0ZuYnlkS0IxTE5CTGRaYzA4N0cweXZUVU53NGV1cTlJN0VWb3pnZ0JjNVBGRlNDcEJoei1LSE41MkNTYXA5RG50bVEtd3VQcnN5d3YyY080X3o2X1k5dUU5UVVlQUpmNEFiT1VNYVRhaWk?oc=5",
-      "snippet": "DOJ’s First Decision Not to Prosecute Healthcare Company Under New Policy Carries Lessons &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHdrOWhSSjFFRUh0dFc3akJ1SWx4c1JXSDBwb19nbmZEb3BpZFZ1dWFNSlVnNERmaUdHanlZZFZjY1JXR2JBZ25tTlV2SUNIZmQ1VkRIVDY2ZERrQldFQS1BTnRub2VyZnFPS2pZZTB2R1k0STBwZ3JxekNVMnhrdnZwZEd2RTJ1REc4ZWVONGVBUnZFNXNjQjU1Q2pTTS1FSm5jSG8yV25wMDFsS1I0QnRIUjdmY19oNW04TC1oX1lxb3JFOWR4OXl3RkNQTEY3Q25CQWFOcw?oc=5",
-      "type": "article",
-      "title": "Bogus Trump Administration ‘Report’ Launders Reheated Anti-Trans Rhetoric to Attack Transition Medical Care - HRC | Human Rights Campaign",
-      "date": "2026-08-14",
-      "source": "HRC | Human Rights Campaign",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHdrOWhSSjFFRUh0dFc3akJ1SWx4c1JXSDBwb19nbmZEb3BpZFZ1dWFNSlVnNERmaUdHanlZZFZjY1JXR2JBZ25tTlV2SUNIZmQ1VkRIVDY2ZERrQldFQS1BTnRub2VyZnFPS2pZZTB2R1k0STBwZ3JxekNVMnhrdnZwZEd2RTJ1REc4ZWVONGVBUnZFNXNjQjU1Q2pTTS1FSm5jSG8yV25wMDFsS1I0QnRIUjdmY19oNW04TC1oX1lxb3JFOWR4OXl3RkNQTEY3Q25CQWFOcw?oc=5",
-      "snippet": "Bogus Trump Administration ‘Report’ Launders Reheated Anti-Trans Rhetoric to Attack Transition Medical Care &nbsp;&nbsp; HRC | Human Rights Campaign"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlo4d0NpOVltSDJtTDdFMFlhZmZPVDk3ZjJrWWlneE1VTGJSb2VUWG5ENUhHVHR0VnY0cjhxZG5LQXRaWUNIODk3S1dkaE9YanoyekJEY09OZHh6OVVfZHhMdXdfZXhmeFBrV2ZnZldCQ0xqYWRaNHRhOVlXaTdpQnpNTWY2U3hNVmo3aVJsUWxIS1F6anFUdFNvY0dtODRJdEt4VS1PVV81dmVHMk9N0gGvAUFVX3lxTFA2Wjh3Q2k5WW1IMm1MN0UwWWFmZk9UOTdmMmtZaWd4TVVMYlJvZVRYbkQ1SEdUdHRWdjRyOHFkbktBdFpZQ0g4OTdLV2RoT1hqejJ6QkRjT05keHo5VV9keEx1d19leGZ4UGtXZmdmV0JDTGphZFo0dGE5WVdpN2lCek1NZjZTeE1WajdpUmxRbEhLUXpqcVR0U29jR204NEl0S3hVLU9VXzV2ZUcyT00?oc=5",
-      "type": "article",
-      "title": "Workday: Silver Lake Reportedly In Acquisition Talks For Potential Mega Software Buyout - Pulse 2.0",
-      "date": "2026-08-14",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlo4d0NpOVltSDJtTDdFMFlhZmZPVDk3ZjJrWWlneE1VTGJSb2VUWG5ENUhHVHR0VnY0cjhxZG5LQXRaWUNIODk3S1dkaE9YanoyekJEY09OZHh6OVVfZHhMdXdfZXhmeFBrV2ZnZldCQ0xqYWRaNHRhOVlXaTdpQnpNTWY2U3hNVmo3aVJsUWxIS1F6anFUdFNvY0dtODRJdEt4VS1PVV81dmVHMk9N0gGvAUFVX3lxTFA2Wjh3Q2k5WW1IMm1MN0UwWWFmZk9UOTdmMmtZaWd4TVVMYlJvZVRYbkQ1SEdUdHRWdjRyOHFkbktBdFpZQ0g4OTdLV2RoT1hqejJ6QkRjT05keHo5VV9keEx1d19leGZ4UGtXZmdmV0JDTGphZFo0dGE5WVdpN2lCek1NZjZTeE1WajdpUmxRbEhLUXpqcVR0U29jR204NEl0S3hVLU9VXzV2ZUcyT00?oc=5",
-      "snippet": "Workday: Silver Lake Reportedly In Acquisition Talks For Potential Mega Software Buyout &nbsp;&nbsp; Pulse 2.0"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWGhocWR2Z2FSU0tmbHJuUjItWDhIQldjU0lNeDVjTGlvdmdVNWFuOEs4Ml81NkFXbFRwNlVKYnlXT3hsaHcwSXg0eUVEVmRLaUNNR2phSkF6ZmMwbkwwNUg4N1VqVzB1Rm1GeklJNEFRQTFxUVRIbWwwd1dDeVZ4RmJTU0hLVVFtamV5NE40WTZTczZVMUE2MHRTeFQtM1d5RHR3WEl1NFJKWTZxLTEtSTNCellUWlhkT3BaUk42LXEyaTczbU9zdGxHYjJDcjhkWFlqeElVTzUzMENwQmhFMG9XZkzSAeQBQVVfeXFMT1hoaHFkdmdhUlNLZmxyblIyLVg4SEJXY1NJTXg1Y0xpb3ZnVTVhbjhLODJfNTZBV2xUcDZVSmJ5V094bGh3MEl4NHlFRFZkS2lDTUdqYUpBemZjMG5MMDVIODdValcwdUZtRnpJSTRBUUExcVFUSG1sMHdXQ3lWeEZiU1NIS1VRbWpleTRONFk2U3M2VTFBNjB0U3hULTNXeUR0d1hJdTRSSlk2cS0xLUkzQnpZVFpYZE9wWlJONi1xMmk3M21Pc3RsR2IyQ3I4ZFhZanhJVU81MzBDcEJoRTBvV2ZM?oc=5",
-      "type": "article",
-      "title": "NITI Aayog suggests allowing multi-disciplinary law firms, easing advertising rules - The Tribune",
-      "date": "2026-08-14",
-      "source": "The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWGhocWR2Z2FSU0tmbHJuUjItWDhIQldjU0lNeDVjTGlvdmdVNWFuOEs4Ml81NkFXbFRwNlVKYnlXT3hsaHcwSXg0eUVEVmRLaUNNR2phSkF6ZmMwbkwwNUg4N1VqVzB1Rm1GeklJNEFRQTFxUVRIbWwwd1dDeVZ4RmJTU0hLVVFtamV5NE40WTZTczZVMUE2MHRTeFQtM1d5RHR3WEl1NFJKWTZxLTEtSTNCellUWlhkT3BaUk42LXEyaTczbU9zdGxHYjJDcjhkWFlqeElVTzUzMENwQmhFMG9XZkzSAeQBQVVfeXFMT1hoaHFkdmdhUlNLZmxyblIyLVg4SEJXY1NJTXg1Y0xpb3ZnVTVhbjhLODJfNTZBV2xUcDZVSmJ5V094bGh3MEl4NHlFRFZkS2lDTUdqYUpBemZjMG5MMDVIODdValcwdUZtRnpJSTRBUUExcVFUSG1sMHdXQ3lWeEZiU1NIS1VRbWpleTRONFk2U3M2VTFBNjB0U3hULTNXeUR0d1hJdTRSSlk2cS0xLUkzQnpZVFpYZE9wWlJONi1xMmk3M21Pc3RsR2IyQ3I4ZFhZanhJVU81MzBDcEJoRTBvV2ZM?oc=5",
-      "snippet": "NITI Aayog suggests allowing multi-disciplinary law firms, easing advertising rules &nbsp;&nbsp; The Tribune"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWJPSFN0ZndwZFpWTjJvemhZX3JRQVd0YlpPYTlBYmZyUENrN09iN3R5Q3dwbk9ya2pVT3hQU2JlRURoNFhsT2pzeFlnYVB4RUVFWWlVOHpPd1pacEw4ZkZLTzhZaEdnWVVNVnFhcjVFODhVZVlDRV9NSEFwb09qNVd2SnlrVTU5SFR2MS1KaDZGbmhtR2NhUm1xNlBFSzg2enQtbnNuZVRnWHZxYW5Jd2JTVmZRU2xuTnl5QlFaZUxHYzE4bjIwZXZkMnlGdDlRTG1yTDJTbXFaWXJ0TzAwelRhbkk?oc=5",
-      "type": "article",
-      "title": "Digital Systems and Their Effect on Local PA Businesses - Tri-County Independent",
-      "date": "2026-08-14",
-      "source": "Tri-County Independent",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWJPSFN0ZndwZFpWTjJvemhZX3JRQVd0YlpPYTlBYmZyUENrN09iN3R5Q3dwbk9ya2pVT3hQU2JlRURoNFhsT2pzeFlnYVB4RUVFWWlVOHpPd1pacEw4ZkZLTzhZaEdnWVVNVnFhcjVFODhVZVlDRV9NSEFwb09qNVd2SnlrVTU5SFR2MS1KaDZGbmhtR2NhUm1xNlBFSzg2enQtbnNuZVRnWHZxYW5Jd2JTVmZRU2xuTnl5QlFaZUxHYzE4bjIwZXZkMnlGdDlRTG1yTDJTbXFaWXJ0TzAwelRhbkk?oc=5",
-      "snippet": "Digital Systems and Their Effect on Local PA Businesses &nbsp;&nbsp; Tri-County Independent"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
-      "type": "article",
-      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions - Just Security",
-      "date": "2026-08-14",
-      "source": "Just Security",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
-      "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxORmlqTFVEQjZMbkE1cGtmRmZWX2hRdGpvTFNXQUpDNGc5czFtY1k4R1NPOFIxdUNDa2pqZFRaanZGVjgzLXM4Y3FuN3lDQUk3SXRuT0FMMkd3d1JtbDZUUDV0andIS1phZktUV1h6MGpSdFozbTFjNEJ6X0tzczEwaWp5SjFqOHUweDlIdnRNS2VpNE1lcUFfbVNtTE1DYUh4VmhiNUl3enhPbW5HZVUxTnNHLXQ0UkMtMUFQay00S2ItTHVWa3hXTEFR0gHKAUFVX3lxTE5GaWpMVURCNkxuQTVwa2ZGZlZfaFF0am9MU1dBSkM0ZzlzMW1jWThHU084UjF1Q0NrampkVFpqdkZWODMtczhjcW43eUNBSTdJdG5PQUwyR3d3Um1sNlRQNXRqd0hLWmFmS1RXWHowalJ0WjNtMWM0QnpfS3NzMTBpanlKMWo4dTB4OUh2dE1LZWk0TWVxQV9tU21MTUNhSHhWaGI1SXd6eE9tbkdlVTFOc0ctdDRSQy0xQVBrLTRLYi1MdVZreFdMQVE?oc=5",
-      "type": "article",
-      "title": "CardVault By Tom Brady Adds JAY-Z, Aaron Judge, Connor McDavid And Top Investors To Fuel 100-Store Expansion - Pulse 2.0",
-      "date": "2026-08-14",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmlqTFVEQjZMbkE1cGtmRmZWX2hRdGpvTFNXQUpDNGc5czFtY1k4R1NPOFIxdUNDa2pqZFRaanZGVjgzLXM4Y3FuN3lDQUk3SXRuT0FMMkd3d1JtbDZUUDV0andIS1phZktUV1h6MGpSdFozbTFjNEJ6X0tzczEwaWp5SjFqOHUweDlIdnRNS2VpNE1lcUFfbVNtTE1DYUh4VmhiNUl3enhPbW5HZVUxTnNHLXQ0UkMtMUFQay00S2ItTHVWa3hXTEFR0gHKAUFVX3lxTE5GaWpMVURCNkxuQTVwa2ZGZlZfaFF0am9MU1dBSkM0ZzlzMW1jWThHU084UjF1Q0NrampkVFpqdkZWODMtczhjcW43eUNBSTdJdG5PQUwyR3d3Um1sNlRQNXRqd0hLWmFmS1RXWHowalJ0WjNtMWM0QnpfS3NzMTBpanlKMWo4dTB4OUh2dE1LZWk0TWVxQV9tU21MTUNhSHhWaGI1SXd6eE9tbkdlVTFOc0ctdDRSQy0xQVBrLTRLYi1MdVZreFdMQVE?oc=5",
-      "snippet": "CardVault By Tom Brady Adds JAY-Z, Aaron Judge, Connor McDavid And Top Investors To Fuel 100-Store Expansion &nbsp;&nbsp; Pulse 2.0"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEhaLWtyLWpyY1EyTW1OMFlpMGNkRkVKRmd3cWFfNXJHZDFPNjRJMUpQV2c3aEp4MDd1ZXdTYjl2Uk5FNFlwME0yNERzcmljYURQNHVsNk5NUjBuOWtaTFk5WEl3UWhyUHl2M2hLeGJ6QXVTbjVFNk54a0NSSTk4azhXNzJvbENFNHlLQjRSZy1vdkhEd2syS3NMVXNsMVUybXRlcEV5UEhmUzBIZEw0S0N4dndvd0hoVkwySG5oNGxYeDNuc0tLUHBzUnIwOVZLcVhZWmY4OA?oc=5",
-      "type": "article",
-      "title": "KATRIBU and Ayta from Pampanga protest outside the National Commission on Indigenous Peoples (NCIP) Central Office in Quezon City on Friday, August 14, 2026, opposing destructive mining and energy projects, alleged intensified human rights violations - facebook.com",
-      "date": "2026-08-14",
-      "source": "facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEhaLWtyLWpyY1EyTW1OMFlpMGNkRkVKRmd3cWFfNXJHZDFPNjRJMUpQV2c3aEp4MDd1ZXdTYjl2Uk5FNFlwME0yNERzcmljYURQNHVsNk5NUjBuOWtaTFk5WEl3UWhyUHl2M2hLeGJ6QXVTbjVFNk54a0NSSTk4azhXNzJvbENFNHlLQjRSZy1vdkhEd2syS3NMVXNsMVUybXRlcEV5UEhmUzBIZEw0S0N4dndvd0hoVkwySG5oNGxYeDNuc0tLUHBzUnIwOVZLcVhZWmY4OA?oc=5",
-      "snippet": "KATRIBU and Ayta from Pampanga protest outside the National Commission on Indigenous Peoples (NCIP) Central Office in Quezon City on Friday, August 14, 2026, opposing destructive mining and energy projects, alleged intensified human rights violations &nbsp;&nbsp; facebook.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMidkFVX3lxTE9VblBHU1FScDc4Q2VIMDRqUmhWbmk5ZVdpaU8xQ0xSMWF1dXFRU1UxdTdKZ0RuZ09ZM3E0UG1RYUFQc09rSWdwWHZJNlBDbDZ2dGpPNDFMV3h1ekhvMVBobHZ1RXpNLVkwaUJDdEZIUzlsU1o2cEE?oc=5",
-      "type": "article",
-      "title": "It’s ‘Follow the PE Leader’ in Big Law - Law.com",
-      "date": "2026-08-13",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VblBHU1FScDc4Q2VIMDRqUmhWbmk5ZVdpaU8xQ0xSMWF1dXFRU1UxdTdKZ0RuZ09ZM3E0UG1RYUFQc09rSWdwWHZJNlBDbDZ2dGpPNDFMV3h1ekhvMVBobHZ1RXpNLVkwaUJDdEZIUzlsU1o2cEE?oc=5",
-      "snippet": "It’s ‘Follow the PE Leader’ in Big Law &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjBacHR6alVCWjdEYlZ4alAta1dkTWlDaEJwMVNoMVlxWjE0dWlET0kybFZJbWpnZXNxTXNJQkFJMW8tRmFzSUg1Z0VFaFI5SWh2N3A2VW80Nm1CSTRIV0hoMEdjYnUtekhoUGVUZUxrZ2EyMXVHdVB0dDBaSHRtaU1fMGEyemtQQ0RBS2JTM2lnLW41OXVQOUlQTkRQR1FUa2xjamRjaXdBa1E?oc=5",
-      "type": "article",
-      "title": "US Supreme Court case tests fees for immigration detainees - Reuters",
-      "date": "2026-08-13",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjBacHR6alVCWjdEYlZ4alAta1dkTWlDaEJwMVNoMVlxWjE0dWlET0kybFZJbWpnZXNxTXNJQkFJMW8tRmFzSUg1Z0VFaFI5SWh2N3A2VW80Nm1CSTRIV0hoMEdjYnUtekhoUGVUZUxrZ2EyMXVHdVB0dDBaSHRtaU1fMGEyemtQQ0RBS2JTM2lnLW41OXVQOUlQTkRQR1FUa2xjamRjaXdBa1E?oc=5",
-      "snippet": "US Supreme Court case tests fees for immigration detainees &nbsp;&nbsp; Reuters"
     }
   ]
 }
