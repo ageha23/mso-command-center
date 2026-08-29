@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-08-28T21:19:52.021154+00:00",
+  "lastRun": "2026-08-29T15:32:06.888353+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 10,
+  "addedThisRun": 8,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGUzLUp5ZlN5NDFrQ1dUY2lBODFFcWhUdXpSZVRQQUxUM3pndjBTSjVxWURpTDYzeUxmbHlJQXR0TGpRLXZBejNmNzlTQWRWSEV5dW1aM21JNWgwR19HcDBKdnFLSnZEYXlMdktSU1FWYjhlTnduaHk0bDVSQkZYOElzSENwTHVvTkRpNVlhQW4zTElRQ0Q5aDd2a1RzTFYwOEtYOHJxaC1DU1lRLU5QWmZPa2s3M0NvTjFvcVVuM19fQQ?oc=5",
+      "type": "article",
+      "title": "It's Your Business has Scott A. Paxton, Larry Bork and Susan L. Mauch - The Topeka Capital-Journal",
+      "date": "2026-08-29",
+      "source": "The Topeka Capital-Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGUzLUp5ZlN5NDFrQ1dUY2lBODFFcWhUdXpSZVRQQUxUM3pndjBTSjVxWURpTDYzeUxmbHlJQXR0TGpRLXZBejNmNzlTQWRWSEV5dW1aM21JNWgwR19HcDBKdnFLSnZEYXlMdktSU1FWYjhlTnduaHk0bDVSQkZYOElzSENwTHVvTkRpNVlhQW4zTElRQ0Q5aDd2a1RzTFYwOEtYOHJxaC1DU1lRLU5QWmZPa2s3M0NvTjFvcVVuM19fQQ?oc=5",
+      "snippet": "It's Your Business has Scott A. Paxton, Larry Bork and Susan L. Mauch &nbsp;&nbsp; The Topeka Capital-Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxOa184eDJORHotV2phY25pNmtqVUtxTm1rNnBSYWkxbTVLTHRQaHdhZHdFRjJEbHJZbWtiU0Y0VUhWa3M3WF8tTEMwR2QtOHNMQXFjLXFvYVpUb2djbGpsNnNNLWgxM0JsWU5ESkRNUGtCdmNCRE9TbUxXQTl6QlE1QUdQUzQtV1RBX3dWYTgtX0pHa3p4WlRFSlpidTNFUDJVS1VGQXE3N2RHZmRKM0hlU0g2MTdINXRtV1NlSFp6MDJOaG00Qy1LTWpyQjRYRlU?oc=5",
+      "type": "article",
+      "title": "Gov. Braun or AG Rokita Must Correct Indiana’s Past Use of General-Flynn-Style Perjury Traps – How IN Prosecutor Aaron Johnson Manufactured Fake Legal Ethics Case to Suspend an Indiana Judge - Hoosier Enquirer",
+      "date": "2026-08-29",
+      "source": "Hoosier Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa184eDJORHotV2phY25pNmtqVUtxTm1rNnBSYWkxbTVLTHRQaHdhZHdFRjJEbHJZbWtiU0Y0VUhWa3M3WF8tTEMwR2QtOHNMQXFjLXFvYVpUb2djbGpsNnNNLWgxM0JsWU5ESkRNUGtCdmNCRE9TbUxXQTl6QlE1QUdQUzQtV1RBX3dWYTgtX0pHa3p4WlRFSlpidTNFUDJVS1VGQXE3N2RHZmRKM0hlU0g2MTdINXRtV1NlSFp6MDJOaG00Qy1LTWpyQjRYRlU?oc=5",
+      "snippet": "Gov. Braun or AG Rokita Must Correct Indiana’s Past Use of General-Flynn-Style Perjury Traps – How IN Prosecutor Aaron Johnson Manufactured Fake Legal Ethics Case to Suspend an Indiana Judge &nbsp;&nbsp; Hoosier Enquirer"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlBaNVBvaHNscjF1elk2T1NtRWFXeWNxMms3WmlidjJPTTBRZWxYbGpMd2M4bW95anBLdlhmSjZQZjl0UmNsZUhpTDFIV19ZcVlsSUZtLUFwbFJfdXhFVl96S3l5WU13TGdyY0FWbU9OTl81dzVBbkJWNGVvNlU3RWxYajN2b2NPcVhybXNPMzBFbjNpSDRyN2JWRVJNT1hXVDY0Q0RZSk5COXFrb3o0LTQtY2tIYTA?oc=5",
       "type": "article",
@@ -65,6 +83,42 @@
       "source": "Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTh0TUFqVnd6VVpOaC1Qa2VIcDhvOTlWaE1NVm52QW5Jd2t4a0Exa2tla1N4Q0w4eE4zVDFqQlBQUi1BUjdNZzlYVnRZVTFmUldiY3B5ejVKNmZTTnNiWk9wR1lJYWxKQkdiZkRURHZCdWtsb3k3YVBpdUVsU0MwZVRZamlxSUpnbl9TUzRXcXNhVGI0aVg5d3QtZ2dMcUVyWnVWYU9CMG40aG0xQ2ZB?oc=5",
       "snippet": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
+      "type": "article",
+      "title": "Maryland sues Optum over 'defective' computer system - Fierce Healthcare",
+      "date": "2026-08-28",
+      "source": "Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
+      "snippet": "Maryland sues Optum over 'defective' computer system &nbsp;&nbsp; Fierce Healthcare"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiTkFVX3lxTE02V0xlSlRqZDhzODFya0IzWi1ILUhnWHVBU1ljTm9COHBPLUMyOGdXZkhrakJuSDNSQmlWNUNOM1ZySHVLZU5Tb0x1SEpVZw?oc=5",
+      "type": "article",
+      "title": "Retirement Industry People Moves – 8/28/2026 - planadviser",
+      "date": "2026-08-28",
+      "source": "planadviser",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02V0xlSlRqZDhzODFya0IzWi1ILUhnWHVBU1ljTm9COHBPLUMyOGdXZkhrakJuSDNSQmlWNUNOM1ZySHVLZU5Tb0x1SEpVZw?oc=5",
+      "snippet": "Retirement Industry People Moves – 8/28/2026 &nbsp;&nbsp; planadviser"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWw4UVFEVEVCZk1wQVZPd3pCM0cyN3JaZDJlVlVqYkhtUnNQalRmRXN2RnlheFJ0RGhlWWtDU1ZMenVSVE81Q3VVZDR2VGcxRHl0V2dOcUtVbjByOFB0THJzWkhXNGk2aEF1TnRTUkotcHZ1b3dXS2lLdl9ia09kUFNpM0FfN0xaNVRKcDJwTDE5WDV4aEZpRF9Bdjdza3dHaF9GcWI4RHdnanVpRzhjSGF6WTk0V3FXdWxiV1ZjXzBSTVp0d19nc05n?oc=5",
+      "type": "article",
+      "title": "The environmental view of seller and buyer’s duties in a ship sale contract under English law - Hellenic Shipping News",
+      "date": "2026-08-28",
+      "source": "Hellenic Shipping News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWw4UVFEVEVCZk1wQVZPd3pCM0cyN3JaZDJlVlVqYkhtUnNQalRmRXN2RnlheFJ0RGhlWWtDU1ZMenVSVE81Q3VVZDR2VGcxRHl0V2dOcUtVbjByOFB0THJzWkhXNGk2aEF1TnRTUkotcHZ1b3dXS2lLdl9ia09kUFNpM0FfN0xaNVRKcDJwTDE5WDV4aEZpRF9Bdjdza3dHaF9GcWI4RHdnanVpRzhjSGF6WTk0V3FXdWxiV1ZjXzBSTVp0d19nc05n?oc=5",
+      "snippet": "The environmental view of seller and buyer’s duties in a ship sale contract under English law &nbsp;&nbsp; Hellenic Shipping News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxPQVM1SG5CTVpVSU92cVhub3JJeGxLYUU1ZHJXWDc4YnBMLXUwWklVUmk1T3MtR2pZNDRjRVBVemlJcUVmZ0d4eTRXaHQ2N25XVWxVdFJ4UEg5cFBWTG5EVVFIZFBZT0Z6bFp4Y1YtdTRLV2FDQ3RzZ2VGVjd2SHp2RXpIdVhFSGJ5TElia3lpNTBWTlpfeHd5a2g1Wi1HUQ?oc=5",
+      "type": "article",
+      "title": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale - Bloomberg Government News",
+      "date": "2026-08-28",
+      "source": "Bloomberg Government News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVM1SG5CTVpVSU92cVhub3JJeGxLYUU1ZHJXWDc4YnBMLXUwWklVUmk1T3MtR2pZNDRjRVBVemlJcUVmZ0d4eTRXaHQ2N25XVWxVdFJ4UEg5cFBWTG5EVVFIZFBZT0Z6bFp4Y1YtdTRLV2FDQ3RzZ2VGVjd2SHp2RXpIdVhFSGJ5TElia3lpNTBWTlpfeHd5a2g1Wi1HUQ?oc=5",
+      "snippet": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale &nbsp;&nbsp; Bloomberg Government News"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWRNTmdFa2c2dEdFaXdxTndVdU5WZ0NFNmNSYlp3SU9mQVVQVlhOX0FZQXlXcGRQYlBTUzNPQXFQYmQzMnEwc0tETlViWTMyc0p5dVVnQXU3WkVvYXc5WkM5ZWtpRmNUZUJLQ2ZmQS01ZzZQbXJtQVBPVTBjaE9NM3lWQ3pJMTZheGx3dmtrSEZ2cENYUnNDT25qZlY5YzhzLTNDTWd6bXVMVFNxcWxranhnWjlfVFE2ZVhoQk1ES3NTTUpiVV9vZmJzb1I0a2M?oc=5",
@@ -146,6 +200,15 @@
       "source": "Law.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZnBZcV81ZGFLNXRiY1phU1I3VHZVdjRYalhhX1VKWkU2Nnk5Ymw4ZFBJVHN4TkpmNTFmZnMyWklwdHc0cnVUMVd3alZxekpQVEpzdUV6eDdOVEZFVWxpNkFfNGVYa1ZXVUYzUzZDdFpuMVZTTm9ISzZ5bVQzMVl6a2RwQ0tWSDFEeC1Nc1B0Z1pDT3dhVkFfRlI4Qy1Na2UteXEzSXp0VlkzSlVkcndwSDlETzVGY2k5UkNlSDNBaklrazVGWnRMdzR2d2UtREVpM2lv?oc=5",
       "snippet": "More States Look to Regulate MSOs, Outside Investment as PE Continues to Eye Legal Industry &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3FpTmdya1JWQUg2Rk5CNzZLeU1aVzBsQnExVk5oTWFBeHNLX0s5eURDd2tjTnpxcHR3SEhxUFJEeE80QVpIYTJ4dU1wVkNRLVFPbm5jOXlqby1pRTFfLUs4cmRfdVJnbWxjTUphSWkwb0V2aDh0MHFwdGVfRHBBNTBXeHpkNjJFUnVjczFoc1VBaTUyRmVLR0ZqVG0ta2YydW93OFNDUVkwamJ1ejlObHJkRHVmZw?oc=5",
+      "type": "article",
+      "title": "KKR Says Outside Law Firms Will 'Fully Reimburse' Its $250M DOJ Penalty - Law.com",
+      "date": "2026-08-27",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3FpTmdya1JWQUg2Rk5CNzZLeU1aVzBsQnExVk5oTWFBeHNLX0s5eURDd2tjTnpxcHR3SEhxUFJEeE80QVpIYTJ4dU1wVkNRLVFPbm5jOXlqby1pRTFfLUs4cmRfdVJnbWxjTUphSWkwb0V2aDh0MHFwdGVfRHBBNTBXeHpkNjJFUnVjczFoc1VBaTUyRmVLR0ZqVG0ta2YydW93OFNDUVkwamJ1ejlObHJkRHVmZw?oc=5",
+      "snippet": "KKR Says Outside Law Firms Will 'Fully Reimburse' Its $250M DOJ Penalty &nbsp;&nbsp; Law.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3phS1JDdFdLRC1QQmlSNFQyamJ3TUlyVm9yb3BlZ0hkNG5UUmpYNDNwNXBaczR2LXV1bk1NazY5Ung0dG54OTNuMGhYNFgtc04xR2JyczlBaW01N2lpMkYyOFNDM2NEMVJmS2hfNU5DVVVFd0laWkE0Qk9ZQmlsNF8tQ3lGdlhDaTl4cllEa2JSb05DQ3U5elVkOXlkTUE3UDNXZFpqbmlrNXZyTXkxNGtNaGdDd2ZxcURvejd5bEZJUUJDWDFyQ3pxUGdsWEpTWENBb0xoUzRTYWhPQ21WaA?oc=5",
@@ -254,6 +317,15 @@
       "source": "AOL.ca",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM3pKMDM4ZVJ2N3ltM1FfX2dtdTJNZmdMUmNJd1ZrZUphNEMxMnM3cmdfVmpyYWNIeXQtSkZaRWpoNThFWnZXc1d5amtoM2oyOXVVZXZCRGZWR2tNSzlXZDYyZGJPenpXLVNuS3B6Sm1aNmVsTzl2eHR3T2NWNld3bDdB?oc=5",
       "snippet": "Report: Private equity firm Arctos buying 10% of Falcons &nbsp;&nbsp; AOL.ca"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcXF4bU9hWHdtTHNBbzVfMjJaRlpmR2ZVc1lzTlNfMTBJa19VRDJ3RUFDdW9uQTRfaXNfbkZNM21QTjVzZW5Obm8zZG5kdG9ieXA4ZkZ1Y0NYaU9NNXdPd0hVcDgzd0hNRTM3WTFuTU5sbkxjMUEzVGEwVzBtZw?oc=5",
+      "type": "article",
+      "title": "New Lakers co-owner Joshua Kushner is a lifelong Democrat with deep interest in sports - AOL.ca",
+      "date": "2026-08-26",
+      "source": "AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcXF4bU9hWHdtTHNBbzVfMjJaRlpmR2ZVc1lzTlNfMTBJa19VRDJ3RUFDdW9uQTRfaXNfbkZNM21QTjVzZW5Obm8zZG5kdG9ieXA4ZkZ1Y0NYaU9NNXdPd0hVcDgzd0hNRTM3WTFuTU5sbkxjMUEzVGEwVzBtZw?oc=5",
+      "snippet": "New Lakers co-owner Joshua Kushner is a lifelong Democrat with deep interest in sports &nbsp;&nbsp; AOL.ca"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0JNVldya1dMSk5YaEpBUU5zb25uME5fdFh0cE9pODJBS002U1dFS0JqZFZHRjNaY3pYOEc4OWFtdGo0QVFLbUdTT1lFaUg3ekxIWURrb0k3TnBqOTV4SVlmcGc0dmlpaFRqc0JnWmxrdFdFcFhZWnFSdjk0Q0VCbFFBdkF3T3dtVndVQTdZS1pmLTlPQVpVVjJhbVVScmo5Vnk5ZmJ2cVdCenVpa3VjRkpjRDhUOEFFQkNMdVhDVQ?oc=5",
@@ -1280,78 +1352,6 @@
       "source": "The Law Society Gazette",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVAwNHZyQTctMS03eDBWd3VxX1lNblNxQTdYdGkzTVNBMlFPc0VQdmxMZWRXYlNYYnlPZEZwVHhPSXlHeDhqZ2tqazZMY0RPS09HTXd2YmZTZjdTb09uTFB3MmNCRzVqZURJSFFrV2hZenJyWF9faW5PM2ZTN3JrNVpYbW9NOVY4aGdBRzB0S08?oc=5",
       "snippet": "ABS insight: The 'Tesco Law' that never happened &nbsp;&nbsp; The Law Society Gazette"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVpuV2g0Q0IxZmhpaHJXeDhCc3JoaDdjbDlmUlVPdUlBWW1HV29TTHYtYl91SmVuVEdwOWZleW9EYlhBR2tnS1gzaVA3eXJDajRKc25BSUZqaG5YRWM3dHRNNVdYYlV5WDdrV081V3dlZEI5S2RnLW9RZ0dLOFVUc2JiTHZlY3NsSWJ2dGpqZDNDVkRLa1djY0I2aXNneGZyVFM0N1d1bW1aRy0wa29kejhHLWFNZw?oc=5",
-      "type": "article",
-      "title": "States are cracking down on DSO deals. Is yours next? - drbicuspid.com",
-      "date": "2026-08-14",
-      "source": "drbicuspid.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVpuV2g0Q0IxZmhpaHJXeDhCc3JoaDdjbDlmUlVPdUlBWW1HV29TTHYtYl91SmVuVEdwOWZleW9EYlhBR2tnS1gzaVA3eXJDajRKc25BSUZqaG5YRWM3dHRNNVdYYlV5WDdrV081V3dlZEI5S2RnLW9RZ0dLOFVUc2JiTHZlY3NsSWJ2dGpqZDNDVkRLa1djY0I2aXNneGZyVFM0N1d1bW1aRy0wa29kejhHLWFNZw?oc=5",
-      "snippet": "States are cracking down on DSO deals. Is yours next? &nbsp;&nbsp; drbicuspid.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijgJBVV95cUxPN3ItcnBUaVFIYW1PekpVZWwxdV9ycXRJbkVQRkNNbEk4SGJzRWVKNUs0UkY0UnA4bEdVWWNyYkc3S2xLc000QWJTNFg4SkxfT3Z1MUVoM2xLYk4ya193UmZjVTlWcEg0R1hvM1FNMU5GcWMwdGR0VWdUTjQ4bWQ4RnRzaUF6Yi03MHNLZFVINHNmZzZlaHdXZUZna3BFSm9SYzg4b09ZZFFhMVBLbm9jSE80RW45RjhncXhXeWtiY0pWNVoxX1FtRUZDZl9nd2otanFOcXM0T2cyLU5PdWp5ZFFiN0hnVDVBNi1yX0Q3VEFOQlJMekN1aHdPTWhFM3NmdDJBSUEtZ0pJSUpMMlE?oc=5",
-      "type": "article",
-      "title": "Pa. has quietly passed a law undermining a court decision on lucrative mineral rights - The Latrobe Bulletin",
-      "date": "2026-08-14",
-      "source": "The Latrobe Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPN3ItcnBUaVFIYW1PekpVZWwxdV9ycXRJbkVQRkNNbEk4SGJzRWVKNUs0UkY0UnA4bEdVWWNyYkc3S2xLc000QWJTNFg4SkxfT3Z1MUVoM2xLYk4ya193UmZjVTlWcEg0R1hvM1FNMU5GcWMwdGR0VWdUTjQ4bWQ4RnRzaUF6Yi03MHNLZFVINHNmZzZlaHdXZUZna3BFSm9SYzg4b09ZZFFhMVBLbm9jSE80RW45RjhncXhXeWtiY0pWNVoxX1FtRUZDZl9nd2otanFOcXM0T2cyLU5PdWp5ZFFiN0hnVDVBNi1yX0Q3VEFOQlJMekN1aHdPTWhFM3NmdDJBSUEtZ0pJSUpMMlE?oc=5",
-      "snippet": "Pa. has quietly passed a law undermining a court decision on lucrative mineral rights &nbsp;&nbsp; The Latrobe Bulletin"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmxvbmdpaGQyME01YTNnNk1OSVN5Q3FnVVdiT2ZNMGJRZGVhY3JHNzBNdF9uWC1nbmc4U3lRSVVzSDVBMDFKX25fZ1JscWRSV1phX01FTHVxajhnR21JSVhwMWllcFozVTY4cTA3VUdEYzd0WEdNZzNFdnFGUUl2dHdtZTdCNGttR2hTX2xWMzEwMTDSAVZBVV95cUxNT29Jbm93QkYyYUtCT0FvTW1YdGQ5U0R0RHN0OVd5ZHdJeTVHM05VSDVxM2h4T0NTSWFGM1NvUVdrWHljN0UySFhWVFBSby1aRmVVTFM4Zw?oc=5",
-      "type": "article",
-      "title": "J&J Says No To Reviving Stelara Case - Law360",
-      "date": "2026-08-14",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmxvbmdpaGQyME01YTNnNk1OSVN5Q3FnVVdiT2ZNMGJRZGVhY3JHNzBNdF9uWC1nbmc4U3lRSVVzSDVBMDFKX25fZ1JscWRSV1phX01FTHVxajhnR21JSVhwMWllcFozVTY4cTA3VUdEYzd0WEdNZzNFdnFGUUl2dHdtZTdCNGttR2hTX2xWMzEwMTDSAVZBVV95cUxNT29Jbm93QkYyYUtCT0FvTW1YdGQ5U0R0RHN0OVd5ZHdJeTVHM05VSDVxM2h4T0NTSWFGM1NvUVdrWHljN0UySFhWVFBSby1aRmVVTFM4Zw?oc=5",
-      "snippet": "J&J Says No To Reviving Stelara Case &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTFOcEZHSlVkZ0MwTU9ndUFfSWtmQUhjZXVqR3lXZWtaRWhPQ1o5ZFpHdmw0MnUxVXExLWFPYWZ0ZXVIT3VuUmMtblF6QlJTLXBkWEJtRTJTM3VEOVV0YXVrUWJoaDRjWlBTdUdVR2dzcHB6dFpidldBeE1oOUlHb3RZQ3Z1Z0FtbHpJdTAxYkpwb3BTdXlWSjUyUERlZThuWllNWExQSm9mVTVjVjRIVmZuMmU4QkY1MWtJNEtqc1FsNWM?oc=5",
-      "type": "article",
-      "title": "Cyrus Das honoured with Malaysian Bar Lifetime Achievement Award - Free Malaysia Today",
-      "date": "2026-08-14",
-      "source": "Free Malaysia Today",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTFOcEZHSlVkZ0MwTU9ndUFfSWtmQUhjZXVqR3lXZWtaRWhPQ1o5ZFpHdmw0MnUxVXExLWFPYWZ0ZXVIT3VuUmMtblF6QlJTLXBkWEJtRTJTM3VEOVV0YXVrUWJoaDRjWlBTdUdVR2dzcHB6dFpidldBeE1oOUlHb3RZQ3Z1Z0FtbHpJdTAxYkpwb3BTdXlWSjUyUERlZThuWllNWExQSm9mVTVjVjRIVmZuMmU4QkY1MWtJNEtqc1FsNWM?oc=5",
-      "snippet": "Cyrus Das honoured with Malaysian Bar Lifetime Achievement Award &nbsp;&nbsp; Free Malaysia Today"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSkgyd2puS0NjcXlxTGdPVjNFbWszbU1sdVlVMWRkelB0V3JaSVlyRjRtVEhuOVluWHBYTVkzc3p2T1U2S3RpRktCajd3SlV1YllkSW9uTlNOcG85RS1Ua1hlQmt5NmJZNE9kekZxQWlQcnd5UzJWT3NQTWloWjZoZE5XSDZjS052MGJKWm95TXBFeHFMZU1vMFRTYkNuaW94MFdoMDczWUM0NGM?oc=5",
-      "type": "article",
-      "title": "Aperture Sees Demand, Aims for $1 Billion: Litigation Finance - Bloomberg Law News",
-      "date": "2026-08-14",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSkgyd2puS0NjcXlxTGdPVjNFbWszbU1sdVlVMWRkelB0V3JaSVlyRjRtVEhuOVluWHBYTVkzc3p2T1U2S3RpRktCajd3SlV1YllkSW9uTlNOcG85RS1Ua1hlQmt5NmJZNE9kekZxQWlQcnd5UzJWT3NQTWloWjZoZE5XSDZjS052MGJKWm95TXBFeHFMZU1vMFRTYkNuaW94MFdoMDczWUM0NGM?oc=5",
-      "snippet": "Aperture Sees Demand, Aims for $1 Billion: Litigation Finance &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE9aamJ4OVZ1bWdaODA4V0VhSXhNeld3OU1EVmxkVWtoUk9CY3lrUkFrcm0xbnNFb0tEUF9WVjN6ak8xNE01ZGlQd0ptV3JXX1VkUTYzRVd5Z1NhOWY3QTJzdkxydmJjdENoU3BVX1NhQUZRekxOUS1zbGtuT1V4aXZR0gFeQVVfeXFMUENyWXJWTXNUNHFrUUtQaU84eHdPX21NSnVQLXhEb2s0TkFlemxTa1F4cVhlOERXb3FmUmVFWXNCQi1YYWF5dGczSjR5XzBpeHBRVkMySG1ibWNieVVIZw?oc=5",
-      "type": "article",
-      "title": "Voir Dire: Law360 Pulse's Weekly Quiz - Law360",
-      "date": "2026-08-14",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE9aamJ4OVZ1bWdaODA4V0VhSXhNeld3OU1EVmxkVWtoUk9CY3lrUkFrcm0xbnNFb0tEUF9WVjN6ak8xNE01ZGlQd0ptV3JXX1VkUTYzRVd5Z1NhOWY3QTJzdkxydmJjdENoU3BVX1NhQUZRekxOUS1zbGtuT1V4aXZR0gFeQVVfeXFMUENyWXJWTXNUNHFrUUtQaU84eHdPX21NSnVQLXhEb2s0TkFlemxTa1F4cVhlOERXb3FmUmVFWXNCQi1YYWF5dGczSjR5XzBpeHBRVkMySG1ibWNieVVIZw?oc=5",
-      "snippet": "Voir Dire: Law360 Pulse's Weekly Quiz &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGNmMlJ5NVl3VkdWcWd6STd6QXpyY1ZmdVB5Sk11MVgyT3BLaXlDVGxURzl3VmxQamlnR2NIb2lFMk1mVnBIZFBuTGxxY2pqV3RqamtEQms3TDJKWDVfVGg4TnNvaUhIaFJNR0YteWNhMTBfWlAydlhzcVNGMEphLVA2SjkxZHByYjdPYlI3UzlEY1dWOXVHLUVsUDF0Tld2c0JiZTRzT2VzWXZqVXctVDVkTk9mVmxYSUxSMHRSaWpQcTBy0gHKAUFVX3lxTE1RcVN3V2NWZHdEcjJBLTVKUEJpWkFoQVl3WkdGcXV2Qmx4TEhJVkN2WExxUUgzVXZBRUJlTVJkaUUyQXlpRUFXMUFqbklaaWdTZE8xdENST0xkOWJXQXhuR2FfdDU2eGZyMmJKQ3VwVjBsRTdwUWhuTDJxN3FnMWNxeWtXTmFSSS1LSV9YWVhaT2ZidEh6VEJmMjdndTlGWEp2b29rMTE3OWhiU1dzRUc5Y3BxYkw4aHF1bi1mUFR5NUF5S2VRWlZLWEE?oc=5",
-      "type": "article",
-      "title": "NITI Aayog suggests modernising India's legal services framework - Asianet Newsable",
-      "date": "2026-08-14",
-      "source": "Asianet Newsable",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGNmMlJ5NVl3VkdWcWd6STd6QXpyY1ZmdVB5Sk11MVgyT3BLaXlDVGxURzl3VmxQamlnR2NIb2lFMk1mVnBIZFBuTGxxY2pqV3RqamtEQms3TDJKWDVfVGg4TnNvaUhIaFJNR0YteWNhMTBfWlAydlhzcVNGMEphLVA2SjkxZHByYjdPYlI3UzlEY1dWOXVHLUVsUDF0Tld2c0JiZTRzT2VzWXZqVXctVDVkTk9mVmxYSUxSMHRSaWpQcTBy0gHKAUFVX3lxTE1RcVN3V2NWZHdEcjJBLTVKUEJpWkFoQVl3WkdGcXV2Qmx4TEhJVkN2WExxUUgzVXZBRUJlTVJkaUUyQXlpRUFXMUFqbklaaWdTZE8xdENST0xkOWJXQXhuR2FfdDU2eGZyMmJKQ3VwVjBsRTdwUWhuTDJxN3FnMWNxeWtXTmFSSS1LSV9YWVhaT2ZidEh6VEJmMjdndTlGWEp2b29rMTE3OWhiU1dzRUc5Y3BxYkw4aHF1bi1mUFR5NUF5S2VRWlZLWEE?oc=5",
-      "snippet": "NITI Aayog suggests modernising India's legal services framework &nbsp;&nbsp; Asianet Newsable"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMickFVX3lxTE0tYlJ1alpKYVFuQk54NUdheV93THJDUVc0eXI5THM3X29WcllfazlMMUZDMWdTZHpraHhjaG5CaWZWcFRJM1pWSE5TQkFZR0xZNnNadEFqZE8xRVFMQkZWSFc1bUFjOXI3QTZSUmwzQWdLQQ?oc=5",
-      "type": "article",
-      "title": "MDB Capital Holdings (MDBH) Q2 2026 Earnings Call: Leaner Costs and Core Asset Focus - TradingKey",
-      "date": "2026-08-14",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tYlJ1alpKYVFuQk54NUdheV93THJDUVc0eXI5THM3X29WcllfazlMMUZDMWdTZHpraHhjaG5CaWZWcFRJM1pWSE5TQkFZR0xZNnNadEFqZE8xRVFMQkZWSFc1bUFjOXI3QTZSUmwzQWdLQQ?oc=5",
-      "snippet": "MDB Capital Holdings (MDBH) Q2 2026 Earnings Call: Leaner Costs and Core Asset Focus &nbsp;&nbsp; TradingKey"
     }
   ]
 }
