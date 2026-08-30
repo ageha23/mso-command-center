@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-08-29T15:32:06.888353+00:00",
+  "lastRun": "2026-08-30T15:13:41.816781+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 8,
+  "addedThisRun": 3,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMid0FVX3lxTE5OX3ZVYjFLci1fdTg0aUNMaDB1aGdJOHlqVjloeDkyaDAtWDZhWWJwMG8wWDdzeXd3VUY5aXVtdWs1QkpfYnRvUWpWX2xQbjNaamJuMXg2X1pYVmhaVEVTREtLVkVZUU1jUEx2RU8tbmVFS1dRM1dZ?oc=5",
+      "type": "article",
+      "title": "California Bill Restricting Corporate Influence Over Lawyers Heads to Newsom - Davis Vanguard",
+      "date": "2026-08-30",
+      "source": "Davis Vanguard",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OX3ZVYjFLci1fdTg0aUNMaDB1aGdJOHlqVjloeDkyaDAtWDZhWWJwMG8wWDdzeXd3VUY5aXVtdWs1QkpfYnRvUWpWX2xQbjNaamJuMXg2X1pYVmhaVEVTREtLVkVZUU1jUEx2RU8tbmVFS1dRM1dZ?oc=5",
+      "snippet": "California Bill Restricting Corporate Influence Over Lawyers Heads to Newsom &nbsp;&nbsp; Davis Vanguard"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenJBQXJXVXJmbzVrTjJQR0VCS2FOZVZiN19HYTU2TGg5N2RzM1VqY05KTDRyWjhKQi1ZRUZNd2sxZTZKZHIyQ2pUT3ZjWU1OWnNNN3FnRFFyMDVkbFZXSkY5eWhDS1pRR1NQMU1GaVVxWVRWczN2VHR2RGo0M2JKbWpxbHpNNDYzNk1UaDBSRllxQnppdmlKUmVleF9WVEhVeV92WVFNUDR0QQ?oc=5",
+      "type": "article",
+      "title": "People on the move in Indian Country - Tribal Business News",
+      "date": "2026-08-30",
+      "source": "Tribal Business News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenJBQXJXVXJmbzVrTjJQR0VCS2FOZVZiN19HYTU2TGg5N2RzM1VqY05KTDRyWjhKQi1ZRUZNd2sxZTZKZHIyQ2pUT3ZjWU1OWnNNN3FnRFFyMDVkbFZXSkY5eWhDS1pRR1NQMU1GaVVxWVRWczN2VHR2RGo0M2JKbWpxbHpNNDYzNk1UaDBSRllxQnppdmlKUmVleF9WVEhVeV92WVFNUDR0QQ?oc=5",
+      "snippet": "People on the move in Indian Country &nbsp;&nbsp; Tribal Business News"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGUzLUp5ZlN5NDFrQ1dUY2lBODFFcWhUdXpSZVRQQUxUM3pndjBTSjVxWURpTDYzeUxmbHlJQXR0TGpRLXZBejNmNzlTQWRWSEV5dW1aM21JNWgwR19HcDBKdnFLSnZEYXlMdktSU1FWYjhlTnduaHk0bDVSQkZYOElzSENwTHVvTkRpNVlhQW4zTElRQ0Q5aDd2a1RzTFYwOEtYOHJxaC1DU1lRLU5QWmZPa2s3M0NvTjFvcVVuM19fQQ?oc=5",
       "type": "article",
@@ -119,6 +137,15 @@
       "source": "Bloomberg Government News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVM1SG5CTVpVSU92cVhub3JJeGxLYUU1ZHJXWDc4YnBMLXUwWklVUmk1T3MtR2pZNDRjRVBVemlJcUVmZ0d4eTRXaHQ2N25XVWxVdFJ4UEg5cFBWTG5EVVFIZFBZT0Z6bFp4Y1YtdTRLV2FDQ3RzZ2VGVjd2SHp2RXpIdVhFSGJ5TElia3lpNTBWTlpfeHd5a2g1Wi1HUQ?oc=5",
       "snippet": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale &nbsp;&nbsp; Bloomberg Government News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisAJBVV95cUxNdUxLSmRDeTRjOWlDX1F0YzBQRE01X3NfMFFyMElZWk16RkxuZVZyNG4ySEpKWjBaV0w2d2diSm9tNG5iXzQ3bHpNX3RlVUV5S0lxYXlTbEQ5S3h2Zld3eThxemdHdWl6YkpYcHI5eURJbTJnQnZ4WkJuekNwZ1Zob01BX1FpalBob1hRNE1TNElEY040NDM4S0NreFlLZWpFWTZGVXRLSm94X1kwaDBhRmdoYW91RXg2cDFoQmZZMFc1Tnh3RkNMc2F6X3VFUTl6dEdrbFlUNXQ2T1VlZERJZTFYTC1lZzhibFBCU2pLVFBrM3RjUmh0YWkyZUV3VGVtbVBsY0NQVXVhanAwbkpVeE5Nc3o0cDdkOWN1N2RvUFNOaWNFTmtQYkhTOWlxZVBC?oc=5",
+      "type": "article",
+      "title": "Allied Health MSO Holdco, LLC Data Breach: Edelson Lechtzin - GlobeNewswire",
+      "date": "2026-08-28",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNdUxLSmRDeTRjOWlDX1F0YzBQRE01X3NfMFFyMElZWk16RkxuZVZyNG4ySEpKWjBaV0w2d2diSm9tNG5iXzQ3bHpNX3RlVUV5S0lxYXlTbEQ5S3h2Zld3eThxemdHdWl6YkpYcHI5eURJbTJnQnZ4WkJuekNwZ1Zob01BX1FpalBob1hRNE1TNElEY040NDM4S0NreFlLZWpFWTZGVXRLSm94X1kwaDBhRmdoYW91RXg2cDFoQmZZMFc1Tnh3RkNMc2F6X3VFUTl6dEdrbFlUNXQ2T1VlZERJZTFYTC1lZzhibFBCU2pLVFBrM3RjUmh0YWkyZUV3VGVtbVBsY0NQVXVhanAwbkpVeE5Nc3o0cDdkOWN1N2RvUFNOaWNFTmtQYkhTOWlxZVBC?oc=5",
+      "snippet": "Allied Health MSO Holdco, LLC Data Breach: Edelson Lechtzin &nbsp;&nbsp; GlobeNewswire"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWRNTmdFa2c2dEdFaXdxTndVdU5WZ0NFNmNSYlp3SU9mQVVQVlhOX0FZQXlXcGRQYlBTUzNPQXFQYmQzMnEwc0tETlViWTMyc0p5dVVnQXU3WkVvYXc5WkM5ZWtpRmNUZUJLQ2ZmQS01ZzZQbXJtQVBPVTBjaE9NM3lWQ3pJMTZheGx3dmtrSEZ2cENYUnNDT25qZlY5YzhzLTNDTWd6bXVMVFNxcWxranhnWjlfVFE2ZVhoQk1ES3NTTUpiVV9vZmJzb1I0a2M?oc=5",
@@ -1325,33 +1352,6 @@
       "source": "Colliers",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVVnWlpCa1RWRU05Z3NSUjhibnkwcU1LMW1UUC1oYXdoY3FKZ1NXWWlzSGVmN2RBMGRiTDZPVFg1c3JmcGxfTW9fM3kwTWthbGxDZzdtWjVGd3pIMkdmSTNVcVo3TGM1QjJHTzlmR1ZWbjBNUUdaT1hseWdsQmxvV2hFMktzcUNlcHdKVEFHMUFtUFpGc1NIT0U2RU1uQmFVT3M3REY2dU9rMGJwZThURzhNd3pCSmVmekk5eGJ1dENjYUtyOGRJT0ZjMjUxbjFQV18tVmhMUE83MUt0a09z?oc=5",
       "snippet": "Colliers continues growth of Greater Philadelphia region industrial team with hire of Jonathan Klear &nbsp;&nbsp; Colliers"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1N5S1ZUbTVwc0JqWkJYa2hkcVZvSFZlOWMxTUdQMWx5c004U2RVUkFyX0I5S0t0VUUteklJQ3hGYUN4VHpQZnVvN3FuZ092UEdpWmNyNU90b2xlWm90N2l2eXBXSG5MZUtSXzFlLWZGNjFLQUpYZlR5WDdJdU0tQnVWbVB5T19ZTkFXY05VS1B0UEhhTHNiN2ktODUwS0dWWkhNUkVUUUdZejZ3SFIwLUFqSjJoVHNkZFI2cDhpT0hIM2VDWDc4WC1YbGMzcnZIZ2kySWlxYW5RUi1ucS1FMl84blR2MnBsWVNyempSWjQwcUhhVUVWamJLRQ?oc=5",
-      "type": "article",
-      "title": "TLRY, CGC, ACB, MSOS Pare Early Gains After Marijuana Reclassification: Retail Says ‘Weed Industry Is Reborn’ - Stocktwits",
-      "date": "2026-08-15",
-      "source": "Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1N5S1ZUbTVwc0JqWkJYa2hkcVZvSFZlOWMxTUdQMWx5c004U2RVUkFyX0I5S0t0VUUteklJQ3hGYUN4VHpQZnVvN3FuZ092UEdpWmNyNU90b2xlWm90N2l2eXBXSG5MZUtSXzFlLWZGNjFLQUpYZlR5WDdJdU0tQnVWbVB5T19ZTkFXY05VS1B0UEhhTHNiN2ktODUwS0dWWkhNUkVUUUdZejZ3SFIwLUFqSjJoVHNkZFI2cDhpT0hIM2VDWDc4WC1YbGMzcnZIZ2kySWlxYW5RUi1ucS1FMl84blR2MnBsWVNyempSWjQwcUhhVUVWamJLRQ?oc=5",
-      "snippet": "TLRY, CGC, ACB, MSOS Pare Early Gains After Marijuana Reclassification: Retail Says ‘Weed Industry Is Reborn’ &nbsp;&nbsp; Stocktwits"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxONlBFVEFKaFVHS0NhbnJjQXN0aDdyVkc0OWt3QkU4TDFvREItelkzd1RTTGVQcUtyTW9JX3RIcE1GaUF2VWNRaHhLSC0zaFNOY3NseV80M3dKV05FaVpGOGpHdmJlNThFcXVRSEhNOFVFT2QtWDZfSzhBQVhaaXZucEFqT0I1RHNlQTVEM00zVQ?oc=5",
-      "type": "article",
-      "title": "Marek: They’ve made a lot of changes - Shaw Local",
-      "date": "2026-08-15",
-      "source": "Shaw Local",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlBFVEFKaFVHS0NhbnJjQXN0aDdyVkc0OWt3QkU4TDFvREItelkzd1RTTGVQcUtyTW9JX3RIcE1GaUF2VWNRaHhLSC0zaFNOY3NseV80M3dKV05FaVpGOGpHdmJlNThFcXVRSEhNOFVFT2QtWDZfSzhBQVhaaXZucEFqT0I1RHNlQTVEM00zVQ?oc=5",
-      "snippet": "Marek: They’ve made a lot of changes &nbsp;&nbsp; Shaw Local"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVAwNHZyQTctMS03eDBWd3VxX1lNblNxQTdYdGkzTVNBMlFPc0VQdmxMZWRXYlNYYnlPZEZwVHhPSXlHeDhqZ2tqazZMY0RPS09HTXd2YmZTZjdTb09uTFB3MmNCRzVqZURJSFFrV2hZenJyWF9faW5PM2ZTN3JrNVpYbW9NOVY4aGdBRzB0S08?oc=5",
-      "type": "article",
-      "title": "ABS insight: The 'Tesco Law' that never happened - The Law Society Gazette",
-      "date": "2026-08-14",
-      "source": "The Law Society Gazette",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVAwNHZyQTctMS03eDBWd3VxX1lNblNxQTdYdGkzTVNBMlFPc0VQdmxMZWRXYlNYYnlPZEZwVHhPSXlHeDhqZ2tqazZMY0RPS09HTXd2YmZTZjdTb09uTFB3MmNCRzVqZURJSFFrV2hZenJyWF9faW5PM2ZTN3JrNVpYbW9NOVY4aGdBRzB0S08?oc=5",
-      "snippet": "ABS insight: The 'Tesco Law' that never happened &nbsp;&nbsp; The Law Society Gazette"
     }
   ]
 }
