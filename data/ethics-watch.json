@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-09-02T15:00:47.256067+00:00",
+  "lastRun": "2026-09-03T14:54:41.965315+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 7,
+  "addedThisRun": 2,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTJoQ0p6b2ZKNWVhV1ZCcFRiTDFuaFFPZHJCSWJydnFyWTRqRlhvVlVZR2JDYXNkOWYxci12RkVrQWhSN3UtNWd4TDBlalQxUGg2djVVV01NOWN1ZEg0TWZCaDc4X2Y3dGtyeksxUDhCM1l1SWc5RGY4Y1d1ZXNwbnEtOGtKOE5GRlVRZFotYWgyR2NyOFY3aTdwOVljY25vUEdzag?oc=5",
@@ -20,6 +20,15 @@
       "source": "markets.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPazI0eWFKcG9OOWhDdzd1bWEwQWdGcnhlemVwS3RpdkgwU2pkaWc5Y29qdEFDU29GSGlZUm94b3FRZ0JQVTRSdE5paXMxYXJGV04xNmhWWUJRZ2Vvalg4SVpmV2dyWWNzVW5OVTRJSGJNUjRycFd6WU04WnZjeG5CTzNFSkFBa1dfRkxLX1N5UHpVc2M0cHZnOGZJNEsybHNWVVM4MEhYV21SVFJxQzR2bzVDRllmQk0tVURtdTdheDhuWklMa19rWHMza2tmWVF4YzF0TVBMajE5aWdLTDJmZC1YRDdET2thWTlhQjBEa05sYnk5TWVzSkRwNkFFRFY4WThF?oc=5",
       "snippet": "WRAP Moves to Operationalize De-Escalation, Advances New BolaWrap 150 Doctrine Toward California POST Certification &nbsp;&nbsp; markets.businessinsider.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGt4eEJ3M3F3azFoREt1dHNnZGZVR05HcHNKRE1teEgtTzE5bmxKQmZuNFVkeHphQXFseEZfRjVxS0tFYjZ3NGZfZGV6QlBzVzF3ZlFCQzZISHZGWFJQNXFrSGRNZ2U4bWpXQWlWVWhNbDB4TVMyVkltcjV5SUlRbjZSN0h0N0NQZGZBRm5HTlB6cEZ6c3RYMlJnNVdrR0VHUm5KQ05JZ2VxQ0ZtbHZOU3RZTFNrNHcxOURZYlhtdGtVWms?oc=5",
+      "type": "article",
+      "title": "Emil Michael Sold $50M in AI Rival Stocks While Setting Pentagon AI Policy - Tech Times",
+      "date": "2026-09-02",
+      "source": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGt4eEJ3M3F3azFoREt1dHNnZGZVR05HcHNKRE1teEgtTzE5bmxKQmZuNFVkeHphQXFseEZfRjVxS0tFYjZ3NGZfZGV6QlBzVzF3ZlFCQzZISHZGWFJQNXFrSGRNZ2U4bWpXQWlWVWhNbDB4TVMyVkltcjV5SUlRbjZSN0h0N0NQZGZBRm5HTlB6cEZ6c3RYMlJnNVdrR0VHUm5KQ05JZ2VxQ0ZtbHZOU3RZTFNrNHcxOURZYlhtdGtVWms?oc=5",
+      "snippet": "Emil Michael Sold $50M in AI Rival Stocks While Setting Pentagon AI Policy &nbsp;&nbsp; Tech Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVDNkODgzTndEZWZvTXg3SDkzdm5DalFsTHp6NEVScDk3NUtpRHdPMWljSVBIS2VYc3k3b2lKMnZ6dkdmZndMTVZGMzMtOFZraEdDdzFfZTBTbHg0TnJyX2kxX3ZsM19YVEdVUXFNa3Z2Mk8yNEFWd2s3ZV9nU3ZHd1N1Y3F2V24teXRZ?oc=5",
@@ -146,6 +155,15 @@
       "source": "Cyril Amarchand Mangaldas",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5reHlTRjh4d0Y0OC13ZmRMQUpqQjJsWW1SOFdMR0hYSzdhZmU4cUxOSk5ITHhOWHpLc1YxQWI1MkpVcDFxWDRvcEhsVU1DMWhYUzVqdVVuNHZkWWNBUWcyOWl3VkFGTVhvS29PejE0bXphY1VOLXg1MQ?oc=5",
       "snippet": "Swathi Cheruvattath India Corporate Law | Cyril Amarchand &nbsp;&nbsp; Cyril Amarchand Mangaldas"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZZ2E0VFktV1gwMVQxb0dxVkd4anI3LWlCQmczTUd6Z0RvaUljSk44WjdJNmdRbktMSURqaktXOXdzam4zeVhSVXAydXBLUlXSAVhBVV95cUxPMlR2ckNiTExwdlZScEJyeU9DOXN2elU3Ui1YTTVMbXZYdS15NTJDWnlxNnVTNV9IcDN6Q09Ed0J0ajZvQkg5bW1mejhZUXZNR2tkbi1fczh2?oc=5",
+      "type": "article",
+      "title": "The hard truth about private equity’s entry into the law firm market - Law360 Canada",
+      "date": "2026-09-01",
+      "source": "Law360 Canada",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZZ2E0VFktV1gwMVQxb0dxVkd4anI3LWlCQmczTUd6Z0RvaUljSk44WjdJNmdRbktMSURqaktXOXdzam4zeVhSVXAydXBLUlXSAVhBVV95cUxPMlR2ckNiTExwdlZScEJyeU9DOXN2elU3Ui1YTTVMbXZYdS15NTJDWnlxNnVTNV9IcDN6Q09Ed0J0ajZvQkg5bW1mejhZUXZNR2tkbi1fczh2?oc=5",
+      "snippet": "The hard truth about private equity’s entry into the law firm market &nbsp;&nbsp; Law360 Canada"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMijgFBVV95cUxOWk91cGM3QW5qZlpxcE5iSk5oN1BraWRsZEZLeVpBTURNdFYtc0I1TnoyRUdDTlpFbllKUzRRRzhrVmgzNFh3cGw1dG9NRlZZOGpWZDVlWXBqRTZOMk9oal9XcVVKUXRkblRENTRUZmVmQkl3Z3ZZeWUxRVJkN1pES2tzQ2pLMmhzN084ODlB?oc=5",
@@ -1334,24 +1352,6 @@
       "source": "CPA Practice Advisor",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN05mOFFtcG9KSnRxUUlpM2pjb3NjVzRWLThUNy1YUWk0T1JvR09GamVrWl9fVmFwMTdrbmFRY01JWnpNMFppYUQ1VTJsMW8zLXU4OEEyWE0xY0F3YUh1T1ZoN013NkEtTWJqSkdVbnJSMkhkRFcwc1JoTklkMk8wY25La1VMNFZzQ2FxeFNHQjhhRWY4Wk40c3ZmbEZOQkpId0wzVWtfaUhaZTQ?oc=5",
       "snippet": "Ten Honored as Visionaries at Boomer Circles Summit &nbsp;&nbsp; CPA Practice Advisor"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihwFBVV95cUxONmZwYXNvSEYySVNIVHlPeDBRS1JkYlpteTVLOHBXRWtiZ05NZHlER1VHOFp5aHJIbHlfaFlVZzN0SV9XUmNlMF9NbWNfdXpWejlRV0xtR0dERVlET1VMeFFHekFGSGw0NzJjYU9KQW5kYS1rSHdzdm02Y3pPcHo1V21WVUNXZW8?oc=5",
-      "type": "article",
-      "title": "Guide to Cayman Islands private funds: structure, registration and regulation - JD Supra",
-      "date": "2026-08-18",
-      "source": "JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmZwYXNvSEYySVNIVHlPeDBRS1JkYlpteTVLOHBXRWtiZ05NZHlER1VHOFp5aHJIbHlfaFlVZzN0SV9XUmNlMF9NbWNfdXpWejlRV0xtR0dERVlET1VMeFFHekFGSGw0NzJjYU9KQW5kYS1rSHdzdm02Y3pPcHo1V21WVUNXZW8?oc=5",
-      "snippet": "Guide to Cayman Islands private funds: structure, registration and regulation &nbsp;&nbsp; JD Supra"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHhWZTZfRWdHeXF5dS1kdnlaNkFBUFU5RktSb3dBRzVIU2VlOFVIaVRNRFV4bEprRkFwN0dFVks5c18zWnQ1cFE2dTltLVRfaWJOZ3ZWVDgzdEk0V1Zua3Q3dHczbXluLTBVajhwZWxaWU9CcnNMZTNXY3kyZUVhVUh0am1salEzVjBHNDN3b0J1ekJfNHBGbzhEUi0tby04Sk1SeE05ZGtIeUdsSWxtOWZ0dUF3ZTdKemtYOXczUTc2bXV0NGV4LTJR?oc=5",
-      "type": "article",
-      "title": "Oregon policy among state laws slowing private equity healthcare deals, report finds - Oregon Capital Chronicle",
-      "date": "2026-08-18",
-      "source": "Oregon Capital Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHhWZTZfRWdHeXF5dS1kdnlaNkFBUFU5RktSb3dBRzVIU2VlOFVIaVRNRFV4bEprRkFwN0dFVks5c18zWnQ1cFE2dTltLVRfaWJOZ3ZWVDgzdEk0V1Zua3Q3dHczbXluLTBVajhwZWxaWU9CcnNMZTNXY3kyZUVhVUh0am1salEzVjBHNDN3b0J1ekJfNHBGbzhEUi0tby04Sk1SeE05ZGtIeUdsSWxtOWZ0dUF3ZTdKemtYOXczUTc2bXV0NGV4LTJR?oc=5",
-      "snippet": "Oregon policy among state laws slowing private equity healthcare deals, report finds &nbsp;&nbsp; Oregon Capital Chronicle"
     }
   ]
 }
