@@ -1,8 +1,17 @@
 {
-  "lastRun": "2026-09-05T13:44:24.353159+00:00",
+  "lastRun": "2026-09-06T14:00:53.436266+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 14,
+  "addedThisRun": 8,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Ywb2VvQllEZllleDhyS2VMQUUxc2dxVncyR19Ec0lVTTNOMll0cDJ2YmVUbVBCeWc4d3dYVlR4dFF4dlQ2V25LYUpxSEVuak5CeVUwb0JCSkdtaDlxNXh2Ql9JUDhWd0NrR0U5dlFIWHJJcy1TVjBhbmNFR21UZGI4YVNpS3AydkhqYjRUNWZpWk9pOWI3OUlQT2NBRm83RkNKeGk5dEN1dw?oc=5",
+      "type": "article",
+      "title": "AI in asset management: Between strategic priority and a lack of evidence - kpmg.com",
+      "date": "2026-09-06",
+      "source": "kpmg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Ywb2VvQllEZllleDhyS2VMQUUxc2dxVncyR19Ec0lVTTNOMll0cDJ2YmVUbVBCeWc4d3dYVlR4dFF4dlQ2V25LYUpxSEVuak5CeVUwb0JCSkdtaDlxNXh2Ql9JUDhWd0NrR0U5dlFIWHJJcy1TVjBhbmNFR21UZGI4YVNpS3AydkhqYjRUNWZpWk9pOWI3OUlQT2NBRm83RkNKeGk5dEN1dw?oc=5",
+      "snippet": "AI in asset management: Between strategic priority and a lack of evidence &nbsp;&nbsp; kpmg.com"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlpwdktUbVpjUE8zanVsZTlYRU9DNUpjRWR6dTRwN21WQUFTM3JjaEI5a3RIV092clhDX3NMbEZfOHRLTFBUX1dXQnZrdTdxWko0N0czblRrU1lxRG1NbWI4ZldTMG1wX0xWMmh6ejVQSUlYUU10aGltaDI4MTM5b1hwZGZrNmdXRl8xTExzNlFmOVh0Q3NNek56UFVLN2VpSjN1Zjk2VTFtOXhDVWFLSlJMYTlUZmIxRUE?oc=5",
       "type": "article",
@@ -130,6 +139,33 @@
       "snippet": "OFAC 50 Percent Rule: Ownership Aggregation, SDN Risk, and Sanctions Compliance Strategy &nbsp;&nbsp; The National Law Review"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "type": "article",
+      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions - justsecurity.org",
+      "date": "2026-09-04",
+      "source": "justsecurity.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; justsecurity.org"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxNeEVhRldfR1FOMS1EWF9rQm1TNGs4VURGbTR6bHNYSC1PRXlraG1KQ3BKX0g4NjhNQ3ZBOFJuTE1Qckkxd0ItcVNraC1VMGdwUVJ1WWdRZWJ6d216SEZfUW5XRHN6aWZtQ1VyUWswcG1SR0VTSFdnTHNRbzF6U28tMkhmalhNMzdGU2xSYlMtaU5vQQ?oc=5",
+      "type": "article",
+      "title": "Allworth Financial acquires Rochester wealth management firm - Rochester Business Journal",
+      "date": "2026-09-04",
+      "source": "Rochester Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeEVhRldfR1FOMS1EWF9rQm1TNGs4VURGbTR6bHNYSC1PRXlraG1KQ3BKX0g4NjhNQ3ZBOFJuTE1Qckkxd0ItcVNraC1VMGdwUVJ1WWdRZWJ6d216SEZfUW5XRHN6aWZtQ1VyUWswcG1SR0VTSFdnTHNRbzF6U28tMkhmalhNMzdGU2xSYlMtaU5vQQ?oc=5",
+      "snippet": "Allworth Financial acquires Rochester wealth management firm &nbsp;&nbsp; Rochester Business Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGV3NVlOQ0toY3Exa0Y5cEJpbTlGaHc5aFVZZFoyWmVDNFE1ekpHOWRSOUFDMTROWnRmRUlWR1h5SURldnVERENIdWpPTjJmazZBcFZIRldqQUM4VTJ4b2ZlMkVfOTd3SnJMaTR5cGM5TWlLS0t6b0lUZzNoTm1iSVNqNnRBaVBmRGRUdHhKa090TUk5WGc?oc=5",
+      "type": "article",
+      "title": "Tracker: Trump Appointees’ Corporate Conflicts of Interest - Public Citizen",
+      "date": "2026-09-04",
+      "source": "Public Citizen",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGV3NVlOQ0toY3Exa0Y5cEJpbTlGaHc5aFVZZFoyWmVDNFE1ekpHOWRSOUFDMTROWnRmRUlWR1h5SURldnVERENIdWpPTjJmazZBcFZIRldqQUM4VTJ4b2ZlMkVfOTd3SnJMaTR5cGM5TWlLS0t6b0lUZzNoTm1iSVNqNnRBaVBmRGRUdHhKa090TUk5WGc?oc=5",
+      "snippet": "Tracker: Trump Appointees’ Corporate Conflicts of Interest &nbsp;&nbsp; Public Citizen"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMiywFBVV95cUxNclE4S2dhNnFHLWFkYldfd19vYV9fdnNhdHVFSnh2UUJzNHFmQUt0ZGh3UGE3a1k4LW1fVVVTZEhkaTFaQVRVVENRZ1RfQUhUWnhMRFhPelNyem5pdVl3V0poWnhYQWktSmR2MEpRLWRaWXVzbTk1SlNJMmk1a09OTFE2MXpTbGRGNDdqLWV5WFd5dldId2ZlWFRZYlBWRTA3NGllc0dGc21NTlY2dkQycGhvM1NrUFVxdDUySlJCaThIZUIybnRaNVVHQQ?oc=5",
       "type": "article",
       "title": "Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations - Above the Law",
@@ -209,6 +245,33 @@
       "source": "JD Supra",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWd1aUl2OTEzSVAzQkVLeno2QnZNSTlpWlJwVld3d01EV25jVmlRS0paTFlXUE9TME1ETlRCZHhWNVBnNGVIbmVQZTh2dHhlcE1vV0JOMDlaZTBMZDVjdzFNeXN2Ukg4UVlCbGNXRHRVd19wQ09yXzNRM2hVUkdlYjlnS1A3M2FiX2Q5Q2RrNTJCSjYtbHFvV2RCVQ?oc=5",
       "snippet": "Private Equity Firms, Legal Ethics, Rules of Professional Conduct &nbsp;&nbsp; JD Supra"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWVNmRGxDa3cwLTBleU5BN0FJYzVsUUt6QXZ4TEtMcVg3OVg0dTV2NDdYYVliTkxtYmFtYXg5ZkhkbFpfczN4NjNDTUNudVBoOXBvc2FXM2FkSGpqM3VlNjdfa0ttNWFVQVlwLWwzM2ctVXhQRWZkMTZNS0d1VzAtaFpfLVFIaHR0aTlheExPY0YycUZ2SG14TEhnVTFXa0Nya1JZTlczSm93U1pRSURRbGpSTkFDYU5CV0xNZTVkMU42czBWVXpvOHNhSG91MXhRWnc?oc=5",
+      "type": "article",
+      "title": "US Law Firms: Private Equity Law Firm Ethical Obligations Scrutinized - Wansom AI",
+      "date": "2026-09-03",
+      "source": "Wansom AI",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWVNmRGxDa3cwLTBleU5BN0FJYzVsUUt6QXZ4TEtMcVg3OVg0dTV2NDdYYVliTkxtYmFtYXg5ZkhkbFpfczN4NjNDTUNudVBoOXBvc2FXM2FkSGpqM3VlNjdfa0ttNWFVQVlwLWwzM2ctVXhQRWZkMTZNS0d1VzAtaFpfLVFIaHR0aTlheExPY0YycUZ2SG14TEhnVTFXa0Nya1JZTlczSm93U1pRSURRbGpSTkFDYU5CV0xNZTVkMU42czBWVXpvOHNhSG91MXhRWnc?oc=5",
+      "snippet": "US Law Firms: Private Equity Law Firm Ethical Obligations Scrutinized &nbsp;&nbsp; Wansom AI"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWU2R2tLRjJfRlVlWmRQa2ZzYVdDNzg1N0FqV3ZwSzRvT3IzY1BuNGx2NmdhMk90SVRET0ZJUzBwcWk3Q2l4TGVRVWgtVUNadXJLeGJHTE5vR0RzWk9Nd2ZVOUd4bWc5bUtVOENtNE5vOU52cV9rVWxkc1lZS2Z0LVNSSEVkSzAzLUlSM0dHa2NlZFRj?oc=5",
+      "type": "article",
+      "title": "Brian Riffel named a 2026 GlobeSt. Industrial Influencer - Colliers",
+      "date": "2026-09-03",
+      "source": "Colliers",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWU2R2tLRjJfRlVlWmRQa2ZzYVdDNzg1N0FqV3ZwSzRvT3IzY1BuNGx2NmdhMk90SVRET0ZJUzBwcWk3Q2l4TGVRVWgtVUNadXJLeGJHTE5vR0RzWk9Nd2ZVOUd4bWc5bUtVOENtNE5vOU52cV9rVWxkc1lZS2Z0LVNSSEVkSzAzLUlSM0dHa2NlZFRj?oc=5",
+      "snippet": "Brian Riffel named a 2026 GlobeSt. Industrial Influencer &nbsp;&nbsp; Colliers"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikwJBVV95cUxNcVhIbHEzdU9sNUhPa0lLMkF6eVlHZ3hPUllYZ25Bd29DTGx6UVVwNHhaLTUwM1Y3SmJOVXhfRGxQRHhyejQwaGdEV3ZNUHJ4OFYwaDFjMlo4YmxnM0lERWRBTHFxUS1oTGQtYlBIdWZxZnE1c21KSHlyYnRLcmhmcElwYUY5bWFIWTNoR0ZDdko2d090M2RQazZUTGwycmZnTjlfWmYtbS1aZDduTk9TcDVFcjhveS1RTDNsTThpV0owOFZwZkstNmF6OEtIcGFCMVdQX1lkdkphV0MxR0s4dDRXQ0dzZ0VRNXBCZmlzbzVwNWFSaUJKNUYwT0c1WjVldU02a1h4M0c2S05nTzVsTE96Yw?oc=5",
+      "type": "article",
+      "title": "Legal aid for immigrant kids remains in question after Trump administration pulls contract - Idaho State Journal",
+      "date": "2026-09-03",
+      "source": "Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcVhIbHEzdU9sNUhPa0lLMkF6eVlHZ3hPUllYZ25Bd29DTGx6UVVwNHhaLTUwM1Y3SmJOVXhfRGxQRHhyejQwaGdEV3ZNUHJ4OFYwaDFjMlo4YmxnM0lERWRBTHFxUS1oTGQtYlBIdWZxZnE1c21KSHlyYnRLcmhmcElwYUY5bWFIWTNoR0ZDdko2d090M2RQazZUTGwycmZnTjlfWmYtbS1aZDduTk9TcDVFcjhveS1RTDNsTThpV0owOFZwZkstNmF6OEtIcGFCMVdQX1lkdkphV0MxR0s4dDRXQ0dzZ0VRNXBCZmlzbzVwNWFSaUJKNUYwT0c1WjVldU02a1h4M0c2S05nTzVsTE96Yw?oc=5",
+      "snippet": "Legal aid for immigrant kids remains in question after Trump administration pulls contract &nbsp;&nbsp; Idaho State Journal"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTJoQ0p6b2ZKNWVhV1ZCcFRiTDFuaFFPZHJCSWJydnFyWTRqRlhvVlVZR2JDYXNkOWYxci12RkVrQWhSN3UtNWd4TDBlalQxUGg2djVVV01NOWN1ZEg0TWZCaDc4X2Y3dGtyeksxUDhCM1l1SWc5RGY4Y1d1ZXNwbnEtOGtKOE5GRlVRZFotYWgyR2NyOFY3aTdwOVljY25vUEdzag?oc=5",
@@ -308,6 +371,15 @@
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydlpIdWRDbVVTd0FNcGQ5dk9oLVl6Mm9LeF9wRDNlQ1NkV3JXcTRhQmtRRVFPQ3ZOc2V2UmVteUZFaV83QTVxalV6MGxERWRZR1lsVFEwVU11RzNYSkkxaXFjbVFZUdIBa0FVX3lxTE52d1FFYlUwX2dpZ2dWdGVWX1BaczBtUkJLdmFSWVRYaTUwWWtxbUhlNl9jSTJQUTh4dnVoVTJmdUpxS0dqODdRVHg0YjRxczRLRzRNMkt1RzhWWjlUZXc1RGlyUVlJQTVQOHlJ?oc=5",
       "snippet": "The best debt relief companies of September 2026 &nbsp;&nbsp; CNBC"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU1BNRHR1MmlvOXhuSFRvR2ctYXJzQTh5LWdpYXNhQVhZeENsT2ZzVk1nQnI3eVJ2UzlzLWdQUFVWM3JmZGhHV2Y4OFgyUS04SDU2MURZNlpIVDhMbkJQU2YyUFZHS2tLU25lejZTLXN1N0k3MjFzZ1IzSGROajVXbnhEbVhoRHVkRXhYTlhiLWFXRDM3d1Z5eENlSGZNYjMwZ0V2OFJSUHYtazN5R1lmU3BiemhxclNYcU5QcFh1WVZaaHUteDd6dVJ4V01wTEl6d1pNT2lYQVVXOG8zeFo5ZzdZaE96SzdZcjlDd2hNYnd3ck84Z0JRMw?oc=5",
+      "type": "article",
+      "title": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots - bnnbloomberg.ca",
+      "date": "2026-09-02",
+      "source": "bnnbloomberg.ca",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU1BNRHR1MmlvOXhuSFRvR2ctYXJzQTh5LWdpYXNhQVhZeENsT2ZzVk1nQnI3eVJ2UzlzLWdQUFVWM3JmZGhHV2Y4OFgyUS04SDU2MURZNlpIVDhMbkJQU2YyUFZHS2tLU25lejZTLXN1N0k3MjFzZ1IzSGROajVXbnhEbVhoRHVkRXhYTlhiLWFXRDM3d1Z5eENlSGZNYjMwZ0V2OFJSUHYtazN5R1lmU3BiemhxclNYcU5QcFh1WVZaaHUteDd6dVJ4V01wTEl6d1pNT2lYQVVXOG8zeFo5ZzdZaE96SzdZcjlDd2hNYnd3ck84Z0JRMw?oc=5",
+      "snippet": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots &nbsp;&nbsp; bnnbloomberg.ca"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVDNkODgzTndEZWZvTXg3SDkzdm5DalFsTHp6NEVScDk3NUtpRHdPMWljSVBIS2VYc3k3b2lKMnZ6dkdmZndMTVZGMzMtOFZraEdDdzFfZTBTbHg0TnJyX2kxX3ZsM19YVEdVUXFNa3Z2Mk8yNEFWd2s3ZV9nU3ZHd1N1Y3F2V24teXRZ?oc=5",
@@ -1280,78 +1352,6 @@
       "source": "teleSUR English",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3pwQUVPQWFOLWlwUXgySTVpa1pzTDhYMEVRVWU4M2hDVkd2M2x0c2hKNzItVVlfVW40VnQxbzFRQXFnV0JOMGRNOGJ3UEk3VXN1T0dkTWZhOUNTNmExejNSdk1SdEhzWUJHSUZiTUt2NXhiZTFhZ0w1STBLUEI3RTl0SlBWNk1QMU1FN2kxZ29wUlB6amc3VTZfSmlNUQ?oc=5",
       "snippet": "Apple Makes Concessions As EU’s Digital Markets Act Gains Traction &nbsp;&nbsp; teleSUR English"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2lQcGY3NzV0X0pYQzBGQVpNRzUtQ2E1MnBtaVMyMUFaWTNPR1Q3c1QxdXM2ei1KZFhTZDhSY0JtbzZwWFZnemxNeWRMaGx6QlgyWXlGcDAxSWZqYUZoU282cEVuVVZMSzVrcUw4RTg3MjVPM3RrdUpJbmhQRENNY2ZGOGtSLW9PZkJxZFZSY2pDUjNqcnpaajNBUkZlVDZ4ZXZFaDV2ZVFvNnhxNGpFQWNvaHpoNFk?oc=5",
-      "type": "article",
-      "title": "The court postponed the selection of a preventive measure for Iryna Mudra to Monday, August 24 - Судово-юридична газета",
-      "date": "2026-08-21",
-      "source": "Судово-юридична газета",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2lQcGY3NzV0X0pYQzBGQVpNRzUtQ2E1MnBtaVMyMUFaWTNPR1Q3c1QxdXM2ei1KZFhTZDhSY0JtbzZwWFZnemxNeWRMaGx6QlgyWXlGcDAxSWZqYUZoU282cEVuVVZMSzVrcUw4RTg3MjVPM3RrdUpJbmhQRENNY2ZGOGtSLW9PZkJxZFZSY2pDUjNqcnpaajNBUkZlVDZ4ZXZFaDV2ZVFvNnhxNGpFQWNvaHpoNFk?oc=5",
-      "snippet": "The court postponed the selection of a preventive measure for Iryna Mudra to Monday, August 24 &nbsp;&nbsp; Судово-юридична газета"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMifkFVX3lxTE5UM0wtWTdiNjFOZl8tX1pWV25CaEkyMGZIa3JfNEJEODRDS0FjMUY3aHFDek9HZ0xEV1ZPRV9ubGxGdTFGUlVXcWFfblNEdl8yTlZaQTk1Qzk1a3B2amRya1FqMVhlUlEyYVRVQ0ZBNGk2UVI0eVBLZ0pzYW9kdw?oc=5",
-      "type": "article",
-      "title": "Why have private equity firms taken an interest in buying professional sports teams? - AOL.ca",
-      "date": "2026-08-21",
-      "source": "AOL.ca",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UM0wtWTdiNjFOZl8tX1pWV25CaEkyMGZIa3JfNEJEODRDS0FjMUY3aHFDek9HZ0xEV1ZPRV9ubGxGdTFGUlVXcWFfblNEdl8yTlZaQTk1Qzk1a3B2amRya1FqMVhlUlEyYVRVQ0ZBNGk2UVI0eVBLZ0pzYW9kdw?oc=5",
-      "snippet": "Why have private equity firms taken an interest in buying professional sports teams? &nbsp;&nbsp; AOL.ca"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3c3MUNJU2JxM2FhckpOU0xzZUtMSE1TMEgwRmtrVkRGamczVEZVdWZEUVMwck1qTlV1VV9OMjQxMHFZaUE5NnoyZGMyblVjX2FYNjJUMmtTN0U3VjNjWEhuX2J1TDFhOG1hSkVldDk2VlR4bkhFdFRteWFJVkdrSzN0cXlhNWw2aXhRVkhIM3hUMXNaaDhwSXBRYWp0QjVWTUs1WA?oc=5",
-      "type": "article",
-      "title": "Private Equity Eyes $700m WSHB Deal in Major Test for Big Law’s Ownership Rules - LawFuel",
-      "date": "2026-08-20",
-      "source": "LawFuel",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3c3MUNJU2JxM2FhckpOU0xzZUtMSE1TMEgwRmtrVkRGamczVEZVdWZEUVMwck1qTlV1VV9OMjQxMHFZaUE5NnoyZGMyblVjX2FYNjJUMmtTN0U3VjNjWEhuX2J1TDFhOG1hSkVldDk2VlR4bkhFdFRteWFJVkdrSzN0cXlhNWw2aXhRVkhIM3hUMXNaaDhwSXBRYWp0QjVWTUs1WA?oc=5",
-      "snippet": "Private Equity Eyes $700m WSHB Deal in Major Test for Big Law’s Ownership Rules &nbsp;&nbsp; LawFuel"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxQX050ZC1oVWQtekNZU2pDMGpPRE5zSk5SUWUtdlhscEpuWGgzY3JrSHo4d1BJVW5ILTQ3ZjBIR3hSX1dZYVdyeXhscXdfV3lqclFLaE5oa29VUlpqSTNyVW1ZVUxHc2RjLUxGVmkzMENBNm52UndmZ19tVjBQNFlTNExDYk1XR0VsYzg3QTE0SkMzVXRiY2FxZk9wdGN0S0hs?oc=5",
-      "type": "article",
-      "title": "'No One Wants to Go First': The Waiting Game in Big Law - Law.com",
-      "date": "2026-08-20",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX050ZC1oVWQtekNZU2pDMGpPRE5zSk5SUWUtdlhscEpuWGgzY3JrSHo4d1BJVW5ILTQ3ZjBIR3hSX1dZYVdyeXhscXdfV3lqclFLaE5oa29VUlpqSTNyVW1ZVUxHc2RjLUxGVmkzMENBNm52UndmZ19tVjBQNFlTNExDYk1XR0VsYzg3QTE0SkMzVXRiY2FxZk9wdGN0S0hs?oc=5",
-      "snippet": "'No One Wants to Go First': The Waiting Game in Big Law &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinwFBVV95cUxQa21qNVJ0MjNEVm5zQ0J6OS1BdDVHdFlqaUprcW0yX1FHR1dNc0FKYTJUTlMwdXN4a0M2MHJZaHJMYWFSMjY5WWEwWnVSZk5YYWxleGNRZ1IwQ0lyYzRCbDFVak5GYmxMVERpT01nMHRVVHpubVdtRkRYTGhzb0dueE1PamJSc0o3TzIweHJrVXJHaHROcW1lR1Y3Qlh1ZW8?oc=5",
-      "type": "article",
-      "title": "Private Equity in Legal Services and Law Firms - J.P. Morgan",
-      "date": "2026-08-20",
-      "source": "J.P. Morgan",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa21qNVJ0MjNEVm5zQ0J6OS1BdDVHdFlqaUprcW0yX1FHR1dNc0FKYTJUTlMwdXN4a0M2MHJZaHJMYWFSMjY5WWEwWnVSZk5YYWxleGNRZ1IwQ0lyYzRCbDFVak5GYmxMVERpT01nMHRVVHpubVdtRkRYTGhzb0dueE1PamJSc0o3TzIweHJrVXJHaHROcW1lR1Y3Qlh1ZW8?oc=5",
-      "snippet": "Private Equity in Legal Services and Law Firms &nbsp;&nbsp; J.P. Morgan"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2l2ay01NHl6YXdSWTF1X1hZVVRRX0s1d1prUDlHR1BXVGRSVnJ5QmVwNTdSMk5SSWpkSHVFWjlQV0lJdnlZU1E0RlpkOVdhT2lWUkF1SUwxckVPUFBWeUt1LWJuNEppTERMWERuTWJjTG1Cc01XM2NhYjk4SFE0dXlMbVBYR3YtU0JOSnh2UlJTVHZhNm0tTFl4WVJNZzR2TlkzblFTMXZZMEhGVGhoSFBWeDF3VlFDY1h0alBuY1RRSkFMOHJQYi1Vdw?oc=5",
-      "type": "article",
-      "title": "Podcast - What Healthcare Investors Should Learn from California's CPOM Actions - Mondaq",
-      "date": "2026-08-20",
-      "source": "Mondaq",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2l2ay01NHl6YXdSWTF1X1hZVVRRX0s1d1prUDlHR1BXVGRSVnJ5QmVwNTdSMk5SSWpkSHVFWjlQV0lJdnlZU1E0RlpkOVdhT2lWUkF1SUwxckVPUFBWeUt1LWJuNEppTERMWERuTWJjTG1Cc01XM2NhYjk4SFE0dXlMbVBYR3YtU0JOSnh2UlJTVHZhNm0tTFl4WVJNZzR2TlkzblFTMXZZMEhGVGhoSFBWeDF3VlFDY1h0alBuY1RRSkFMOHJQYi1Vdw?oc=5",
-      "snippet": "Podcast - What Healthcare Investors Should Learn from California's CPOM Actions &nbsp;&nbsp; Mondaq"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxQbk5YbHN6WGUydldKSnRzb1F2QjFRS2FvdmdadTdWZmpVSE5aNWxjMEJ2ajdyRWtiSnBWNHZaUVpqdlMxLTEzekhjUDVWVlVIZXF1cFVaTHpCUTZQdUVqRHM3OXJYRzNuUFRSMGFuenhvZlh2aTBZdElsZ3plV2JfRXN5a3g?oc=5",
-      "type": "article",
-      "title": "Private equity’s escapades in the legal market - Financial Times",
-      "date": "2026-08-20",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbk5YbHN6WGUydldKSnRzb1F2QjFRS2FvdmdadTdWZmpVSE5aNWxjMEJ2ajdyRWtiSnBWNHZaUVpqdlMxLTEzekhjUDVWVlVIZXF1cFVaTHpCUTZQdUVqRHM3OXJYRzNuUFRSMGFuenhvZlh2aTBZdElsZ3plV2JfRXN5a3g?oc=5",
-      "snippet": "Private equity’s escapades in the legal market &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkp5ZnUtMXN5Mkw4UFBDdVhHbUhka0JYdl9JTVZhNXRURWVMaGR0NGJsNTd3TTEwdGVqVDFTV3RJSU9DRmJKbmZLRzFGNXAyUUU1SU02ZUNvX3NTVE9MdjFrcjFXUkZRYWJldmNNdTQ0SkNjWURIcXpoZWVGZ0pDNmZmZnVWNjhqYUFGbzFfRm0yQ3pXdDliR19mQjZ0RmhWRy1pNFBTbVdyQ3JYWWJpeNIBVkFVX3lxTFB5NEZabHdVNkpoRF9WeXZSdnhOVVhvcnNoZjBBR0JabEpWbEFYUkl3aEY1N2F3UTFRczhPUm9uR1lzVEJUa2paNU9mY0IwaWlVclV5RFRB?oc=5",
-      "type": "article",
-      "title": "3rd Circ. Urged To Revisit Arbitration Doctrine In Award Fight - Law360",
-      "date": "2026-08-20",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkp5ZnUtMXN5Mkw4UFBDdVhHbUhka0JYdl9JTVZhNXRURWVMaGR0NGJsNTd3TTEwdGVqVDFTV3RJSU9DRmJKbmZLRzFGNXAyUUU1SU02ZUNvX3NTVE9MdjFrcjFXUkZRYWJldmNNdTQ0SkNjWURIcXpoZWVGZ0pDNmZmZnVWNjhqYUFGbzFfRm0yQ3pXdDliR19mQjZ0RmhWRy1pNFBTbVdyQ3JYWWJpeNIBVkFVX3lxTFB5NEZabHdVNkpoRF9WeXZSdnhOVVhvcnNoZjBBR0JabEpWbEFYUkl3aEY1N2F3UTFRczhPUm9uR1lzVEJUa2paNU9mY0IwaWlVclV5RFRB?oc=5",
-      "snippet": "3rd Circ. Urged To Revisit Arbitration Doctrine In Award Fight &nbsp;&nbsp; Law360"
     }
   ]
 }
