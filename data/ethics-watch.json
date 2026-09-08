@@ -1,8 +1,80 @@
 {
-  "lastRun": "2026-09-07T16:18:56.837383+00:00",
+  "lastRun": "2026-09-08T14:58:49.760736+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 8,
+  "addedThisRun": 13,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0poRHlJNWJjczdZZmk0aTVPY01lX0pkZ0h0czBxZEI3ODJ2Z19CREVTN1pkNlpuRmdCWlBUV2dXMU9OUmxyQU1uSDc0ajJRc3Z2WFp2OUFOYXFqeWZFdGFkdnlxUlFjOVpmVXVnVlBuOUZZeTJDQWlHN0VUbEF0Q0tnWXRRdjlYMDNv?oc=5",
+      "type": "article",
+      "title": "Merrill – The NewMod For Litigation Work - artificiallawyer.com",
+      "date": "2026-09-08",
+      "source": "artificiallawyer.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0poRHlJNWJjczdZZmk0aTVPY01lX0pkZ0h0czBxZEI3ODJ2Z19CREVTN1pkNlpuRmdCWlBUV2dXMU9OUmxyQU1uSDc0ajJRc3Z2WFp2OUFOYXFqeWZFdGFkdnlxUlFjOVpmVXVnVlBuOUZZeTJDQWlHN0VUbEF0Q0tnWXRRdjlYMDNv?oc=5",
+      "snippet": "Merrill – The NewMod For Litigation Work &nbsp;&nbsp; artificiallawyer.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFRRSXFHTDJlV3hKUVNJXzFEOUhtYXBkLVhZLWlnLXAtNW1qTktoYUZtOHB4TzVEbFNEQy1hc08zTzItMm1Qdk9HM3hzN0J4X1ZCZHo4NWp1T0tGeTkxbHZEVUhqZHhhYWs2Z3doVzd3YjR1VklWRDRSLU5Pdlc0UUp5TkYxOEZKN3FaSEEtVThSXzdFZHNSWHpYRERiNlk?oc=5",
+      "type": "article",
+      "title": "Pioneering Law Firm CINO Jumps to Baretz + Brunelle - Law.com",
+      "date": "2026-09-08",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFRRSXFHTDJlV3hKUVNJXzFEOUhtYXBkLVhZLWlnLXAtNW1qTktoYUZtOHB4TzVEbFNEQy1hc08zTzItMm1Qdk9HM3hzN0J4X1ZCZHo4NWp1T0tGeTkxbHZEVUhqZHhhYWs2Z3doVzd3YjR1VklWRDRSLU5Pdlc0UUp5TkYxOEZKN3FaSEEtVThSXzdFZHNSWHpYRERiNlk?oc=5",
+      "snippet": "Pioneering Law Firm CINO Jumps to Baretz + Brunelle &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmR5TnhoV01jZjdvSWpyaldCRl92bkFCdGE4MnMyNC13TzhneHRiOEdxVHZ3SzZ4MS1FMUNvanpwbUltbUU0YWlLZzk1dS1Vb096dVdvWUlhem9VWGFpZFZIc0x6TG5YdjNBZTRuMW83R19xbVBWbHd6MDZta0E4UnFXUlZ0YU5nMzdISG95ZV9zdVZrdFM1aW5mOVZweDVRY2g3WmxPeXhDbW1xMGtXWg?oc=5",
+      "type": "article",
+      "title": "At Your Service: Sept. 8 edition - Alternatives Watch",
+      "date": "2026-09-08",
+      "source": "Alternatives Watch",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmR5TnhoV01jZjdvSWpyaldCRl92bkFCdGE4MnMyNC13TzhneHRiOEdxVHZ3SzZ4MS1FMUNvanpwbUltbUU0YWlLZzk1dS1Vb096dVdvWUlhem9VWGFpZFZIc0x6TG5YdjNBZTRuMW83R19xbVBWbHd6MDZta0E4UnFXUlZ0YU5nMzdISG95ZV9zdVZrdFM1aW5mOVZweDVRY2g3WmxPeXhDbW1xMGtXWg?oc=5",
+      "snippet": "At Your Service: Sept. 8 edition &nbsp;&nbsp; Alternatives Watch"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXBVWkxSSS05TEhGcGMyTnR4NmhUcVNEaWg0MW0xWFlHTWJ2VTlGQ1pJeHUySkRlMXdKUVE3TjJwcjNXanNsVFJDNWd0X2RXMFBSWkd1Zm5aVHkxcnZ6MkVVZW5wWW5hbHZ6N2gzcjY5REg3M05HT2pvZnI1N3FZbTRya01hUHRNalRfanZ5VWh1NTBGaTJEZWtITXNWakdBVUNtLXp2azA2UG9rRWRQUw?oc=5",
+      "type": "article",
+      "title": "Can a SAFE be Shariah-compliant and still be a SAFE? - Dentons",
+      "date": "2026-09-08",
+      "source": "Dentons",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXBVWkxSSS05TEhGcGMyTnR4NmhUcVNEaWg0MW0xWFlHTWJ2VTlGQ1pJeHUySkRlMXdKUVE3TjJwcjNXanNsVFJDNWd0X2RXMFBSWkd1Zm5aVHkxcnZ6MkVVZW5wWW5hbHZ6N2gzcjY5REg3M05HT2pvZnI1N3FZbTRya01hUHRNalRfanZ5VWh1NTBGaTJEZWtITXNWakdBVUNtLXp2azA2UG9rRWRQUw?oc=5",
+      "snippet": "Can a SAFE be Shariah-compliant and still be a SAFE? &nbsp;&nbsp; Dentons"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi2wFBVV95cUxNczdsaHFXakhHNjZSUnlDQ1JCSFJJZUc4Yjh4SE92ZUU4Q1dkRGQtQUlaSmpiY0ZOdG4zUURhaDBGa25JbEJHcDZpYVdLMlllaGdRdXlqYnhzYVFGMThpU2NOTnhBbjhabkZfT1Nmb2VJSFkyeEhBTTJ1WUkzZDNCc291RTBRX2pzczBmZUFPTWdBZmxxQ2U1X3VPWXdYY0hxSkVYSU5RY3FZYkNuQlhwOUs0WDdtOUJlMmpOLWNoTUcyTzlfeEgyVzU1Yk15SWJVeUt4YVRoTGNiSzA?oc=5",
+      "type": "article",
+      "title": "The P6-billion rescue package, anchored by private investment firm I&C Holdings’ P3.5-billion investment and backed by Gabby Lopez III and other Lopez family investors, has begun flowing into the ailing media company - facebook.com",
+      "date": "2026-09-08",
+      "source": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNczdsaHFXakhHNjZSUnlDQ1JCSFJJZUc4Yjh4SE92ZUU4Q1dkRGQtQUlaSmpiY0ZOdG4zUURhaDBGa25JbEJHcDZpYVdLMlllaGdRdXlqYnhzYVFGMThpU2NOTnhBbjhabkZfT1Nmb2VJSFkyeEhBTTJ1WUkzZDNCc291RTBRX2pzczBmZUFPTWdBZmxxQ2U1X3VPWXdYY0hxSkVYSU5RY3FZYkNuQlhwOUs0WDdtOUJlMmpOLWNoTUcyTzlfeEgyVzU1Yk15SWJVeUt4YVRoTGNiSzA?oc=5",
+      "snippet": "The P6-billion rescue package, anchored by private investment firm I&C Holdings’ P3.5-billion investment and backed by Gabby Lopez III and other Lopez family investors, has begun flowing into the ailing media company &nbsp;&nbsp; facebook.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi-wJBVV95cUxNcmcxOEhFWXpNd21HMlJkUTUybTAzNXVuSFQ5dl9Ca2pTLUhYelFyZ0gxaTNLSDdySUFtWGJ4b1lSVmo5b2dZbHEzSFBqTVFYamxMWGV3aUZhdHJreS1vdXpOQ1huVW1YX2d4SlNma3hRZmhDUkZ6UHFRQl83YnVvbnRGaWhHRDIzSlZXQ1VGdUNNNTAxMW93ZGFhanc0V3dhREtqVHljUHc3bTRfNElua3BMNDlOMlB1T1pKdFJ2UXJ3aVE4c1VVVUJLWVlaOHg2UVFEMnM4ZnI4S0t0NHNoR3FlVmtWd1hvcnRibTBpcmdGTFZYZW05SnhMUTJKbElTcUF4X0NSdUJfTlZOMkVmZ2ZEVzNyb2NmUWhsaVFoalBjcktMZUFhMjRval9YbkQyNG5NTFhPSEhtdUpaNmUzTzFRTFV3OWgwVm5jdjViWVVNbFhBZktSR1BOaDZJd2F1cUN1SVc4NVVnZGRCWXVIOEVPVVN4UnluX1dz?oc=5",
+      "type": "article",
+      "title": "Deloitte Romania expands its management team by promoting three professionals in financial advisory, audit and assurance and cybersecurity to the role of director - Deloitte",
+      "date": "2026-09-08",
+      "source": "Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNcmcxOEhFWXpNd21HMlJkUTUybTAzNXVuSFQ5dl9Ca2pTLUhYelFyZ0gxaTNLSDdySUFtWGJ4b1lSVmo5b2dZbHEzSFBqTVFYamxMWGV3aUZhdHJreS1vdXpOQ1huVW1YX2d4SlNma3hRZmhDUkZ6UHFRQl83YnVvbnRGaWhHRDIzSlZXQ1VGdUNNNTAxMW93ZGFhanc0V3dhREtqVHljUHc3bTRfNElua3BMNDlOMlB1T1pKdFJ2UXJ3aVE4c1VVVUJLWVlaOHg2UVFEMnM4ZnI4S0t0NHNoR3FlVmtWd1hvcnRibTBpcmdGTFZYZW05SnhMUTJKbElTcUF4X0NSdUJfTlZOMkVmZ2ZEVzNyb2NmUWhsaVFoalBjcktMZUFhMjRval9YbkQyNG5NTFhPSEhtdUpaNmUzTzFRTFV3OWgwVm5jdjViWVVNbFhBZktSR1BOaDZJd2F1cUN1SVc4NVVnZGRCWXVIOEVPVVN4UnluX1dz?oc=5",
+      "snippet": "Deloitte Romania expands its management team by promoting three professionals in financial advisory, audit and assurance and cybersecurity to the role of director &nbsp;&nbsp; Deloitte"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGtaSGZsQjFxSU14Zmw2Qk5XVEgyUV9Ha3JSNkU4WlJFUzE5YXJYVGdpWS1LbVdwR2xvak1ieTV6eW5jWmNmRUdESEJIRGlqTGcxSWVUeTdIenlxTHdkMmlGdUFmYnVrdUo1Z01ycDhPZHlFeUFNMjZRMnlSN1ZKSlY0S3ZTTk9nSVlGSDQzaE1rZVdxTF9aVkZqNzBFbHdHaFdmU0tiNUZVNXktQ1lXM1930gG3AUFVX3lxTFBweW4waEw2VWlNZVpkeXF0dkFxdXdVbFhtbEF5eVRFSjBndVdtSnh0dTVJdjM5SHZUS2ZxdmhyS2ItZkhlM3ZuTXdmd0VOa3RlWk9oY1NsajVILWQzZXY5OEkyS1pUeTZzaE1oN0h0MlE3Z1ZBWEtYZElfVnl2RHJyTWJmTHdSVGxrYUhMWDJhQ0oyWkcxUXdjak9rTmJQSldaNXlMM2dHYU5pRzVPRUJ6ck51dzMtUQ?oc=5",
+      "type": "article",
+      "title": "We Get Privacy | Before You Sign: Negotiating AI Contract Terms That Protect Your Organization [Video] - The National Law Review",
+      "date": "2026-09-08",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGtaSGZsQjFxSU14Zmw2Qk5XVEgyUV9Ha3JSNkU4WlJFUzE5YXJYVGdpWS1LbVdwR2xvak1ieTV6eW5jWmNmRUdESEJIRGlqTGcxSWVUeTdIenlxTHdkMmlGdUFmYnVrdUo1Z01ycDhPZHlFeUFNMjZRMnlSN1ZKSlY0S3ZTTk9nSVlGSDQzaE1rZVdxTF9aVkZqNzBFbHdHaFdmU0tiNUZVNXktQ1lXM1930gG3AUFVX3lxTFBweW4waEw2VWlNZVpkeXF0dkFxdXdVbFhtbEF5eVRFSjBndVdtSnh0dTVJdjM5SHZUS2ZxdmhyS2ItZkhlM3ZuTXdmd0VOa3RlWk9oY1NsajVILWQzZXY5OEkyS1pUeTZzaE1oN0h0MlE3Z1ZBWEtYZElfVnl2RHJyTWJmTHdSVGxrYUhMWDJhQ0oyWkcxUXdjak9rTmJQSldaNXlMM2dHYU5pRzVPRUJ6ck51dzMtUQ?oc=5",
+      "snippet": "We Get Privacy | Before You Sign: Negotiating AI Contract Terms That Protect Your Organization [Video] &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERLTkg5ckxfYV9RRndTSFlLSU1rS2RMUjdTMjI2c0x3Uy1KUDEwOHo3bUZPR0NZS2FsMmxBSnFzeTZabTBYTXQ4UGIteFByYUNfUWFBVUJRcWhyZ3ZqOTNJMVFCYjE2U0xSZFI3WjJXQ2s2dkM2MnFQdDk2T1JVb0V3TnM3UFUxQWVYVg?oc=5",
+      "type": "article",
+      "title": "ICAI Examines Private Equity Funding for Consultancy and Accounting Businesses, Audit Practices to Remain Ring-Fenced - Juris Hour",
+      "date": "2026-09-08",
+      "source": "Juris Hour",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERLTkg5ckxfYV9RRndTSFlLSU1rS2RMUjdTMjI2c0x3Uy1KUDEwOHo3bUZPR0NZS2FsMmxBSnFzeTZabTBYTXQ4UGIteFByYUNfUWFBVUJRcWhyZ3ZqOTNJMVFCYjE2U0xSZFI3WjJXQ2s2dkM2MnFQdDk2T1JVb0V3TnM3UFUxQWVYVg?oc=5",
+      "snippet": "ICAI Examines Private Equity Funding for Consultancy and Accounting Businesses, Audit Practices to Remain Ring-Fenced &nbsp;&nbsp; Juris Hour"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS3lGYjZhU2pWUnhKcF9VUmtXUTVpYVZSUGFaU0JYS3A2bFNOUjdtVi1ob2IwRTBISWpvT2xGOTRyRHl4cGc0LWthY1hPVGowbWhOTlZycEJXS2pzZVhHZ3hWZEV1d2RnNzZVVU82RlhfeEVjUFB0a2o1Ynh4VWtJbTBTMXR0eERabnZiLUFpUnlKcmdoZG15aDdEZmRUc1NNdEoxTFR6eEw1cEFzWVhvb2ZGczgta2NhNW0xT09QS3EzSkZaUXY5WEFvc1RRUTEySzlzMzlvLXlYbHM?oc=5",
       "type": "article",
@@ -11,6 +83,51 @@
       "source": "Mondaq",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS3lGYjZhU2pWUnhKcF9VUmtXUTVpYVZSUGFaU0JYS3A2bFNOUjdtVi1ob2IwRTBISWpvT2xGOTRyRHl4cGc0LWthY1hPVGowbWhOTlZycEJXS2pzZVhHZ3hWZEV1d2RnNzZVVU82RlhfeEVjUFB0a2o1Ynh4VWtJbTBTMXR0eERabnZiLUFpUnlKcmdoZG15aDdEZmRUc1NNdEoxTFR6eEw1cEFzWVhvb2ZGczgta2NhNW0xT09QS3EzSkZaUXY5WEFvc1RRUTEySzlzMzlvLXlYbHM?oc=5",
       "snippet": "The Emerging Federal Overlay On Healthcare Transactions, Amid Expanding State Review Regimes &nbsp;&nbsp; Mondaq"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxOek9PYjVhU00zZEtOR0JTUWZsQ1RleS1PT05wTWpuNTI3dEY3V1l1Uzh5b2VFdUFXVVQ4NGR1MmRzUlFmOFU1ZWVnS191OEN3NGhwMUF0VnNiT1prb3p5b21rTTFUN1JESERFdV9QZkUtVFRSTGNUN0Rqd2thZVlmTXdMOHJfd2g5eGdzRVhFeWtBM0JWcWl1aGw5bmNMdndVSUHSAVZBVV95cUxOR0tQZnBER1o2c1doMV93NzA5NlZuZXJzaUp6dXV0Q2lBc1FkenZFSkJqUGF5V0wtM3BwRjY2LVYyWW1qNnc5RUYwMVFkd0d3ZEt4NlNwZw?oc=5",
+      "type": "article",
+      "title": "Healey Won't Rule Out Tax Hikes Despite Business Demands - Law360",
+      "date": "2026-09-07",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOek9PYjVhU00zZEtOR0JTUWZsQ1RleS1PT05wTWpuNTI3dEY3V1l1Uzh5b2VFdUFXVVQ4NGR1MmRzUlFmOFU1ZWVnS191OEN3NGhwMUF0VnNiT1prb3p5b21rTTFUN1JESERFdV9QZkUtVFRSTGNUN0Rqd2thZVlmTXdMOHJfd2g5eGdzRVhFeWtBM0JWcWl1aGw5bmNMdndVSUHSAVZBVV95cUxOR0tQZnBER1o2c1doMV93NzA5NlZuZXJzaUp6dXV0Q2lBc1FkenZFSkJqUGF5V0wtM3BwRjY2LVYyWW1qNnc5RUYwMVFkd0d3ZEt4NlNwZw?oc=5",
+      "snippet": "Healey Won't Rule Out Tax Hikes Despite Business Demands &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXZJNG8tVll1X2dHY25kcElzNFZIRjFhaVU0TVExRUxJTUZQekJtb0podVIyQXVJSGJRVlZqUFNDemVSc1VJVkQxWDNsVzRXX0dncEhfQ2VjY05reDhNNDROZzdmQWtDTGk0cUJmNUpZYm9OazE1ME9kYVhSdDFsMkZWbDJBbi12OEJ1LXVNeDc1R21VVS01alFSeHVOUzZqZElCR2s1NER1UQ?oc=5",
+      "type": "article",
+      "title": "Platform eyes ABS licence in bid to plug advice gap for renters - Legal Futures",
+      "date": "2026-09-07",
+      "source": "Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXZJNG8tVll1X2dHY25kcElzNFZIRjFhaVU0TVExRUxJTUZQekJtb0podVIyQXVJSGJRVlZqUFNDemVSc1VJVkQxWDNsVzRXX0dncEhfQ2VjY05reDhNNDROZzdmQWtDTGk0cUJmNUpZYm9OazE1ME9kYVhSdDFsMkZWbDJBbi12OEJ1LXVNeDc1R21VVS01alFSeHVOUzZqZElCR2s1NER1UQ?oc=5",
+      "snippet": "Platform eyes ABS licence in bid to plug advice gap for renters &nbsp;&nbsp; Legal Futures"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDVXQWo0WHlUS3RBbEF0TzB5TFVONlZ1VVJGclQ0LXk0c2FYd2d6RFdrUmFlaVdXaG5uUEloNWRCUk8xYjQtcVFKX2NtcEFTNngtMi1PSlFHNVVUbWVzaTI4dy1pS01pTVZ4Z3IyN1FuZmVNb1BWR3kyNlFuVHZDUzRmN0V2RE9v?oc=5",
+      "type": "article",
+      "title": "Newsworthy people and performances from Sept. 7, 2026 - mainebiz.biz",
+      "date": "2026-09-07",
+      "source": "mainebiz.biz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDVXQWo0WHlUS3RBbEF0TzB5TFVONlZ1VVJGclQ0LXk0c2FYd2d6RFdrUmFlaVdXaG5uUEloNWRCUk8xYjQtcVFKX2NtcEFTNngtMi1PSlFHNVVUbWVzaTI4dy1pS01pTVZ4Z3IyN1FuZmVNb1BWR3kyNlFuVHZDUzRmN0V2RE9v?oc=5",
+      "snippet": "Newsworthy people and performances from Sept. 7, 2026 &nbsp;&nbsp; mainebiz.biz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWVR4TG8tUUhVSjA1aWxJd29fbVdxOUZFS3FmSmllNndDWGVRM2tLQktZaFNmRVR5bXpxb3FTXzFLSUR1XzFUVkRSS2tQaGFIX2xpSmprbkl1SkpQWTllMkllMW9LRTBMX0wteXhyc2gxTm1CS0NudE5DT1dYYUxDVzFsWWtiMkVUT1lWQlBNRW9wMThpUlVwa0NVUUZFZ2oybHVycTZ4ZlkwOHp0bE0zRmJEaFdmc2NsM1ZQTllydTRiMnplZXJ0V2JwaVNKbXZHRm1mSE13?oc=5",
+      "type": "article",
+      "title": "Leon Legal Group Expands Bilingual Personal Injury Legal Services in Miami - FinancialContent",
+      "date": "2026-09-07",
+      "source": "FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWVR4TG8tUUhVSjA1aWxJd29fbVdxOUZFS3FmSmllNndDWGVRM2tLQktZaFNmRVR5bXpxb3FTXzFLSUR1XzFUVkRSS2tQaGFIX2xpSmprbkl1SkpQWTllMkllMW9LRTBMX0wteXhyc2gxTm1CS0NudE5DT1dYYUxDVzFsWWtiMkVUT1lWQlBNRW9wMThpUlVwa0NVUUZFZ2oybHVycTZ4ZlkwOHp0bE0zRmJEaFdmc2NsM1ZQTllydTRiMnplZXJ0V2JwaVNKbXZHRm1mSE13?oc=5",
+      "snippet": "Leon Legal Group Expands Bilingual Personal Injury Legal Services in Miami &nbsp;&nbsp; FinancialContent"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxPSEtERU1Ja1p2UXVSd1VLU3ctUHBIQk84TlNCX0Z2MGttOXkxdm4xRjZFOU13X2dpRHItOURMOGNnMkstLUk4TktkYk9fVFdZWDItOUNBQnhNTTB2Y3VtU1o1R2M2QW53dkdkcGZTRmlkSTR4NkhObUhoa2RqRHh0aWlwMkd2Z01CNU5pQWw0X1AzbldfY195dTBlT3JsbU5Vb0E?oc=5",
+      "type": "article",
+      "title": "When your client uses ChatGPT: The emerging work product rules - Missouri Lawyers Media",
+      "date": "2026-09-07",
+      "source": "Missouri Lawyers Media",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSEtERU1Ja1p2UXVSd1VLU3ctUHBIQk84TlNCX0Z2MGttOXkxdm4xRjZFOU13X2dpRHItOURMOGNnMkstLUk4TktkYk9fVFdZWDItOUNBQnhNTTB2Y3VtU1o1R2M2QW53dkdkcGZTRmlkSTR4NkhObUhoa2RqRHh0aWlwMkd2Z01CNU5pQWw0X1AzbldfY195dTBlT3JsbU5Vb0E?oc=5",
+      "snippet": "When your client uses ChatGPT: The emerging work product rules &nbsp;&nbsp; Missouri Lawyers Media"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Ywb2VvQllEZllleDhyS2VMQUUxc2dxVncyR19Ec0lVTTNOMll0cDJ2YmVUbVBCeWc4d3dYVlR4dFF4dlQ2V25LYUpxSEVuak5CeVUwb0JCSkdtaDlxNXh2Ql9JUDhWd0NrR0U5dlFIWHJJcy1TVjBhbmNFR21UZGI4YVNpS3AydkhqYjRUNWZpWk9pOWI3OUlQT2NBRm83RkNKeGk5dEN1dw?oc=5",
@@ -1235,123 +1352,6 @@
       "source": "Baltimore Fishbowl",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTlaeHJ4d0puem9lRm1zcnZ5VWtYaWRJMGw3ZVZmOVdqdEY5ZFdNazdWSzBPWFdIUW83Z3p1bHc1ODJCTDZJMEk0MlFjdlVoSVBDaDBHQlVuNG5Ic3VLMS1PWmxnM2FMNzVsaFRxanR3aUZNd0c5UGFSTmdCRmk3bGFPX0w0YVVvSGY2ZUNXdzZGUElSbDd1MUlZbVJoZGRzcUVVTXRpWk9CbmMzNVBvakdzaDJPSGlqVHNWZ2lIZVpQa1Itbm5udE9QLURDclE?oc=5",
       "snippet": "The law firm of Kollman, Saucier & Jackson has moved from Towson to Executive Plaza in Hunt Valley &nbsp;&nbsp; Baltimore Fishbowl"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckhLTVhQWkJuMG9GTmlvRXpobXZGeTBvUjJSVUlDWER5M1JCNmtScG9LVTkzNHgtbC0wNnFNNUl6bzVuQ0JMb255YmNJNFRXREdsQzZzdEM2OHZySS1ON2pwWDBQdjlEbW9Fa0lpb19QQ2pLWTVDUHFOVlg2c0NrVTR5anZPSTFQXzVZUnBxc0doY1J5aVlYbzFVZXhIRlNrbVJBR3ZRVTBmQVJzWmQxZnIwZ0Vxd0tycEkwVlJXbXdPeU5BbnJBTWtob0xMcjFldHgwMnBhZw?oc=5",
-      "type": "article",
-      "title": "Lana Manganiello Recognized by San Diego Business Journal as a 2026 Woman of Influence in Law - EIN Presswire",
-      "date": "2026-08-24",
-      "source": "EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckhLTVhQWkJuMG9GTmlvRXpobXZGeTBvUjJSVUlDWER5M1JCNmtScG9LVTkzNHgtbC0wNnFNNUl6bzVuQ0JMb255YmNJNFRXREdsQzZzdEM2OHZySS1ON2pwWDBQdjlEbW9Fa0lpb19QQ2pLWTVDUHFOVlg2c0NrVTR5anZPSTFQXzVZUnBxc0doY1J5aVlYbzFVZXhIRlNrbVJBR3ZRVTBmQVJzWmQxZnIwZ0Vxd0tycEkwVlJXbXdPeU5BbnJBTWtob0xMcjFldHgwMnBhZw?oc=5",
-      "snippet": "Lana Manganiello Recognized by San Diego Business Journal as a 2026 Woman of Influence in Law &nbsp;&nbsp; EIN Presswire"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmhPWlZsSU81dGJlWjVEdE9fVWdUcW5SUm9wdkVvbGhPdGRhc0VZcnRINkZTNjBXdFZVdmxiZzZFSjhqaVZUeXMtak1RUkx1alIxb3BNY3dKUGZxYTAtTEFiaGFld0psU0o0S1N5U1FXSjRWSEZnRmFLNl9FYzBOdzJuWXN1WEFxcjVBaC1xcjR4Zy1ST195WmQzeTlBS2VhV1o1MEtFMWUyM3lO?oc=5",
-      "type": "article",
-      "title": "From Salomon to Akonta: the end of political immunity for corporate galamsey - Business & Financial Times",
-      "date": "2026-08-24",
-      "source": "Business & Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmhPWlZsSU81dGJlWjVEdE9fVWdUcW5SUm9wdkVvbGhPdGRhc0VZcnRINkZTNjBXdFZVdmxiZzZFSjhqaVZUeXMtak1RUkx1alIxb3BNY3dKUGZxYTAtTEFiaGFld0psU0o0S1N5U1FXSjRWSEZnRmFLNl9FYzBOdzJuWXN1WEFxcjVBaC1xcjR4Zy1ST195WmQzeTlBS2VhV1o1MEtFMWUyM3lO?oc=5",
-      "snippet": "From Salomon to Akonta: the end of political immunity for corporate galamsey &nbsp;&nbsp; Business & Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEI5cDU0M0EtLXJNSno0N1hBbDR6dVpGLTlhcThuUUt0SjB1SzBQTnRuN2JyeUd4bEFIMVpQWjVPdkxoOVZQUXNfVkxDNlBTZlM4NzNsSmNYdTE4M2U2QXF1NVVsZ0JUNlBSRVRaNlEyVy1XN25kenNsd2xUTGFrZGwzVjIwU2ZFVU55aFBDQ0ZNdEhmYldDOU0xdHBfVHZfZjJDdklMZmQ1V3N6QmFtTGZDNmVQUnk0NHdLaw?oc=5",
-      "type": "article",
-      "title": "Structural load: Business models, power, and professional control - rdhmag.com",
-      "date": "2026-08-24",
-      "source": "rdhmag.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEI5cDU0M0EtLXJNSno0N1hBbDR6dVpGLTlhcThuUUt0SjB1SzBQTnRuN2JyeUd4bEFIMVpQWjVPdkxoOVZQUXNfVkxDNlBTZlM4NzNsSmNYdTE4M2U2QXF1NVVsZ0JUNlBSRVRaNlEyVy1XN25kenNsd2xUTGFrZGwzVjIwU2ZFVU55aFBDQ0ZNdEhmYldDOU0xdHBfVHZfZjJDdklMZmQ1V3N6QmFtTGZDNmVQUnk0NHdLaw?oc=5",
-      "snippet": "Structural load: Business models, power, and professional control &nbsp;&nbsp; rdhmag.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVVZcDhmUGVnakJKQm5zRnRHc3VCR0hpdjVDb3RZMnplbTZuOFRCajRZTkRjTHFKbDk3RmxPS2NZOElrNVpVdU9xMHNMQjluazZxOXFGTElOYkFzUXI3QlVtUDA0d0JGbzdLMkdGTlhMT3hDZ3VraVVGOXJVWXNDRVBGc00xZk5tYVFmSmVMUElZYUF1Uk8zT1IwOFRlUGtJc1VrdDI2NTE1TmZZMk9SdVcxc1hUNDlxQ2c?oc=5",
-      "type": "article",
-      "title": "Law Firms Can Use Private Equity’s Positives to Benefit Culture - Bloomberg Law News",
-      "date": "2026-08-24",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVVZcDhmUGVnakJKQm5zRnRHc3VCR0hpdjVDb3RZMnplbTZuOFRCajRZTkRjTHFKbDk3RmxPS2NZOElrNVpVdU9xMHNMQjluazZxOXFGTElOYkFzUXI3QlVtUDA0d0JGbzdLMkdGTlhMT3hDZ3VraVVGOXJVWXNDRVBGc00xZk5tYVFmSmVMUElZYUF1Uk8zT1IwOFRlUGtJc1VrdDI2NTE1TmZZMk9SdVcxc1hUNDlxQ2c?oc=5",
-      "snippet": "Law Firms Can Use Private Equity’s Positives to Benefit Culture &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1F6V1NGUHlnc2syTGVTZkE2X2tlLTkxbER3MWFrNXZWVHdRQXdzcy13UGptYU9wbkJjVDVGZVpFRVZVY05MYnZUUktPTEpTR01QQngyV0gzWE1oVXF0ZFR6Vm1yejU1c2VvSk9WSFU2emxySXJmVXdtT1FwVWE5LXowTFQ3MGxITHMwUFlIckhLTTJuWHVpcHdXZF92OWEwR0V1UndRY2U3MEgyX0cycGZab05keW01?oc=5",
-      "type": "article",
-      "title": "Why have private equity firms taken interest in buying pro sports teams? - Jefferson City News Tribune",
-      "date": "2026-08-23",
-      "source": "Jefferson City News Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1F6V1NGUHlnc2syTGVTZkE2X2tlLTkxbER3MWFrNXZWVHdRQXdzcy13UGptYU9wbkJjVDVGZVpFRVZVY05MYnZUUktPTEpTR01QQngyV0gzWE1oVXF0ZFR6Vm1yejU1c2VvSk9WSFU2emxySXJmVXdtT1FwVWE5LXowTFQ3MGxITHMwUFlIckhLTTJuWHVpcHdXZF92OWEwR0V1UndRY2U3MEgyX0cycGZab05keW01?oc=5",
-      "snippet": "Why have private equity firms taken interest in buying pro sports teams? &nbsp;&nbsp; Jefferson City News Tribune"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHRGZlNMUEdOVFpIeUFUN0ZScXkwd3FPTzBUXzcwR0RZcWlYSG92eUV4NHF1dUVzamhwYjVTY1VDZWNDN05xQjU1MDdGQVpJazA4dC1zb3Fnb1JQSG1zcUJiSjJxN0pQLWMwWGJRWDlJY0xFdnNad3NHZXBwMlBfaU1NRQ?oc=5",
-      "type": "article",
-      "title": "True Crime Fame and Entertainment Economics Explained - The Bulletin Time",
-      "date": "2026-08-23",
-      "source": "The Bulletin Time",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHRGZlNMUEdOVFpIeUFUN0ZScXkwd3FPTzBUXzcwR0RZcWlYSG92eUV4NHF1dUVzamhwYjVTY1VDZWNDN05xQjU1MDdGQVpJazA4dC1zb3Fnb1JQSG1zcUJiSjJxN0pQLWMwWGJRWDlJY0xFdnNad3NHZXBwMlBfaU1NRQ?oc=5",
-      "snippet": "True Crime Fame and Entertainment Economics Explained &nbsp;&nbsp; The Bulletin Time"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikAJBVV95cUxQa1pRa0hXQWZRSkRQT3pjZkIwNWhlS005SS1JbExUNkU2X2E0SmpFTEZPbUxWaC1rWVlCNnNqRGJydUZ4MHBpMEx2Ym5rMzBLa013R011Yi1PdHVsaHJURXl4OF9CTFdsM0pDM0RLeE4xUnpkU2szcFNfd00zNkk2ZmM2dUxfU0xSeER2M0xsdzlXWTVkVGM0Z2dCMDJWNTJmbkk5cnZnSHo0RzlmOUc2SzRGUEFRS2txOXAycEgxY0l1RVBZQVJEQW9qQ3FWaUhrNGNhSURiSmozYVhGbHJOUk03UGRhSTUzQ1FWZTloSWMzdVdDdFdoSWZlNHB3UEQtWE5nTGJ5Mk0yaWVxWFpwVg?oc=5",
-      "type": "article",
-      "title": "Why have private equity firms taken an interest in buying professional sports teams? - The Derrick",
-      "date": "2026-08-22",
-      "source": "The Derrick",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQa1pRa0hXQWZRSkRQT3pjZkIwNWhlS005SS1JbExUNkU2X2E0SmpFTEZPbUxWaC1rWVlCNnNqRGJydUZ4MHBpMEx2Ym5rMzBLa013R011Yi1PdHVsaHJURXl4OF9CTFdsM0pDM0RLeE4xUnpkU2szcFNfd00zNkk2ZmM2dUxfU0xSeER2M0xsdzlXWTVkVGM0Z2dCMDJWNTJmbkk5cnZnSHo0RzlmOUc2SzRGUEFRS2txOXAycEgxY0l1RVBZQVJEQW9qQ3FWaUhrNGNhSURiSmozYVhGbHJOUk03UGRhSTUzQ1FWZTloSWMzdVdDdFdoSWZlNHB3UEQtWE5nTGJ5Mk0yaWVxWFpwVg?oc=5",
-      "snippet": "Why have private equity firms taken an interest in buying professional sports teams? &nbsp;&nbsp; The Derrick"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY21CYnZNR0YwZnNMRE5DR3FHVE5zQVpEaVJocTdwcUF1bHVzMHN0NFhvTVZDajl1dDNvZVhqRTNfRjNWNWczZTgzeUJJa2ZaWUd3QXdyaFQ2MVJaeXJhSGhZbWRNNlFGTUVjQVMwTE85eEpfV25XcGxhazdTN3o0Y2dVb05Ed2VMZ2ZFbUxnQjN6NExGUGpqMXh5VWRTNDJVLV83S2pkQWFqejhDbEhFTDVrQjhSQURzT3cwNFdsdTVud0FlV2o2OHBDSVVPc1VHYUQ1SNIB2wFBVV95cUxPOV82Nng0elVEel9RT0pEZDBYUElPNWEtcEltZFVwTGhLbFp0UVY4eDA5RmNOYm9QQ1hrYTR1VV9Va1JROUhPRkNHSGl3OWJ5S0xySEpGcUJXOUxsajNWVXdoUkdUVkw2bWpKNUM4QTVLdDgydmhwNHh2QlVJa0plUVNTOHZKOU5DYkczUkpmbzdUR01HZnRVMXpPaE1naE1TdjhKNExSR1d4Q05reEF4NEJ6b2VYTHRwejJQRnYzcDhreXBQUExQa21DNVhlMkNTVnVJQkc4aUNVQm8?oc=5",
-      "type": "article",
-      "title": "India’s alternative assets market set to surge 5X to over $2 trillion by 2034: Report - financialexpress.com",
-      "date": "2026-08-22",
-      "source": "financialexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY21CYnZNR0YwZnNMRE5DR3FHVE5zQVpEaVJocTdwcUF1bHVzMHN0NFhvTVZDajl1dDNvZVhqRTNfRjNWNWczZTgzeUJJa2ZaWUd3QXdyaFQ2MVJaeXJhSGhZbWRNNlFGTUVjQVMwTE85eEpfV25XcGxhazdTN3o0Y2dVb05Ed2VMZ2ZFbUxnQjN6NExGUGpqMXh5VWRTNDJVLV83S2pkQWFqejhDbEhFTDVrQjhSQURzT3cwNFdsdTVud0FlV2o2OHBDSVVPc1VHYUQ1SNIB2wFBVV95cUxPOV82Nng0elVEel9RT0pEZDBYUElPNWEtcEltZFVwTGhLbFp0UVY4eDA5RmNOYm9QQ1hrYTR1VV9Va1JROUhPRkNHSGl3OWJ5S0xySEpGcUJXOUxsajNWVXdoUkdUVkw2bWpKNUM4QTVLdDgydmhwNHh2QlVJa0plUVNTOHZKOU5DYkczUkpmbzdUR01HZnRVMXpPaE1naE1TdjhKNExSR1d4Q05reEF4NEJ6b2VYTHRwejJQRnYzcDhreXBQUExQa21DNVhlMkNTVnVJQkc4aUNVQm8?oc=5",
-      "snippet": "India’s alternative assets market set to surge 5X to over $2 trillion by 2034: Report &nbsp;&nbsp; financialexpress.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXAwYWpkclVveGdPY21GZTZNQnBPZEVxVXM1VFFBMmxadEpkajg1TmFZNzJfamNNLXpueUF2STBHRFFHU1N3X0lmZXRFU1JhbHlnTGtSbjJ2M3dfNlAwcHhKRHlXN2FxOGgwY3FYVFhnUkFLeFA0S2I2LU1rZjVZVHdpc2QxS292T3dZUnJwU0xCWHBVRVFtdFMzWVB4d085NFNhd3BvbTZDd0pwQk4w?oc=5",
-      "type": "article",
-      "title": "Oregon policy among state laws slowing private equity healthcare deals, report finds - Philomath News",
-      "date": "2026-08-22",
-      "source": "Philomath News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXAwYWpkclVveGdPY21GZTZNQnBPZEVxVXM1VFFBMmxadEpkajg1TmFZNzJfamNNLXpueUF2STBHRFFHU1N3X0lmZXRFU1JhbHlnTGtSbjJ2M3dfNlAwcHhKRHlXN2FxOGgwY3FYVFhnUkFLeFA0S2I2LU1rZjVZVHdpc2QxS292T3dZUnJwU0xCWHBVRVFtdFMzWVB4d085NFNhd3BvbTZDd0pwQk4w?oc=5",
-      "snippet": "Oregon policy among state laws slowing private equity healthcare deals, report finds &nbsp;&nbsp; Philomath News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXItTlRxR0ZybXVEN213R2RPQVdOa1g2UFh3VGc3OUJqYTJOOVF2V0pyMzhHaENWbEpPbXJFOTFqVGM0RWRIN1RzWW9YSndoblRQcXVfekR3THZOWFFzRVVSamNZUDM0NnpwbzdVLXcxbkd5MmxKYVBrVTJVYnlWd3A2OVJyUQ?oc=5",
-      "type": "article",
-      "title": "‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail? - AOL.co.uk",
-      "date": "2026-08-22",
-      "source": "AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXItTlRxR0ZybXVEN213R2RPQVdOa1g2UFh3VGc3OUJqYTJOOVF2V0pyMzhHaENWbEpPbXJFOTFqVGM0RWRIN1RzWW9YSndoblRQcXVfekR3THZOWFFzRVVSamNZUDM0NnpwbzdVLXcxbkd5MmxKYVBrVTJVYnlWd3A2OVJyUQ?oc=5",
-      "snippet": "‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail? &nbsp;&nbsp; AOL.co.uk"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUhnRWdtYUFPMU0zd21CVC1Hc2JnV0R5M24yNmpjUzNGcXdfS0cxdXBtQU8xY3FnNEhjVHY5MFV4ejVFTDZwSWN3RnJMdjNNWlZpTVhBazFQRmZadTh0T3lSUzRoamVSRUZ5cEo3YmdBSFd5ZDlCaUdUM090cGhXT2c1M1VSbWtBbk1TcTd5bTN0c3ZHNlJlTUZYWUliWHh2VU01Slc5QjMtY2JJeFE?oc=5",
-      "type": "article",
-      "title": "Eric Knickrehm and Matt Stockstill discuss the future of law firm MSOs - Winston Taylor",
-      "date": "2026-08-21",
-      "source": "Winston Taylor",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUhnRWdtYUFPMU0zd21CVC1Hc2JnV0R5M24yNmpjUzNGcXdfS0cxdXBtQU8xY3FnNEhjVHY5MFV4ejVFTDZwSWN3RnJMdjNNWlZpTVhBazFQRmZadTh0T3lSUzRoamVSRUZ5cEo3YmdBSFd5ZDlCaUdUM090cGhXT2c1M1VSbWtBbk1TcTd5bTN0c3ZHNlJlTUZYWUliWHh2VU01Slc5QjMtY2JJeFE?oc=5",
-      "snippet": "Eric Knickrehm and Matt Stockstill discuss the future of law firm MSOs &nbsp;&nbsp; Winston Taylor"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxObEtVaG1PaHFhaEtZR0pXbjNmajNpWGcxRUdKSDIxUnNxakdSd0ZCWDFyTE5iajhPVERXMzNLb0p6endrSFRxQzFsMjVUdE05VklRSEhUMklodHIyQmtZT2ZWYmlPbkd4Qkk0TG5FX3VjczNCZl92Mmlvc2E2QWVadkxFYjdtdFBzODMzN25yeUtnN0x3WUNVd2NMRWFCOUxvYWcyalBjdTFjLWNR?oc=5",
-      "type": "article",
-      "title": "Why have private equity firms taken an interest in buying professional sports teams? - Los Angeles Times",
-      "date": "2026-08-21",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEtVaG1PaHFhaEtZR0pXbjNmajNpWGcxRUdKSDIxUnNxakdSd0ZCWDFyTE5iajhPVERXMzNLb0p6endrSFRxQzFsMjVUdE05VklRSEhUMklodHIyQmtZT2ZWYmlPbkd4Qkk0TG5FX3VjczNCZl92Mmlvc2E2QWVadkxFYjdtdFBzODMzN25yeUtnN0x3WUNVd2NMRWFCOUxvYWcyalBjdTFjLWNR?oc=5",
-      "snippet": "Why have private equity firms taken an interest in buying professional sports teams? &nbsp;&nbsp; Los Angeles Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVkxVkJrbmZOamRydEI4VktVNWZDV1RZOGVZSC1UUWF6d2p4MEhoVi11RHcyVTVwcy04bGphT1EtRUxmRkhJVVhQN0VDdi1nVUM0NDAzRV9hekhranZrYU9CZ0x3bWI1THZsMUYxc3lQRGpqZ1lGQnE4c2FicmI2dld4Umd0YjBid092emFiUWlVeHpURkM0RU8yZGJsZU9NZk1FTUxiNGpDczRMRFFURDBZaUs2Q2g2WGhwRg?oc=5",
-      "type": "article",
-      "title": "Second major cannabis MSO sues New Jersey over labor law - MJBizDaily",
-      "date": "2026-08-21",
-      "source": "MJBizDaily",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVkxVkJrbmZOamRydEI4VktVNWZDV1RZOGVZSC1UUWF6d2p4MEhoVi11RHcyVTVwcy04bGphT1EtRUxmRkhJVVhQN0VDdi1nVUM0NDAzRV9hekhranZrYU9CZ0x3bWI1THZsMUYxc3lQRGpqZ1lGQnE4c2FicmI2dld4Umd0YjBid092emFiUWlVeHpURkM0RU8yZGJsZU9NZk1FTUxiNGpDczRMRFFURDBZaUs2Q2g2WGhwRg?oc=5",
-      "snippet": "Second major cannabis MSO sues New Jersey over labor law &nbsp;&nbsp; MJBizDaily"
     }
   ]
 }
