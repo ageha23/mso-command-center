@@ -1,8 +1,53 @@
 {
-  "lastRun": "2026-09-08T14:58:49.760736+00:00",
+  "lastRun": "2026-09-09T15:02:18.680989+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 13,
+  "addedThisRun": 12,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTJBSjBldVllQTRvN0ozaVJVTVQ2SHZldDdHaWc4a29PSkN1SkMyN0NINVk3MXlaUDhBX2hwdDY4Ulc2OGUyU1kzdlpYTmE3Q25URWlHZW9xSmVTRTVqajNnVVJ1c3gyTUlacC05T1BDcVdDNFVNaVpYcjh2VXpKd2h1YmNHQ3h5OW8yY1oxd3lzTGE3SkRiNA?oc=5",
+      "type": "article",
+      "title": "Callodine Group Appoints Will Karim as General Counsel - citybiz",
+      "date": "2026-09-09",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTJBSjBldVllQTRvN0ozaVJVTVQ2SHZldDdHaWc4a29PSkN1SkMyN0NINVk3MXlaUDhBX2hwdDY4Ulc2OGUyU1kzdlpYTmE3Q25URWlHZW9xSmVTRTVqajNnVVJ1c3gyTUlacC05T1BDcVdDNFVNaVpYcjh2VXpKd2h1YmNHQ3h5OW8yY1oxd3lzTGE3SkRiNA?oc=5",
+      "snippet": "Callodine Group Appoints Will Karim as General Counsel &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilAJBVV95cUxPU25PbU1JOF9oN3JFTTA4UExzdzFCZ2J6ZVhMSmxFbFYzT3Jqa0tZams1UWhTcUR6eE95eGdiNHJuNDN6ZTM2ZFgtYUNQWTdTNkVGQXJ6N0ZHUUZHaXJkSmJmNHA5MFFOcUZjVFIzWWp0T0Z4QmJwNTVnR0NDWXFnRng3Z1FwSlhYQkk1ZFd3N0QtOGhvN25oQ3dPUmR5aWpIQnpNd1EyVHl2Y2ZmVzdYSFdRSlVxanFlX2x6RS1DQjVNaGZZSXBibm9EREpkNjdmY1g1dzRoNS1TZzZnbl9SRzhheTZaa2FPSFQ3VU5RS0dmTV9YVldGQjU3QmU4WktDdW5lZUhmT2d5aGlVZTB0OF8ta3Y?oc=5",
+      "type": "article",
+      "title": "An Analysis Of The Potential Benefits Of Using Alternative Dispute Resolution Mechanisms In Resolving Conflicts During Businss Restructuring -By Job Joseph - Opinion Nigeria",
+      "date": "2026-09-09",
+      "source": "Opinion Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU25PbU1JOF9oN3JFTTA4UExzdzFCZ2J6ZVhMSmxFbFYzT3Jqa0tZams1UWhTcUR6eE95eGdiNHJuNDN6ZTM2ZFgtYUNQWTdTNkVGQXJ6N0ZHUUZHaXJkSmJmNHA5MFFOcUZjVFIzWWp0T0Z4QmJwNTVnR0NDWXFnRng3Z1FwSlhYQkk1ZFd3N0QtOGhvN25oQ3dPUmR5aWpIQnpNd1EyVHl2Y2ZmVzdYSFdRSlVxanFlX2x6RS1DQjVNaGZZSXBibm9EREpkNjdmY1g1dzRoNS1TZzZnbl9SRzhheTZaa2FPSFQ3VU5RS0dmTV9YVldGQjU3QmU4WktDdW5lZUhmT2d5aGlVZTB0OF8ta3Y?oc=5",
+      "snippet": "An Analysis Of The Potential Benefits Of Using Alternative Dispute Resolution Mechanisms In Resolving Conflicts During Businss Restructuring -By Job Joseph &nbsp;&nbsp; Opinion Nigeria"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxPVU55YmlRbUdJTWtTVEsyaFNJb0U4UzFUbUU0WHBxWVYtc2d2WVkzU2dPZlRFSU1Xak0tSWtfRjNOYnQ5VDVCeF9jODJoM2l0NnMtQ3JYTXQ1dmVtUms3aWRCaHBrN2ZKUEcxdWs4NG55Y2xZNE81V3pTSm1rRzlwbzB2MldxdHJxcXkxa9IBkgFBVV95cUxPemxMZ3g5T2kwMEdtUE5nNUtCRzV1Y2VpbEhhY3F2UXFLY1VDeW5LdzBrTXpISVJ6RVpXWGk0OTRfODZNWndSTm03TGxTbnZiXzI0aFoyMnNWMkRyZGFRSnhXSUpTb0F3VjZienRDUVpaejRONzd1VEtZR0diUHFndlFTTFhkUHJ5QXJ5ZXBuZFJ5dw?oc=5",
+      "type": "article",
+      "title": "ECI Partners Invests In Shaw Gibbs As Apiary Capital Fully Exits - Pulse 2.0",
+      "date": "2026-09-09",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVU55YmlRbUdJTWtTVEsyaFNJb0U4UzFUbUU0WHBxWVYtc2d2WVkzU2dPZlRFSU1Xak0tSWtfRjNOYnQ5VDVCeF9jODJoM2l0NnMtQ3JYTXQ1dmVtUms3aWRCaHBrN2ZKUEcxdWs4NG55Y2xZNE81V3pTSm1rRzlwbzB2MldxdHJxcXkxa9IBkgFBVV95cUxPemxMZ3g5T2kwMEdtUE5nNUtCRzV1Y2VpbEhhY3F2UXFLY1VDeW5LdzBrTXpISVJ6RVpXWGk0OTRfODZNWndSTm03TGxTbnZiXzI0aFoyMnNWMkRyZGFRSnhXSUpTb0F3VjZienRDUVpaejRONzd1VEtZR0diUHFndlFTTFhkUHJ5QXJ5ZXBuZFJ5dw?oc=5",
+      "snippet": "ECI Partners Invests In Shaw Gibbs As Apiary Capital Fully Exits &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSmhCM200VGxnTTc4VGVSVEtBc1hMVndlY3l0SzJXSUh0S0x1ZzN0ekhfdHhkSkJBWEtWY0FKRDlkcll5NzJRSFVvTjBQRkVZNVloenNJRno5cDRzQ2dRV0tBY3liOFgzSHE3NjZrbEhqenIxNjVpckZfZ3hMZEpzTTJFdzAxNTZPTW5FM1lSOXdoVUZ0eG52czhFTTBFZHFfUDRzVno5UU9rSWpYV2hDUDNZQlhHREt1cDRmM2d2UHd2a1NhNTE4dzNvalJvdmt4OUZXMjhFMUtja2ctOVpWVThwV3hhaE1paDNrRlh1R3lzUQ?oc=5",
+      "type": "article",
+      "title": "Why some organizations turn AI experiments into business value while others quietly fail - GlobeNewswire",
+      "date": "2026-09-09",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSmhCM200VGxnTTc4VGVSVEtBc1hMVndlY3l0SzJXSUh0S0x1ZzN0ekhfdHhkSkJBWEtWY0FKRDlkcll5NzJRSFVvTjBQRkVZNVloenNJRno5cDRzQ2dRV0tBY3liOFgzSHE3NjZrbEhqenIxNjVpckZfZ3hMZEpzTTJFdzAxNTZPTW5FM1lSOXdoVUZ0eG52czhFTTBFZHFfUDRzVno5UU9rSWpYV2hDUDNZQlhHREt1cDRmM2d2UHd2a1NhNTE4dzNvalJvdmt4OUZXMjhFMUtja2ctOVpWVThwV3hhaE1paDNrRlh1R3lzUQ?oc=5",
+      "snippet": "Why some organizations turn AI experiments into business value while others quietly fail &nbsp;&nbsp; GlobeNewswire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjQ1Zmtuc3VYZTN0aUFnVGgxelBTVC1qWko2cEVPaEJqMzdrdm5iQkFTVVhwaWh1TldhY0FRRVN5c082UUdhUzMyLUplMVBHVmRTUEJpdDdjWDk0V19NWXFfa1pXX1p0ZTZqazdBY1JkYVFldG9yUnVaZFBtcTd0WnBkamQ4Um8wMXc?oc=5",
+      "type": "article",
+      "title": "Do Contingency Fee Law Firm Partnership Breakups Take the Prize for Most Difficult to Resolve? - JD Supra",
+      "date": "2026-09-09",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjQ1Zmtuc3VYZTN0aUFnVGgxelBTVC1qWko2cEVPaEJqMzdrdm5iQkFTVVhwaWh1TldhY0FRRVN5c082UUdhUzMyLUplMVBHVmRTUEJpdDdjWDk0V19NWXFfa1pXX1p0ZTZqazdBY1JkYVFldG9yUnVaZFBtcTd0WnBkamQ4Um8wMXc?oc=5",
+      "snippet": "Do Contingency Fee Law Firm Partnership Breakups Take the Prize for Most Difficult to Resolve? &nbsp;&nbsp; JD Supra"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0poRHlJNWJjczdZZmk0aTVPY01lX0pkZ0h0czBxZEI3ODJ2Z19CREVTN1pkNlpuRmdCWlBUV2dXMU9OUmxyQU1uSDc0ajJRc3Z2WFp2OUFOYXFqeWZFdGFkdnlxUlFjOVpmVXVnVlBuOUZZeTJDQWlHN0VUbEF0Q0tnWXRRdjlYMDNv?oc=5",
       "type": "article",
@@ -74,6 +119,69 @@
       "source": "Juris Hour",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERLTkg5ckxfYV9RRndTSFlLSU1rS2RMUjdTMjI2c0x3Uy1KUDEwOHo3bUZPR0NZS2FsMmxBSnFzeTZabTBYTXQ4UGIteFByYUNfUWFBVUJRcWhyZ3ZqOTNJMVFCYjE2U0xSZFI3WjJXQ2s2dkM2MnFQdDk2T1JVb0V3TnM3UFUxQWVYVg?oc=5",
       "snippet": "ICAI Examines Private Equity Funding for Consultancy and Accounting Businesses, Audit Practices to Remain Ring-Fenced &nbsp;&nbsp; Juris Hour"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDd3LVpBVXR5dkpIODNDdWVpdVpMOE41dEdjSXNIdEJ1ZkJNMURYYWJ0aGpqQl83Z3NvcDMyXzdnOXFTNHNhTHNTQ0JFMmhydk0xZFBqRzlVbHpNME1TemtJa2xtak81MzMwc0JqdjBOUGpVTDdxZ1lweFdOMnV5aVUyQlNpcHNCVERBblQ0UFZucFZMVTJiaWxTVUFDNklvOHo4Z0tvQVNYd0NRRUlnOVhuQURkN1Jhb1E4eEVlS000NnNj?oc=5",
+      "type": "article",
+      "title": "Larger Paychecks to More De-equitizations: PE's Potential Effects on Partner Comp - Law.com",
+      "date": "2026-09-08",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDd3LVpBVXR5dkpIODNDdWVpdVpMOE41dEdjSXNIdEJ1ZkJNMURYYWJ0aGpqQl83Z3NvcDMyXzdnOXFTNHNhTHNTQ0JFMmhydk0xZFBqRzlVbHpNME1TemtJa2xtak81MzMwc0JqdjBOUGpVTDdxZ1lweFdOMnV5aVUyQlNpcHNCVERBblQ0UFZucFZMVTJiaWxTVUFDNklvOHo4Z0tvQVNYd0NRRUlnOVhuQURkN1Jhb1E4eEVlS000NnNj?oc=5",
+      "snippet": "Larger Paychecks to More De-equitizations: PE's Potential Effects on Partner Comp &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUlBb0pGajVXdENBQUhhaW9iSlpBWmdzZk01OG9DUzAxaUxGMEpDTEw2eXd5VDItWWtUcXhEVUJXMEx6cHFfaW5BMjRzUGJjRjlVZ0FPWkdfWHZUMXdSdHRaeTh0LVRUX3JEZUlvai1zaTVteFZNYkpscWJMYUFHNTgzNllwd0lsX0xFMFh5eWVWNHAwdlNVRE5xOWpfQ0V3WDZfcUoyanYtcVpESDQ5VUxIX2VNc0lEM3pQRk1rUlJhUQ?oc=5",
+      "type": "article",
+      "title": "California Supreme Court Opens the Door to Alternative-Choice Section 998 Offers - Law.com",
+      "date": "2026-09-08",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUlBb0pGajVXdENBQUhhaW9iSlpBWmdzZk01OG9DUzAxaUxGMEpDTEw2eXd5VDItWWtUcXhEVUJXMEx6cHFfaW5BMjRzUGJjRjlVZ0FPWkdfWHZUMXdSdHRaeTh0LVRUX3JEZUlvai1zaTVteFZNYkpscWJMYUFHNTgzNllwd0lsX0xFMFh5eWVWNHAwdlNVRE5xOWpfQ0V3WDZfcUoyanYtcVpESDQ5VUxIX2VNc0lEM3pQRk1rUlJhUQ?oc=5",
+      "snippet": "California Supreme Court Opens the Door to Alternative-Choice Section 998 Offers &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkc2a3VRSktqWXptbXdGMWk0X0tXQTRnbzNic1BQVXYxdzFsb3pNRUFwSHhLTE5kaUlZWVM2elE3bGxDcXBIWXZJZ3BrVE9YcFU1TXl6ZGgzYzZsdEdXT3lmcDViS0JKSGdDSGFmMDNhbHN4d2FWQmJOLTJLNkhiWlJFYzVEbUlaSXo2X2IteUNKVWJrN0c4a2ROa09jOUM4dEhZTHFUX3ZzM00?oc=5",
+      "type": "article",
+      "title": "Eiffel Tower to reopen after row over removing women staff - ABS-CBN",
+      "date": "2026-09-08",
+      "source": "ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkc2a3VRSktqWXptbXdGMWk0X0tXQTRnbzNic1BQVXYxdzFsb3pNRUFwSHhLTE5kaUlZWVM2elE3bGxDcXBIWXZJZ3BrVE9YcFU1TXl6ZGgzYzZsdEdXT3lmcDViS0JKSGdDSGFmMDNhbHN4d2FWQmJOLTJLNkhiWlJFYzVEbUlaSXo2X2IteUNKVWJrN0c4a2ROa09jOUM4dEhZTHFUX3ZzM00?oc=5",
+      "snippet": "Eiffel Tower to reopen after row over removing women staff &nbsp;&nbsp; ABS-CBN"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3RKQ1hxa2VtcWgtV3BRdTdKTWR6UzlMZndGRXVEejR6MGlxdGtOeDlyblU0S2xqWUpRQ2NWY3JnYmlxc0VlaW9KUUVQblNkcmZua21JZE5lZlF5UHhVMnpmNnMyOVdINE4wTXZQSm44ZVlFd1V5THAyZUhDU0pFRHJKbVpfTXZpQVFJdS1ESS00RDVCRTFuOHFFVXNMelE?oc=5",
+      "type": "article",
+      "title": "Four lessons from the front lines of legal ops AI - Wolters Kluwer",
+      "date": "2026-09-08",
+      "source": "Wolters Kluwer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3RKQ1hxa2VtcWgtV3BRdTdKTWR6UzlMZndGRXVEejR6MGlxdGtOeDlyblU0S2xqWUpRQ2NWY3JnYmlxc0VlaW9KUUVQblNkcmZua21JZE5lZlF5UHhVMnpmNnMyOVdINE4wTXZQSm44ZVlFd1V5THAyZUhDU0pFRHJKbVpfTXZpQVFJdS1ESS00RDVCRTFuOHFFVXNMelE?oc=5",
+      "snippet": "Four lessons from the front lines of legal ops AI &nbsp;&nbsp; Wolters Kluwer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGdNby1KLTFZLWpqdDZ4cEtMQWwzbmljV1lHbGo2TUcyZ0hIUjByeERUQjd5NDFKa3lZZmVfUnMwWEphMUpxT1h1T0NRRGNlMjRaVmRjbW9kV0ZQZjdvNS10aVZwVHk1c0J3QnlfeXdydnBsdEF4RHprZWVLbmtqTHN5SU1nbklkWXAySUpxVFAzcjZjOWZsWG5iOEt6dTdfZF9SdUYtSC1ObmZNQ0Mxc1pkX3NlWktM?oc=5",
+      "type": "article",
+      "title": "Here's where western Ohio's nonprofit law firm, new union stand nearly a year later - WYSO Public Radio",
+      "date": "2026-09-08",
+      "source": "WYSO Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGdNby1KLTFZLWpqdDZ4cEtMQWwzbmljV1lHbGo2TUcyZ0hIUjByeERUQjd5NDFKa3lZZmVfUnMwWEphMUpxT1h1T0NRRGNlMjRaVmRjbW9kV0ZQZjdvNS10aVZwVHk1c0J3QnlfeXdydnBsdEF4RHprZWVLbmtqTHN5SU1nbklkWXAySUpxVFAzcjZjOWZsWG5iOEt6dTdfZF9SdUYtSC1ObmZNQ0Mxc1pkX3NlWktM?oc=5",
+      "snippet": "Here's where western Ohio's nonprofit law firm, new union stand nearly a year later &nbsp;&nbsp; WYSO Public Radio"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEljS2pqLVFFU205a000U3dldmF2N01mZXNZNUFINnMxbXpUM3I5TmN5Y3Y1UGpkeEhhc2xuSUJ4RnpyUmgzZWlJV0oyUkltbWhHRXBqcFJ1Y2dab2VfQU5mVHVYVlRSMjE3MHpQOXRubU8xZ0NmMjZvMXI5MmVLNjNpUzlrVkl4MWRyLWc5ckxtdDdRdWhPTTZJLTJPdzk0aGZ0cVFvb3NBaDl3WTNpMQ?oc=5",
+      "type": "article",
+      "title": "Unions Lead Filing of New Lawsuit to Stop USDA Reorganization - Democracy Forward",
+      "date": "2026-09-08",
+      "source": "Democracy Forward",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEljS2pqLVFFU205a000U3dldmF2N01mZXNZNUFINnMxbXpUM3I5TmN5Y3Y1UGpkeEhhc2xuSUJ4RnpyUmgzZWlJV0oyUkltbWhHRXBqcFJ1Y2dab2VfQU5mVHVYVlRSMjE3MHpQOXRubU8xZ0NmMjZvMXI5MmVLNjNpUzlrVkl4MWRyLWc5ckxtdDdRdWhPTTZJLTJPdzk0aGZ0cVFvb3NBaDl3WTNpMQ?oc=5",
+      "snippet": "Unions Lead Filing of New Lawsuit to Stop USDA Reorganization &nbsp;&nbsp; Democracy Forward"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3pBVUlXUEp2N3UwMHdWelVWcHJmbzROX2JVTDl6RDhXcnlJdDFNelRfRkFhRXVERDVZU1pGUTVWWUN4Si1tNUwtMkZEVk5yZWZWXzdvX2l6cVRsUVVMVnF3Uk40bkU3ang2WlprNnhYd2NFcDhNQk1YRGwxUkhQdTlaOFhBMHRZMEg4YXEzcw?oc=5",
+      "type": "article",
+      "title": "Mexico - International Arbitration Laws and Regulations 2026 - ICLG",
+      "date": "2026-09-08",
+      "source": "ICLG",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3pBVUlXUEp2N3UwMHdWelVWcHJmbzROX2JVTDl6RDhXcnlJdDFNelRfRkFhRXVERDVZU1pGUTVWWUN4Si1tNUwtMkZEVk5yZWZWXzdvX2l6cVRsUVVMVnF3Uk40bkU3ang2WlprNnhYd2NFcDhNQk1YRGwxUkhQdTlaOFhBMHRZMEg4YXEzcw?oc=5",
+      "snippet": "Mexico - International Arbitration Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS3lGYjZhU2pWUnhKcF9VUmtXUTVpYVZSUGFaU0JYS3A2bFNOUjdtVi1ob2IwRTBISWpvT2xGOTRyRHl4cGc0LWthY1hPVGowbWhOTlZycEJXS2pzZVhHZ3hWZEV1d2RnNzZVVU82RlhfeEVjUFB0a2o1Ynh4VWtJbTBTMXR0eERabnZiLUFpUnlKcmdoZG15aDdEZmRUc1NNdEoxTFR6eEw1cEFzWVhvb2ZGczgta2NhNW0xT09QS3EzSkZaUXY5WEFvc1RRUTEySzlzMzlvLXlYbHM?oc=5",
@@ -1244,114 +1352,6 @@
       "source": "Original Jurisdiction | David Lat",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWpYTFVUcW1ZcElmeTFWVmh5QllrNktiSkpudk9XYmdZcWF4ckZFcElBR2FRanZyRjBJLU8yWTdBd0R6dzZlem5YUFh2MGRZS3RqNl9HRnptaGJFazhOallVXzlnaTdFY1l1bmtQb05panJycDJubXpJbk9jVWVaUFlBendrTlctMjVzY1gzMVVaSkh2Nlp2ZlpDYWFtN085VmlJ?oc=5",
       "snippet": "Judicial Notice (08.23.26): No Nonsense &nbsp;&nbsp; Original Jurisdiction | David Lat"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVZGanQ1THNCeUVRSFBpWTBlVnVLWmNDcFdYdHNaQ09UMU9laHQtbmZvR21iLTRodVlZNEx6Mlp6b3JEcFR0OUdZTkdKdkZxS3pWaEVRX3JjT2Rtd190Sl9MU2dkUDNjVEd4bGJFZ01nUHZ0UlFUN3pReTk4NTVlc2F1RHFvc05UbVFpaXlOMDlkb09GWDkxVnhIZlMydHFYd0ZiT2ZZMm1KbTNXOF9v?oc=5",
-      "type": "article",
-      "title": "At Your Service: Aug. 24 edition - Alternatives Watch",
-      "date": "2026-08-24",
-      "source": "Alternatives Watch",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVZGanQ1THNCeUVRSFBpWTBlVnVLWmNDcFdYdHNaQ09UMU9laHQtbmZvR21iLTRodVlZNEx6Mlp6b3JEcFR0OUdZTkdKdkZxS3pWaEVRX3JjT2Rtd190Sl9MU2dkUDNjVEd4bGJFZ01nUHZ0UlFUN3pReTk4NTVlc2F1RHFvc05UbVFpaXlOMDlkb09GWDkxVnhIZlMydHFYd0ZiT2ZZMm1KbTNXOF9v?oc=5",
-      "snippet": "At Your Service: Aug. 24 edition &nbsp;&nbsp; Alternatives Watch"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWRHSkdDMl9IZFlDaG5wQXJZa08tWVRTdno4bHFJRnl0OVhJQmpWODJ6alREclF1NmxLTEJxdnAxaF9sR3htdzg2ekNCT29RZ0VBVTQySGJIMGxmMzRJSV9aYzNOWFRIZ0dfSUNsemdyRTdvYWloelRFWml2bWRGbXRfN0tGeG9fVWxpNXd3Wm1lS3dlLThmSQ?oc=5",
-      "type": "article",
-      "title": "Kestra Financial Appoints Apple as Next Head of Wealth Management - ABF Journal",
-      "date": "2026-08-24",
-      "source": "ABF Journal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWRHSkdDMl9IZFlDaG5wQXJZa08tWVRTdno4bHFJRnl0OVhJQmpWODJ6alREclF1NmxLTEJxdnAxaF9sR3htdzg2ekNCT29RZ0VBVTQySGJIMGxmMzRJSV9aYzNOWFRIZ0dfSUNsemdyRTdvYWloelRFWml2bWRGbXRfN0tGeG9fVWxpNXd3Wm1lS3dlLThmSQ?oc=5",
-      "snippet": "Kestra Financial Appoints Apple as Next Head of Wealth Management &nbsp;&nbsp; ABF Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZVaHZsRkZOdEdTeTAyMlNab2VIS2UxSFRXTHkxNG5LTmQ3cV94RnZ2ZGd0QklZQmdQUi1pc1I1MFBTcWN2eXUzckdseGZ6OWdoeDdRODg1bEJNVVh3cVBDT1E2bVVaclBraFVXOW9mNTEtZk9uSE1scVRydHZ1TU1tVENjLTBXRVhnMTZfeTZ6X1hLcDRBS3JCV0pJRV9RWnY4VlFpWTlhYUhGRkJURk9xMEFld9IBuwFBVV95cUxQb05iek9kdDFDbWZUVzFGNzl6ODRfQV9mZUY4YjBXeTczbTJlRmRsNEN6RVZ5MDZmRThwTGNFY1J0bHhoYWUtbjhoQV9nRGZyR1R1YTJLZGFaZ0xtQUpGZFMxTEQxaHRlWWRQZDBOQXRvNS1xNDR1VjJwODJ4bU9wckVEa0tjd3FwZ3NwU3I2cFMtU0psWEZ5MFg5anFZSWM2U3BaanVja052cGwzd0JtRmtBTlNESU0zZEQ4?oc=5",
-      "type": "article",
-      "title": "2026 Services for Victims of Human Trafficking (United States) - fundsforNGOs",
-      "date": "2026-08-24",
-      "source": "fundsforNGOs",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZVaHZsRkZOdEdTeTAyMlNab2VIS2UxSFRXTHkxNG5LTmQ3cV94RnZ2ZGd0QklZQmdQUi1pc1I1MFBTcWN2eXUzckdseGZ6OWdoeDdRODg1bEJNVVh3cVBDT1E2bVVaclBraFVXOW9mNTEtZk9uSE1scVRydHZ1TU1tVENjLTBXRVhnMTZfeTZ6X1hLcDRBS3JCV0pJRV9RWnY4VlFpWTlhYUhGRkJURk9xMEFld9IBuwFBVV95cUxQb05iek9kdDFDbWZUVzFGNzl6ODRfQV9mZUY4YjBXeTczbTJlRmRsNEN6RVZ5MDZmRThwTGNFY1J0bHhoYWUtbjhoQV9nRGZyR1R1YTJLZGFaZ0xtQUpGZFMxTEQxaHRlWWRQZDBOQXRvNS1xNDR1VjJwODJ4bU9wckVEa0tjd3FwZ3NwU3I2cFMtU0psWEZ5MFg5anFZSWM2U3BaanVja052cGwzd0JtRmtBTlNESU0zZEQ4?oc=5",
-      "snippet": "2026 Services for Victims of Human Trafficking (United States) &nbsp;&nbsp; fundsforNGOs"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFZCTHNCaWI4QnRfX081SHhUMVBaZmQ3YlZ1QXN0SW5fYzZYdTl0QWxlSHoxeWRLdVJkWVJLbW90V3h5c1BuLUxUWjBFWHdzdGJjVUEwTE9jWjF5YUhQN0NBd0VXRWZ5WUpGdlk3Yk50LXZqa3daMlROMnpIR3Y0V3ZaMkQ?oc=5",
-      "type": "article",
-      "title": "Why a Saudi prince is helping a Charlotte medtech firm’s $200M overseas expansion - AOL.com",
-      "date": "2026-08-24",
-      "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFZCTHNCaWI4QnRfX081SHhUMVBaZmQ3YlZ1QXN0SW5fYzZYdTl0QWxlSHoxeWRLdVJkWVJLbW90V3h5c1BuLUxUWjBFWHdzdGJjVUEwTE9jWjF5YUhQN0NBd0VXRWZ5WUpGdlk3Yk50LXZqa3daMlROMnpIR3Y0V3ZaMkQ?oc=5",
-      "snippet": "Why a Saudi prince is helping a Charlotte medtech firm’s $200M overseas expansion &nbsp;&nbsp; AOL.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFpVbnpHWXJVc28wb1BCNlcxSHF3MWtsR3dsRmFNREtqNC1LOFp3XzJLVHYyb3VMaEhwWk5TMXFQUGQ0bnF5S2E2d3NsSTh0aUdJbzRQd2pvRDlPUnB4M2R0c2c1M2Z6TXBGZDBpQlpWM05qQW5pSm5rcWk4c0ZJNzNPbDdBMUsyc2FyR25SZEEyUEE0Nmt4LUpSdWcySUhRV3lGb2VBM2lYc1JSN2JydjMtZGJvSFAwbXJUbl9tZGxFMVg5ZHg2NlEtNA?oc=5",
-      "type": "article",
-      "title": "Law Firms Can Use Private Equity’s Positives to Benefit Culture - Bloomberg Law News",
-      "date": "2026-08-24",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFpVbnpHWXJVc28wb1BCNlcxSHF3MWtsR3dsRmFNREtqNC1LOFp3XzJLVHYyb3VMaEhwWk5TMXFQUGQ0bnF5S2E2d3NsSTh0aUdJbzRQd2pvRDlPUnB4M2R0c2c1M2Z6TXBGZDBpQlpWM05qQW5pSm5rcWk4c0ZJNzNPbDdBMUsyc2FyR25SZEEyUEE0Nmt4LUpSdWcySUhRV3lGb2VBM2lYc1JSN2JydjMtZGJvSFAwbXJUbl9tZGxFMVg5ZHg2NlEtNA?oc=5",
-      "snippet": "Law Firms Can Use Private Equity’s Positives to Benefit Culture &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUdIBswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUQ?oc=5",
-      "type": "article",
-      "title": "Feature — Top Intelligence Provider for Investment Banks and Corporate Law Firms Predicts Signals for Deal Makers: Financial Services and Fintech Deal Predictions (August 7, 2026) - The National Law Review",
-      "date": "2026-08-24",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUdIBswFBVV95cUxPV09BckhjRlZQTTlwajRkU1hSTHNjUXhKeENXUTcycV8yeVBraHlKb1NELUNOSHJQUExxTktkRXFzT3VtZWtBVGZZMGpadlRQVHlNeDB0WmZhaFRnemI2WlNXRy1KbW9yODNvWUNOZTB2VlVKNU1CUTBhSWJFMGw3c2FQNFVrUTNJdE0ybTRnVmJQS3lVVGNfQkpBcXFOV2F1WGZpZHMzcHFHa2wtSkJHeWZGUQ?oc=5",
-      "snippet": "Feature — Top Intelligence Provider for Investment Banks and Corporate Law Firms Predicts Signals for Deal Makers: Financial Services and Fintech Deal Predictions (August 7, 2026) &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEFaTkFsUUZ6UnlqQkEwMktmemthaElaTEtCX21EYkU5V25TWTRhTHduczBVMTkzVVdtenIwZXBRZnFJRWROSnBJLVhkZ1F5NEh2UERsZlgwcExPbFBiclJnbVZoY3ZaMVdSelhLWWxqck9UV2FQTUdqelBPVHFZSl9LeDdEeXByRVdBclRIQmpMby12MFM4aURLbGRmeWhuRjRzWWZZanlnR1hER0p2T3ZDR0NwRGNOREpyOXFGTkdMTkM3SkRpUXg5c3N2S05GQVpMQlFJOVJYMFE?oc=5",
-      "type": "article",
-      "title": "Demotech, Inc.: Tech-enabled Litigation Instigation Necessitates Granularity of Loss Costs - PR Newswire",
-      "date": "2026-08-24",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEFaTkFsUUZ6UnlqQkEwMktmemthaElaTEtCX21EYkU5V25TWTRhTHduczBVMTkzVVdtenIwZXBRZnFJRWROSnBJLVhkZ1F5NEh2UERsZlgwcExPbFBiclJnbVZoY3ZaMVdSelhLWWxqck9UV2FQTUdqelBPVHFZSl9LeDdEeXByRVdBclRIQmpMby12MFM4aURLbGRmeWhuRjRzWWZZanlnR1hER0p2T3ZDR0NwRGNOREpyOXFGTkdMTkM3SkRpUXg5c3N2S05GQVpMQlFJOVJYMFE?oc=5",
-      "snippet": "Demotech, Inc.: Tech-enabled Litigation Instigation Necessitates Granularity of Loss Costs &nbsp;&nbsp; PR Newswire"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMib0FVX3lxTFBlUG5jZlRNU3VMVTZMNnJPU0E3bG1Wc3FJQVFKZHhSOThIY0laOXBLTzlPSjdyZXlkcHlpTWtWdXZxVFVZb3RIV1IyWUx4RlcwVzVoUG5UdnBoZG12RWFMNGlJMUlxU2pLNzhqSmZYYw?oc=5",
-      "type": "article",
-      "title": "[How to Invest in AIDCs] \"Korea Faces Data Center Shortage... Numerous Equity Investment Opportunities for Institutions\" - 아시아경제",
-      "date": "2026-08-24",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlUG5jZlRNU3VMVTZMNnJPU0E3bG1Wc3FJQVFKZHhSOThIY0laOXBLTzlPSjdyZXlkcHlpTWtWdXZxVFVZb3RIV1IyWUx4RlcwVzVoUG5UdnBoZG12RWFMNGlJMUlxU2pLNzhqSmZYYw?oc=5",
-      "snippet": "[How to Invest in AIDCs] \"Korea Faces Data Center Shortage... Numerous Equity Investment Opportunities for Institutions\" &nbsp;&nbsp; 아시아경제"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnFGNTVfTkpUSHZRWDNVQ2VxSUtrbmJuaXJuMDBxUTF4MTM0NjdEa3pWS2RBNzdwV2tQNWFSdzMyMUJYSGphZWxJeXVTa1RvdGE1VEYzdERHQWRsQURfdWVBSlhOWklNbnlMLUJzbDJKMWZ5cktOZ3k5aGZVb0lNX25RaUxwYzhRNzdLSkpETG90T1U?oc=5",
-      "type": "article",
-      "title": "Mark Parker: 5 Things to Know About This Leading Melbourne Family Lawyer Handling Complex Cases in 2026 - International Business Times Australia",
-      "date": "2026-08-24",
-      "source": "International Business Times Australia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnFGNTVfTkpUSHZRWDNVQ2VxSUtrbmJuaXJuMDBxUTF4MTM0NjdEa3pWS2RBNzdwV2tQNWFSdzMyMUJYSGphZWxJeXVTa1RvdGE1VEYzdERHQWRsQURfdWVBSlhOWklNbnlMLUJzbDJKMWZ5cktOZ3k5aGZVb0lNX25RaUxwYzhRNzdLSkpETG90T1U?oc=5",
-      "snippet": "Mark Parker: 5 Things to Know About This Leading Melbourne Family Lawyer Handling Complex Cases in 2026 &nbsp;&nbsp; International Business Times Australia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0xGc1NXRHlFQUw5VlgzVjhXblpqckJxS2dsR3k1ZWV2MjY5c0NPcFFiQVNLQmVzNzNaNk90N1R6YUdsUUc0ckhiOXRseWpjVnFQVWR6dHlTYXJUYWFhOUdsMDRiUjh2dE1nNU90VmlQek92Unc0OHA2X0Y4R2w5d0dIbTV2WXNjdUg4alFuMA?oc=5",
-      "type": "article",
-      "title": "Luigi’s Double Jeopardy Gamble And The DOJ’s Complicity - Above the Law",
-      "date": "2026-08-24",
-      "source": "Above the Law",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0xGc1NXRHlFQUw5VlgzVjhXblpqckJxS2dsR3k1ZWV2MjY5c0NPcFFiQVNLQmVzNzNaNk90N1R6YUdsUUc0ckhiOXRseWpjVnFQVWR6dHlTYXJUYWFhOUdsMDRiUjh2dE1nNU90VmlQek92Unc0OHA2X0Y4R2w5d0dIbTV2WXNjdUg4alFuMA?oc=5",
-      "snippet": "Luigi’s Double Jeopardy Gamble And The DOJ’s Complicity &nbsp;&nbsp; Above the Law"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMigAFBVV95cUxNempMdlQybVRZVnBON3BtSnJiWTNqS2VtYndMbjBfWWF4UjFiNzNtSV96LUh1Wm1oZmJseVNfOHZ2b3dPZWY1bnNhUEhLTkN1YWM0Z3pXZks4bXR1U3M3NndPaml3NWdRLVk5ZktjOTBIeURuTUl0LW9IMURIMWhJcg?oc=5",
-      "type": "article",
-      "title": "Q2 2026 Healthcare Antitrust and Competition Update - JD Supra",
-      "date": "2026-08-24",
-      "source": "JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNempMdlQybVRZVnBON3BtSnJiWTNqS2VtYndMbjBfWWF4UjFiNzNtSV96LUh1Wm1oZmJseVNfOHZ2b3dPZWY1bnNhUEhLTkN1YWM0Z3pXZks4bXR1U3M3NndPaml3NWdRLVk5ZktjOTBIeURuTUl0LW9IMURIMWhJcg?oc=5",
-      "snippet": "Q2 2026 Healthcare Antitrust and Competition Update &nbsp;&nbsp; JD Supra"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTlaeHJ4d0puem9lRm1zcnZ5VWtYaWRJMGw3ZVZmOVdqdEY5ZFdNazdWSzBPWFdIUW83Z3p1bHc1ODJCTDZJMEk0MlFjdlVoSVBDaDBHQlVuNG5Ic3VLMS1PWmxnM2FMNzVsaFRxanR3aUZNd0c5UGFSTmdCRmk3bGFPX0w0YVVvSGY2ZUNXdzZGUElSbDd1MUlZbVJoZGRzcUVVTXRpWk9CbmMzNVBvakdzaDJPSGlqVHNWZ2lIZVpQa1Itbm5udE9QLURDclE?oc=5",
-      "type": "article",
-      "title": "The law firm of Kollman, Saucier & Jackson has moved from Towson to Executive Plaza in Hunt Valley - Baltimore Fishbowl",
-      "date": "2026-08-24",
-      "source": "Baltimore Fishbowl",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTlaeHJ4d0puem9lRm1zcnZ5VWtYaWRJMGw3ZVZmOVdqdEY5ZFdNazdWSzBPWFdIUW83Z3p1bHc1ODJCTDZJMEk0MlFjdlVoSVBDaDBHQlVuNG5Ic3VLMS1PWmxnM2FMNzVsaFRxanR3aUZNd0c5UGFSTmdCRmk3bGFPX0w0YVVvSGY2ZUNXdzZGUElSbDd1MUlZbVJoZGRzcUVVTXRpWk9CbmMzNVBvakdzaDJPSGlqVHNWZ2lIZVpQa1Itbm5udE9QLURDclE?oc=5",
-      "snippet": "The law firm of Kollman, Saucier & Jackson has moved from Towson to Executive Plaza in Hunt Valley &nbsp;&nbsp; Baltimore Fishbowl"
     }
   ]
 }
