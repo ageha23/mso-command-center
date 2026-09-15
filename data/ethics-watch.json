@@ -1,8 +1,89 @@
 {
-  "lastRun": "2026-09-14T16:49:40.998690+00:00",
+  "lastRun": "2026-09-15T15:28:29.998733+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 13,
+  "addedThisRun": 12,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFBMTmZLRjhhZW1hSUwzWHpTSUZJbnRDdzJzd3cxRlhqbS1ZWjA3ZVVGRFg5RTRpUTQtNVM0ZERNRC1FeTBNWTJKMkQ0RTlxbWpoMjliMl9rbVFzaHZuVUxPX0NiblZIWF9KOUhHcUlrMHpHZ1JoNVFELV83OHNjelhYNjFKZHBJNElKMmlJVXJqVHRYdTBmdGV3aEVudTktY1ktdg?oc=5",
+      "type": "article",
+      "title": "Deals & Recruiting Roundup: Envestnet, Hightower, LPL, Savvy And More - Wealth Solutions Report",
+      "date": "2026-09-15",
+      "source": "Wealth Solutions Report",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFBMTmZLRjhhZW1hSUwzWHpTSUZJbnRDdzJzd3cxRlhqbS1ZWjA3ZVVGRFg5RTRpUTQtNVM0ZERNRC1FeTBNWTJKMkQ0RTlxbWpoMjliMl9rbVFzaHZuVUxPX0NiblZIWF9KOUhHcUlrMHpHZ1JoNVFELV83OHNjelhYNjFKZHBJNElKMmlJVXJqVHRYdTBmdGV3aEVudTktY1ktdg?oc=5",
+      "snippet": "Deals & Recruiting Roundup: Envestnet, Hightower, LPL, Savvy And More &nbsp;&nbsp; Wealth Solutions Report"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWN6ZTk4dG4zOTZUVmpQMGZkMXkyM0lGTC16QzdUOVpvZXJHek9ZeWJ6RUNzaWZOdXF2SHpaMDVPbUlfUFppWXdaNkFuZVVqNUN4MjlxaF8yemNXRkVWeVZEdm41MVdHV1lLV01naGpIMzVjclBib1dFTEF0aTFTZE9QbFEtdWVzdVhNcURmc2pkNXBjeG1zV0R3MUVDaVVQbjhGcmFkWEZWMVlTd0F3aWhhaGVKSEE?oc=5",
+      "type": "article",
+      "title": "Why Big Law Mergers Turn Partner Pay Into a High-Stakes Balancing Act - Law.com",
+      "date": "2026-09-15",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWN6ZTk4dG4zOTZUVmpQMGZkMXkyM0lGTC16QzdUOVpvZXJHek9ZeWJ6RUNzaWZOdXF2SHpaMDVPbUlfUFppWXdaNkFuZVVqNUN4MjlxaF8yemNXRkVWeVZEdm41MVdHV1lLV01naGpIMzVjclBib1dFTEF0aTFTZE9QbFEtdWVzdVhNcURmc2pkNXBjeG1zV0R3MUVDaVVQbjhGcmFkWEZWMVlTd0F3aWhhaGVKSEE?oc=5",
+      "snippet": "Why Big Law Mergers Turn Partner Pay Into a High-Stakes Balancing Act &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGsxM25hcHVDVldQRkVWSWwtNGdidEZlY3VLOUpKdEhEWlpkc0QxMTVtLWlqdVFEd201dmlpM2dZUlFsZUoxc0pMSUxQRXc5cEt2cUlxdzdWcTVMRzVtS3BzVzByMXU0N2lucHNLaWtfZkpjZndFZGk2V2JXb2xjRzhDRThTSzdrOWsxcG9XOHFvTThLWGfSAZYBQVVfeXFMTjBrMTNuYXB1Q1ZXUEZFVklsLTRnYnRGZWN1SzlKSnRIRFpaZHNEMTE1bS1panVRRHdtNXZpaTNnWVJRbGVKMXNKTElMUEV3OXBLdnFJcXc3VnE1TEc1bUtwc1cwcjF1NDdpbnBzS2lrX2ZKY2Z3RWRpNldiV29sY0c4Q0U4U0s3azlrMXBvVzhxb004S1hn?oc=5",
+      "type": "article",
+      "title": "Reading the Room: Has the Ghana Bar Association Outlived Its Constitutional Usefulness? - Modern Ghana",
+      "date": "2026-09-15",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGsxM25hcHVDVldQRkVWSWwtNGdidEZlY3VLOUpKdEhEWlpkc0QxMTVtLWlqdVFEd201dmlpM2dZUlFsZUoxc0pMSUxQRXc5cEt2cUlxdzdWcTVMRzVtS3BzVzByMXU0N2lucHNLaWtfZkpjZndFZGk2V2JXb2xjRzhDRThTSzdrOWsxcG9XOHFvTThLWGfSAZYBQVVfeXFMTjBrMTNuYXB1Q1ZXUEZFVklsLTRnYnRGZWN1SzlKSnRIRFpaZHNEMTE1bS1panVRRHdtNXZpaTNnWVJRbGVKMXNKTElMUEV3OXBLdnFJcXc3VnE1TEc1bUtwc1cwcjF1NDdpbnBzS2lrX2ZKY2Z3RWRpNldiV29sY0c4Q0U4U0s3azlrMXBvVzhxb004S1hn?oc=5",
+      "snippet": "Reading the Room: Has the Ghana Bar Association Outlived Its Constitutional Usefulness? &nbsp;&nbsp; Modern Ghana"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxQajNrbFB6X2MtM3JObi02ZlFBRlA0RkNVVWQ4MFp3ZF9pTHJ2WHNPQ09XMlpOYmhVLUtQeTgydFozZ2dMS3BvRE5wcFNmeW1Ockctb2dQVGNaVWJIeEREeXZoS0xKalZIVm9MeGVIQWtPMV9WN0xtTWlpdGVkYTdNakk3Qk1MLXB2aWNKVQ?oc=5",
+      "type": "article",
+      "title": "FCA Bans Nurul Miah Over £28M Kingly Solicitors Transfers - FinanceFeeds",
+      "date": "2026-09-15",
+      "source": "FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajNrbFB6X2MtM3JObi02ZlFBRlA0RkNVVWQ4MFp3ZF9pTHJ2WHNPQ09XMlpOYmhVLUtQeTgydFozZ2dMS3BvRE5wcFNmeW1Ockctb2dQVGNaVWJIeEREeXZoS0xKalZIVm9MeGVIQWtPMV9WN0xtTWlpdGVkYTdNakk3Qk1MLXB2aWNKVQ?oc=5",
+      "snippet": "FCA Bans Nurul Miah Over £28M Kingly Solicitors Transfers &nbsp;&nbsp; FinanceFeeds"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcE1uUkQwc2VqTlpsX1hfMWhTZXJyX0tVSmxNZmMxYjJ2ckJBaURDSnNJY1I5N1Vpbm9EaGNqLVdHbGNPS3BKV3FXTkF1ZjlQUVFDUGtIV2VndDlCZ015VUo3MWloUWQwNEVDWV9mZmNGSC1pazhQelh6MEtjSjhhcGR5WExpcWdMVmhPWWF4M3pKN0JfbDBBSWY4VDh1RFE4cUNMTUQxMF9rSUxFenl4alA0RWFCTWwzWm01Q3ZCdV9fUXFVU3hPZmZNdnozSGplUmVCVlNQTVJGX0VJa1Fqd29ucVQ4alI1bmxfOGtsNXhiRjBy?oc=5",
+      "type": "article",
+      "title": "Private Law Firm Stipend Does Not Bar Judge From Hiring Law Student as Intern: Judicial Ethics Opinion 26-65/26-66 - Law.com",
+      "date": "2026-09-15",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcE1uUkQwc2VqTlpsX1hfMWhTZXJyX0tVSmxNZmMxYjJ2ckJBaURDSnNJY1I5N1Vpbm9EaGNqLVdHbGNPS3BKV3FXTkF1ZjlQUVFDUGtIV2VndDlCZ015VUo3MWloUWQwNEVDWV9mZmNGSC1pazhQelh6MEtjSjhhcGR5WExpcWdMVmhPWWF4M3pKN0JfbDBBSWY4VDh1RFE4cUNMTUQxMF9rSUxFenl4alA0RWFCTWwzWm01Q3ZCdV9fUXFVU3hPZmZNdnozSGplUmVCVlNQTVJGX0VJa1Fqd29ucVQ4alI1bmxfOGtsNXhiRjBy?oc=5",
+      "snippet": "Private Law Firm Stipend Does Not Bar Judge From Hiring Law Student as Intern: Judicial Ethics Opinion 26-65/26-66 &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0JvUlV3cUtBeE9MeXNGU2xPdXFNdzd2Q0NJSUoxdHdqVDI3UkljQXFRLWxzV01ZVU5xV2Z2YjdYSnVzMV9pQmdBQi13NDRocG5UdnNBOURqTmlXdm0xOXhIem43TllBa3FGTGU0NVhRRFlLck5DRWNobVVuYTY5NXhuczNqdTlSTktxSFYtLTRjT0NyRFZneFMweFpmckhwbGR2RTNNRmQ?oc=5",
+      "type": "article",
+      "title": "RxWellness Spine & Health Makes Inc. 5000 for Fourth Consecutive Year - citybiz",
+      "date": "2026-09-15",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0JvUlV3cUtBeE9MeXNGU2xPdXFNdzd2Q0NJSUoxdHdqVDI3UkljQXFRLWxzV01ZVU5xV2Z2YjdYSnVzMV9pQmdBQi13NDRocG5UdnNBOURqTmlXdm0xOXhIem43TllBa3FGTGU0NVhRRFlLck5DRWNobVVuYTY5NXhuczNqdTlSTktxSFYtLTRjT0NyRFZneFMweFpmckhwbGR2RTNNRmQ?oc=5",
+      "snippet": "RxWellness Spine & Health Makes Inc. 5000 for Fourth Consecutive Year &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2c5MXpkMHlQTWQ4M1FpaDlOaXlzemN0SWt6allnNDB5SC1RUDR3dGxyVHdxaDRSUFM1M2R3VFZlTWFBY3RlQmVjVnBZd3doMXJzWmVjTHprZlZzNTd3VVVyVlpmSXh1ZW5jbHJESWRJZG8tWHZIUDV1bVNmNW9GMG1FTTgwWmEtRG9mdnQzbVRjZUNyZmlGUWZoSWItaGZpX3pBNnJNbzZYVzR0OEFvWGt5YnpzM1ZBT3c?oc=5",
+      "type": "article",
+      "title": "How Oklahoma companies are using document management to reduce paper dependency - Technology Org",
+      "date": "2026-09-15",
+      "source": "Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2c5MXpkMHlQTWQ4M1FpaDlOaXlzemN0SWt6allnNDB5SC1RUDR3dGxyVHdxaDRSUFM1M2R3VFZlTWFBY3RlQmVjVnBZd3doMXJzWmVjTHprZlZzNTd3VVVyVlpmSXh1ZW5jbHJESWRJZG8tWHZIUDV1bVNmNW9GMG1FTTgwWmEtRG9mdnQzbVRjZUNyZmlGUWZoSWItaGZpX3pBNnJNbzZYVzR0OEFvWGt5YnpzM1ZBT3c?oc=5",
+      "snippet": "How Oklahoma companies are using document management to reduce paper dependency &nbsp;&nbsp; Technology Org"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxOZmh0dTZwVW5GcVhRT1Nlc05pdzFKR3V4bklNR0lyQmRaTVc1N0o1N05ITW0tUVJEM3hDdVBPQ3NTd2lGSmV3Mk1DVjhVQ29uRjEtNjNqNTJpVUJBRlRobU1tVmU5NkZaeGtpU3NPWHRCck9VdDkzUGp3QTdUaVRBVU92NnVKNWphVWV0eHpfejJSWllWLUI0YktYVHd5QQ?oc=5",
+      "type": "article",
+      "title": "CISOs to Watch in Denver: From City Hall to the Fortune 500 - Security Boulevard",
+      "date": "2026-09-15",
+      "source": "Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmh0dTZwVW5GcVhRT1Nlc05pdzFKR3V4bklNR0lyQmRaTVc1N0o1N05ITW0tUVJEM3hDdVBPQ3NTd2lGSmV3Mk1DVjhVQ29uRjEtNjNqNTJpVUJBRlRobU1tVmU5NkZaeGtpU3NPWHRCck9VdDkzUGp3QTdUaVRBVU92NnVKNWphVWV0eHpfejJSWllWLUI0YktYVHd5QQ?oc=5",
+      "snippet": "CISOs to Watch in Denver: From City Hall to the Fortune 500 &nbsp;&nbsp; Security Boulevard"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzZud3I1MGJIT2FlRjY5VEp4ZjZJYXcxR3RNZFV6WE5SQXUzbFRUdzQ1NFpvcXhOUE1jVzRSc3U5WEU5ekFxVV9KUy1QN0dkMm1UdllkY1NHcWxoa3Y3VDJ2QjlPM001c05yclhVZVloVUpac1N3a2trVGx0QTZ1cE5zWWI?oc=5",
+      "type": "article",
+      "title": "Sullivan & Cromwell hires team of Kirkland partners in private equity push - Financial Times",
+      "date": "2026-09-15",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzZud3I1MGJIT2FlRjY5VEp4ZjZJYXcxR3RNZFV6WE5SQXUzbFRUdzQ1NFpvcXhOUE1jVzRSc3U5WEU5ekFxVV9KUy1QN0dkMm1UdllkY1NHcWxoa3Y3VDJ2QjlPM001c05yclhVZVloVUpac1N3a2trVGx0QTZ1cE5zWWI?oc=5",
+      "snippet": "Sullivan & Cromwell hires team of Kirkland partners in private equity push &nbsp;&nbsp; Financial Times"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbG56TnFSY2VvRW13Z3NUYWZHUDU5elNpemhmSGx4OGhpOG9iZ2dudnV1VFlndkdEZ19EUERNV0YwR2xQMkpmVldxNEIxUlR1UHktVTFYdjEzcHQtaEY4RmFoaFR1RldXOFE2WjYyZGlxQk0ydlptLTZSNkNrcWRpRWpZOWlGc3NJQTdjblRxcm9aX3N1VVZDaDFpUWRoUFctbWJJN21OMkhDMHBfVkdpb1U1NGlyenFQWWVYY0pUa3VCTUV3ck0wcUw3T1FMRkVUQzNoR00wV2JyNGR1?oc=5",
       "type": "article",
@@ -101,6 +182,33 @@
       "source": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFZKNUVXZl9LQk9yaVFKaFVGVGp6LXg1ZFJ2eV9rVjIwcFJ2MEM3cm9nSUh4emhFUFVFVFZ2Q2J6aFk2aU1kVGNpRGVrWTlrckhwcVlzSVhvVHc1Wkp1eEp6NFJxQjdaSUFodkZ4MS1RS1NKSWNNSlBvbVlWby1jUXBwaHRfN0hnRTE2eUxjWXZnNFZ6Nm9MYkk2azVqVVRrRzlkdDN0WEpOVUZEUGc?oc=5",
       "snippet": "Appleby to Accelerate Growth in Legal and Fiduciary Services With Investment From New Mountain Capital &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdNQzJfdTZYMTZSMTg2dkUwZ3RLSkNUSThxSl9EZWliU0NCMmRXaElXMWItMVpvQ0NoRmZCQ3lyU2tsN0NnTGdnTVE3QXc0cXJ4LWhRTUVzaXRfMlM0aDlTa2oyS2Nlb0xmenhVbGEzQWJxQmZmTkw4ak9mVUhqU0dhWFJKbHhZT3pmRmhpRTFRbGFDYTJhOEFBeVlsZDI5UFBwdktac0g0cmxq?oc=5",
+      "type": "article",
+      "title": "Trio of law firms advise as offshore leader takes external investment - Legal Business",
+      "date": "2026-09-14",
+      "source": "Legal Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdNQzJfdTZYMTZSMTg2dkUwZ3RLSkNUSThxSl9EZWliU0NCMmRXaElXMWItMVpvQ0NoRmZCQ3lyU2tsN0NnTGdnTVE3QXc0cXJ4LWhRTUVzaXRfMlM0aDlTa2oyS2Nlb0xmenhVbGEzQWJxQmZmTkw4ak9mVUhqU0dhWFJKbHhZT3pmRmhpRTFRbGFDYTJhOEFBeVlsZDI5UFBwdktac0g0cmxq?oc=5",
+      "snippet": "Trio of law firms advise as offshore leader takes external investment &nbsp;&nbsp; Legal Business"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSm1XWXJWLXcxT2tlSjBmbXlPQUFMc0hZZVdGeENaZzQwM2tXWV9aZE95MHpWR1BPQVhVbmEwdk9YT2RRWTJtdHRybFB3Tmg4YVc0NUFHb0NvTHJ2MC1yWUlfelMwUVN5bkJwcFplRUh5STRwUVozTU9BVzVzTEFIZ0cxbU4tV09L?oc=5",
+      "type": "article",
+      "title": "Ashurst Perkins Coie Adds Partner for Capital Growth - Mirage News",
+      "date": "2026-09-14",
+      "source": "Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSm1XWXJWLXcxT2tlSjBmbXlPQUFMc0hZZVdGeENaZzQwM2tXWV9aZE95MHpWR1BPQVhVbmEwdk9YT2RRWTJtdHRybFB3Tmg4YVc0NUFHb0NvTHJ2MC1yWUlfelMwUVN5bkJwcFplRUh5STRwUVozTU9BVzVzTEFIZ0cxbU4tV09L?oc=5",
+      "snippet": "Ashurst Perkins Coie Adds Partner for Capital Growth &nbsp;&nbsp; Mirage News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVNLcXNGTmtqTGVMTkpsbW0wbWpmMFBWaFR1TUoyNXViTlduVk9VbTZKb2MtYjlRM0RqRnlGelZKa3RFelp6YjByY2prVnctR2ZMY1Z6Q01ZRkpTTHdFMGtPbU1UeTNWcWdLWTk3S1FfNll2TlpzbzZUV1FhRXFrcFpUTzE2ejQ0NFU1blBMRVlrMEtMRXQwMm4yV2ozUXlzWG1mbTdTWFkwUE5yV0hDNXpfZFgyNlBmNEVZ0gG7AUFVX3lxTE1ZU0txc0ZOa2pMZUxOSmxtbTBtamYwUFZoVHVNSjI1dWJOV25WT1VtNkpvYy1iOVEzRGpGeUZ6VkprdEV6WnpiMHJjamtWdy1HZkxjVnpDTVlGSlNMd0Uwa09tTVR5M1ZxZ0tZOTdLUV82WXZOWnNvNlRXUWFFcWtwWlRPMTZ6NDQ0VTVuUExFWWswS0xFdDAybjJXajNReXNYbWZtN1NYWTBQTnJXSEM1el9kWDI2UGY0RVk?oc=5",
+      "type": "article",
+      "title": "Texas Business Court Addresses Church Autonomy and Corporate Governance Under the TBOC - The National Law Review",
+      "date": "2026-09-14",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVNLcXNGTmtqTGVMTkpsbW0wbWpmMFBWaFR1TUoyNXViTlduVk9VbTZKb2MtYjlRM0RqRnlGelZKa3RFelp6YjByY2prVnctR2ZMY1Z6Q01ZRkpTTHdFMGtPbU1UeTNWcWdLWTk3S1FfNll2TlpzbzZUV1FhRXFrcFpUTzE2ejQ0NFU1blBMRVlrMEtMRXQwMm4yV2ozUXlzWG1mbTdTWFkwUE5yV0hDNXpfZFgyNlBmNEVZ0gG7AUFVX3lxTE1ZU0txc0ZOa2pMZUxOSmxtbTBtamYwUFZoVHVNSjI1dWJOV25WT1VtNkpvYy1iOVEzRGpGeUZ6VkprdEV6WnpiMHJjamtWdy1HZkxjVnpDTVlGSlNMd0Uwa09tTVR5M1ZxZ0tZOTdLUV82WXZOWnNvNlRXUWFFcWtwWlRPMTZ6NDQ0VTVuUExFWWswS0xFdDAybjJXajNReXNYbWZtN1NYWTBQTnJXSEM1el9kWDI2UGY0RVk?oc=5",
+      "snippet": "Texas Business Court Addresses Church Autonomy and Corporate Governance Under the TBOC &nbsp;&nbsp; The National Law Review"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxPRi14YkdaTXZ1eVdpazFra1pQLVB1eGt2LXV4TGkxdkMtUDNPek1mZDloRVZFdzZYNmd0NkVYcE45N3BxTFRfbTNrSmQ3V0tDZUU2TDBDOUVMRmpJTU45TncxWXNkYW1hU2puR1R1MFZMWUdDNW16M09KcTdiUjFNY29lTU8xQUUxajVYcm9PMjZ5WllGMnZyNnNn?oc=5",
@@ -1244,114 +1352,6 @@
       "source": "Davis Vanguard",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OX3ZVYjFLci1fdTg0aUNMaDB1aGdJOHlqVjloeDkyaDAtWDZhWWJwMG8wWDdzeXd3VUY5aXVtdWs1QkpfYnRvUWpWX2xQbjNaamJuMXg2X1pYVmhaVEVTREtLVkVZUU1jUEx2RU8tbmVFS1dRM1dZ?oc=5",
       "snippet": "California Bill Restricting Corporate Influence Over Lawyers Heads to Newsom &nbsp;&nbsp; Davis Vanguard"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenJBQXJXVXJmbzVrTjJQR0VCS2FOZVZiN19HYTU2TGg5N2RzM1VqY05KTDRyWjhKQi1ZRUZNd2sxZTZKZHIyQ2pUT3ZjWU1OWnNNN3FnRFFyMDVkbFZXSkY5eWhDS1pRR1NQMU1GaVVxWVRWczN2VHR2RGo0M2JKbWpxbHpNNDYzNk1UaDBSRllxQnppdmlKUmVleF9WVEhVeV92WVFNUDR0QQ?oc=5",
-      "type": "article",
-      "title": "People on the move in Indian Country - Tribal Business News",
-      "date": "2026-08-30",
-      "source": "Tribal Business News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenJBQXJXVXJmbzVrTjJQR0VCS2FOZVZiN19HYTU2TGg5N2RzM1VqY05KTDRyWjhKQi1ZRUZNd2sxZTZKZHIyQ2pUT3ZjWU1OWnNNN3FnRFFyMDVkbFZXSkY5eWhDS1pRR1NQMU1GaVVxWVRWczN2VHR2RGo0M2JKbWpxbHpNNDYzNk1UaDBSRllxQnppdmlKUmVleF9WVEhVeV92WVFNUDR0QQ?oc=5",
-      "snippet": "People on the move in Indian Country &nbsp;&nbsp; Tribal Business News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGUzLUp5ZlN5NDFrQ1dUY2lBODFFcWhUdXpSZVRQQUxUM3pndjBTSjVxWURpTDYzeUxmbHlJQXR0TGpRLXZBejNmNzlTQWRWSEV5dW1aM21JNWgwR19HcDBKdnFLSnZEYXlMdktSU1FWYjhlTnduaHk0bDVSQkZYOElzSENwTHVvTkRpNVlhQW4zTElRQ0Q5aDd2a1RzTFYwOEtYOHJxaC1DU1lRLU5QWmZPa2s3M0NvTjFvcVVuM19fQQ?oc=5",
-      "type": "article",
-      "title": "It's Your Business has Scott A. Paxton, Larry Bork and Susan L. Mauch - The Topeka Capital-Journal",
-      "date": "2026-08-29",
-      "source": "The Topeka Capital-Journal",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGUzLUp5ZlN5NDFrQ1dUY2lBODFFcWhUdXpSZVRQQUxUM3pndjBTSjVxWURpTDYzeUxmbHlJQXR0TGpRLXZBejNmNzlTQWRWSEV5dW1aM21JNWgwR19HcDBKdnFLSnZEYXlMdktSU1FWYjhlTnduaHk0bDVSQkZYOElzSENwTHVvTkRpNVlhQW4zTElRQ0Q5aDd2a1RzTFYwOEtYOHJxaC1DU1lRLU5QWmZPa2s3M0NvTjFvcVVuM19fQQ?oc=5",
-      "snippet": "It's Your Business has Scott A. Paxton, Larry Bork and Susan L. Mauch &nbsp;&nbsp; The Topeka Capital-Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxOa184eDJORHotV2phY25pNmtqVUtxTm1rNnBSYWkxbTVLTHRQaHdhZHdFRjJEbHJZbWtiU0Y0VUhWa3M3WF8tTEMwR2QtOHNMQXFjLXFvYVpUb2djbGpsNnNNLWgxM0JsWU5ESkRNUGtCdmNCRE9TbUxXQTl6QlE1QUdQUzQtV1RBX3dWYTgtX0pHa3p4WlRFSlpidTNFUDJVS1VGQXE3N2RHZmRKM0hlU0g2MTdINXRtV1NlSFp6MDJOaG00Qy1LTWpyQjRYRlU?oc=5",
-      "type": "article",
-      "title": "Gov. Braun or AG Rokita Must Correct Indiana’s Past Use of General-Flynn-Style Perjury Traps – How IN Prosecutor Aaron Johnson Manufactured Fake Legal Ethics Case to Suspend an Indiana Judge - Hoosier Enquirer",
-      "date": "2026-08-29",
-      "source": "Hoosier Enquirer",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa184eDJORHotV2phY25pNmtqVUtxTm1rNnBSYWkxbTVLTHRQaHdhZHdFRjJEbHJZbWtiU0Y0VUhWa3M3WF8tTEMwR2QtOHNMQXFjLXFvYVpUb2djbGpsNnNNLWgxM0JsWU5ESkRNUGtCdmNCRE9TbUxXQTl6QlE1QUdQUzQtV1RBX3dWYTgtX0pHa3p4WlRFSlpidTNFUDJVS1VGQXE3N2RHZmRKM0hlU0g2MTdINXRtV1NlSFp6MDJOaG00Qy1LTWpyQjRYRlU?oc=5",
-      "snippet": "Gov. Braun or AG Rokita Must Correct Indiana’s Past Use of General-Flynn-Style Perjury Traps – How IN Prosecutor Aaron Johnson Manufactured Fake Legal Ethics Case to Suspend an Indiana Judge &nbsp;&nbsp; Hoosier Enquirer"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlBaNVBvaHNscjF1elk2T1NtRWFXeWNxMms3WmlidjJPTTBRZWxYbGpMd2M4bW95anBLdlhmSjZQZjl0UmNsZUhpTDFIV19ZcVlsSUZtLUFwbFJfdXhFVl96S3l5WU13TGdyY0FWbU9OTl81dzVBbkJWNGVvNlU3RWxYajN2b2NPcVhybXNPMzBFbjNpSDRyN2JWRVJNT1hXVDY0Q0RZSk5COXFrb3o0LTQtY2tIYTA?oc=5",
-      "type": "article",
-      "title": "Allied Health MSO Holdco, LLC Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Names and Social Security Numbers - Carroll County Mirror-Democrat",
-      "date": "2026-08-28",
-      "source": "Carroll County Mirror-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlBaNVBvaHNscjF1elk2T1NtRWFXeWNxMms3WmlidjJPTTBRZWxYbGpMd2M4bW95anBLdlhmSjZQZjl0UmNsZUhpTDFIV19ZcVlsSUZtLUFwbFJfdXhFVl96S3l5WU13TGdyY0FWbU9OTl81dzVBbkJWNGVvNlU3RWxYajN2b2NPcVhybXNPMzBFbjNpSDRyN2JWRVJNT1hXVDY0Q0RZSk5COXFrb3o0LTQtY2tIYTA?oc=5",
-      "snippet": "Allied Health MSO Holdco, LLC Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Names and Social Security Numbers &nbsp;&nbsp; Carroll County Mirror-Democrat"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWZmWlhycy1HQWNFOTF3bWp6T0g1QkZoZUNHNkgxbjdnMnd1bkM0T0VORHc2ZnM1TGp2SlFYWnc2R0Y0a0ZkQkFoc1J6NURoWmFDeUxnd1NkQW5tV2ZvbXFuV1oxM2RGWDRyTkJIeU1ZNmJRS0hTdm5VSmVRNFVJN0pCcw?oc=5",
-      "type": "article",
-      "title": "When the client backs your competitor - Non-Billable",
-      "date": "2026-08-28",
-      "source": "Non-Billable",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWZmWlhycy1HQWNFOTF3bWp6T0g1QkZoZUNHNkgxbjdnMnd1bkM0T0VORHc2ZnM1TGp2SlFYWnc2R0Y0a0ZkQkFoc1J6NURoWmFDeUxnd1NkQW5tV2ZvbXFuV1oxM2RGWDRyTkJIeU1ZNmJRS0hTdm5VSmVRNFVJN0pCcw?oc=5",
-      "snippet": "When the client backs your competitor &nbsp;&nbsp; Non-Billable"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiigJBVV95cUxNSnRGbV9fbkUtcEtXS2Q1SmVveFN3eFU3MHJPazYyOW9hZkh3aG85RW9KUmZmRVhnMFUyMEFZOFNYSURlZzFQU2pDd25tSVRaZE8tQmdxUG4zdGlxRVNhaV9pS3RBUTZyWmI2R2lDZTRlWmh0TlhmZFg0andCMzY5QnZIcUtjU3l4Z1hWU0MxTjJGREJiN3dJWFE3NVRMWkhEeDlDakgxR0dpR3FNUFRyRWEtdTFZaHpyMC1HUFBxS2R3NnRGdHZwZ0wtcW5EcXJUT0I1WEdRUkFrWk96UVh0Z01tY3BjQXhIRFdiSFJPV0RtRVd0Y0lrYzc1RFlha1dtZnFaQkt0dEstQdIBjwJBVV95cUxQeXhMZ0pCREk4Q1F2b2pTVC02T08zcExQVWRpcVVCR21vSFo2dVVXbkx1ZzdCVEZCdHV3NHp6VEJsNmF3YlZiR28xVzVzRWRxRjMwSnc4dFB1dWxIZVhOMUZIX2FETzdqRlZCaGhMdFczYXdpZnE2ZzNtZzZiZUhKQzBQRjNzVkcwSUV2alBaUTQwQ2JGTzMzS0s2NWZ5R0wyQnlMbm1aYkpwYzdPSGJJTWIzM1NKRmplSlZKb2ZRQW11Yl9Sam9PZ243aS16LXYxRXV6UGNDWTZQdWEyWVliajZGOXh3Y2dmeUVocTVvcEllMXhfZzc0MUVfNXQwenlESTI1SW1hbWJFeEZoTDFj?oc=5",
-      "type": "article",
-      "title": "Arvind Krishnamurthy Joins SEDA as a Private Credit, Specialty Finance and Alternative Investments Expert - The Manila Times",
-      "date": "2026-08-28",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSnRGbV9fbkUtcEtXS2Q1SmVveFN3eFU3MHJPazYyOW9hZkh3aG85RW9KUmZmRVhnMFUyMEFZOFNYSURlZzFQU2pDd25tSVRaZE8tQmdxUG4zdGlxRVNhaV9pS3RBUTZyWmI2R2lDZTRlWmh0TlhmZFg0andCMzY5QnZIcUtjU3l4Z1hWU0MxTjJGREJiN3dJWFE3NVRMWkhEeDlDakgxR0dpR3FNUFRyRWEtdTFZaHpyMC1HUFBxS2R3NnRGdHZwZ0wtcW5EcXJUT0I1WEdRUkFrWk96UVh0Z01tY3BjQXhIRFdiSFJPV0RtRVd0Y0lrYzc1RFlha1dtZnFaQkt0dEstQdIBjwJBVV95cUxQeXhMZ0pCREk4Q1F2b2pTVC02T08zcExQVWRpcVVCR21vSFo2dVVXbkx1ZzdCVEZCdHV3NHp6VEJsNmF3YlZiR28xVzVzRWRxRjMwSnc4dFB1dWxIZVhOMUZIX2FETzdqRlZCaGhMdFczYXdpZnE2ZzNtZzZiZUhKQzBQRjNzVkcwSUV2alBaUTQwQ2JGTzMzS0s2NWZ5R0wyQnlMbm1aYkpwYzdPSGJJTWIzM1NKRmplSlZKb2ZRQW11Yl9Sam9PZ243aS16LXYxRXV6UGNDWTZQdWEyWVliajZGOXh3Y2dmeUVocTVvcEllMXhfZzc0MUVfNXQwenlESTI1SW1hbWJFeEZoTDFj?oc=5",
-      "snippet": "Arvind Krishnamurthy Joins SEDA as a Private Credit, Specialty Finance and Alternative Investments Expert &nbsp;&nbsp; The Manila Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMifEFVX3lxTFBka0FEUzFBSU5SaHNSSXRkSDdhOTdtY0hISzFMbVNnVFpWZE5TeExQTnhnVDAwa3JCNkxXUExucWllSWJTQ3RTT2hYUEQ1TW1pSjJaX24xUC1FRTFJNjU5c3pRbkhjUzdCbVJnZ3Z4aVd6NVJTLUNqVHNPZ1I?oc=5",
-      "type": "article",
-      "title": "Retirement Industry People Moves - plansponsor",
-      "date": "2026-08-28",
-      "source": "plansponsor",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBka0FEUzFBSU5SaHNSSXRkSDdhOTdtY0hISzFMbVNnVFpWZE5TeExQTnhnVDAwa3JCNkxXUExucWllSWJTQ3RTT2hYUEQ1TW1pSjJaX24xUC1FRTFJNjU5c3pRbkhjUzdCbVJnZ3Z4aVd6NVJTLUNqVHNPZ1I?oc=5",
-      "snippet": "Retirement Industry People Moves &nbsp;&nbsp; plansponsor"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRFJwX1BNX09FTUV5T0lhd0ZZWG1Wd2ptZVlSLXNOQWhXZ0pjUTRsMWRJa3RQY1RHU2lEN2JsMjVYdXR5Y282aHlPTDJZTHV6VjBrNEI1Q0VmTXh1Zks5ellkdUNiN3Jhc1ZwVkxiVXN5ZXBKOWlhclp6ejQydHFqOWlTOG0tTVNKTUxjd2R2VFRMay1JZ0RoQ3FKMkxQVHl3SEh4WXZYMVFib0tIZnFRYUFMakw1SC1xUEtuOVBvV0NRWFJqeUl0dndJRDZlSVROTDBmZjJCeG44MW9KVmlYQ0o0NmVZY1B2Q1pMRTJXVG9RdVJobmc?oc=5",
-      "type": "article",
-      "title": "The Tourigny Law Firm LLC Expands Commercial Vehicle Practice - WBOC TV",
-      "date": "2026-08-28",
-      "source": "WBOC TV",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRFJwX1BNX09FTUV5T0lhd0ZZWG1Wd2ptZVlSLXNOQWhXZ0pjUTRsMWRJa3RQY1RHU2lEN2JsMjVYdXR5Y282aHlPTDJZTHV6VjBrNEI1Q0VmTXh1Zks5ellkdUNiN3Jhc1ZwVkxiVXN5ZXBKOWlhclp6ejQydHFqOWlTOG0tTVNKTUxjd2R2VFRMay1JZ0RoQ3FKMkxQVHl3SEh4WXZYMVFib0tIZnFRYUFMakw1SC1xUEtuOVBvV0NRWFJqeUl0dndJRDZlSVROTDBmZjJCeG44MW9KVmlYQ0o0NmVZY1B2Q1pMRTJXVG9RdVJobmc?oc=5",
-      "snippet": "The Tourigny Law Firm LLC Expands Commercial Vehicle Practice &nbsp;&nbsp; WBOC TV"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzctIBpAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzcg?oc=5",
-      "type": "article",
-      "title": "1 year or 3 years, we are asking the wrong question - Bar and Bench",
-      "date": "2026-08-28",
-      "source": "Bar and Bench",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzctIBpAFBVV95cUxPT0liVWl3S01wWkJ6NVJkVmwzSnFSN3puSm51dFRKbEpKbnpTQ1B3VFVkVm9UUTdlOC1iZFBnYk1jNUw4VmVwT05EMDlpWU9IeTAyS3hESm04YThWd1VKQll4ejc0NjQxUGthQlRHdlQ1MksyMTFncWt0eVRfdGd4U2k0NUdCTW5sZlRpM19TLUk4Wm8tbU8yam9aZWIzZS1XeTdzcg?oc=5",
-      "snippet": "1 year or 3 years, we are asking the wrong question &nbsp;&nbsp; Bar and Bench"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTh0TUFqVnd6VVpOaC1Qa2VIcDhvOTlWaE1NVm52QW5Jd2t4a0Exa2tla1N4Q0w4eE4zVDFqQlBQUi1BUjdNZzlYVnRZVTFmUldiY3B5ejVKNmZTTnNiWk9wR1lJYWxKQkdiZkRURHZCdWtsb3k3YVBpdUVsU0MwZVRZamlxSUpnbl9TUzRXcXNhVGI0aVg5d3QtZ2dMcUVyWnVWYU9CMG40aG0xQ2ZB?oc=5",
-      "type": "article",
-      "title": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale - Bloomberg Law News",
-      "date": "2026-08-28",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTh0TUFqVnd6VVpOaC1Qa2VIcDhvOTlWaE1NVm52QW5Jd2t4a0Exa2tla1N4Q0w4eE4zVDFqQlBQUi1BUjdNZzlYVnRZVTFmUldiY3B5ejVKNmZTTnNiWk9wR1lJYWxKQkdiZkRURHZCdWtsb3k3YVBpdUVsU0MwZVRZamlxSUpnbl9TUzRXcXNhVGI0aVg5d3QtZ2dMcUVyWnVWYU9CMG40aG0xQ2ZB?oc=5",
-      "snippet": "LA Lakers Name New GC as Big Law Firms Handle Team’s Record Sale &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
-      "type": "article",
-      "title": "Maryland sues Optum over 'defective' computer system - Fierce Healthcare",
-      "date": "2026-08-28",
-      "source": "Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
-      "snippet": "Maryland sues Optum over 'defective' computer system &nbsp;&nbsp; Fierce Healthcare"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiTkFVX3lxTE02V0xlSlRqZDhzODFya0IzWi1ILUhnWHVBU1ljTm9COHBPLUMyOGdXZkhrakJuSDNSQmlWNUNOM1ZySHVLZU5Tb0x1SEpVZw?oc=5",
-      "type": "article",
-      "title": "Retirement Industry People Moves – 8/28/2026 - planadviser",
-      "date": "2026-08-28",
-      "source": "planadviser",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02V0xlSlRqZDhzODFya0IzWi1ILUhnWHVBU1ljTm9COHBPLUMyOGdXZkhrakJuSDNSQmlWNUNOM1ZySHVLZU5Tb0x1SEpVZw?oc=5",
-      "snippet": "Retirement Industry People Moves – 8/28/2026 &nbsp;&nbsp; planadviser"
     }
   ]
 }
