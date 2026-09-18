@@ -1,8 +1,89 @@
 {
-  "lastRun": "2026-09-17T15:27:47.628769+00:00",
+  "lastRun": "2026-09-18T14:49:01.511921+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 18,
+  "addedThisRun": 19,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa28yb3AyQWJtMjFHTXlZcFp5N1RoMDI4Yy1kTzI4ZlMyckhpNlpUdFB2TERBWGNGbzBSaldoVUgtbjBXWVZpUHJxb2tpaGVlY3ZMX21aalZtZUctOTBtYUF6UGdrV3hMejFBb1RzZUtnQ1d0WHNZdHhUbWhSbW5yLTdITUxEVzhCSHdYSVJzdVpiY2RSejNJZVhlRDRnRU8zVlVCODRkRk5VZ0XSAbABQVVfeXFMUG85YU1PZFNVeVZJWmdROTI2RVdnbzdzSEdZSWtIQ2Z0R1JTYUVLZXVIT3VCaU1CMjd1M1NKYWZIMHFETTVwNXl2UWllSnRTMVcyRzgxWE93S01jaUJoS1JPRWRUUWE0dTBXajQ5MW1rMXZVS3FSdXMxQVNaOFB6SnZ1bHF5ZUpacXFSM3Zaa1BkcjN5ZU5nTlhlelVNRjNNRDJBYURsSm42djFkRWozb0s?oc=5",
+      "type": "article",
+      "title": "OHCA Releases Revised Emergency Regulations Implementing AB 1415 Reporting Requirements for Private Equity (PE) and Management Services Organizations (MSOs) - The National Law Review",
+      "date": "2026-09-18",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa28yb3AyQWJtMjFHTXlZcFp5N1RoMDI4Yy1kTzI4ZlMyckhpNlpUdFB2TERBWGNGbzBSaldoVUgtbjBXWVZpUHJxb2tpaGVlY3ZMX21aalZtZUctOTBtYUF6UGdrV3hMejFBb1RzZUtnQ1d0WHNZdHhUbWhSbW5yLTdITUxEVzhCSHdYSVJzdVpiY2RSejNJZVhlRDRnRU8zVlVCODRkRk5VZ0XSAbABQVVfeXFMUG85YU1PZFNVeVZJWmdROTI2RVdnbzdzSEdZSWtIQ2Z0R1JTYUVLZXVIT3VCaU1CMjd1M1NKYWZIMHFETTVwNXl2UWllSnRTMVcyRzgxWE93S01jaUJoS1JPRWRUUWE0dTBXajQ5MW1rMXZVS3FSdXMxQVNaOFB6SnZ1bHF5ZUpacXFSM3Zaa1BkcjN5ZU5nTlhlelVNRjNNRDJBYURsSm42djFkRWozb0s?oc=5",
+      "snippet": "OHCA Releases Revised Emergency Regulations Implementing AB 1415 Reporting Requirements for Private Equity (PE) and Management Services Organizations (MSOs) &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3R3QURDcWFVbTE3TGo5X3VRNE9IWjZZMlJscTlnV0l4M2pEcTdqdlJDVDZiWTZwbU92VHpWRndMQzhfNnRnWGxRNEpnNFVZT21GaXVuM2p0OW5fdWpmQUJyN012RzVPX0UzR2pJVHF2T0U4V2hhRGpOLXhFMkpEdGVBYU1GWTNPbzFwV25oRmdEYWctdnpiMFRQSnNIcWpqRU4xeU1FdHRYVnZNZ0HSAVZBVV95cUxOb2lXd0g3aG4wYUQ4RkN4WEh0QlRib1FFemdIWTZNVFdkMVlYUE0xWDdwODNXSUF5WFRaWFZBaXlhdlQ1eWxIMWpMWTJDQnlaSllJY3d1UQ?oc=5",
+      "type": "article",
+      "title": "Michigan Court Pilot Aims To Aid Unrepresented Litigants - Law360",
+      "date": "2026-09-18",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3R3QURDcWFVbTE3TGo5X3VRNE9IWjZZMlJscTlnV0l4M2pEcTdqdlJDVDZiWTZwbU92VHpWRndMQzhfNnRnWGxRNEpnNFVZT21GaXVuM2p0OW5fdWpmQUJyN012RzVPX0UzR2pJVHF2T0U4V2hhRGpOLXhFMkpEdGVBYU1GWTNPbzFwV25oRmdEYWctdnpiMFRQSnNIcWpqRU4xeU1FdHRYVnZNZ0HSAVZBVV95cUxOb2lXd0g3aG4wYUQ4RkN4WEh0QlRib1FFemdIWTZNVFdkMVlYUE0xWDdwODNXSUF5WFRaWFZBaXlhdlQ1eWxIMWpMWTJDQnlaSllJY3d1UQ?oc=5",
+      "snippet": "Michigan Court Pilot Aims To Aid Unrepresented Litigants &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTE1FZVBVckpsaTk2WDJSRVpzeUxaT3Q4MXVaeEl1aWMxTGg4OE4ya0VpcEM2RlMyd1dWa2d3QnJYYTMyRmVRcS1nQS1sQUlGOS1MYnBiOWQ4QjdQTldRTkE1X2V5cWh1T2JMUGc?oc=5",
+      "type": "article",
+      "title": "Appleby receives private equity investment from New Mountain Capital - Law.asia",
+      "date": "2026-09-18",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FZVBVckpsaTk2WDJSRVpzeUxaT3Q4MXVaeEl1aWMxTGg4OE4ya0VpcEM2RlMyd1dWa2d3QnJYYTMyRmVRcS1nQS1sQUlGOS1MYnBiOWQ4QjdQTldRTkE1X2V5cWh1T2JMUGc?oc=5",
+      "snippet": "Appleby receives private equity investment from New Mountain Capital &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeHY4TTY0dDhWbEEtbktNWTJrcXlranpRMHVPdWNpeWRzMHJDUkVBN2JpT3QzR1gxR18xcjhpc3MtWkRGcXhvSjI0bm96YVRZWDdaM2g3Q3hJYjNOYnVVb1JCYmpqVEx2b2F5bzhHR2Ftc0xFV1ZwOVZoRGNCYWg5c2hlSGxNbUlGY1JZa21sQUg5V2htMFFRTmREVC1WeWg0VjhKcE1sYlZMSGFkUWNGQWZROUxXdUxfSmpCTWoxSFk2dHZuZ0EyQksyQ2FJY3ZGUEJHYUtXWHNLdVhMbC04ZUMxX3hEOUg1NDlMZkRZZ3hnZDdwOU1BSVdWZ20yNFF2N2piUzJRbnU?oc=5",
+      "type": "article",
+      "title": "Support Magistrate May Serve Mental Health Nonprofit, But Not Participate in Sexual Violence Event: Judicial Ethics Opinion 26-25 - Law.com",
+      "date": "2026-09-18",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeHY4TTY0dDhWbEEtbktNWTJrcXlranpRMHVPdWNpeWRzMHJDUkVBN2JpT3QzR1gxR18xcjhpc3MtWkRGcXhvSjI0bm96YVRZWDdaM2g3Q3hJYjNOYnVVb1JCYmpqVEx2b2F5bzhHR2Ftc0xFV1ZwOVZoRGNCYWg5c2hlSGxNbUlGY1JZa21sQUg5V2htMFFRTmREVC1WeWg0VjhKcE1sYlZMSGFkUWNGQWZROUxXdUxfSmpCTWoxSFk2dHZuZ0EyQksyQ2FJY3ZGUEJHYUtXWHNLdVhMbC04ZUMxX3hEOUg1NDlMZkRZZ3hnZDdwOU1BSVdWZ20yNFF2N2piUzJRbnU?oc=5",
+      "snippet": "Support Magistrate May Serve Mental Health Nonprofit, But Not Participate in Sexual Violence Event: Judicial Ethics Opinion 26-25 &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlVQbmg1SEtCVzBPZUNlSXl3dWhkNXROZTZLMnFaWW44SGZ1Z09RbTFVZDQ4Qi0xeWR0QjlvM3Z5WEtYMng2cU4yZ0lNUkp3bF9DdkxsaFdOalJuLUF4dFZITndhZ1FXQmUxdkk4ZkRlenhFLU5sWENZYzhiQkhubDU1Y1d0dTRMbzJOYU5Gdw?oc=5",
+      "type": "article",
+      "title": "Lawmakers Take Aim at Private Equity in Healthcare - Globest",
+      "date": "2026-09-18",
+      "source": "Globest",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlVQbmg1SEtCVzBPZUNlSXl3dWhkNXROZTZLMnFaWW44SGZ1Z09RbTFVZDQ4Qi0xeWR0QjlvM3Z5WEtYMng2cU4yZ0lNUkp3bF9DdkxsaFdOalJuLUF4dFZITndhZ1FXQmUxdkk4ZkRlenhFLU5sWENZYzhiQkhubDU1Y1d0dTRMbzJOYU5Gdw?oc=5",
+      "snippet": "Lawmakers Take Aim at Private Equity in Healthcare &nbsp;&nbsp; Globest"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAJBVV95cUxNcmV1cVIzZk52YW1SLUdwS1V0WWV6VVRjeUVldU9RT2FhaXJMRDJuZnd6djVmTmlZdEJnQzNHSG9lNkJ0N0tmUmVCcklfTVhscGdqalF5QVNxekpUUWVrZ0tZM2phS0Z2cFRXY1RWVk5neXIxSERPNXBaVlEwZ0xacnJjWGF2bEdIeDBvSVN2QUVZUmw1WHB3WTBCak1oSnduWnlzV1VFVkhFY1NoX05hYUYzaU9vMFRrWXZpdnRIYk5Ca2VzTl9ORjdTbllNZzh2clBadTVYZ05kRW9Lak1yY1FQd3ZRN3Q4aVd2R3M2SnVzQndydnFJdUpDa25ET0U1VzFUMXpZQ1V5Y2dsZ1l2UzR5bDUyU3JHMGhDdm5SZ3pCWUVlN0tISWxQWk8?oc=5",
+      "type": "article",
+      "title": "Eaton Hudson Launches Legal Industry Practice, Bringing Nearly Four Decades of Workout and Asset Disposition Discipline to Law Firm and Litigation Assets - USA Today",
+      "date": "2026-09-18",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcmV1cVIzZk52YW1SLUdwS1V0WWV6VVRjeUVldU9RT2FhaXJMRDJuZnd6djVmTmlZdEJnQzNHSG9lNkJ0N0tmUmVCcklfTVhscGdqalF5QVNxekpUUWVrZ0tZM2phS0Z2cFRXY1RWVk5neXIxSERPNXBaVlEwZ0xacnJjWGF2bEdIeDBvSVN2QUVZUmw1WHB3WTBCak1oSnduWnlzV1VFVkhFY1NoX05hYUYzaU9vMFRrWXZpdnRIYk5Ca2VzTl9ORjdTbllNZzh2clBadTVYZ05kRW9Lak1yY1FQd3ZRN3Q4aVd2R3M2SnVzQndydnFJdUpDa25ET0U1VzFUMXpZQ1V5Y2dsZ1l2UzR5bDUyU3JHMGhDdm5SZ3pCWUVlN0tISWxQWk8?oc=5",
+      "snippet": "Eaton Hudson Launches Legal Industry Practice, Bringing Nearly Four Decades of Workout and Asset Disposition Discipline to Law Firm and Litigation Assets &nbsp;&nbsp; USA Today"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWFnS18zZjRrdm5xX0pTSnZtXzFtZnhMdkhSdFRSSmZXZlhWUWlYWVU2YW53WDJqTTdYdVBIVURQaVRBaHQ0M0hOWEdDOTd2Z3djUHY4NXRvSHFZaVZpQ0lLZDJobmh1djhDOHZweEY5RmhVYWVJM1doSC1rWVIzQW10a3lQWThZNWtrMGJzYl94VnZSTm5PclNxenZTUDJmUk45Q0gtQ2Q1QmxqOU5YQzdpSkk1Ui1JaC14cVF5TzU?oc=5",
+      "type": "article",
+      "title": "Equal Treatment & College Degree Barriers: The Problem of Disparate Impact Doctrine – AFPI - America First Policy Institute",
+      "date": "2026-09-18",
+      "source": "America First Policy Institute",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWFnS18zZjRrdm5xX0pTSnZtXzFtZnhMdkhSdFRSSmZXZlhWUWlYWVU2YW53WDJqTTdYdVBIVURQaVRBaHQ0M0hOWEdDOTd2Z3djUHY4NXRvSHFZaVZpQ0lLZDJobmh1djhDOHZweEY5RmhVYWVJM1doSC1rWVIzQW10a3lQWThZNWtrMGJzYl94VnZSTm5PclNxenZTUDJmUk45Q0gtQ2Q1QmxqOU5YQzdpSkk1Ui1JaC14cVF5TzU?oc=5",
+      "snippet": "Equal Treatment & College Degree Barriers: The Problem of Disparate Impact Doctrine – AFPI &nbsp;&nbsp; America First Policy Institute"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxQMU9IY3NBclZzSUt2cVlYRUlSNE94dUkwSkJuV1ZPZTI4VzFmTEhuVG9HZl96T1VUdHlEWnFSQmRjZDNHLXRNWnBKYWN0cWd5czJHVERkWkpWaWxyc3Flai1WemY3b1d5eFBUb2RkbUNiV2M4a0dJdE9zWE95Xy1XbWJNNC15TGd6b3Eta0dRZw?oc=5",
+      "type": "article",
+      "title": "The procurement laws no contractor can negotiate away - Business & Financial Times",
+      "date": "2026-09-18",
+      "source": "Business & Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMU9IY3NBclZzSUt2cVlYRUlSNE94dUkwSkJuV1ZPZTI4VzFmTEhuVG9HZl96T1VUdHlEWnFSQmRjZDNHLXRNWnBKYWN0cWd5czJHVERkWkpWaWxyc3Flai1WemY3b1d5eFBUb2RkbUNiV2M4a0dJdE9zWE95Xy1XbWJNNC15TGd6b3Eta0dRZw?oc=5",
+      "snippet": "The procurement laws no contractor can negotiate away &nbsp;&nbsp; Business & Financial Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kRzdNY0pMMF95dndkaTVCV1FjcDNBQ1ZocEthbUlFUTF2VGFsVVJTVTgtV1FwTGVTMDZ6UVJCT0VVMVJxcl90UGhTeE12b1dPQl9kY1NCbjRIYnhJRlRrRmhCWQ?oc=5",
+      "type": "article",
+      "title": "Asset owners urge private markets managers to adopt net zero transition plans - AMWatch",
+      "date": "2026-09-18",
+      "source": "AMWatch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kRzdNY0pMMF95dndkaTVCV1FjcDNBQ1ZocEthbUlFUTF2VGFsVVJTVTgtV1FwTGVTMDZ6UVJCT0VVMVJxcl90UGhTeE12b1dPQl9kY1NCbjRIYnhJRlRrRmhCWQ?oc=5",
+      "snippet": "Asset owners urge private markets managers to adopt net zero transition plans &nbsp;&nbsp; AMWatch"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUJKSkJFMFJwVmtsdjJoWjU3MjdJcE9keG5ma0cxWVZPVll3bzNPT3ZyWWQ0b3V1WXJTS0ZMNW5fUjBPNHMyaXpZYmdRVGtpdV8tSVZTUi0wbE4xZDFEdEQwclFJQkZzUjM4Q2pSX1luMkZQcVN6LWFjYnZKeVhjZ1N5QjVGdkJsOTJCMG96ODBtbjlLSEM0N2o2eWtzWFBUSHYzcHAtM2hXNjFYRG1lekp1S1VRUWpmb2g5b0V4azhpdw?oc=5",
       "type": "article",
@@ -83,6 +164,96 @@
       "source": "Grants Pass Tribune",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkFua2NuelZNQzJzNGZkbkhtYmlveXBkSHM1NXQyZEpmY3JqUjFOS3dJLUNRcTJXRnNpdHhJSzhSOXJWcVl2d0hyajhBZFk2aG1KNzJVajRCaXNHOUtfQlhOaW52YzFrSGc4VkZqYm1naGk0cF9SUU1kV1lYN2g1TzFQWUNKUHJqU0xLUnRFczl1dDJNdmFDRGE2UGl5OF9GRko0TzlHbU8?oc=5",
       "snippet": "Oregon Medical Ownership Law Becomes Blueprint for Federal Legislation &nbsp;&nbsp; Grants Pass Tribune"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxOeUZsXzdaNVlGXzdRa2NYZ3FBSktZWXh5a0o4TldkU01QVjhfcF9TWFRmMWtFSGN4eGNHeWpVb1VCemhtQnJuSjd1TmxlaTBoVW9QZnZabHMxc1hpbWFFQmNveFJGajFBblJmbGJhUWtZRjMwTkYtWW1SdzJETlVyclpTSTNNRW5vNUN5b2FWdUJTREwzd1g2ejllRXZHUQ?oc=5",
+      "type": "article",
+      "title": "Ethics Opinion 1302: Provision of integrated legal, tax, and financial planning services - New York State Bar Association",
+      "date": "2026-09-17",
+      "source": "New York State Bar Association",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUZsXzdaNVlGXzdRa2NYZ3FBSktZWXh5a0o4TldkU01QVjhfcF9TWFRmMWtFSGN4eGNHeWpVb1VCemhtQnJuSjd1TmxlaTBoVW9QZnZabHMxc1hpbWFFQmNveFJGajFBblJmbGJhUWtZRjMwTkYtWW1SdzJETlVyclpTSTNNRW5vNUN5b2FWdUJTREwzd1g2ejllRXZHUQ?oc=5",
+      "snippet": "Ethics Opinion 1302: Provision of integrated legal, tax, and financial planning services &nbsp;&nbsp; New York State Bar Association"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1RjYllNNGNHVXljeml4YTRsSUZCTlBRLWNkN2dpQ1h6ZEhLaXVabTNTbFRGeXZLX2UzZ2M4QXRueFlYaWdCZllyLWhRWkYtNWstbzFFNVcyVE9icG00d2NYbzVWdE1CQnRXRnVEalNMQkl2ZTRBYjVQZzhmZzA3LU56NG0zdzhVZVZzUDNROUZTTTduZ096T2haMjJWcFhONTFETV9zOA?oc=5",
+      "type": "article",
+      "title": "Big law firm launches platform combining 165 attorneys with AI to defend mass tort cases - The Business Journals",
+      "date": "2026-09-17",
+      "source": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1RjYllNNGNHVXljeml4YTRsSUZCTlBRLWNkN2dpQ1h6ZEhLaXVabTNTbFRGeXZLX2UzZ2M4QXRueFlYaWdCZllyLWhRWkYtNWstbzFFNVcyVE9icG00d2NYbzVWdE1CQnRXRnVEalNMQkl2ZTRBYjVQZzhmZzA3LU56NG0zdzhVZVZzUDNROUZTTTduZ096T2haMjJWcFhONTFETV9zOA?oc=5",
+      "snippet": "Big law firm launches platform combining 165 attorneys with AI to defend mass tort cases &nbsp;&nbsp; The Business Journals"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EV2p1S0hxQlpfMG5CWGg0aS1yRFJ0TUpDcUZxRklDdjFhdEVZREtQUFd4cUhkcU9Kd3d2Wl9teUlCdC1hUlI2R2taTW91RlBEUTQ1SG1fNVNLdw?oc=5",
+      "type": "article",
+      "title": "Loop Industries Forms Strategic Alternatives Committee to Maximize Shareholder Value - Lelezard",
+      "date": "2026-09-17",
+      "source": "Lelezard",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EV2p1S0hxQlpfMG5CWGg0aS1yRFJ0TUpDcUZxRklDdjFhdEVZREtQUFd4cUhkcU9Kd3d2Wl9teUlCdC1hUlI2R2taTW91RlBEUTQ1SG1fNVNLdw?oc=5",
+      "snippet": "Loop Industries Forms Strategic Alternatives Committee to Maximize Shareholder Value &nbsp;&nbsp; Lelezard"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGdIMm1iS283dUVUQ2tVMmk2UnlNTnh1ZHF4TGpzVV9yYUZtVU5mcHVTeVNUcVhkVXhoY0pPNmlXUEtQd0JhUGdhNkMwaEY0Rm9hMW52UWpZODdMeGg1MnpQS3Z6ekQzNThSYm1FTWRTTFNBSUp2cndyWV9GNm1ZdGdNNUcyQVlMZEFjZ3RISnY2aFZoTHN5ZGY3OENWNF9BSXJwdA?oc=5",
+      "type": "article",
+      "title": "Apollo Provides $1.25 Billion to Support BMG-Concord Combination - citybiz",
+      "date": "2026-09-17",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGdIMm1iS283dUVUQ2tVMmk2UnlNTnh1ZHF4TGpzVV9yYUZtVU5mcHVTeVNUcVhkVXhoY0pPNmlXUEtQd0JhUGdhNkMwaEY0Rm9hMW52UWpZODdMeGg1MnpQS3Z6ekQzNThSYm1FTWRTTFNBSUp2cndyWV9GNm1ZdGdNNUcyQVlMZEFjZ3RISnY2aFZoTHN5ZGY3OENWNF9BSXJwdA?oc=5",
+      "snippet": "Apollo Provides $1.25 Billion to Support BMG-Concord Combination &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMivgFBVV95cUxObE5GMFFCRWhGRE8xYkxZSXdHUWNTbDl1NFM5RlF2R0tvT1pVb1dZTzZrazAtbFM3cV9SdEtuTGhxdzhkTTh3ZVV2dW1oYi0zeHpPbllMRFQ3R0tlbFJLZ0N5VEhrS3BrcWhuZkZJVU1kWmtqZzBPN09Wczk3eW9tWE1ZUU1CZXhVMjdVN041R3BKRkJhQTVod1d0bWppOGFDUWdGcFIxS3BHWHBSbTY3elQ2YWt2dmd1TlhmcGNR?oc=5",
+      "type": "article",
+      "title": "A plastic recycler is reviewing a possible sale. Loop Industries has made no decision. - Stock Titan",
+      "date": "2026-09-17",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObE5GMFFCRWhGRE8xYkxZSXdHUWNTbDl1NFM5RlF2R0tvT1pVb1dZTzZrazAtbFM3cV9SdEtuTGhxdzhkTTh3ZVV2dW1oYi0zeHpPbllMRFQ3R0tlbFJLZ0N5VEhrS3BrcWhuZkZJVU1kWmtqZzBPN09Wczk3eW9tWE1ZUU1CZXhVMjdVN041R3BKRkJhQTVod1d0bWppOGFDUWdGcFIxS3BHWHBSbTY3elQ2YWt2dmd1TlhmcGNR?oc=5",
+      "snippet": "A plastic recycler is reviewing a possible sale. Loop Industries has made no decision. &nbsp;&nbsp; Stock Titan"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTFBNX0kxTzI4bzI1S185ZXRYWkt4WDVOcGN4YVJtTU55eW1OTlZRSG5QVDhmMWdWVFAwTDluSTJkWHhNYk9fMWk4Y2hXUzlhNGJSRWltQUpldl9sdGlHSHg0XzFXWHpNd1ljOWRnRVRNR1pRdkN3UFBJWkozSQ?oc=5",
+      "type": "article",
+      "title": "Bill Targets Corporate Control of Doctors - Uprise RI",
+      "date": "2026-09-17",
+      "source": "Uprise RI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNX0kxTzI4bzI1S185ZXRYWkt4WDVOcGN4YVJtTU55eW1OTlZRSG5QVDhmMWdWVFAwTDluSTJkWHhNYk9fMWk4Y2hXUzlhNGJSRWltQUpldl9sdGlHSHg0XzFXWHpNd1ljOWRnRVRNR1pRdkN3UFBJWkozSQ?oc=5",
+      "snippet": "Bill Targets Corporate Control of Doctors &nbsp;&nbsp; Uprise RI"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTVZQ1BwMmN4N3JteHdpbHdlaEJnRUVQOUxDLU1ZN20xc2IxdFQzN0Nvd2Q2cGFZZWtPR2x6YlFjYUpZVUJGQnRUYjlUSFk5UEh6UVQ5ZUh0YWlyVkNvX2hJZXNMT0p6LUZ5bkF2alA1SDF5WDZQZGpSeW1sTDNoM28xeEJMajRfNjFoVWxEMURFckdwSXIzRzBwRXdOTGxLTDAtajdHVTdjWnVOUFpPaVZWSFh2aVJHX252X2xRQkhSVkV2d1E?oc=5",
+      "type": "article",
+      "title": "Banning Corporate Medicine: Stopping Private Equity's Debt Trap - Forbes",
+      "date": "2026-09-17",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTVZQ1BwMmN4N3JteHdpbHdlaEJnRUVQOUxDLU1ZN20xc2IxdFQzN0Nvd2Q2cGFZZWtPR2x6YlFjYUpZVUJGQnRUYjlUSFk5UEh6UVQ5ZUh0YWlyVkNvX2hJZXNMT0p6LUZ5bkF2alA1SDF5WDZQZGpSeW1sTDNoM28xeEJMajRfNjFoVWxEMURFckdwSXIzRzBwRXdOTGxLTDAtajdHVTdjWnVOUFpPaVZWSFh2aVJHX252X2xRQkhSVkV2d1E?oc=5",
+      "snippet": "Banning Corporate Medicine: Stopping Private Equity's Debt Trap &nbsp;&nbsp; Forbes"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2JiM2RGOC1IS1dfWWYzM2dtdGZtNEdVRHF0cUxHQ3g4Wlc0M0kxZUZHdjZPRVloZkdzdGdONUVvblpSYXQxWHdnUk83QUxIam5tR2pBcGJ5S0lEZVpmQTVnX0xkLUc4ZEUwTEU5RlhfcjFoNnRNcHNrS0lXQUVET1JjUVA0SUFUSXZjQV9oSkI2b3F2RmN5dExUdUNxZnM5aWcwdTNUT1pqTDBGSHBr?oc=5",
+      "type": "article",
+      "title": "RICO Suit Over Tribal Cigarettes Nets Treble Damages Award - Bloomberg Law News",
+      "date": "2026-09-17",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2JiM2RGOC1IS1dfWWYzM2dtdGZtNEdVRHF0cUxHQ3g4Wlc0M0kxZUZHdjZPRVloZkdzdGdONUVvblpSYXQxWHdnUk83QUxIam5tR2pBcGJ5S0lEZVpmQTVnX0xkLUc4ZEUwTEU5RlhfcjFoNnRNcHNrS0lXQUVET1JjUVA0SUFUSXZjQV9oSkI2b3F2RmN5dExUdUNxZnM5aWcwdTNUT1pqTDBGSHBr?oc=5",
+      "snippet": "RICO Suit Over Tribal Cigarettes Nets Treble Damages Award &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVVTMFYtNkFTLXA1SXFXeXhRTGZuQWhVX291N3cxVWxnQ3g3N015VWtxSkRqZE5CdF9YcGVzMjRVbkh1REoxclY4WXJZUGNTd0owR2lGb08wQmRyR0dFUm8zWTBTbWd2bkVDMlNBRHQ1ZjlDVGIxMkRySDdaOUxJQU5namlPQnd0UmxYWVd3bS1hMUo3Y0RZODFFTjZEOE83Vm9Z?oc=5",
+      "type": "article",
+      "title": "Professor Linda Galler Examines Ethics and AI in Tax Practice - Hofstra Law News",
+      "date": "2026-09-17",
+      "source": "Hofstra Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVVTMFYtNkFTLXA1SXFXeXhRTGZuQWhVX291N3cxVWxnQ3g3N015VWtxSkRqZE5CdF9YcGVzMjRVbkh1REoxclY4WXJZUGNTd0owR2lGb08wQmRyR0dFUm8zWTBTbWd2bkVDMlNBRHQ1ZjlDVGIxMkRySDdaOUxJQU5namlPQnd0UmxYWVd3bS1hMUo3Y0RZODFFTjZEOE83Vm9Z?oc=5",
+      "snippet": "Professor Linda Galler Examines Ethics and AI in Tax Practice &nbsp;&nbsp; Hofstra Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVpEY1lzcTFXUzA2Z0c2RWlMLVBPSjJyZ2pJUk9NMzV2d2lsUWR5ZGx3UTVNZUFjRWhZbVE2SnlLanVvRHhzbkx0YWR1bjRNbVZhTnpRV1Qzdnk1RnlGMndMU0ZPeFRhbUtlLWJhZVo0aG1CTDVpUkJvVF95M1JqNEtWSDAtUzF3SVZjWEhMRjFuV0ZCWlE?oc=5",
+      "type": "article",
+      "title": "Rothbard’s Unfinished Question: What About Power? – OpEd - Eurasia Review",
+      "date": "2026-09-17",
+      "source": "Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVpEY1lzcTFXUzA2Z0c2RWlMLVBPSjJyZ2pJUk9NMzV2d2lsUWR5ZGx3UTVNZUFjRWhZbVE2SnlLanVvRHhzbkx0YWR1bjRNbVZhTnpRV1Qzdnk1RnlGMndMU0ZPeFRhbUtlLWJhZVo0aG1CTDVpUkJvVF95M1JqNEtWSDAtUzF3SVZjWEhMRjFuV0ZCWlE?oc=5",
+      "snippet": "Rothbard’s Unfinished Question: What About Power? – OpEd &nbsp;&nbsp; Eurasia Review"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxQN21xWDFCdG95bGJjUHJsd3ZWWnl5WUNSUENJbHJuaWlUc0h6amJZTmtrTExsd3lqZmFfd1lGblhrSVJPM0hwZ3poMzYzRVBvM0lyUE5DMC1US25MWnN5NDRZT0pHd3ZTblNwWElwNXZXV2VjSmwtSTNsa0ZYbUxRcnFRRDZqbFN5OGI0dUJteFJmeFYxeHBacEtJaVQxdTcxaHViVThaSC1YS0VTa1liTmw3U1Bjdw?oc=5",
@@ -1181,177 +1352,6 @@
       "source": "ICLG",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUxhNC1EU1RjTmtybVpPWWJmbmhMZjBfa3lEZXFCNG5ieTVZU0JWV3NWbzhCb2ZscDl2Uzl0d1BHMTJRcEJvM0NaM2RhUktEVVBSSFhqMGcwWlNicm40ZDJOOHpORFVURXJVSm5KdWM0RVJ0QVQ5WFROWDJZZHd0emZhVHFRMHRv?oc=5",
       "snippet": "India - Employment & Labour Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTQ5b001MnJKU0xVTkNaY2xPZlh0czVjYUpsWHkyaHEtUWxGclBhRGRjVFU3aVBSa2ltWGxNbDFLTTNSb0RtSFllcUo5VV9BdXNQaVVXQmlJNmozT2o5S09jZ1hvREVjUUxGV296STJXd1F6Yi1NeUtpUXBSRkF6WmtqcVRGa0FVWVd1UktuZw?oc=5",
-      "type": "article",
-      "title": "Luxembourg - Corporate Immigration Laws and Regulations 2026 - ICLG",
-      "date": "2026-09-04",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTQ5b001MnJKU0xVTkNaY2xPZlh0czVjYUpsWHkyaHEtUWxGclBhRGRjVFU3aVBSa2ltWGxNbDFLTTNSb0RtSFllcUo5VV9BdXNQaVVXQmlJNmozT2o5S09jZ1hvREVjUUxGV296STJXd1F6Yi1NeUtpUXBSRkF6WmtqcVRGa0FVWVd1UktuZw?oc=5",
-      "snippet": "Luxembourg - Corporate Immigration Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxQV21ZczJnRm1sQmlBTnpHeWszQUJDRTc0bVhPa3k1RXhnOWlXUG15R1N6NnZxZnR2eE5JQ1dSb2ludFlmWm0waUdWeVdNSHl5WHBheTBXaDBUREF3UUl2bDlMR0VCZUNyczIzMnVLRV8zbkJSVUZpWkJWTG1BZVZNMjFFUVdtZXZERTdkclZ1TmM?oc=5",
-      "type": "article",
-      "title": "Bermuda - Insurance & Reinsurance Laws and Regulations 2026 - ICLG",
-      "date": "2026-09-04",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV21ZczJnRm1sQmlBTnpHeWszQUJDRTc0bVhPa3k1RXhnOWlXUG15R1N6NnZxZnR2eE5JQ1dSb2ludFlmWm0waUdWeVdNSHl5WHBheTBXaDBUREF3UUl2bDlMR0VCZUNyczIzMnVLRV8zbkJSVUZpWkJWTG1BZVZNMjFFUVdtZXZERTdkclZ1TmM?oc=5",
-      "snippet": "Bermuda - Insurance & Reinsurance Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxNODFfSEVTWGphc3ZobjZWU1lFMWFRanFwc1NXUDBYZFlhQ3BnTExxSVNEWE5QbmhIWENnalhVUHpVX1Ixc3RGTGE1UXhGVmN0NTdiLUpnYXdJcVdSbmM2WnhiV3cydzRHNDdMQ2pISWRKa3RlVGk2Ukpxb2xfN3dqTllCdXFReUJ0ZXJJNm9HS05jY3hMOHlj?oc=5",
-      "type": "article",
-      "title": "India - Construction & Engineering Laws and Regulations 2026 - ICLG",
-      "date": "2026-09-04",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODFfSEVTWGphc3ZobjZWU1lFMWFRanFwc1NXUDBYZFlhQ3BnTExxSVNEWE5QbmhIWENnalhVUHpVX1Ixc3RGTGE1UXhGVmN0NTdiLUpnYXdJcVdSbmM2WnhiV3cydzRHNDdMQ2pISWRKa3RlVGk2Ukpxb2xfN3dqTllCdXFReUJ0ZXJJNm9HS05jY3hMOHlj?oc=5",
-      "snippet": "India - Construction & Engineering Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTE9wYVJpeDZfc0RHUXFyNEpFeVhNSWw5UWdvT21uXzlWTTBEWHhTZVFyb0FJdHlKdXFCTk9jY3RaUDZnNWtSempSQ0QxNVJ4QV9XMUxmbmpkWkdHV2JBcUJSVS1oLWpNZ18tcG4takItOWN1TUVFTHlPUUEzVQ?oc=5",
-      "type": "article",
-      "title": "India - Trade Mark Laws and Regulations 2026 - ICLG",
-      "date": "2026-09-04",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wYVJpeDZfc0RHUXFyNEpFeVhNSWw5UWdvT21uXzlWTTBEWHhTZVFyb0FJdHlKdXFCTk9jY3RaUDZnNWtSempSQ0QxNVJ4QV9XMUxmbmpkWkdHV2JBcUJSVS1oLWpNZ18tcG4takItOWN1TUVFTHlPUUEzVQ?oc=5",
-      "snippet": "India - Trade Mark Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiywFBVV95cUxNclE4S2dhNnFHLWFkYldfd19vYV9fdnNhdHVFSnh2UUJzNHFmQUt0ZGh3UGE3a1k4LW1fVVVTZEhkaTFaQVRVVENRZ1RfQUhUWnhMRFhPelNyem5pdVl3V0poWnhYQWktSmR2MEpRLWRaWXVzbTk1SlNJMmk1a09OTFE2MXpTbGRGNDdqLWV5WFd5dldId2ZlWFRZYlBWRTA3NGllc0dGc21NTlY2dkQycGhvM1NrUFVxdDUySlJCaThIZUIybnRaNVVHQQ?oc=5",
-      "type": "article",
-      "title": "Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations - Above the Law",
-      "date": "2026-09-03",
-      "source": "Above the Law",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclE4S2dhNnFHLWFkYldfd19vYV9fdnNhdHVFSnh2UUJzNHFmQUt0ZGh3UGE3a1k4LW1fVVVTZEhkaTFaQVRVVENRZ1RfQUhUWnhMRFhPelNyem5pdVl3V0poWnhYQWktSmR2MEpRLWRaWXVzbTk1SlNJMmk1a09OTFE2MXpTbGRGNDdqLWV5WFd5dldId2ZlWFRZYlBWRTA3NGllc0dGc21NTlY2dkQycGhvM1NrUFVxdDUySlJCaThIZUIybnRaNVVHQQ?oc=5",
-      "snippet": "Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations &nbsp;&nbsp; Above the Law"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUhNRjZkYWdud2hOajBxT1JUNTlCcHhILUNKVWFIcXN4Wkt3dmJFMEp3ako1M1pIemJqN1VuXzZsX2lMSi1FY0hvVlBfdGQwamdmOVgyVlY5VVFzZXZOOHFIWXJNRjZZVEhGSmtTTjBKd2c1NXVfMjV3VEE3c2taNV9fdXRXdWFlS1BhUTNKdVA3UHV1dlFHVG03bDdpRjdMcGl3aGhDYUJBbUh1Nkx4T0VaTW1SWHVydUxCNldJaGhRNFBM?oc=5",
-      "type": "article",
-      "title": "Catastrophe bond tokenization push could drop minimum buys to $5,000 - CoinDesk",
-      "date": "2026-09-03",
-      "source": "CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUhNRjZkYWdud2hOajBxT1JUNTlCcHhILUNKVWFIcXN4Wkt3dmJFMEp3ako1M1pIemJqN1VuXzZsX2lMSi1FY0hvVlBfdGQwamdmOVgyVlY5VVFzZXZOOHFIWXJNRjZZVEhGSmtTTjBKd2c1NXVfMjV3VEE3c2taNV9fdXRXdWFlS1BhUTNKdVA3UHV1dlFHVG03bDdpRjdMcGl3aGhDYUJBbUh1Nkx4T0VaTW1SWHVydUxCNldJaGhRNFBM?oc=5",
-      "snippet": "Catastrophe bond tokenization push could drop minimum buys to $5,000 &nbsp;&nbsp; CoinDesk"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3phU0FoSXczTDdXX3Bnc1NLSlJuaF9oVzlQQm1Ma191ZTE1bVJtVVZqNzFxVHNZVG9Ld2N1VEtJNmZWTmVod0NlN0RwTm9FZWJBOW5BUmlPbXhCTHcxVkdtblJhVi1HdE81MlZESjBKemFLNklCZFZsR0tGT2NtZGJHRG1MV25RMHdVcXI5eDA4ZHJqSnp2S0Zqd3VTRTdVT2NfTm9rUzJoeG5YcFduZDBDeUdyUVplb2xZRDNONVlCR1diTkRjUmFiQ01GN21Ccnd2b0t4Zw?oc=5",
-      "type": "article",
-      "title": "Former Philippine Sanjia Steel Corp. officials Tony Yang and John Paul Gonzales appeared before the Senate Thursday in an inquiry into the domestic steel industry. I via ANC 24/7 Link to full story in the comments section. - facebook.com",
-      "date": "2026-09-03",
-      "source": "facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3phU0FoSXczTDdXX3Bnc1NLSlJuaF9oVzlQQm1Ma191ZTE1bVJtVVZqNzFxVHNZVG9Ld2N1VEtJNmZWTmVod0NlN0RwTm9FZWJBOW5BUmlPbXhCTHcxVkdtblJhVi1HdE81MlZESjBKemFLNklCZFZsR0tGT2NtZGJHRG1MV25RMHdVcXI5eDA4ZHJqSnp2S0Zqd3VTRTdVT2NfTm9rUzJoeG5YcFduZDBDeUdyUVplb2xZRDNONVlCR1diTkRjUmFiQ01GN21Ccnd2b0t4Zw?oc=5",
-      "snippet": "Former Philippine Sanjia Steel Corp. officials Tony Yang and John Paul Gonzales appeared before the Senate Thursday in an inquiry into the domestic steel industry. I via ANC 24/7 Link to full story in the comments section. &nbsp;&nbsp; facebook.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTzdMWG05c2JPb2xGWHB1ZG0zYlRxdTkyT3l2SHBITFc4V1M2RFZ6YlhwSEl6LVZfMUFmLTRJN0pXRnFlZEYwYWM1WElaMWp4Q1QzMV96Y2NpbGUzNHZ3Smp0TnVBWmxpQnpQOWtydmpTRlBKcFpxdV9jMjZyaHlIRnBvTGRseE9fcVdILThEczlEbUpxU1FuSFFydVlQaDhSWlMwaEQ5UjVKWFdWNjYwRXdFUGVoMlRkaWtWektfUTZBWElNaE5Rak5LeTd3bjRaazFDVk43R0xsMGx6QzVhR0c0WQ?oc=5",
-      "type": "article",
-      "title": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots - The Washington Post",
-      "date": "2026-09-03",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTzdMWG05c2JPb2xGWHB1ZG0zYlRxdTkyT3l2SHBITFc4V1M2RFZ6YlhwSEl6LVZfMUFmLTRJN0pXRnFlZEYwYWM1WElaMWp4Q1QzMV96Y2NpbGUzNHZ3Smp0TnVBWmxpQnpQOWtydmpTRlBKcFpxdV9jMjZyaHlIRnBvTGRseE9fcVdILThEczlEbUpxU1FuSFFydVlQaDhSWlMwaEQ5UjVKWFdWNjYwRXdFUGVoMlRkaWtWektfUTZBWElNaE5Rak5LeTd3bjRaazFDVk43R0xsMGx6QzVhR0c0WQ?oc=5",
-      "snippet": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots &nbsp;&nbsp; The Washington Post"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1FRSTFjUEVBM056Z09Ha2xQN0owNnN2U2xPbXgybklvbmVQUmxUNVotODlOZG8zZlBwRDZadndudVFnU0VZZlRYZkFNbGpsRlRwc3BqcjllZUJ1bmdsMXhfYVZWTks5c1RPVjRyemNZOHFVVkdYWVlNaHkxMmNRTTBWNzRHR1diZUlIZmhJWXlyQTU5c2hMV3piZWxFZlFaQUhBYWhYa243dw?oc=5",
-      "type": "article",
-      "title": "Akhund Forbes Launches Conclavity, Introducing Legal AI Grounded in Pakistani Law - TechJuice",
-      "date": "2026-09-03",
-      "source": "TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1FRSTFjUEVBM056Z09Ha2xQN0owNnN2U2xPbXgybklvbmVQUmxUNVotODlOZG8zZlBwRDZadndudVFnU0VZZlRYZkFNbGpsRlRwc3BqcjllZUJ1bmdsMXhfYVZWTks5c1RPVjRyemNZOHFVVkdYWVlNaHkxMmNRTTBWNzRHR1diZUlIZmhJWXlyQTU5c2hMV3piZWxFZlFaQUhBYWhYa243dw?oc=5",
-      "snippet": "Akhund Forbes Launches Conclavity, Introducing Legal AI Grounded in Pakistani Law &nbsp;&nbsp; TechJuice"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUYtN1hZR0kwOVB6a3V6WnhkeG5XMmZPM3dOMVB5LVhUVTJwVVZBZmdSd3l3WG1nTHhlam8yZ0FJWFhENzRscUs2bVV1TXlyYS01RE1LMmNSZVdxNTBsY1hTX1V3cmMxWk9yZ0NYWlg0Q3hQdXpRQ2cwUXVCalF6cVktelh6SUhSMFV4X3hpc1pBQUh2VlZNTlhLZUdXSmdNMVdadXFRaVlzUQ?oc=5",
-      "type": "article",
-      "title": "Legal Profession Faces Growing Pressure To Defend Judges And Clean Up Its Act - londoninsider.co.uk",
-      "date": "2026-09-03",
-      "source": "londoninsider.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUYtN1hZR0kwOVB6a3V6WnhkeG5XMmZPM3dOMVB5LVhUVTJwVVZBZmdSd3l3WG1nTHhlam8yZ0FJWFhENzRscUs2bVV1TXlyYS01RE1LMmNSZVdxNTBsY1hTX1V3cmMxWk9yZ0NYWlg0Q3hQdXpRQ2cwUXVCalF6cVktelh6SUhSMFV4X3hpc1pBQUh2VlZNTlhLZUdXSmdNMVdadXFRaVlzUQ?oc=5",
-      "snippet": "Legal Profession Faces Growing Pressure To Defend Judges And Clean Up Its Act &nbsp;&nbsp; londoninsider.co.uk"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiowJBVV95cUxORHJzWWhYLWxPaGQzN2ttc1VhVFEySEVramZHWm1vSS1hNTZ0azJ6TFFvcDQ1ZlNlTjVQRFEybEJNaHZlQ2Z6VnZyTDBEbGxtYzJGOFAwWlJSRXo4ZWt5YVpmcEkxeENyRm5pZ1pPT1VFQ1VyQzR0OGthYjBBU0twelNORnVPcTBrNjVEQ1pCR3EyTEU3c0ZUN1RzdklBOEdIbU5sc2hDNnhrZGp5N1VrZEw1WUFSVzRtbTFhbTQ2VGtqeDhESDljanktRllRTEdocTFYZ0puSVZvelhiQnpNMU5qU0c2TElEMHVjNTZqSjFYaHBGZkxTWFMzSm1Dbmw5Q0RsNW90LTBETGl2b2kxY0xDQkdFUmxjdTNuYjg2b2pEeUE?oc=5",
-      "type": "article",
-      "title": "BuzzBlast Emerges as a Leading Alternative to Retainer-Based PR for US Small Business Owners - Greater Milwaukee Today",
-      "date": "2026-09-03",
-      "source": "Greater Milwaukee Today",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORHJzWWhYLWxPaGQzN2ttc1VhVFEySEVramZHWm1vSS1hNTZ0azJ6TFFvcDQ1ZlNlTjVQRFEybEJNaHZlQ2Z6VnZyTDBEbGxtYzJGOFAwWlJSRXo4ZWt5YVpmcEkxeENyRm5pZ1pPT1VFQ1VyQzR0OGthYjBBU0twelNORnVPcTBrNjVEQ1pCR3EyTEU3c0ZUN1RzdklBOEdIbU5sc2hDNnhrZGp5N1VrZEw1WUFSVzRtbTFhbTQ2VGtqeDhESDljanktRllRTEdocTFYZ0puSVZvelhiQnpNMU5qU0c2TElEMHVjNTZqSjFYaHBGZkxTWFMzSm1Dbmw5Q0RsNW90LTBETGl2b2kxY0xDQkdFUmxjdTNuYjg2b2pEeUE?oc=5",
-      "snippet": "BuzzBlast Emerges as a Leading Alternative to Retainer-Based PR for US Small Business Owners &nbsp;&nbsp; Greater Milwaukee Today"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxPYllPZjBqZXUwQWs1dndsWm92S3E0ZEN0M3ZHOFE0NEhjWnBpZUFhR09QUUlfMXEzZVRBVUZVeFJNd2w1c05YcHE4NGdfSXp5WGtfaWlIYUhKMlVyd2hjQmRnWjZvOFNiOWMyS3pUM01XZDI4V3ZiOXZ4c2E0UWVoa3JvbFgxUjBvU082UmhKZXVPUQ?oc=5",
-      "type": "article",
-      "title": "Ethics Opinion 1301: Virtual law office; advertising a VLO as the lawyer’s office address - New York State Bar Association",
-      "date": "2026-09-03",
-      "source": "New York State Bar Association",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYllPZjBqZXUwQWs1dndsWm92S3E0ZEN0M3ZHOFE0NEhjWnBpZUFhR09QUUlfMXEzZVRBVUZVeFJNd2w1c05YcHE4NGdfSXp5WGtfaWlIYUhKMlVyd2hjQmRnWjZvOFNiOWMyS3pUM01XZDI4V3ZiOXZ4c2E0UWVoa3JvbFgxUjBvU082UmhKZXVPUQ?oc=5",
-      "snippet": "Ethics Opinion 1301: Virtual law office; advertising a VLO as the lawyer’s office address &nbsp;&nbsp; New York State Bar Association"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWd1aUl2OTEzSVAzQkVLeno2QnZNSTlpWlJwVld3d01EV25jVmlRS0paTFlXUE9TME1ETlRCZHhWNVBnNGVIbmVQZTh2dHhlcE1vV0JOMDlaZTBMZDVjdzFNeXN2Ukg4UVlCbGNXRHRVd19wQ09yXzNRM2hVUkdlYjlnS1A3M2FiX2Q5Q2RrNTJCSjYtbHFvV2RCVQ?oc=5",
-      "type": "article",
-      "title": "Private Equity Firms, Legal Ethics, Rules of Professional Conduct - JD Supra",
-      "date": "2026-09-03",
-      "source": "JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWd1aUl2OTEzSVAzQkVLeno2QnZNSTlpWlJwVld3d01EV25jVmlRS0paTFlXUE9TME1ETlRCZHhWNVBnNGVIbmVQZTh2dHhlcE1vV0JOMDlaZTBMZDVjdzFNeXN2Ukg4UVlCbGNXRHRVd19wQ09yXzNRM2hVUkdlYjlnS1A3M2FiX2Q5Q2RrNTJCSjYtbHFvV2RCVQ?oc=5",
-      "snippet": "Private Equity Firms, Legal Ethics, Rules of Professional Conduct &nbsp;&nbsp; JD Supra"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWVNmRGxDa3cwLTBleU5BN0FJYzVsUUt6QXZ4TEtMcVg3OVg0dTV2NDdYYVliTkxtYmFtYXg5ZkhkbFpfczN4NjNDTUNudVBoOXBvc2FXM2FkSGpqM3VlNjdfa0ttNWFVQVlwLWwzM2ctVXhQRWZkMTZNS0d1VzAtaFpfLVFIaHR0aTlheExPY0YycUZ2SG14TEhnVTFXa0Nya1JZTlczSm93U1pRSURRbGpSTkFDYU5CV0xNZTVkMU42czBWVXpvOHNhSG91MXhRWnc?oc=5",
-      "type": "article",
-      "title": "US Law Firms: Private Equity Law Firm Ethical Obligations Scrutinized - Wansom AI",
-      "date": "2026-09-03",
-      "source": "Wansom AI",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWVNmRGxDa3cwLTBleU5BN0FJYzVsUUt6QXZ4TEtMcVg3OVg0dTV2NDdYYVliTkxtYmFtYXg5ZkhkbFpfczN4NjNDTUNudVBoOXBvc2FXM2FkSGpqM3VlNjdfa0ttNWFVQVlwLWwzM2ctVXhQRWZkMTZNS0d1VzAtaFpfLVFIaHR0aTlheExPY0YycUZ2SG14TEhnVTFXa0Nya1JZTlczSm93U1pRSURRbGpSTkFDYU5CV0xNZTVkMU42czBWVXpvOHNhSG91MXhRWnc?oc=5",
-      "snippet": "US Law Firms: Private Equity Law Firm Ethical Obligations Scrutinized &nbsp;&nbsp; Wansom AI"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWU2R2tLRjJfRlVlWmRQa2ZzYVdDNzg1N0FqV3ZwSzRvT3IzY1BuNGx2NmdhMk90SVRET0ZJUzBwcWk3Q2l4TGVRVWgtVUNadXJLeGJHTE5vR0RzWk9Nd2ZVOUd4bWc5bUtVOENtNE5vOU52cV9rVWxkc1lZS2Z0LVNSSEVkSzAzLUlSM0dHa2NlZFRj?oc=5",
-      "type": "article",
-      "title": "Brian Riffel named a 2026 GlobeSt. Industrial Influencer - Colliers",
-      "date": "2026-09-03",
-      "source": "Colliers",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWU2R2tLRjJfRlVlWmRQa2ZzYVdDNzg1N0FqV3ZwSzRvT3IzY1BuNGx2NmdhMk90SVRET0ZJUzBwcWk3Q2l4TGVRVWgtVUNadXJLeGJHTE5vR0RzWk9Nd2ZVOUd4bWc5bUtVOENtNE5vOU52cV9rVWxkc1lZS2Z0LVNSSEVkSzAzLUlSM0dHa2NlZFRj?oc=5",
-      "snippet": "Brian Riffel named a 2026 GlobeSt. Industrial Influencer &nbsp;&nbsp; Colliers"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikwJBVV95cUxNcVhIbHEzdU9sNUhPa0lLMkF6eVlHZ3hPUllYZ25Bd29DTGx6UVVwNHhaLTUwM1Y3SmJOVXhfRGxQRHhyejQwaGdEV3ZNUHJ4OFYwaDFjMlo4YmxnM0lERWRBTHFxUS1oTGQtYlBIdWZxZnE1c21KSHlyYnRLcmhmcElwYUY5bWFIWTNoR0ZDdko2d090M2RQazZUTGwycmZnTjlfWmYtbS1aZDduTk9TcDVFcjhveS1RTDNsTThpV0owOFZwZkstNmF6OEtIcGFCMVdQX1lkdkphV0MxR0s4dDRXQ0dzZ0VRNXBCZmlzbzVwNWFSaUJKNUYwT0c1WjVldU02a1h4M0c2S05nTzVsTE96Yw?oc=5",
-      "type": "article",
-      "title": "Legal aid for immigrant kids remains in question after Trump administration pulls contract - Idaho State Journal",
-      "date": "2026-09-03",
-      "source": "Idaho State Journal",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcVhIbHEzdU9sNUhPa0lLMkF6eVlHZ3hPUllYZ25Bd29DTGx6UVVwNHhaLTUwM1Y3SmJOVXhfRGxQRHhyejQwaGdEV3ZNUHJ4OFYwaDFjMlo4YmxnM0lERWRBTHFxUS1oTGQtYlBIdWZxZnE1c21KSHlyYnRLcmhmcElwYUY5bWFIWTNoR0ZDdko2d090M2RQazZUTGwycmZnTjlfWmYtbS1aZDduTk9TcDVFcjhveS1RTDNsTThpV0owOFZwZkstNmF6OEtIcGFCMVdQX1lkdkphV0MxR0s4dDRXQ0dzZ0VRNXBCZmlzbzVwNWFSaUJKNUYwT0c1WjVldU02a1h4M0c2S05nTzVsTE96Yw?oc=5",
-      "snippet": "Legal aid for immigrant kids remains in question after Trump administration pulls contract &nbsp;&nbsp; Idaho State Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTJoQ0p6b2ZKNWVhV1ZCcFRiTDFuaFFPZHJCSWJydnFyWTRqRlhvVlVZR2JDYXNkOWYxci12RkVrQWhSN3UtNWd4TDBlalQxUGg2djVVV01NOWN1ZEg0TWZCaDc4X2Y3dGtyeksxUDhCM1l1SWc5RGY4Y1d1ZXNwbnEtOGtKOE5GRlVRZFotYWgyR2NyOFY3aTdwOVljY25vUEdzag?oc=5",
-      "type": "article",
-      "title": "LegalBillReview.com Appoints Derek Apanovitch as Chief Executive Officer - Newswire.com",
-      "date": "2026-09-02",
-      "source": "Newswire.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTJoQ0p6b2ZKNWVhV1ZCcFRiTDFuaFFPZHJCSWJydnFyWTRqRlhvVlVZR2JDYXNkOWYxci12RkVrQWhSN3UtNWd4TDBlalQxUGg2djVVV01NOWN1ZEg0TWZCaDc4X2Y3dGtyeksxUDhCM1l1SWc5RGY4Y1d1ZXNwbnEtOGtKOE5GRlVRZFotYWgyR2NyOFY3aTdwOVljY25vUEdzag?oc=5",
-      "snippet": "LegalBillReview.com Appoints Derek Apanovitch as Chief Executive Officer &nbsp;&nbsp; Newswire.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMigwJBVV95cUxPazI0eWFKcG9OOWhDdzd1bWEwQWdGcnhlemVwS3RpdkgwU2pkaWc5Y29qdEFDU29GSGlZUm94b3FRZ0JQVTRSdE5paXMxYXJGV04xNmhWWUJRZ2Vvalg4SVpmV2dyWWNzVW5OVTRJSGJNUjRycFd6WU04WnZjeG5CTzNFSkFBa1dfRkxLX1N5UHpVc2M0cHZnOGZJNEsybHNWVVM4MEhYV21SVFJxQzR2bzVDRllmQk0tVURtdTdheDhuWklMa19rWHMza2tmWVF4YzF0TVBMajE5aWdLTDJmZC1YRDdET2thWTlhQjBEa05sYnk5TWVzSkRwNkFFRFY4WThF?oc=5",
-      "type": "article",
-      "title": "WRAP Moves to Operationalize De-Escalation, Advances New BolaWrap 150 Doctrine Toward California POST Certification - markets.businessinsider.com",
-      "date": "2026-09-02",
-      "source": "markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPazI0eWFKcG9OOWhDdzd1bWEwQWdGcnhlemVwS3RpdkgwU2pkaWc5Y29qdEFDU29GSGlZUm94b3FRZ0JQVTRSdE5paXMxYXJGV04xNmhWWUJRZ2Vvalg4SVpmV2dyWWNzVW5OVTRJSGJNUjRycFd6WU04WnZjeG5CTzNFSkFBa1dfRkxLX1N5UHpVc2M0cHZnOGZJNEsybHNWVVM4MEhYV21SVFJxQzR2bzVDRllmQk0tVURtdTdheDhuWklMa19rWHMza2tmWVF4YzF0TVBMajE5aWdLTDJmZC1YRDdET2thWTlhQjBEa05sYnk5TWVzSkRwNkFFRFY4WThF?oc=5",
-      "snippet": "WRAP Moves to Operationalize De-Escalation, Advances New BolaWrap 150 Doctrine Toward California POST Certification &nbsp;&nbsp; markets.businessinsider.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGt4eEJ3M3F3azFoREt1dHNnZGZVR05HcHNKRE1teEgtTzE5bmxKQmZuNFVkeHphQXFseEZfRjVxS0tFYjZ3NGZfZGV6QlBzVzF3ZlFCQzZISHZGWFJQNXFrSGRNZ2U4bWpXQWlWVWhNbDB4TVMyVkltcjV5SUlRbjZSN0h0N0NQZGZBRm5HTlB6cEZ6c3RYMlJnNVdrR0VHUm5KQ05JZ2VxQ0ZtbHZOU3RZTFNrNHcxOURZYlhtdGtVWms?oc=5",
-      "type": "article",
-      "title": "Emil Michael Sold $50M in AI Rival Stocks While Setting Pentagon AI Policy - Tech Times",
-      "date": "2026-09-02",
-      "source": "Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGt4eEJ3M3F3azFoREt1dHNnZGZVR05HcHNKRE1teEgtTzE5bmxKQmZuNFVkeHphQXFseEZfRjVxS0tFYjZ3NGZfZGV6QlBzVzF3ZlFCQzZISHZGWFJQNXFrSGRNZ2U4bWpXQWlWVWhNbDB4TVMyVkltcjV5SUlRbjZSN0h0N0NQZGZBRm5HTlB6cEZ6c3RYMlJnNVdrR0VHUm5KQ05JZ2VxQ0ZtbHZOU3RZTFNrNHcxOURZYlhtdGtVWms?oc=5",
-      "snippet": "Emil Michael Sold $50M in AI Rival Stocks While Setting Pentagon AI Policy &nbsp;&nbsp; Tech Times"
     }
   ]
 }
