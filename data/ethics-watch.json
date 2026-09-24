@@ -1,8 +1,35 @@
 {
-  "lastRun": "2026-09-23T15:21:12.891416+00:00",
+  "lastRun": "2026-09-24T15:44:33.374205+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 18,
+  "addedThisRun": 14,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWhsUWlpcVZMQmZtSU5NOWhxQnRyUGx5OWhyYmJsd1l5MFdUUzhET1p0RVNSTE42NTk2eHdlSVJFbDZxQ0JBUV9idjRmeHVqNDRlbVFiRUUxTm83V0VQbTM5OWZOWXg0eF9mYWtGd0x2T1I0ekVSVmNZRkxGT2EtR094MEZaWV9BaVNQYnRDUElQcjBDaUF1dUhoRzBKeENLZkd1ZU96SWVCaFNJS1dZ?oc=5",
+      "type": "article",
+      "title": "Massumi + Consoli Launches ElevenHundred+ MSO, Adds Shon Glusky in New York - citybiz",
+      "date": "2026-09-24",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWhsUWlpcVZMQmZtSU5NOWhxQnRyUGx5OWhyYmJsd1l5MFdUUzhET1p0RVNSTE42NTk2eHdlSVJFbDZxQ0JBUV9idjRmeHVqNDRlbVFiRUUxTm83V0VQbTM5OWZOWXg0eF9mYWtGd0x2T1I0ekVSVmNZRkxGT2EtR094MEZaWV9BaVNQYnRDUElQcjBDaUF1dUhoRzBKeENLZkd1ZU96SWVCaFNJS1dZ?oc=5",
+      "snippet": "Massumi + Consoli Launches ElevenHundred+ MSO, Adds Shon Glusky in New York &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMifEFVX3lxTE1TVHQzZlM1WTd1N3I0TWhidWdQczFjbDJCOVpQdGU1dS1rQzFTckFZdXZDT2pyTlZMdkpfcG91LUo0cmJib3l3el9uTXJyaHltcmVGUHEzdUpOOTAxSzFYMUtCejNmbnFTWkNFS0JxcE9KdU5XRFNxZGVweF8?oc=5",
+      "type": "article",
+      "title": "Akerman launches new data services division - Legal IT Insider",
+      "date": "2026-09-24",
+      "source": "Legal IT Insider",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TVHQzZlM1WTd1N3I0TWhidWdQczFjbDJCOVpQdGU1dS1rQzFTckFZdXZDT2pyTlZMdkpfcG91LUo0cmJib3l3el9uTXJyaHltcmVGUHEzdUpOOTAxSzFYMUtCejNmbnFTWkNFS0JxcE9KdU5XRFNxZGVweF8?oc=5",
+      "snippet": "Akerman launches new data services division &nbsp;&nbsp; Legal IT Insider"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkJMVGN3QkowVVlEMW5tOVF5OTkzRG50aWV3N2NXTllIYmdJN2MtZjc4X0lrRUdmenExaE9kdHBtekdwTkRvUkUzVHlkUUdJUjN4Y3NsUFloMXlEa0dxLVJLUlA3cDZ4Y2FtTVNSaWs5WC1UVW5qUDZ1VWhNSFo5emx5NDM?oc=5",
+      "type": "article",
+      "title": "Private equity could revolutionise US lawyer pay, law firm bosses say - Financial Times",
+      "date": "2026-09-24",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkJMVGN3QkowVVlEMW5tOVF5OTkzRG50aWV3N2NXTllIYmdJN2MtZjc4X0lrRUdmenExaE9kdHBtekdwTkRvUkUzVHlkUUdJUjN4Y3NsUFloMXlEa0dxLVJLUlA3cDZ4Y2FtTVNSaWs5WC1UVW5qUDZ1VWhNSFo5emx5NDM?oc=5",
+      "snippet": "Private equity could revolutionise US lawyer pay, law firm bosses say &nbsp;&nbsp; Financial Times"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTFBNWURnV3U0WDJCZEVLSVJSU1BVTzBRdk5uTVpRUzZzNkl0bWh2b0FHcFh6WXVvT1JRdTNVRkpIRG1pVVkwbE1zS1VORjRRYm9FRUtCVHlfU0daRm5lN2tGOVFnSW1IUFZ6alpjdzk3TVRqWnl5UldxTQ?oc=5",
       "type": "article",
@@ -47,6 +74,78 @@
       "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWM4QS1Wbnc0aURrM0FrUGprU3Rta0hjUmlvT29QZVpPZ0toWGhyZFVrZG9NTTAzcTlKU2dGU2JPcGxYSmswT3YtNmljV2k1ZlZJTVdGcVpLY2dqakt4RElOLWxRVi03OWtRUk9BUU14amtFR3g4RUFZYVFHMHJFc1dtblpOTDR0OE1HSlRaUnRmREE4UjhrbHk5UUh0YWQ5Mk0tNzl6QmF6OTZ0NXJiUWZR?oc=5",
       "snippet": "U.S. Oral Surgery Management Names Cheryl Polmatier SVP of Payer Relations &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FmU2wzXzQ1REYteEhCS0JaR0o5RUk5Uy13cFVId1dtSmx5OGZlZlEtRjFLcXUyZTVwTnFteXFBeERGRmRfdHY1ZlJsTVNtcUFzbk0zOGFpUXpyZFBpc1ItMzNoTzJBMElmQ0c0UVpfQS1LcHFkQ1Noc0FvUXJXTWtnWGgtSHlrSlHSAV5BVV95cUxQSXZTaUNuZk4yRVVaTC1MSjNIQWVIbFAydHJ3TllwWEJHNzNWRnRaWEtMVlNSbGhSXzd6M2x6ZmhxaXFVUVExaTVsTXp6bkNES2M2WkFIWDA1UFV1XzlB?oc=5",
+      "type": "article",
+      "title": "The Potential Risks Of A Law Firm MSO IPO - Law360",
+      "date": "2026-09-23",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FmU2wzXzQ1REYteEhCS0JaR0o5RUk5Uy13cFVId1dtSmx5OGZlZlEtRjFLcXUyZTVwTnFteXFBeERGRmRfdHY1ZlJsTVNtcUFzbk0zOGFpUXpyZFBpc1ItMzNoTzJBMElmQ0c0UVpfQS1LcHFkQ1Noc0FvUXJXTWtnWGgtSHlrSlHSAV5BVV95cUxQSXZTaUNuZk4yRVVaTC1MSjNIQWVIbFAydHJ3TllwWEJHNzNWRnRaWEtMVlNSbGhSXzd6M2x6ZmhxaXFVUVExaTVsTXp6bkNES2M2WkFIWDA1UFV1XzlB?oc=5",
+      "snippet": "The Potential Risks Of A Law Firm MSO IPO &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3VzYmRzTk5aaGhuR0EyZGt6TE0yUF9SVDdaQlJ4VTljbXVSbnAzajBoQ2hIVDZfZUNIOE9jOHVDd1I1alVRb2tzMVI4d25IOVdJX3pxdXdtQ1I2QW0taUtHb1ZydGh6T1NzdXE1Mzh3S0M4NWw0a1hfUG9XdHlwU3BDdXBFRUxTZlNuX0VVSFYtZl83Y1V4LUtMWGZFM2hnV2h2Ynd2ZGhFenV1TWNpOVZIT0dQaWprTlVWTHUzY0g?oc=5",
+      "type": "article",
+      "title": "Sorren Launches Affiliated US Law Firm - Lawyer Monthly",
+      "date": "2026-09-23",
+      "source": "Lawyer Monthly",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3VzYmRzTk5aaGhuR0EyZGt6TE0yUF9SVDdaQlJ4VTljbXVSbnAzajBoQ2hIVDZfZUNIOE9jOHVDd1I1alVRb2tzMVI4d25IOVdJX3pxdXdtQ1I2QW0taUtHb1ZydGh6T1NzdXE1Mzh3S0M4NWw0a1hfUG9XdHlwU3BDdXBFRUxTZlNuX0VVSFYtZl83Y1V4LUtMWGZFM2hnV2h2Ynd2ZGhFenV1TWNpOVZIT0dQaWprTlVWTHUzY0g?oc=5",
+      "snippet": "Sorren Launches Affiliated US Law Firm &nbsp;&nbsp; Lawyer Monthly"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3AxUVhaMC0xbUNPR2pibDVuVm5lb2d1MlRpZ2t4eHVyQmw0dHJ0eDVYRHpfakdTM2htS0JzZUVpSUh2R2hsQ05DSkVSOHJ0LXMwNnp3VmhkcFR6MmR2SzlYVVJvMS1NUHFHM2tuZGY5WFNyaGt4Zkk4dFJXZGh6Z3BPdVFQYzhmaFBsVW5Lakxqd1hpamNF0gGcAUFVX3lxTFBORUxkalczNkVGa0hPWVBsbVRIZTUwMFU2dk9XR3hkb0VTaHNlTV92QW1Qd2otRjd2bmtCTUV5M2M3OTNvOGo3Wm5GVllPNnEtU1dLNDlIcXVOT1NpR0d6UXpyeGZ6WlFUcU1sUjdfMDlFX2J4b1BmVFNiSnFxV1VMZDh0WUJUNzQ3SjRqNGM0YmRqVVlCUVlhZjAySA?oc=5",
+      "type": "article",
+      "title": "Advocates call California ban on investor-run law firms a 'Paper Tiger' - The Center Square",
+      "date": "2026-09-23",
+      "source": "The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3AxUVhaMC0xbUNPR2pibDVuVm5lb2d1MlRpZ2t4eHVyQmw0dHJ0eDVYRHpfakdTM2htS0JzZUVpSUh2R2hsQ05DSkVSOHJ0LXMwNnp3VmhkcFR6MmR2SzlYVVJvMS1NUHFHM2tuZGY5WFNyaGt4Zkk4dFJXZGh6Z3BPdVFQYzhmaFBsVW5Lakxqd1hpamNF0gGcAUFVX3lxTFBORUxkalczNkVGa0hPWVBsbVRIZTUwMFU2dk9XR3hkb0VTaHNlTV92QW1Qd2otRjd2bmtCTUV5M2M3OTNvOGo3Wm5GVllPNnEtU1dLNDlIcXVOT1NpR0d6UXpyeGZ6WlFUcU1sUjdfMDlFX2J4b1BmVFNiSnFxV1VMZDh0WUJUNzQ3SjRqNGM0YmRqVVlCUVlhZjAySA?oc=5",
+      "snippet": "Advocates call California ban on investor-run law firms a 'Paper Tiger' &nbsp;&nbsp; The Center Square"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTENTRWFSQ3ktZ3dvWXVVVlJnRzY5OVNkcEVKSGhKMGJEM0RsTXBlaXdxVlVvWjR6UHFPWTZQcm90azlHdXhpalN0ZzN1LTFaTUhsUklhaXVhcWt5bHl5SW5FOGc3MVp3NFA2Rjg0akgwOG14MkdmQzMzanNjRnFiTUtaSXU3X2VvQ2FOeElsUUMyWTlsdXVDVWV4YWk2cnU4RXZKcU9tWnVxamlhMDlOaFJEdFRsVUxmLWZmRWJ3SE5iQl92eVhHTTN0NmkyY3p5UzdBdE5pM2h6Zk00cUhOcmFpV0RNczhqV2QxTGZXek5WalRvbmtn?oc=5",
+      "type": "article",
+      "title": "Bill Proposes Federal Ban on Corporate Practice of Medicine: What PE Firms and Practitioners Should Know - McGuireWoods",
+      "date": "2026-09-23",
+      "source": "McGuireWoods",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTENTRWFSQ3ktZ3dvWXVVVlJnRzY5OVNkcEVKSGhKMGJEM0RsTXBlaXdxVlVvWjR6UHFPWTZQcm90azlHdXhpalN0ZzN1LTFaTUhsUklhaXVhcWt5bHl5SW5FOGc3MVp3NFA2Rjg0akgwOG14MkdmQzMzanNjRnFiTUtaSXU3X2VvQ2FOeElsUUMyWTlsdXVDVWV4YWk2cnU4RXZKcU9tWnVxamlhMDlOaFJEdFRsVUxmLWZmRWJ3SE5iQl92eVhHTTN0NmkyY3p5UzdBdE5pM2h6Zk00cUhOcmFpV0RNczhqV2QxTGZXek5WalRvbmtn?oc=5",
+      "snippet": "Bill Proposes Federal Ban on Corporate Practice of Medicine: What PE Firms and Practitioners Should Know &nbsp;&nbsp; McGuireWoods"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3FJRDNCMlRuQWwxdEtxZ01FbTRNSzFkUFJadjF2QWJjcWZEOGhZdHZPc3J3ank1Mi1HUGxON0FLX3RfbHZqUi1DSHk3VnNrZXlMT3ZTWkU3YVVsN3JOamJBMXd6bHE2M0VoMnlKYmxBTmJ3b2p6Zi1aSFpWUk5SVTZodFUzbjJSZDBKRWEtUVVyMXZRUm8yQzg1dGRzNGdHVnFJ0gFeQVVfeXFMTjdRWGZIZmUtY2F5VXduc0RKUll1a0lDYS1Ra28xOVZUSGRwUTZSaUcwR1ZaZFR0VEJiekh1a2x4NEthZUNCZ3VOY1VqTS1jenZzTkhuNkxhOVp5b2lpUQ?oc=5",
+      "type": "article",
+      "title": "Accounting Firm Sorren Launches Legal Services Practice - Law360",
+      "date": "2026-09-23",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3FJRDNCMlRuQWwxdEtxZ01FbTRNSzFkUFJadjF2QWJjcWZEOGhZdHZPc3J3ank1Mi1HUGxON0FLX3RfbHZqUi1DSHk3VnNrZXlMT3ZTWkU3YVVsN3JOamJBMXd6bHE2M0VoMnlKYmxBTmJ3b2p6Zi1aSFpWUk5SVTZodFUzbjJSZDBKRWEtUVVyMXZRUm8yQzg1dGRzNGdHVnFJ0gFeQVVfeXFMTjdRWGZIZmUtY2F5VXduc0RKUll1a0lDYS1Ra28xOVZUSGRwUTZSaUcwR1ZaZFR0VEJiekh1a2x4NEthZUNCZ3VOY1VqTS1jenZzTkhuNkxhOVp5b2lpUQ?oc=5",
+      "snippet": "Accounting Firm Sorren Launches Legal Services Practice &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1dnZXd0eFVPUTdab0h3aU50bmx1QXdkTlJfbXoxTk9WTGFpWjJDSHJ5X1lKQzhaU3NMOGxER2tuWThvQzVaMVB2cnk4LURGSU1uM1JtQ2w1V3ZpTkRQOU50LUZZRi1hbWRScGZXcHF0cTdtbDU1ckRhVzJGTHpoeFVzYzlSYW9EMWY0VkR0Q2FlWlMwckpKOG0wSnV1aWJKa2dpTWdjT20yY0xnaUkzRkJkaTlTTXctZVQ3X043c19XTEdqVl9OSGlBbHlkUERZS0E?oc=5",
+      "type": "article",
+      "title": "Accidental email results in sharing Social Security numbers of Seyfarth Shaw clients, opposing parties - abajournal.com",
+      "date": "2026-09-23",
+      "source": "abajournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1dnZXd0eFVPUTdab0h3aU50bmx1QXdkTlJfbXoxTk9WTGFpWjJDSHJ5X1lKQzhaU3NMOGxER2tuWThvQzVaMVB2cnk4LURGSU1uM1JtQ2w1V3ZpTkRQOU50LUZZRi1hbWRScGZXcHF0cTdtbDU1ckRhVzJGTHpoeFVzYzlSYW9EMWY0VkR0Q2FlWlMwckpKOG0wSnV1aWJKa2dpTWdjT20yY0xnaUkzRkJkaTlTTXctZVQ3X043c19XTEdqVl9OSGlBbHlkUERZS0E?oc=5",
+      "snippet": "Accidental email results in sharing Social Security numbers of Seyfarth Shaw clients, opposing parties &nbsp;&nbsp; abajournal.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNnZCVGE1TmxYWU5fYXd5dzFjVXRwZWtDLVRCTU16UEpXOHBMS3VEWklPLUEtTHZPcFRjN2lkNXZ3cTE5d0x0ZUZZU0xxRklwbEtXYlA0YVpFbEtaR2lxU2xtaFBhSjh3NFEyRGZxTmxZRzdGamhMZlA4RWozUGJTSzh3bS1leTAxYnBhUlQ0TGVIamVaNTc3QmR6dXFKU1FUNjMtOXgwMkhONjlVWUN2cUdiSjc2amVqZFFTWUxwLV9ZRUdKMzNpZEFwMFJ1RjdadTk0S1BlNA?oc=5",
+      "type": "article",
+      "title": "Skokie violated Open Meetings Act, must explain decision on former trustee, according to state - therecordnorthshore.org",
+      "date": "2026-09-23",
+      "source": "therecordnorthshore.org",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNnZCVGE1TmxYWU5fYXd5dzFjVXRwZWtDLVRCTU16UEpXOHBMS3VEWklPLUEtTHZPcFRjN2lkNXZ3cTE5d0x0ZUZZU0xxRklwbEtXYlA0YVpFbEtaR2lxU2xtaFBhSjh3NFEyRGZxTmxZRzdGamhMZlA4RWozUGJTSzh3bS1leTAxYnBhUlQ0TGVIamVaNTc3QmR6dXFKU1FUNjMtOXgwMkhONjlVWUN2cUdiSjc2amVqZFFTWUxwLV9ZRUdKMzNpZEFwMFJ1RjdadTk0S1BlNA?oc=5",
+      "snippet": "Skokie violated Open Meetings Act, must explain decision on former trustee, according to state &nbsp;&nbsp; therecordnorthshore.org"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBnTEdmVjRJSFR4WGhnR2htR2licllDY19KLUFrdUpDR3Y3VU1JR3l6RG1Wc3RkZXRneTZaQUV0a2xUSUFLdXlyckZESHNFYXBWVmVBS19EVDdKZFBiMVkzNVZobk5tNmpUd2NBWUhjWGhfWmpEWjFNS0p4VlJNWmVjbUNUWnRSTzl1TUdVdWJreDB1SmQ5MjQ4UnVEQ2RxYlEtd2VvdzY0YU1aVGfSAVZBVV95cUxOUDdqZHRNTHRxaC1Tem83Rnh6WGsxMmRiRHBXM1BpVGo2QlVYZHRfaDNZalc1aDhfblBJTEhEelpRa1hFMW8tUUlvZlhoYmtIU0puMDFGZw?oc=5",
+      "type": "article",
+      "title": "JMG Appoints 1st GC To Support UK Insurance Expansion - Law360",
+      "date": "2026-09-23",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBnTEdmVjRJSFR4WGhnR2htR2licllDY19KLUFrdUpDR3Y3VU1JR3l6RG1Wc3RkZXRneTZaQUV0a2xUSUFLdXlyckZESHNFYXBWVmVBS19EVDdKZFBiMVkzNVZobk5tNmpUd2NBWUhjWGhfWmpEWjFNS0p4VlJNWmVjbUNUWnRSTzl1TUdVdWJreDB1SmQ5MjQ4UnVEQ2RxYlEtd2VvdzY0YU1aVGfSAVZBVV95cUxOUDdqZHRNTHRxaC1Tem83Rnh6WGsxMmRiRHBXM1BpVGo2QlVYZHRfaDNZalc1aDhfblBJTEhEelpRa1hFMW8tUUlvZlhoYmtIU0puMDFGZw?oc=5",
+      "snippet": "JMG Appoints 1st GC To Support UK Insurance Expansion &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG9NQUdmNU8xRTRBWWlLWnpSOGNrYzFqSk1fMHExWlVrME1lNHdIUERSYUhvdDdwTE16SmZIVmJ2cUFpMEV1U2JnSjFKbzMyeW02aFlzRE1mdm1ZNVFJXzNQbXluRlBGSG1LUjZuazRsVjNYdGEtS2FzMXh5TGNyVG8tbTdVUFM0Y1lvUnVCcEVOblE?oc=5",
@@ -227,6 +326,33 @@
       "source": "ETLegalWorld.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzBLR1YzeThSbmRMazNTWjRkakRpZjlaUVp0NzFfTndxMG80Y1ZxQjRkaF91Zk1OQUFWX3V2ZlU1SFRfYTRHV3dsM1hRNnVMS1ZMMFNINEJ4eHcxZUtVQ1RvVkIxMmpUUVo1ZGs5WldMaGZTd1VFQzJlemstd3NxN2hjZERCYUktRlNXbTZDSFFhLUt2TWdQQV9NTHJvNWlOVmNwT053aGR2OTFRWW5tX2dJZUZMWFVzYkFGcmlWSl9pUmd4M0FHMXQxU2fSAcwBQVVfeXFMUE8wS0dWM3k4Um5kTGszU1o0ZGpEaWY5WlFadDcxX053cTBvNGNWcUI0ZGhfdWZNTkFBVl91dmZVNUhUX2E0R1d3bDNYUTZ1TEtWTDBTSDRCeHh3MWVLVUNUb1ZCMTJqVFFaNWRrOVpXTGhmU3dVRUMyZXprLXdzcTdoY2REQmFJLUZTV202Q0hRYS1Ldk1nUEFfTUxybzVpTlZjcE9Od2hkdjkxUVlubV9nSWVGTFhVc2JBRnJpVkpfaVJneDNBRzF0MVNn?oc=5",
       "snippet": "Sudarshan Chemical appoints Amit Deshpande as General Counsel &nbsp;&nbsp; ETLegalWorld.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVhUa0FpeTBmZFE0a0cteS1VcmlMU05RYjR0VFA1Wk15VFN4Uk5SZDhmNzZpSXhpdU5Fc0pTVV9IOG13VnV6MWhnV2NabHVlRkJBUHd2WGhaUTNySGpMaC1VSEtQS1RwS2c4QlhGb19VSzVRallnZFNEUHFiLVlubmdFaUpKQQ?oc=5",
+      "type": "article",
+      "title": "The economic case for a law firm MSO IPO - winstontaylor.com",
+      "date": "2026-09-22",
+      "source": "winstontaylor.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVhUa0FpeTBmZFE0a0cteS1VcmlMU05RYjR0VFA1Wk15VFN4Uk5SZDhmNzZpSXhpdU5Fc0pTVV9IOG13VnV6MWhnV2NabHVlRkJBUHd2WGhaUTNySGpMaC1VSEtQS1RwS2c4QlhGb19VSzVRallnZFNEUHFiLVlubmdFaUpKQQ?oc=5",
+      "snippet": "The economic case for a law firm MSO IPO &nbsp;&nbsp; winstontaylor.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlN6a3JBTmV2cUd0UkRDNktwNkFjcENjWTFYajhqVE5kN25wb2xGZ3dIV2lrYm9nOUl3WDhYUHZLTWE5UFYxeDE0dEkxRmRDckZUODJCYUMydm5WeUNtYjhXV0lRY2VvUDFyLUZkVmJZX0VrV3ZlR0VGUlNwcHI5MUFjTVpzY0dqN0lrWDdMeXrSAV5BVV95cUxNS3BGT2wyQnV0ZzVVdWdMSU5kdC1YUU5jMkxjalNUSENRaEtldGtCOEZHbjlrV0dnT2RmZFV1ZjV4WFJveFpFdDdtbG1MWjQ3ajFPZkhvS3ktcDFHOTlB?oc=5",
+      "type": "article",
+      "title": "The Economic Case For A Law Firm MSO IPO - Law360",
+      "date": "2026-09-22",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlN6a3JBTmV2cUd0UkRDNktwNkFjcENjWTFYajhqVE5kN25wb2xGZ3dIV2lrYm9nOUl3WDhYUHZLTWE5UFYxeDE0dEkxRmRDckZUODJCYUMydm5WeUNtYjhXV0lRY2VvUDFyLUZkVmJZX0VrV3ZlR0VGUlNwcHI5MUFjTVpzY0dqN0lrWDdMeXrSAV5BVV95cUxNS3BGT2wyQnV0ZzVVdWdMSU5kdC1YUU5jMkxjalNUSENRaEtldGtCOEZHbjlrV0dnT2RmZFV1ZjV4WFJveFpFdDdtbG1MWjQ3ajFPZkhvS3ktcDFHOTlB?oc=5",
+      "snippet": "The Economic Case For A Law Firm MSO IPO &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxNanI1TmVhSFZOQ0I5c1NDaHpYS2tZYVFlUTA5dVpKYWN4Rk8zR1NEcEE2c0lrWnBBVXNwSzhfMXdfdF9kT2ctRzZWd0xZd243RVNvVGp3bENYaWkxVEhucW0wVjRNLUJBV3pUeHMwT1MycWFIMlEtcWVOd2pPWS1BX0ZlaXNIVElYR3E3d21nMVJWVFZ3TTBLSWJR?oc=5",
+      "type": "article",
+      "title": "Statutes Beyond the Casebook - Drexel",
+      "date": "2026-09-22",
+      "source": "Drexel",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanI1TmVhSFZOQ0I5c1NDaHpYS2tZYVFlUTA5dVpKYWN4Rk8zR1NEcEE2c0lrWnBBVXNwSzhfMXdfdF9kT2ctRzZWd0xZd243RVNvVGp3bENYaWkxVEhucW0wVjRNLUJBV3pUeHMwT1MycWFIMlEtcWVOd2pPWS1BX0ZlaXNIVElYR3E3d21nMVJWVFZ3TTBLSWJR?oc=5",
+      "snippet": "Statutes Beyond the Casebook &nbsp;&nbsp; Drexel"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYm9pdzh5UDlmY1RWNXQzeDlXeFVuZjhsZUhrQVcyWmlNRk9mZnNIZ3J0Wk1GdGJ4dmNPR2ZWWmpULXFDalFiNmlCOUg1RGRoaUZyYXluNXV4dEtzTjNnbGk1YXpwRjF2MldfUXNfeWJUcjFidXNhZ3VXLWRSWDRLRnd6UlFJaG9JUjVrcFdQSk01cnN6azY1LWpCSkFneUdycl9nRUVvanYwR0xObkdYaGpXTEh3RExJRVF3?oc=5",
@@ -1226,132 +1352,6 @@
       "source": "Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUkFYUzgzekxHc2pQX19Sd2drcFZUT1pTVERsUXVha29Lcy1MM3lNaHZmOXV6Wm9VX0JpWG03Q0YyOEUtaHl2T1hPakdxNnRpU1dtaXk3VmcxaGV2cVlkNWIzYWhtQy1kOG9FRGtQS1dEdkRaTTFUa1kzN3Nzb1pHVFhPRDhDbzBRQWdyb000RlBpVUlzUFQtRUd1MXB2NDJ0QXZVcWdvcndDNkQ5YjM5Vks3Zy1na0dpMXJXNnhtZlVrMHpBQXFtaHZfMzJEZ2NlRThKVkk2Vm9SLXFzTGFiSzBQOXRHSEVMSDE1OHpJUUQ?oc=5",
       "snippet": "Appleby to Accelerate Growth in Legal and Fiduciary Services With Investment From New Mountain Capital &nbsp;&nbsp; Business Wire"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVotRm1CcTdfQlVremtjX3VhRWFlakR3OFJ5V1paMms2RWtCYkJwWlA3U0s4YzFEWWdvRlBSeVZXZDBENHM5d1g0NWZFVlU1MHZadjZQZVVVRFUwMi1pTS1xOUJDYlNoQXhLZ1d6aXg0VDk1ZTVCa0hjMFFnSXRMeGJKQk02REg5NUw3ZEg2a2U?oc=5",
-      "type": "article",
-      "title": "Appleby sells minority stake to US private equity group - nonbillable.co.uk",
-      "date": "2026-09-14",
-      "source": "nonbillable.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVotRm1CcTdfQlVremtjX3VhRWFlakR3OFJ5V1paMms2RWtCYkJwWlA3U0s4YzFEWWdvRlBSeVZXZDBENHM5d1g0NWZFVlU1MHZadjZQZVVVRFUwMi1pTS1xOUJDYlNoQXhLZ1d6aXg0VDk1ZTVCa0hjMFFnSXRMeGJKQk02REg5NUw3ZEg2a2U?oc=5",
-      "snippet": "Appleby sells minority stake to US private equity group &nbsp;&nbsp; nonbillable.co.uk"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGVnZllvczU4Y0g0WVBGT0dOYXh0RU1rSEYyMXlCUng1QlhLN3Z1N2NPOVNITVljMGY4cTRJYTItVnZOTFQwNWNVRndkOUVEbWF6SXctRVlUUDh2VTNGVHJFVHU4WDdzanEzUVpYM2gxeVFLLTR2SUFRQUluRUhsRkF5eWY2b0tZR1JTTDJrbVpvUQ?oc=5",
-      "type": "article",
-      "title": "Appleby secures growth investment from New Mountain Capital - artemis.bm",
-      "date": "2026-09-14",
-      "source": "artemis.bm",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGVnZllvczU4Y0g0WVBGT0dOYXh0RU1rSEYyMXlCUng1QlhLN3Z1N2NPOVNITVljMGY4cTRJYTItVnZOTFQwNWNVRndkOUVEbWF6SXctRVlUUDh2VTNGVHJFVHU4WDdzanEzUVpYM2gxeVFLLTR2SUFRQUluRUhsRkF5eWY2b0tZR1JTTDJrbVpvUQ?oc=5",
-      "snippet": "Appleby secures growth investment from New Mountain Capital &nbsp;&nbsp; artemis.bm"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZF9BMkRrQlJITnZLamZqU25oT1JuUUdCU1J6NkNPeFhERk96dFY0ZmRPcnE5TDB6eDl5Qzhpd1hVa0dEb3hCMF91OUVjSFBLbE8xcXVzQ1JZQzZab3RySUJfSEd0cjlxOEt3bTUta25Ec2RUejNlTnR1dFpCbmRYSXJsWlNnTmtDcnZ6NXBwRnhYR09VZUF3S2M0Y1dpZWJqamNNZWVXVEhlRVdVYnA4SGZ4cmRTeF9y?oc=5",
-      "type": "article",
-      "title": "At Your Service: Sept. 14 edition - Alternatives Watch",
-      "date": "2026-09-14",
-      "source": "Alternatives Watch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZF9BMkRrQlJITnZLamZqU25oT1JuUUdCU1J6NkNPeFhERk96dFY0ZmRPcnE5TDB6eDl5Qzhpd1hVa0dEb3hCMF91OUVjSFBLbE8xcXVzQ1JZQzZab3RySUJfSEd0cjlxOEt3bTUta25Ec2RUejNlTnR1dFpCbmRYSXJsWlNnTmtDcnZ6NXBwRnhYR09VZUF3S2M0Y1dpZWJqamNNZWVXVEhlRVdVYnA4SGZ4cmRTeF9y?oc=5",
-      "snippet": "At Your Service: Sept. 14 edition &nbsp;&nbsp; Alternatives Watch"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1ZwbEx4QlRtYnNJemNYd3NiTDNMeTB5czRBZUs3VGk4ZThmc29YYXBQNWpIbzBRakNhT2pMOU9WTUk4VFhsWHEyNEVxVXVSTHNmX1lZQkZLWkdHbjVKOXJ3cXhPSThKN1pxZXMzbk9hV192V2NOb2J3X3FJYno5ckZSZ3FUSTY1R2k5YlF0UlpYa3hoVHVDNDlKZ1NFTTFwanBIazJlSi1OeGRzQ3hnNGZR?oc=5",
-      "type": "article",
-      "title": "New Mountain Capital Takes Minority Stake in Appleby to Accelerate Growth - citybiz",
-      "date": "2026-09-14",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1ZwbEx4QlRtYnNJemNYd3NiTDNMeTB5czRBZUs3VGk4ZThmc29YYXBQNWpIbzBRakNhT2pMOU9WTUk4VFhsWHEyNEVxVXVSTHNmX1lZQkZLWkdHbjVKOXJ3cXhPSThKN1pxZXMzbk9hV192V2NOb2J3X3FJYno5ckZSZ3FUSTY1R2k5YlF0UlpYa3hoVHVDNDlKZ1NFTTFwanBIazJlSi1OeGRzQ3hnNGZR?oc=5",
-      "snippet": "New Mountain Capital Takes Minority Stake in Appleby to Accelerate Growth &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0dzNlFSR1EzNHVZZmljMW5rckJxdG1pSDFNWjZCbm1wb3V5dzRvQ19KNmc4Ukg5VFByTm9DVDNFT01EdkdRQ3pfQ1Q1ekdJajFTOGhyNEFScDZlVVNkc1dBaHF4a1ZGVzMzRW12b3Z6R3J1TDRqblFJQkU4UExOWnVWM1puaHF6c29XMXc1YzJScFpMd1hfOXZRT1NEUzlCMWN1LVh4MA?oc=5",
-      "type": "article",
-      "title": "New Mountain Capital takes minority stake in offshore law firm Appleby - Dealroom",
-      "date": "2026-09-14",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0dzNlFSR1EzNHVZZmljMW5rckJxdG1pSDFNWjZCbm1wb3V5dzRvQ19KNmc4Ukg5VFByTm9DVDNFT01EdkdRQ3pfQ1Q1ekdJajFTOGhyNEFScDZlVVNkc1dBaHF4a1ZGVzMzRW12b3Z6R3J1TDRqblFJQkU4UExOWnVWM1puaHF6c29XMXc1YzJScFpMd1hfOXZRT1NEUzlCMWN1LVh4MA?oc=5",
-      "snippet": "New Mountain Capital takes minority stake in offshore law firm Appleby &nbsp;&nbsp; Dealroom"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVl1NEJDUnc0U3NtLXUzN1RILTZhUTFicjcwMWhhQkdqcTJFZzdsSGxXWFhRV3cwSjJ1S3RySXdDQmUydzJJVm1GenVsRW9FMjhRdnF4ZEJtaE5RdXg3WTF1dnZSenRnaC1BRUQxampRYmE5NGVUM1BUcUFNZlVlQndzYkNwWVR1?oc=5",
-      "type": "article",
-      "title": "Largest Law Firm Merger: Barun and Dongin - 조선일보",
-      "date": "2026-09-14",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVl1NEJDUnc0U3NtLXUzN1RILTZhUTFicjcwMWhhQkdqcTJFZzdsSGxXWFhRV3cwSjJ1S3RySXdDQmUydzJJVm1GenVsRW9FMjhRdnF4ZEJtaE5RdXg3WTF1dnZSenRnaC1BRUQxampRYmE5NGVUM1BUcUFNZlVlQndzYkNwWVR1?oc=5",
-      "snippet": "Largest Law Firm Merger: Barun and Dongin &nbsp;&nbsp; 조선일보"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYktaZl9vMklfMHE3NUR5MElyMVlzUHhwbGVEdVJUVnFUTU5hWUV5ZlFlVDR1OG11S250am5TQ0xFdXdXZkZQRGstcGNqLWxseTR5bU1zT0E4VzM5LXdSVTV3T1ptbXAzQTVvV096eUZURFU1eERUdm5PekNKdmxSZHYtdC1qQW5QYldSbWxlRTNQeDMyNkNqbmxDWHhaaGFQR19CM1d0Q3E?oc=5",
-      "type": "article",
-      "title": "Subrogation – the insurer’s remedy against double indemnity of the insured - Business & Financial Times",
-      "date": "2026-09-14",
-      "source": "Business & Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYktaZl9vMklfMHE3NUR5MElyMVlzUHhwbGVEdVJUVnFUTU5hWUV5ZlFlVDR1OG11S250am5TQ0xFdXdXZkZQRGstcGNqLWxseTR5bU1zT0E4VzM5LXdSVTV3T1ptbXAzQTVvV096eUZURFU1eERUdm5PekNKdmxSZHYtdC1qQW5QYldSbWxlRTNQeDMyNkNqbmxDWHhaaGFQR19CM1d0Q3E?oc=5",
-      "snippet": "Subrogation – the insurer’s remedy against double indemnity of the insured &nbsp;&nbsp; Business & Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFZKNUVXZl9LQk9yaVFKaFVGVGp6LXg1ZFJ2eV9rVjIwcFJ2MEM3cm9nSUh4emhFUFVFVFZ2Q2J6aFk2aU1kVGNpRGVrWTlrckhwcVlzSVhvVHc1Wkp1eEp6NFJxQjdaSUFodkZ4MS1RS1NKSWNNSlBvbVlWby1jUXBwaHRfN0hnRTE2eUxjWXZnNFZ6Nm9MYkk2azVqVVRrRzlkdDN0WEpOVUZEUGc?oc=5",
-      "type": "article",
-      "title": "Appleby to Accelerate Growth in Legal and Fiduciary Services With Investment From New Mountain Capital - The National Law Review",
-      "date": "2026-09-14",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFZKNUVXZl9LQk9yaVFKaFVGVGp6LXg1ZFJ2eV9rVjIwcFJ2MEM3cm9nSUh4emhFUFVFVFZ2Q2J6aFk2aU1kVGNpRGVrWTlrckhwcVlzSVhvVHc1Wkp1eEp6NFJxQjdaSUFodkZ4MS1RS1NKSWNNSlBvbVlWby1jUXBwaHRfN0hnRTE2eUxjWXZnNFZ6Nm9MYkk2azVqVVRrRzlkdDN0WEpOVUZEUGc?oc=5",
-      "snippet": "Appleby to Accelerate Growth in Legal and Fiduciary Services With Investment From New Mountain Capital &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdNQzJfdTZYMTZSMTg2dkUwZ3RLSkNUSThxSl9EZWliU0NCMmRXaElXMWItMVpvQ0NoRmZCQ3lyU2tsN0NnTGdnTVE3QXc0cXJ4LWhRTUVzaXRfMlM0aDlTa2oyS2Nlb0xmenhVbGEzQWJxQmZmTkw4ak9mVUhqU0dhWFJKbHhZT3pmRmhpRTFRbGFDYTJhOEFBeVlsZDI5UFBwdktac0g0cmxq?oc=5",
-      "type": "article",
-      "title": "Trio of law firms advise as offshore leader takes external investment - Legal Business",
-      "date": "2026-09-14",
-      "source": "Legal Business",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdNQzJfdTZYMTZSMTg2dkUwZ3RLSkNUSThxSl9EZWliU0NCMmRXaElXMWItMVpvQ0NoRmZCQ3lyU2tsN0NnTGdnTVE3QXc0cXJ4LWhRTUVzaXRfMlM0aDlTa2oyS2Nlb0xmenhVbGEzQWJxQmZmTkw4ak9mVUhqU0dhWFJKbHhZT3pmRmhpRTFRbGFDYTJhOEFBeVlsZDI5UFBwdktac0g0cmxq?oc=5",
-      "snippet": "Trio of law firms advise as offshore leader takes external investment &nbsp;&nbsp; Legal Business"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSm1XWXJWLXcxT2tlSjBmbXlPQUFMc0hZZVdGeENaZzQwM2tXWV9aZE95MHpWR1BPQVhVbmEwdk9YT2RRWTJtdHRybFB3Tmg4YVc0NUFHb0NvTHJ2MC1yWUlfelMwUVN5bkJwcFplRUh5STRwUVozTU9BVzVzTEFIZ0cxbU4tV09L?oc=5",
-      "type": "article",
-      "title": "Ashurst Perkins Coie Adds Partner for Capital Growth - Mirage News",
-      "date": "2026-09-14",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSm1XWXJWLXcxT2tlSjBmbXlPQUFMc0hZZVdGeENaZzQwM2tXWV9aZE95MHpWR1BPQVhVbmEwdk9YT2RRWTJtdHRybFB3Tmg4YVc0NUFHb0NvTHJ2MC1yWUlfelMwUVN5bkJwcFplRUh5STRwUVozTU9BVzVzTEFIZ0cxbU4tV09L?oc=5",
-      "snippet": "Ashurst Perkins Coie Adds Partner for Capital Growth &nbsp;&nbsp; Mirage News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVNLcXNGTmtqTGVMTkpsbW0wbWpmMFBWaFR1TUoyNXViTlduVk9VbTZKb2MtYjlRM0RqRnlGelZKa3RFelp6YjByY2prVnctR2ZMY1Z6Q01ZRkpTTHdFMGtPbU1UeTNWcWdLWTk3S1FfNll2TlpzbzZUV1FhRXFrcFpUTzE2ejQ0NFU1blBMRVlrMEtMRXQwMm4yV2ozUXlzWG1mbTdTWFkwUE5yV0hDNXpfZFgyNlBmNEVZ0gG7AUFVX3lxTE1ZU0txc0ZOa2pMZUxOSmxtbTBtamYwUFZoVHVNSjI1dWJOV25WT1VtNkpvYy1iOVEzRGpGeUZ6VkprdEV6WnpiMHJjamtWdy1HZkxjVnpDTVlGSlNMd0Uwa09tTVR5M1ZxZ0tZOTdLUV82WXZOWnNvNlRXUWFFcWtwWlRPMTZ6NDQ0VTVuUExFWWswS0xFdDAybjJXajNReXNYbWZtN1NYWTBQTnJXSEM1el9kWDI2UGY0RVk?oc=5",
-      "type": "article",
-      "title": "Texas Business Court Addresses Church Autonomy and Corporate Governance Under the TBOC - The National Law Review",
-      "date": "2026-09-14",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVNLcXNGTmtqTGVMTkpsbW0wbWpmMFBWaFR1TUoyNXViTlduVk9VbTZKb2MtYjlRM0RqRnlGelZKa3RFelp6YjByY2prVnctR2ZMY1Z6Q01ZRkpTTHdFMGtPbU1UeTNWcWdLWTk3S1FfNll2TlpzbzZUV1FhRXFrcFpUTzE2ejQ0NFU1blBMRVlrMEtMRXQwMm4yV2ozUXlzWG1mbTdTWFkwUE5yV0hDNXpfZFgyNlBmNEVZ0gG7AUFVX3lxTE1ZU0txc0ZOa2pMZUxOSmxtbTBtamYwUFZoVHVNSjI1dWJOV25WT1VtNkpvYy1iOVEzRGpGeUZ6VkprdEV6WnpiMHJjamtWdy1HZkxjVnpDTVlGSlNMd0Uwa09tTVR5M1ZxZ0tZOTdLUV82WXZOWnNvNlRXUWFFcWtwWlRPMTZ6NDQ0VTVuUExFWWswS0xFdDAybjJXajNReXNYbWZtN1NYWTBQTnJXSEM1el9kWDI2UGY0RVk?oc=5",
-      "snippet": "Texas Business Court Addresses Church Autonomy and Corporate Governance Under the TBOC &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxPZm5FMnFnOTZXckJpYXJDamtEUGljZmZobWZKamNXVzhTZjVhaU5ZQkdlY0JNQVBFRHFqY3hiMHBlOVVfN1E3ZGQ3THVUUjF1RTdrYjBLdVhkU2VfYlAzcjBoaEJ1UWhYakpCV1hmbW5jcENSTFFCcXBadzJOWGFyd1U0eUYwRVFuLWZseTlvVUxRajFSZjlpRUxLNmpUNkMzSFRrSjZyb3k0TEE4ZURWYk5KU25kd9IBuwFBVV95cUxNWVNLcXNGTmtqTGVMTkpsbW0wbWpmMFBWaFR1TUoyNXViTlduVk9VbTZKb2MtYjlRM0RqRnlGelZKa3RFelp6YjByY2prVnctR2ZMY1Z6Q01ZRkpTTHdFMGtPbU1UeTNWcWdLWTk3S1FfNll2TlpzbzZUV1FhRXFrcFpUTzE2ejQ0NFU1blBMRVlrMEtMRXQwMm4yV2ozUXlzWG1mbTdTWFkwUE5yV0hDNXpfZFgyNlBmNEVZ?oc=5",
-      "type": "article",
-      "title": "Texas Business Court Addresses Church Autonomy and Corporate Governance Under the TBOC - The National Law Review",
-      "date": "2026-09-14",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZm5FMnFnOTZXckJpYXJDamtEUGljZmZobWZKamNXVzhTZjVhaU5ZQkdlY0JNQVBFRHFqY3hiMHBlOVVfN1E3ZGQ3THVUUjF1RTdrYjBLdVhkU2VfYlAzcjBoaEJ1UWhYakpCV1hmbW5jcENSTFFCcXBadzJOWGFyd1U0eUYwRVFuLWZseTlvVUxRajFSZjlpRUxLNmpUNkMzSFRrSjZyb3k0TEE4ZURWYk5KU25kd9IBuwFBVV95cUxNWVNLcXNGTmtqTGVMTkpsbW0wbWpmMFBWaFR1TUoyNXViTlduVk9VbTZKb2MtYjlRM0RqRnlGelZKa3RFelp6YjByY2prVnctR2ZMY1Z6Q01ZRkpTTHdFMGtPbU1UeTNWcWdLWTk3S1FfNll2TlpzbzZUV1FhRXFrcFpUTzE2ejQ0NFU1blBMRVlrMEtMRXQwMm4yV2ozUXlzWG1mbTdTWFkwUE5yV0hDNXpfZFgyNlBmNEVZ?oc=5",
-      "snippet": "Texas Business Court Addresses Church Autonomy and Corporate Governance Under the TBOC &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE9CODRxUlM3STVEQnZlZFRoY0h5WGE2bjdJR0NGSEZvR3ZmcU9tWkcxWkhMbmVrNHd5QS1EeEF0Y09BMHY1LTFpeXBNMjlMNUdaekQ2Y0xYMElsZ0hJd2NULVBVNEJfdzlSQ0NPSw?oc=5",
-      "type": "article",
-      "title": "Bethlehem Steel Corporation - Britannica",
-      "date": "2026-09-14",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CODRxUlM3STVEQnZlZFRoY0h5WGE2bjdJR0NGSEZvR3ZmcU9tWkcxWkhMbmVrNHd5QS1EeEF0Y09BMHY1LTFpeXBNMjlMNUdaekQ2Y0xYMElsZ0hJd2NULVBVNEJfdzlSQ0NPSw?oc=5",
-      "snippet": "Bethlehem Steel Corporation &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMidEFVX3lxTE56YmlIOHRvdFkzbTFfaDQ4QlJENERsNDRsSU1Nb05sN25QX01qN1UyeDBtZzlLcFhYR0RzcGlSQlA4MnhjWFFhOXNzS0ZEUWFkSWltS0p0SWZrMjVVck5fdTN3dkxmZURkTVVzeFlxUFdvbVNC?oc=5",
-      "type": "article",
-      "title": "Democracy - Theory, Principles, Practice - Britannica",
-      "date": "2026-09-14",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56YmlIOHRvdFkzbTFfaDQ4QlJENERsNDRsSU1Nb05sN25QX01qN1UyeDBtZzlLcFhYR0RzcGlSQlA4MnhjWFFhOXNzS0ZEUWFkSWltS0p0SWZrMjVVck5fdTN3dkxmZURkTVVzeFlxUFdvbVNC?oc=5",
-      "snippet": "Democracy - Theory, Principles, Practice &nbsp;&nbsp; Britannica"
     }
   ]
 }
