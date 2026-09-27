@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-09-26T14:54:47.994297+00:00",
+  "lastRun": "2026-09-27T15:32:58.262519+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 12,
+  "addedThisRun": 8,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMiywFBVV95cUxPbG1GandPU055cktVVVB2MXJPSW1HcG81cXhZWVFCdFFlc1RBZ3NFWkk4T3puSG12NkEzZ2JINzJtenozaWtOYVpubWhPNWlTZUNLeXN3eVNpX3I1OW9Bd1hld0VBZWdGSC1FR1p3eHpTaWRyVTVOUWs1UmtlczBaSVZQNWhvZ1E0MGFvOWYxRFJ3Sk1IM1pqVDVSOXp1M3lnanJrUE5WZzJOdVlRY2tWQzBKMHZyR2M0UDFhRzViXy1XOWdsaWxUd0owVQ?oc=5",
@@ -29,6 +29,24 @@
       "source": "Florida Politics",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdUZGbWVIZi1uQlVfXzlQY1FEYXY2RE50UzA4OENTbGFtS3ZRdUpLdU44ckJFd2NsZXNKWTBBeGVwVVVqaFliZFlWcjIxNkZQYm1xc0NYaHMtWnU4T0Z6WmxFSTVjNDVWWVg0SndRMUg1TTlod04tLTRiRDcwcVY2SktNdkFmYXZ2T01CN0F1OHZ2aXJ3b3p1NC1reUU5X0JTR2ZCUzF4TTZjWVQ2cXdkMV93UWJzdjNPb3ByemhNS0paVF82bFZad0dn?oc=5",
       "snippet": "Coral Gables Commissioner seeks ethics review of Mayor before vote on 30-year UM deal &nbsp;&nbsp; Florida Politics"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3Z3Tmd3bmhqd3l2TVlYUmRpZTkzZV9raUtUWXRCWFJ0Wlptd2JKbDZaa1JfeFBXXzNJVV9Xa3B1TElpS2d2Rnh5LTlUUjh0R2tsRlhFcFM2R2NCSzJUbzg5amlCMTJpU19JME9oRmN3Q21DRzIyWWxWT2YyMWdwcGd3NHc5RlNJQjlCWlFHZHhQU3pjRWhjQXE4aGNLOVh3MHVMbVlsMkNPWTRac21qdWtMWkNCbEFjblBOUER0anM1TWxDLTN3VFU4UWhwd9IBzgFBVV95cUxQb3Z3Tmd3bmhqd3l2TVlYUmRpZTkzZV9raUtUWXRCWFJ0Wlptd2JKbDZaa1JfeFBXXzNJVV9Xa3B1TElpS2d2Rnh5LTlUUjh0R2tsRlhFcFM2R2NCSzJUbzg5amlCMTJpU19JME9oRmN3Q21DRzIyWWxWT2YyMWdwcGd3NHc5RlNJQjlCWlFHZHhQU3pjRWhjQXE4aGNLOVh3MHVMbVlsMkNPWTRac21qdWtMWkNCbEFjblBOUER0anM1TWxDLTN3VFU4UWhwdw?oc=5",
+      "type": "article",
+      "title": "Massumi + Consoli Launches ElevenHundred+ With Financial Sponsor And Appoints Shon Glusky Chief Strategy Officer - Pulse 2.0",
+      "date": "2026-09-26",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3Z3Tmd3bmhqd3l2TVlYUmRpZTkzZV9raUtUWXRCWFJ0Wlptd2JKbDZaa1JfeFBXXzNJVV9Xa3B1TElpS2d2Rnh5LTlUUjh0R2tsRlhFcFM2R2NCSzJUbzg5amlCMTJpU19JME9oRmN3Q21DRzIyWWxWT2YyMWdwcGd3NHc5RlNJQjlCWlFHZHhQU3pjRWhjQXE4aGNLOVh3MHVMbVlsMkNPWTRac21qdWtMWkNCbEFjblBOUER0anM1TWxDLTN3VFU4UWhwd9IBzgFBVV95cUxQb3Z3Tmd3bmhqd3l2TVlYUmRpZTkzZV9raUtUWXRCWFJ0Wlptd2JKbDZaa1JfeFBXXzNJVV9Xa3B1TElpS2d2Rnh5LTlUUjh0R2tsRlhFcFM2R2NCSzJUbzg5amlCMTJpU19JME9oRmN3Q21DRzIyWWxWT2YyMWdwcGd3NHc5RlNJQjlCWlFHZHhQU3pjRWhjQXE4aGNLOVh3MHVMbVlsMkNPWTRac21qdWtMWkNCbEFjblBOUER0anM1TWxDLTN3VFU4UWhwdw?oc=5",
+      "snippet": "Massumi + Consoli Launches ElevenHundred+ With Financial Sponsor And Appoints Shon Glusky Chief Strategy Officer &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxPWllkWHZUMFhfM2dtb3NFRTI4RDlQakN6djZjYnM5dDZsWkthSWVPZDAzLUdjWFFaYXNTVzA1TGFsOU55cGVLQnpuUnBZWDZZTG5FTWpBa0VEMkd3akYwSVRJSU41RTlVMF9qdGtOaU1tc1RscHBhdWhSX3NaMk1oeG9KLTF0V1FFM0tBSmIxUU5qU3BodUhhNVdMbFVuclF00gGmAUFVX3lxTFA4S2ItTnkyN0lQSWVPQTk0WFppcEdfbWc2Y0MwWHBYRTBOUmVCQWNZTTZLcHRheHBFMXVzdjI4SnNqNHBBWEJpUlNVcWREX2ptM200YWtlbnNkNjh1Zm5fRUlVRlV3Y1ZaRjFvWWpDWWNPcGNCWS1qOVoyTkx0OVVHbEROel9KclRYYjNRWmd2Yy1ldm5fZzd1eGpqU0M3TlVZQmRmWGc?oc=5",
+      "type": "article",
+      "title": "Milbank Appoints Former O’Melveny Tax Chair Alex Anderson As Partner In New York - Pulse 2.0",
+      "date": "2026-09-26",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWllkWHZUMFhfM2dtb3NFRTI4RDlQakN6djZjYnM5dDZsWkthSWVPZDAzLUdjWFFaYXNTVzA1TGFsOU55cGVLQnpuUnBZWDZZTG5FTWpBa0VEMkd3akYwSVRJSU41RTlVMF9qdGtOaU1tc1RscHBhdWhSX3NaMk1oeG9KLTF0V1FFM0tBSmIxUU5qU3BodUhhNVdMbFVuclF00gGmAUFVX3lxTFA4S2ItTnkyN0lQSWVPQTk0WFppcEdfbWc2Y0MwWHBYRTBOUmVCQWNZTTZLcHRheHBFMXVzdjI4SnNqNHBBWEJpUlNVcWREX2ptM200YWtlbnNkNjh1Zm5fRUlVRlV3Y1ZaRjFvWWpDWWNPcGNCWS1qOVoyTkx0OVVHbEROel9KclRYYjNRWmd2Yy1ldm5fZzd1eGpqU0M3TlVZQmRmWGc?oc=5",
+      "snippet": "Milbank Appoints Former O’Melveny Tax Chair Alex Anderson As Partner In New York &nbsp;&nbsp; Pulse 2.0"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxQQkxlaWgxbk54eVgwMlNjN3VPOVVZeDJfVFJLY3dGVk0zeWhLdUJieUlTM190ZUJ5Y1pXWmdOcDcta3ZJZ18zdmtKX0FjWE8waF9VZTl0eExkMjRxb3o4ci1CQzlBaW1YRERGa2RrQk5VM0hzdUNuYzhYUHpyaXplZC1tb1ZGQjNwc2ZmbjktZDh2M2JiMTZBRmFNcm94UQ?oc=5",
@@ -139,6 +157,33 @@
       "snippet": "A2J At The High Court: Gun Bans, Voting And Civil Remedies &nbsp;&nbsp; Law360"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxQOW5XaVVhdlI4TlJwdXN1YnNONkhWNXl0eUlCQnh1Z2NTYjh5dkYyY1E1M2VyR1cyZGhjMHd2RVdtNzQ0T2QzenBJbzB5TmpFdHlqM183UmFxbU1Lc2p0Q21raFRHN3FiQW5hZ1JSTnhzYV9sQlVGeHJSRERVVjJYWlVrSW8tZm5vcmROc3MtREF5UQ?oc=5",
+      "type": "article",
+      "title": "Insurer PZU is examining an alternative restructuring with Bank Pekao - Beinsure",
+      "date": "2026-09-25",
+      "source": "Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOW5XaVVhdlI4TlJwdXN1YnNONkhWNXl0eUlCQnh1Z2NTYjh5dkYyY1E1M2VyR1cyZGhjMHd2RVdtNzQ0T2QzenBJbzB5TmpFdHlqM183UmFxbU1Lc2p0Q21raFRHN3FiQW5hZ1JSTnhzYV9sQlVGeHJSRERVVjJYWlVrSW8tZm5vcmROc3MtREF5UQ?oc=5",
+      "snippet": "Insurer PZU is examining an alternative restructuring with Bank Pekao &nbsp;&nbsp; Beinsure"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGlJenY1R1dyaGVzWnVnMTVGakg1cWQydVZ1aEFvaENxaDVPYjU1UWxvY3dKMGJLZlJEWEQ5dGtnUGtOb2NNX3ZuUmQxODQtaGJKTmVpTWFldjFuSGNDZVRTZUFIN0dZYWlJQWI3cVZLRjhLMkZsanpXbXZPbkQwNWQ1WXUwMEI0TWdLd3NpTFB6ZGJFUzdiRnpaWjdpRWUxUUlIUUMzYTh1VmFYT19VLUNVX1RsbDY3WldibDhrYTg0UkRiWmN5TFRuaDh0M21wTHEyUW9BS0E3QjNfMmc?oc=5",
+      "type": "article",
+      "title": "Abacus Global Management Completes Landmark $400 Million Securitization - Via TT",
+      "date": "2026-09-25",
+      "source": "Via TT",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGlJenY1R1dyaGVzWnVnMTVGakg1cWQydVZ1aEFvaENxaDVPYjU1UWxvY3dKMGJLZlJEWEQ5dGtnUGtOb2NNX3ZuUmQxODQtaGJKTmVpTWFldjFuSGNDZVRTZUFIN0dZYWlJQWI3cVZLRjhLMkZsanpXbXZPbkQwNWQ1WXUwMEI0TWdLd3NpTFB6ZGJFUzdiRnpaWjdpRWUxUUlIUUMzYTh1VmFYT19VLUNVX1RsbDY3WldibDhrYTg0UkRiWmN5TFRuaDh0M21wTHEyUW9BS0E3QjNfMmc?oc=5",
+      "snippet": "Abacus Global Management Completes Landmark $400 Million Securitization &nbsp;&nbsp; Via TT"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmFlTGpzeXo4NmdaMHJBQ3Fycm1wVEM3RGlIaWZKb2FjZEFyMUlCMF9kYnhCSkFhNjJPeGcwZVJjX2sxV1dRQlRNSnNqa1pNQUNaaDByZU1IanpaU3NzTnEzemY1QzkyTnJWaUVLMGkyOHFGWW5MREIxWE5QdlE0ajlPUDBLcjBaNHdiMERUUlRPOVpleVBfNERVTGxLOTUtdnQ5TjZTZDU2TVg2ZHl6X3lYbExWUXludGpHV0NXVlctN3JvNHfSAcsBQVVfeXFMTTNoSmM0U20xMENyczlMdmsxNTQxZkRrTU1LdTR5ZzZMX3pmbUVuXzctQm9PdWJ6dVZyNVFmbWFvUThfMnZmVFRyMG1FQk1EdVRaUDFxYWROYXRPNXJqSG03QTFrQWp1WWl4Umh1Z0wyb1BqT0VMYWVfVzF6Tm5qMnpsSktMQlZlTV9KR0dHeFBIbWRwbDMtd01TeVRsRm91cEI0WXNJVVc0WDdKSmlKVVRDR2RKQkN4blZ3dmc0Y2pxdzJYU0VSUk5hWTg?oc=5",
+      "type": "article",
+      "title": "Democrats press RFK Jr. on an ethics agreement change involving law firm fees - ABC4 Utah",
+      "date": "2026-09-25",
+      "source": "ABC4 Utah",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmFlTGpzeXo4NmdaMHJBQ3Fycm1wVEM3RGlIaWZKb2FjZEFyMUlCMF9kYnhCSkFhNjJPeGcwZVJjX2sxV1dRQlRNSnNqa1pNQUNaaDByZU1IanpaU3NzTnEzemY1QzkyTnJWaUVLMGkyOHFGWW5MREIxWE5QdlE0ajlPUDBLcjBaNHdiMERUUlRPOVpleVBfNERVTGxLOTUtdnQ5TjZTZDU2TVg2ZHl6X3lYbExWUXludGpHV0NXVlctN3JvNHfSAcsBQVVfeXFMTTNoSmM0U20xMENyczlMdmsxNTQxZkRrTU1LdTR5ZzZMX3pmbUVuXzctQm9PdWJ6dVZyNVFmbWFvUThfMnZmVFRyMG1FQk1EdVRaUDFxYWROYXRPNXJqSG03QTFrQWp1WWl4Umh1Z0wyb1BqT0VMYWVfVzF6Tm5qMnpsSktMQlZlTV9KR0dHeFBIbWRwbDMtd01TeVRsRm91cEI0WXNJVVc0WDdKSmlKVVRDR2RKQkN4blZ3dmc0Y2pxdzJYU0VSUk5hWTg?oc=5",
+      "snippet": "Democrats press RFK Jr. on an ethics agreement change involving law firm fees &nbsp;&nbsp; ABC4 Utah"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWhsUWlpcVZMQmZtSU5NOWhxQnRyUGx5OWhyYmJsd1l5MFdUUzhET1p0RVNSTE42NTk2eHdlSVJFbDZxQ0JBUV9idjRmeHVqNDRlbVFiRUUxTm83V0VQbTM5OWZOWXg0eF9mYWtGd0x2T1I0ekVSVmNZRkxGT2EtR094MEZaWV9BaVNQYnRDUElQcjBDaUF1dUhoRzBKeENLZkd1ZU96SWVCaFNJS1dZ?oc=5",
       "type": "article",
       "title": "Massumi + Consoli Launches ElevenHundred+ MSO, Adds Shon Glusky in New York - citybiz",
@@ -218,6 +263,24 @@
       "source": "Traders Union",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzJFX2Vfc2RyNmxRa19nZDZaY1lOam9lN3pvTzRhbW5JdldsTGs3dzFpdUFxbnR3SGRBTkVhNy1EMGRXTzhRSnlIdmU2MWtvbTB1VExNVGVjcmh3VXYzSkxub193QmczTkZjNDVfWExaRTZLUVBmQU5wOFhXVktFaHY2RjV1QkZUUWdTU2hLQ0FsZl9fLXFHQw?oc=5",
       "snippet": "Massumi + Consoli backs private equity model to reshape U.S. lawyer pay &nbsp;&nbsp; Traders Union"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVpQWt0Nm1QWW1RYnd5TXZ3Q3ZxOGh3b3A0aU9DSnQwX25tVmJmaG1MTEZFdlBqckZERXE0M01obXJNWEo2WGNFLWhjVEtlbGREdkNIb0ZKU0hfR0RPMkx3T0hUbDdDejAwYndtVkR5dU1xb3REQUFmRFAtaENkTi01WVVrd18xT2Fob0xaQks5NWc2Nm5xUnRqX2dCMVRWU1FrTnRCZnkwcDNzU3c?oc=5",
+      "type": "article",
+      "title": "Wingspire Equipment Finance Raises $407 Million in Largest ABS Issuance - citybiz",
+      "date": "2026-09-24",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVpQWt0Nm1QWW1RYnd5TXZ3Q3ZxOGh3b3A0aU9DSnQwX25tVmJmaG1MTEZFdlBqckZERXE0M01obXJNWEo2WGNFLWhjVEtlbGREdkNIb0ZKU0hfR0RPMkx3T0hUbDdDejAwYndtVkR5dU1xb3REQUFmRFAtaENkTi01WVVrd18xT2Fob0xaQks5NWc2Nm5xUnRqX2dCMVRWU1FrTnRCZnkwcDNzU3c?oc=5",
+      "snippet": "Wingspire Equipment Finance Raises $407 Million in Largest ABS Issuance &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTdocGhWMkZlYV9WSEw5ZTlFWGZscnpKV3BVd0tiajRuNlNGR0dIV19rUkF2akdhZ0t4SktGVkhIamU5bGlVUmRaOUZjVzhnU3FnbzdEcktYQlZNVkttNFVNN2xTNzk1S0dMcldMNXFIc3B5c3lXRzNNOVBYUXMwTTVkM1paVFQxVlU3ZGU1Z2ExTG9HU3EtZThDYzAwMUlLWHVyRHg1cWpIV1kzOW5ham04XzEtOEUtc3NKRC0tR0lGY2tzQ2MxVGMydzcwYWkwNEYtOURUMEt6QUdLWlE?oc=5",
+      "type": "article",
+      "title": "Wingspire Equipment Finance Raises Over $407 Million in Third Equipment Securitization - Business Wire",
+      "date": "2026-09-24",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTdocGhWMkZlYV9WSEw5ZTlFWGZscnpKV3BVd0tiajRuNlNGR0dIV19rUkF2akdhZ0t4SktGVkhIamU5bGlVUmRaOUZjVzhnU3FnbzdEcktYQlZNVkttNFVNN2xTNzk1S0dMcldMNXFIc3B5c3lXRzNNOVBYUXMwTTVkM1paVFQxVlU3ZGU1Z2ExTG9HU3EtZThDYzAwMUlLWHVyRHg1cWpIV1kzOW5ham04XzEtOEUtc3NKRC0tR0lGY2tzQ2MxVGMydzcwYWkwNEYtOURUMEt6QUdLWlE?oc=5",
+      "snippet": "Wingspire Equipment Finance Raises Over $407 Million in Third Equipment Securitization &nbsp;&nbsp; Business Wire"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTFBNWURnV3U0WDJCZEVLSVJSU1BVTzBRdk5uTVpRUzZzNkl0bWh2b0FHcFh6WXVvT1JRdTNVRkpIRG1pVVkwbE1zS1VORjRRYm9FRUtCVHlfU0daRm5lN2tGOVFnSW1IUFZ6alpjdzk3TVRqWnl5UldxTQ?oc=5",
@@ -353,6 +416,15 @@
       "source": "Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMm9fNUFHWmJwQ08yLUpvYXNmVnJqX1RZY2c4cWQ3dnQ3SWN5U2xXUXBQN1YzUll1UjBzQV9vOWxrdHoteXo1d1pualRfNEtnRDhpcndzdnE3N3IxN0VSM3pCMjdIMXdQTzJiR1VaMFpQQmIzS2N4TXdTSW5EbUxRWkE5dFI?oc=5",
       "snippet": "How private equity ended up in limbo &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1NVWVZ0ejFiek5xb1VxUFNzcFgzQnlHQ0puVTFBTi1KUXN4SGVuNy1SU0lCYUZCSjU3cUtKai1ROXowOFp2blZ3WkwyTTdFUmwtQkVCYWRzWWZVTUhlcWFMSkltUkQ5Z0JJM2ppc0NROEdydUhkd01fa1hxT01vek81dm9Cb2hSczlqUHh5Q0pGVVF5TGxiNUtQeEw3XzJZeTBFOWwxdURwUdIBVkFVX3lxTE5QN2pkdE1MdHFoLVN6bzdGeHpYazEyZGJEcFczUGlUajZCVVhkdF9oM1lqVzVoOF9uUElMSER6WlFrWEUxby1RSW9mWGhia0hTSm4wMUZn?oc=5",
+      "type": "article",
+      "title": "JMG Appoints 1st GC To Support UK Insurance Expansion - Law360",
+      "date": "2026-09-23",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1NVWVZ0ejFiek5xb1VxUFNzcFgzQnlHQ0puVTFBTi1KUXN4SGVuNy1SU0lCYUZCSjU3cUtKai1ROXowOFp2blZ3WkwyTTdFUmwtQkVCYWRzWWZVTUhlcWFMSkltUkQ5Z0JJM2ppc0NROEdydUhkd01fa1hxT01vek81dm9Cb2hSczlqUHh5Q0pGVVF5TGxiNUtQeEw3XzJZeTBFOWwxdURwUdIBVkFVX3lxTE5QN2pkdE1MdHFoLVN6bzdGeHpYazEyZGJEcFczUGlUajZCVVhkdF9oM1lqVzVoOF9uUElMSER6WlFrWEUxby1RSW9mWGhia0hTSm4wMUZn?oc=5",
+      "snippet": "JMG Appoints 1st GC To Support UK Insurance Expansion &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG9NQUdmNU8xRTRBWWlLWnpSOGNrYzFqSk1fMHExWlVrME1lNHdIUERSYUhvdDdwTE16SmZIVmJ2cUFpMEV1U2JnSjFKbzMyeW02aFlzRE1mdm1ZNVFJXzNQbXluRlBGSG1LUjZuazRsVjNYdGEtS2FzMXh5TGNyVG8tbTdVUFM0Y1lvUnVCcEVOblE?oc=5",
@@ -1280,78 +1352,6 @@
       "source": "Law.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTk1rckFuVzR6QS1Ccy03Rkx2bEowSzVZU0Z1X2ZiVUp3ekRkX0RjR0RKNlRCaFM0SDJ0VU5GbmJ3bEpUeDA2RzNnT1VCYzR1U1lQUlNSQWpyNHlWN29RRTdyWU9Id3ZoOElZcUphdzdfU1VFcUh3M2xTRFpvNHJDRkc2SHF4Zmg3RDVhaWxLSVZqNkR1Q2diamEtSkNmVmVnSDcxMUwyWmdqRUhOOXF2dk9mWHkyT1RZeld0aVlQdU9IWTh3Nmhkc1BR?oc=5",
       "snippet": "Burford Exec, Holland & Knight Innovation Adviser Launch Employee-Side AI-Native Firm &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTBocVRuQ2U0bGJrUm0xbEFBNkVqSTJ1SWtYT1MwZUlacWczM1lPR3NYNkF2Q3dXYnQ4OWhqUjNHclRGRGdjTlY4c3pZLWx1U0ZrSmlZN1RQUS1ZZUpBUU9OODVYdU94MW5OLVRHOERhXy1Bc29fUGZMVW5kb0dVVWxxS1l1ODFHZ3NILW5PNnFBMDZPdWdkVkIxUDlpaE1iYWd0aFd3?oc=5",
-      "type": "article",
-      "title": "Appleby Global Group Receives Investment from New Mountain Capital - FinSMEs",
-      "date": "2026-09-16",
-      "source": "FinSMEs",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTBocVRuQ2U0bGJrUm0xbEFBNkVqSTJ1SWtYT1MwZUlacWczM1lPR3NYNkF2Q3dXYnQ4OWhqUjNHclRGRGdjTlY4c3pZLWx1U0ZrSmlZN1RQUS1ZZUpBUU9OODVYdU94MW5OLVRHOERhXy1Bc29fUGZMVW5kb0dVVWxxS1l1ODFHZ3NILW5PNnFBMDZPdWdkVkIxUDlpaE1iYWd0aFd3?oc=5",
-      "snippet": "Appleby Global Group Receives Investment from New Mountain Capital &nbsp;&nbsp; FinSMEs"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNamlkNGlWOG5xZDRmb1IzZDVtcFlMU2dCOEVlaFhDVjFXUHRvaXBrSE4yVjBKdUtDbWFRaVZPQkp5YWVZaWxwR3BvamROYnBXOUthVV9WYUxua1laNFBQUGVTeEd5Uk9FQmtVdXNRcTkxelpfZ1BtSENnNF9FcVlZUXliM2ZMY284?oc=5",
-      "type": "article",
-      "title": "New AI Firm Targets the Legal Employment Market - jdjournal.com",
-      "date": "2026-09-16",
-      "source": "jdjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNamlkNGlWOG5xZDRmb1IzZDVtcFlMU2dCOEVlaFhDVjFXUHRvaXBrSE4yVjBKdUtDbWFRaVZPQkp5YWVZaWxwR3BvamROYnBXOUthVV9WYUxua1laNFBQUGVTeEd5Uk9FQmtVdXNRcTkxelpfZ1BtSENnNF9FcVlZUXliM2ZMY284?oc=5",
-      "snippet": "New AI Firm Targets the Legal Employment Market &nbsp;&nbsp; jdjournal.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVdkWlNOSzZSLTZCb0dfMHhfdmRsTzVuUDl4ejJUU2hOWHRXSGlNMC14VFB5dkwwb0FpanBiaGMwbGZQZmdNUVY0NzljRWcxLWtUWUNMbTN0VjUyVFNLOUxCM2lZcWtkcU5nYm80SmxYZ2F1ck9ZZDR0bzYyNEZlNkNjSjVMcy1ZenUzRFMzN1dLME9vVWJTUHVhdEtoRVM4TkxtSWpUd2lGaUpLRWhsSGNsUQ?oc=5",
-      "type": "article",
-      "title": "California Board of Forestry adopts emergency “Zone 0” regulations under AB 3074 - PublicCEO",
-      "date": "2026-09-16",
-      "source": "PublicCEO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVdkWlNOSzZSLTZCb0dfMHhfdmRsTzVuUDl4ejJUU2hOWHRXSGlNMC14VFB5dkwwb0FpanBiaGMwbGZQZmdNUVY0NzljRWcxLWtUWUNMbTN0VjUyVFNLOUxCM2lZcWtkcU5nYm80SmxYZ2F1ck9ZZDR0bzYyNEZlNkNjSjVMcy1ZenUzRFMzN1dLME9vVWJTUHVhdEtoRVM4TkxtSWpUd2lGaUpLRWhsSGNsUQ?oc=5",
-      "snippet": "California Board of Forestry adopts emergency “Zone 0” regulations under AB 3074 &nbsp;&nbsp; PublicCEO"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDlzb3ZTeWtXLURPNG8walZyYTR4aUJmNzhpUGx3RzEyNnpYSFJUU3RwQlhDdWotVFhnN1NKT00xY1Jta1hqWVhXalRhRENVbHdlc2REd3NkdGoxQUF4clM4Z2FlblRsZlUyV1JHQjl3cXNrUXh1YmZTRkd1UWdoeEdtdHdWVGtad3hN?oc=5",
-      "type": "article",
-      "title": "How Guernsey can support the next generation of UK alternative investment managers - Lexology",
-      "date": "2026-09-16",
-      "source": "Lexology",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDlzb3ZTeWtXLURPNG8walZyYTR4aUJmNzhpUGx3RzEyNnpYSFJUU3RwQlhDdWotVFhnN1NKT00xY1Jta1hqWVhXalRhRENVbHdlc2REd3NkdGoxQUF4clM4Z2FlblRsZlUyV1JHQjl3cXNrUXh1YmZTRkd1UWdoeEdtdHdWVGtad3hN?oc=5",
-      "snippet": "How Guernsey can support the next generation of UK alternative investment managers &nbsp;&nbsp; Lexology"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVZoUjNxd0RDZXJLRWQ4WE9YbXQxT3JENHJra05LWGliQUdQZTVFd2cwYUJnS3E5cTRUWU5VeDdXRHdxT0RqeXZNRE9Xa0hZNEFldFRyM0l0TmgxVGE2OXhEY3d0bkhwR2Jva21DNTdnYWU0MFJvZzZwa2UyWVNGUU1YekM0eVA3cFA4Nk5uemZRVTQtaFVrTFVn?oc=5",
-      "type": "article",
-      "title": "Trump races to appoint judges before midterms, new AI-powered employment firm, AP sues over restricted access to detainee lawsuits and more ➡️ - LinkedIn",
-      "date": "2026-09-16",
-      "source": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVZoUjNxd0RDZXJLRWQ4WE9YbXQxT3JENHJra05LWGliQUdQZTVFd2cwYUJnS3E5cTRUWU5VeDdXRHdxT0RqeXZNRE9Xa0hZNEFldFRyM0l0TmgxVGE2OXhEY3d0bkhwR2Jva21DNTdnYWU0MFJvZzZwa2UyWVNGUU1YekM0eVA3cFA4Nk5uemZRVTQtaFVrTFVn?oc=5",
-      "snippet": "Trump races to appoint judges before midterms, new AI-powered employment firm, AP sues over restricted access to detainee lawsuits and more ➡️ &nbsp;&nbsp; LinkedIn"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPakFibGxXakdJMjhvZjBIejA3MFdDclVoVHprM1BGNlN2UDFacXJwaWN2RDhZMVBQMXdfeWdUYW9ZS19EMkhWWDJqb3haelFsT2xEM0FYd1d3a3R6X3NSano4Y1RkWmdiNzJjVlFIdTBCYmFuVk9kbkRGQmk4NTJ1ZXFzWVdnSWhDZElqQy1jZGhCeGprY0c0bXRkXzlFQ29BWVVsQVZEQk5ucVBlLVppYUNB?oc=5",
-      "type": "article",
-      "title": "FairPlay Law Debuts as AI-Native Employment Law Firm for Professionals - EIN News",
-      "date": "2026-09-16",
-      "source": "EIN News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakFibGxXakdJMjhvZjBIejA3MFdDclVoVHprM1BGNlN2UDFacXJwaWN2RDhZMVBQMXdfeWdUYW9ZS19EMkhWWDJqb3haelFsT2xEM0FYd1d3a3R6X3NSano4Y1RkWmdiNzJjVlFIdTBCYmFuVk9kbkRGQmk4NTJ1ZXFzWVdnSWhDZElqQy1jZGhCeGprY0c0bXRkXzlFQ29BWVVsQVZEQk5ucVBlLVppYUNB?oc=5",
-      "snippet": "FairPlay Law Debuts as AI-Native Employment Law Firm for Professionals &nbsp;&nbsp; EIN News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDJzaUx4YmJiTG5xdzk4cEhTLXFJdGptQktaTDVRRUxnX2UzSC1vMnZUSmlnbmtUbHFSZ1JOUFNhTkRBU3ZSUm91SEotSVlpcGx0U3FobFNTNGhqdHdabmJ4NjJUSklmYUlkQnRaRUcxdjR3Y09vdjNFMU85ZEM1WjF6b2VxSHpoNlJ6eEI2cGlpTkhIMTdPRXpuaFBqQ0JmQmFDQnMwQ0UwZGlsZVE?oc=5",
-      "type": "article",
-      "title": "Proceed Legal Named Among CIO Views’ Most Innovative Companies for 2026 - citybiz",
-      "date": "2026-09-16",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDJzaUx4YmJiTG5xdzk4cEhTLXFJdGptQktaTDVRRUxnX2UzSC1vMnZUSmlnbmtUbHFSZ1JOUFNhTkRBU3ZSUm91SEotSVlpcGx0U3FobFNTNGhqdHdabmJ4NjJUSklmYUlkQnRaRUcxdjR3Y09vdjNFMU85ZEM1WjF6b2VxSHpoNlJ6eEI2cGlpTkhIMTdPRXpuaFBqQ0JmQmFDQnMwQ0UwZGlsZVE?oc=5",
-      "snippet": "Proceed Legal Named Among CIO Views’ Most Innovative Companies for 2026 &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihwFBVV95cUxNZHBSNGhrZ2V1elhJUEtRWGo0REQ0ZlZDcDhUa2lpYXRZTWI3aDh3OXBZOHQ0aHlIaUpMS3lUSzdUMW5sdmJEUEd3VWVCR3N2TGJhcl9HbjU4SGtueEJBbnIxNlNjeU5DaFVtcHRsNXpSLThfYS00aXZaUWMycG5FdFNKZTVYdEU?oc=5",
-      "type": "article",
-      "title": "ABA ethics opinion puts client autonomy front and center - Massachusetts Lawyers Weekly",
-      "date": "2026-09-16",
-      "source": "Massachusetts Lawyers Weekly",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZHBSNGhrZ2V1elhJUEtRWGo0REQ0ZlZDcDhUa2lpYXRZTWI3aDh3OXBZOHQ0aHlIaUpMS3lUSzdUMW5sdmJEUEd3VWVCR3N2TGJhcl9HbjU4SGtueEJBbnIxNlNjeU5DaFVtcHRsNXpSLThfYS00aXZaUWMycG5FdFNKZTVYdEU?oc=5",
-      "snippet": "ABA ethics opinion puts client autonomy front and center &nbsp;&nbsp; Massachusetts Lawyers Weekly"
     }
   ]
 }
