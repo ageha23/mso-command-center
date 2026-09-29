@@ -1,8 +1,62 @@
 {
-  "lastRun": "2026-09-28T18:32:03.974523+00:00",
+  "lastRun": "2026-09-29T16:49:48.978827+00:00",
   "lastRunStatus": "partial: courtlistener: The read operation timed out",
-  "addedThisRun": 17,
+  "addedThisRun": 9,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMDlJdTBQVjBlQTlzV3NzU1IxOUxGdVhoRS15ZXlNY2JHQkxkaExlY1ZjUjB1d01RaG5mT1hiZFFGZ0ZvUGl3cFhueXhkdXZkQmM5S281UG1HY2NKajF5cEJBNEZETmk1YmpQR1I5UE0?oc=5",
+      "type": "article",
+      "title": "[2026 Alternative Investment Forum] \"A Complete Corporate Overhaul Is Needed for Successful AX\" - 아시아경제",
+      "date": "2026-09-29",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMDlJdTBQVjBlQTlzV3NzU1IxOUxGdVhoRS15ZXlNY2JHQkxkaExlY1ZjUjB1d01RaG5mT1hiZFFGZ0ZvUGl3cFhueXhkdXZkQmM5S281UG1HY2NKajF5cEJBNEZETmk1YmpQR1I5UE0?oc=5",
+      "snippet": "[2026 Alternative Investment Forum] \"A Complete Corporate Overhaul Is Needed for Successful AX\" &nbsp;&nbsp; 아시아경제"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmM3N3lLOWsxNGRPR3hzbG1zWUFyeV9fY1kyMXJHYmtsZFo3RzNRY3FzQXdHSFVIQnplamI2d19sSW9HUkw3TENQZ1FHR0JGQ21XV0VEZzdZM0swb19zOU5mMGZ1N0VabDVOYzA0QVZNWnZuQ2JuWEVnWmpwa1RxVnRPTjZNUEV0R0x6ZU9VdGJCeWMzc3E3d3RCYk1yaHVReFhpckpvZTFtUWJuMUgwLVkyVVgzUUM1bVJ2b3pTTnpFRHkzaE9ISjFzMnIzRjg1NGZWX1YtWlNpaVdH0gHcAUFVX3lxTE1aYzc3eUs5azE0ZE9HeHNsbXNZQXJ5X19jWTIxckdia2xkWjdHM1FjcXNBd0dIVUhCemVqYjZ3X2xJb0dSTDdMQ1BnUUdHQkZDbVdXRURnN1kzSzBvX3M5TmYwZnU3RVpsNU5jMDRBVk1adm5DYm5YRWdaanBrVHFWdE9ONk1QRXRHTHplT1V0YkJ5YzNzcTd3dEJiTXJodVF4WGlySm9lMW1RYm4xSDAtWTJVWDNRQzVtUnZvelNOekVEeTNoT0hKMXMycjNGODU0ZlZfVi1aU2lpV0c?oc=5",
+      "type": "article",
+      "title": "Australia cuts migration target to 225,000: 7 visa changes you need to know - business-standard.com",
+      "date": "2026-09-29",
+      "source": "business-standard.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmM3N3lLOWsxNGRPR3hzbG1zWUFyeV9fY1kyMXJHYmtsZFo3RzNRY3FzQXdHSFVIQnplamI2d19sSW9HUkw3TENQZ1FHR0JGQ21XV0VEZzdZM0swb19zOU5mMGZ1N0VabDVOYzA0QVZNWnZuQ2JuWEVnWmpwa1RxVnRPTjZNUEV0R0x6ZU9VdGJCeWMzc3E3d3RCYk1yaHVReFhpckpvZTFtUWJuMUgwLVkyVVgzUUM1bVJ2b3pTTnpFRHkzaE9ISjFzMnIzRjg1NGZWX1YtWlNpaVdH0gHcAUFVX3lxTE1aYzc3eUs5azE0ZE9HeHNsbXNZQXJ5X19jWTIxckdia2xkWjdHM1FjcXNBd0dIVUhCemVqYjZ3X2xJb0dSTDdMQ1BnUUdHQkZDbVdXRURnN1kzSzBvX3M5TmYwZnU3RVpsNU5jMDRBVk1adm5DYm5YRWdaanBrVHFWdE9ONk1QRXRHTHplT1V0YkJ5YzNzcTd3dEJiTXJodVF4WGlySm9lMW1RYm4xSDAtWTJVWDNRQzVtUnZvelNOekVEeTNoT0hKMXMycjNGODU0ZlZfVi1aU2lpV0c?oc=5",
+      "snippet": "Australia cuts migration target to 225,000: 7 visa changes you need to know &nbsp;&nbsp; business-standard.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxPaE5VOWR3WmNWNVBab2pZZVFhcDRPVS03Nk5NSXlnX0tkRUJqV2l0alBtcGYwUW9RSTNrWkRnR054OHpKU1pESGhpZk43bU9ZM3o2Qi01REFUOHRjNXUyVHZHMGxDb05KSXJiNEhXUGNQQTFBVTJZbGdQVEY5OHJaLTV0TThnSk8wLVhjaEhvQTdEVnBoa000RzVndTBnZTA1RTNKajdQMkV4anpkeWRmTUM2UUw2aFBUckE?oc=5",
+      "type": "article",
+      "title": "A telehealth platform has generated over $48 million in sales since 2023. KALA Bio may buy it. - Stock Titan",
+      "date": "2026-09-29",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaE5VOWR3WmNWNVBab2pZZVFhcDRPVS03Nk5NSXlnX0tkRUJqV2l0alBtcGYwUW9RSTNrWkRnR054OHpKU1pESGhpZk43bU9ZM3o2Qi01REFUOHRjNXUyVHZHMGxDb05KSXJiNEhXUGNQQTFBVTJZbGdQVEY5OHJaLTV0TThnSk8wLVhjaEhvQTdEVnBoa000RzVndTBnZTA1RTNKajdQMkV4anpkeWRmTUM2UUw2aFBUckE?oc=5",
+      "snippet": "A telehealth platform has generated over $48 million in sales since 2023. KALA Bio may buy it. &nbsp;&nbsp; Stock Titan"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkpOdTdpMjhMN0FndldMd3p2Q3hYYm9MakJqR3l0eGV5VDZ1UTIwQlA0NlFXeG9rNkpZOEtFNHJzN2tBZ1NINlFKaEdBZ3RWRHFRLXNrbGJYUWJ6OGctdWtZeHpfbkpnLVpKbVNMMGhDQXg2MWNTVXg5a29VOWNGZEpvN0JSVFFvZEFCYUxjYVRSWW03QTNDM1lOcl8xYkNpMFAyVW5tLUpYUU4xdHJpWHNfdnhHTGVRaWlqdmg5UmxfUTc5allBSXBfUE1SbDRlTWc?oc=5",
+      "type": "article",
+      "title": "Savills Expands Integrated Workplace Strategy and Change Management Platform Across North America - citybiz",
+      "date": "2026-09-29",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkpOdTdpMjhMN0FndldMd3p2Q3hYYm9MakJqR3l0eGV5VDZ1UTIwQlA0NlFXeG9rNkpZOEtFNHJzN2tBZ1NINlFKaEdBZ3RWRHFRLXNrbGJYUWJ6OGctdWtZeHpfbkpnLVpKbVNMMGhDQXg2MWNTVXg5a29VOWNGZEpvN0JSVFFvZEFCYUxjYVRSWW03QTNDM1lOcl8xYkNpMFAyVW5tLUpYUU4xdHJpWHNfdnhHTGVRaWlqdmg5UmxfUTc5allBSXBfUE1SbDRlTWc?oc=5",
+      "snippet": "Savills Expands Integrated Workplace Strategy and Change Management Platform Across North America &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U25MRUVqSXVLVUh3RmxFQmdWMnhoaFozMEZVUWFyMkJrUGwtM2VtR1Z5NWhwT2FkZDNWTmZvb1U0b3lFRExsTDRLbnBzN3ZRdHhVbW9BdmJlZzFZME1HXw?oc=5",
+      "type": "article",
+      "title": "Philippine practice guide to patent law 2026 - Law.asia",
+      "date": "2026-09-29",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U25MRUVqSXVLVUh3RmxFQmdWMnhoaFozMEZVUWFyMkJrUGwtM2VtR1Z5NWhwT2FkZDNWTmZvb1U0b3lFRExsTDRLbnBzN3ZRdHhVbW9BdmJlZzFZME1HXw?oc=5",
+      "snippet": "Philippine practice guide to patent law 2026 &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxQWW5aaWo4Zzh6UGJVTUFqSGVXRlZrTjlPem1TalV0aEt2WVVRcXFVNkpPQTVjR29Na2x4R1ZjZWtfc0dQeFR0ZkQ5NmozQWYzc1BZU0lOazR0d0g2RnJvOTRyMXo3TXRQRlk4MGROSUhiMWxyb0V5Ym1LbU03WGN1VWtvZm10bFNVekJQVGU5M3ZJMmk4ZEFxbk9HNFlPZw?oc=5",
+      "type": "article",
+      "title": "A Lifelong Ban for a Five-Year Tenure: The Constitutional Infirmity of Rule 7, BCI Rules and Rule 16(2), Tribunal Reforms Rules, 2021 - SCC Online",
+      "date": "2026-09-29",
+      "source": "SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW5aaWo4Zzh6UGJVTUFqSGVXRlZrTjlPem1TalV0aEt2WVVRcXFVNkpPQTVjR29Na2x4R1ZjZWtfc0dQeFR0ZkQ5NmozQWYzc1BZU0lOazR0d0g2RnJvOTRyMXo3TXRQRlk4MGROSUhiMWxyb0V5Ym1LbU03WGN1VWtvZm10bFNVekJQVGU5M3ZJMmk4ZEFxbk9HNFlPZw?oc=5",
+      "snippet": "A Lifelong Ban for a Five-Year Tenure: The Constitutional Infirmity of Rule 7, BCI Rules and Rule 16(2), Tribunal Reforms Rules, 2021 &nbsp;&nbsp; SCC Online"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZ3VE10YV9vR2JHQ3JoN0tJa0ptS21nazRoZmJEZXhLOS1wTFlyTVpWcHpXMUt2T2VveXROeC03aF9MNnVOWFBySEJZLWsxRzRZaUczUFd3cm9FVTJOVmgzaG9pR19tWnVncXlmWmdXQTQyUUE2V0g4SXdXYlc1cW91aHFfM2UtYzFGOXF6Z0xUN2F3Q0lISHo1OVl0WDMzbzVR?oc=5",
       "type": "article",
@@ -110,6 +164,24 @@
       "source": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdThINTY2ZGFabm5GWTJVQmlBTmVwOHpBdGNRNzc0VnBYSDBHVnFDNVh1WlZXQkpsTTlZeGdfVHcyeHhZOFBGX3NEVGV5TkZ0UUh3LTVzQVNUMEpUT05HRkJnczFoUHJhWE5MNGZaNXJFd0VXVnlKSGlGM1QxSkpILVhTTGU4UzVsUkc0TU1MN3dhNkZ5Q2FKRFFnc0tHSV9ZcndpY0dFS2JMUlJvdHBaZtIBtgFBVV95cUxQOVFpSkcyOThEaHk4d1ZXSjU1Y005VXZaZWtMa3FrTGM0WldQOFUtLXh6bFowbzZPTlpaaHBhM1B3N0FqNE56bV9UZ0tpRloxRURyUmhTMWJfdnhhTllEY2ZrTkVPcjdXeG9OY1AzUFNrX2VQQlhBMFlCUVdaSjlKVU9jSGJ4RGN4M3ZjdjNkbG1MLXRuUmRqUDA5QThpTUVrdFR1bVFPaWRIWGM5dlJJd0lhekpmQQ?oc=5",
       "snippet": "Proposed Federal CPOM Legislation: What the Stop Corporate Takeovers of Physicians Act Would Mean for Private Equity and MSO-Based Transactions &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGNudUVTdVJ3NkpYUzJsLVh1OGdqZ1pJcDJYVmNoSGxMLXEwbUh5dlNLNFc5a3JzYWxocnJZZ3lQbHBjOEloVVdSWGIwa0tfanI4ajN2VFFYTlpKVjhBOHU5UTBseXdSeWZnUTNKSEk2Y0NRU05saW1kbmotUjBHUmduZWNJbWJWVS1BbzB5OXBLOTA3bzFWQzBYaWQ5N18wRkZNaHVLc1d1S1JaOWs3Qk93?oc=5",
+      "type": "article",
+      "title": "Forced sales, void contracts: The bill aimed at PE’s MSO model - Becker's Physician Leadership",
+      "date": "2026-09-28",
+      "source": "Becker's Physician Leadership",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGNudUVTdVJ3NkpYUzJsLVh1OGdqZ1pJcDJYVmNoSGxMLXEwbUh5dlNLNFc5a3JzYWxocnJZZ3lQbHBjOEloVVdSWGIwa0tfanI4ajN2VFFYTlpKVjhBOHU5UTBseXdSeWZnUTNKSEk2Y0NRU05saW1kbmotUjBHUmduZWNJbWJWVS1BbzB5OXBLOTA3bzFWQzBYaWQ5N18wRkZNaHVLc1d1S1JaOWs3Qk93?oc=5",
+      "snippet": "Forced sales, void contracts: The bill aimed at PE’s MSO model &nbsp;&nbsp; Becker's Physician Leadership"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiekFVX3lxTE9SQ0ZEVTVIR05yQkxELTd3TzRpd0tGR1pyajh3enJBZk9QTmZLTkFNbUx4alJLeU9lTXVBa1Q0VnllQi1GclV3bWR3VlpCSVVRNnB0bmJ2TjRyMmEzUUVrZFJpOTBWSGltblllcXIwVnNzQmdGVk92X25R?oc=5",
+      "type": "article",
+      "title": "Perspectives: Brandeis battle set precedents 110 years ago - Minnesota Lawyer",
+      "date": "2026-09-28",
+      "source": "Minnesota Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SQ0ZEVTVIR05yQkxELTd3TzRpd0tGR1pyajh3enJBZk9QTmZLTkFNbUx4alJLeU9lTXVBa1Q0VnllQi1GclV3bWR3VlpCSVVRNnB0bmJ2TjRyMmEzUUVrZFJpOTBWSGltblllcXIwVnNzQmdGVk92X25R?oc=5",
+      "snippet": "Perspectives: Brandeis battle set precedents 110 years ago &nbsp;&nbsp; Minnesota Lawyer"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjZU85Q1pQOXA0dkZVQkYwS3NwRFBYOXlpMFQzZEVaVkxvQWtrdlJ3MWZGV1JodGNnazdSQm10S196UDU4Yl9haG5sbVhwUkZHcGZ6Zi1rN3U1NkxwS0Rra2g4RQ?oc=5",
@@ -326,6 +398,15 @@
       "source": "law360.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkYwcGF6SkFRRUtrSWVkemZHWWFteElTb0E0UC00ajltbzBGRmljeGhMdHlac1poNUYxU0F4MHNpV3ZGNENYZzIyU3ZLNWdfMXdkNEUwbE0zSWg1c3UzMTVSUWRfbGFyWjdOb3R1Y0pSOG1CRlI3RjZHUTdibkFDZnBWY3d5WGVoTVJEeHZFUFZ2eU9KMGJTNURnc1VpX0RVaEHSAV5BVV95cUxNYXNURXAySUQwTkpoM1VPWlNPM3FhdUVNaDRYeGJjTEY5OExDcmZuMmE1MXJVOFdKZThJLTVrSW16cjJaa3NaSDBieWxUQ2RLVjlRUVdBWC1EVkZ2Y3lR?oc=5",
       "snippet": "Holland & Knight Builds Up Team As MSO Deal Demand Rises &nbsp;&nbsp; law360.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEJtcUpTcnYtOWllZXZsdVBvbTc1QjlsM3BJNHVaWnBCc0phdlNXNDVyR2NVQW00Y0UwNFdFTGF1NGR1X3NmQk9YMDUwUHZHc2piUW9sdHhCQXhqSjFwUXl5U3E2YjMzSGlwV0R2TnRyQVF0S1FTb1Nic01NbnhCSmFGRmhNRVV3X1I2bW1WQjdBczZTQS1aNlg1WXEwS0RVdmk5cVlhZFBDV09sSGc?oc=5",
+      "type": "article",
+      "title": "Democrats press RFK Jr. on an ethics agreement change involving law firm fees - TribLIVE.com",
+      "date": "2026-09-25",
+      "source": "TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEJtcUpTcnYtOWllZXZsdVBvbTc1QjlsM3BJNHVaWnBCc0phdlNXNDVyR2NVQW00Y0UwNFdFTGF1NGR1X3NmQk9YMDUwUHZHc2piUW9sdHhCQXhqSjFwUXl5U3E2YjMzSGlwV0R2TnRyQVF0S1FTb1Nic01NbnhCSmFGRmhNRVV3X1I2bW1WQjdBczZTQS1aNlg1WXEwS0RVdmk5cVlhZFBDV09sSGc?oc=5",
+      "snippet": "Democrats press RFK Jr. on an ethics agreement change involving law firm fees &nbsp;&nbsp; TribLIVE.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWhsUWlpcVZMQmZtSU5NOWhxQnRyUGx5OWhyYmJsd1l5MFdUUzhET1p0RVNSTE42NTk2eHdlSVJFbDZxQ0JBUV9idjRmeHVqNDRlbVFiRUUxTm83V0VQbTM5OWZOWXg0eF9mYWtGd0x2T1I0ekVSVmNZRkxGT2EtR094MEZaWV9BaVNQYnRDUElQcjBDaUF1dUhoRzBKeENLZkd1ZU96SWVCaFNJS1dZ?oc=5",
@@ -1271,87 +1352,6 @@
       "source": "Law.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUJKSkJFMFJwVmtsdjJoWjU3MjdJcE9keG5ma0cxWVZPVll3bzNPT3ZyWWQ0b3V1WXJTS0ZMNW5fUjBPNHMyaXpZYmdRVGtpdV8tSVZTUi0wbE4xZDFEdEQwclFJQkZzUjM4Q2pSX1luMkZQcVN6LWFjYnZKeVhjZ1N5QjVGdkJsOTJCMG96ODBtbjlLSEM0N2o2eWtzWFBUSHYzcHAtM2hXNjFYRG1lekp1S1VRUWpmb2g5b0V4azhpdw?oc=5",
       "snippet": "Offshore Law Firms Appleby, Walkers Open a Wider Door to Private Equity &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDJPVHY1TUlBSkRrMGJtUERzc2xSWHhjZUtfVkNmNnpidHBNYW9GN3lURzNkU2l3a090V2ZUdElRVHppd0hQUVloenNKWDRlcGhuSktKZEFfZ3RaQzRERGRoVTlCdUxxOC13bFlOZ3B3UGJTVnFlMUFYV21NVmI3cTJOdi1vVFdPRGlLM1JaSTZjRlI0LS1NTlVZRWdNYU54MkRtOGJhVmZWMlVULV9kRmpiRmo5MzgxVVI3YXFwNnpOYkRSeG9iSEdR?oc=5",
-      "type": "article",
-      "title": "AI is changing legal services. Are law departments focused on the right priorities? - Wolters Kluwer",
-      "date": "2026-09-17",
-      "source": "Wolters Kluwer",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDJPVHY1TUlBSkRrMGJtUERzc2xSWHhjZUtfVkNmNnpidHBNYW9GN3lURzNkU2l3a090V2ZUdElRVHppd0hQUVloenNKWDRlcGhuSktKZEFfZ3RaQzRERGRoVTlCdUxxOC13bFlOZ3B3UGJTVnFlMUFYV21NVmI3cTJOdi1vVFdPRGlLM1JaSTZjRlI0LS1NTlVZRWdNYU54MkRtOGJhVmZWMlVULV9kRmpiRmo5MzgxVVI3YXFwNnpOYkRSeG9iSEdR?oc=5",
-      "snippet": "AI is changing legal services. Are law departments focused on the right priorities? &nbsp;&nbsp; Wolters Kluwer"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmF0TmFLTHE0NFJrbGxKT2dTM2JDMFZHd2h0aFJPWHBlZXpzalBYdnZGMzk4Uk5ydHFWTHl6MjMzZk02eEVnY0d2S1FRckdkNjJXem9neTNkb3huVEg0c0h0Tm1KUkxqVXNzZ3FWY3htSVZsZFBESnU3MndLWmlEM0Y4dWJESkJUbTRLVk5zUUROOUt2d3pocWNMUllhRUJPemNjN0U3YkZ4RkRSWmJaRjNFWXRLZEFUblh5alBZN2xDbnZZMjhB?oc=5",
-      "type": "article",
-      "title": "Warren, Ocasio-Cortez introduce bill to ban corporate ownership of physician practices - NationofChange",
-      "date": "2026-09-17",
-      "source": "NationofChange",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmF0TmFLTHE0NFJrbGxKT2dTM2JDMFZHd2h0aFJPWHBlZXpzalBYdnZGMzk4Uk5ydHFWTHl6MjMzZk02eEVnY0d2S1FRckdkNjJXem9neTNkb3huVEg0c0h0Tm1KUkxqVXNzZ3FWY3htSVZsZFBESnU3MndLWmlEM0Y4dWJESkJUbTRLVk5zUUROOUt2d3pocWNMUllhRUJPemNjN0U3YkZ4RkRSWmJaRjNFWXRLZEFUblh5alBZN2xDbnZZMjhB?oc=5",
-      "snippet": "Warren, Ocasio-Cortez introduce bill to ban corporate ownership of physician practices &nbsp;&nbsp; NationofChange"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDV4U3lXWlRPTHY5M1ljNzBTUEdlZEx2R2c5N1VSQ0NSLXAxbUp5bW1PREhFV2YtX3VaX0JnTWQteGJHazFYWE9vdXp2ZDVrTkdmREhLVWpkVXUtN0tQQUZfdVNFYUFKWmxWdEZ4a3NfelpMS2lNWjc2V3hpcWdoeldIOHFTRkNRU2hmdV9yNmFVd0NBNmt6U0JiZVU0NUJEeHpkLXo4QThUaWlk0gGyAUFVX3lxTE9nUFNSZ0VyeGtKYkluY181dEdkR3lvdlZNck83dWlhbXAyMzA4aTI3Um8tY01RdkVGWkVDLVhuTUg2b2dDXy1jbFpHMjBnLWZBYm0yV3lLeG9ZSWRUOG56U24xd05NTlBEM2JhMktaaFR4a0VacURFckVIOTFqT2dlNGdKa2Z5ZC1MN2FNUFdIdWNvTWxabG9lMVlmY1owNjF6NlM5VGU3NDRMT29zdUJCcXc?oc=5",
-      "type": "article",
-      "title": "Here's a list of the individuals, including James Comey, targeted by the Trump administration - ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-09-17",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDV4U3lXWlRPTHY5M1ljNzBTUEdlZEx2R2c5N1VSQ0NSLXAxbUp5bW1PREhFV2YtX3VaX0JnTWQteGJHazFYWE9vdXp2ZDVrTkdmREhLVWpkVXUtN0tQQUZfdVNFYUFKWmxWdEZ4a3NfelpMS2lNWjc2V3hpcWdoeldIOHFTRkNRU2hmdV9yNmFVd0NBNmt6U0JiZVU0NUJEeHpkLXo4QThUaWlk0gGyAUFVX3lxTE9nUFNSZ0VyeGtKYkluY181dEdkR3lvdlZNck83dWlhbXAyMzA4aTI3Um8tY01RdkVGWkVDLVhuTUg2b2dDXy1jbFpHMjBnLWZBYm0yV3lLeG9ZSWRUOG56U24xd05NTlBEM2JhMktaaFR4a0VacURFckVIOTFqT2dlNGdKa2Z5ZC1MN2FNUFdIdWNvTWxabG9lMVlmY1owNjF6NlM5VGU3NDRMT29zdUJCcXc?oc=5",
-      "snippet": "Here's a list of the individuals, including James Comey, targeted by the Trump administration &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxPckhJc1I1VmdySEdRSENVOVI5TUF3aTc4QjFKUXlzb19OZlpBVHhZYkJTWVRKajRoeVRsSUlTSHRodUdkZlhhVlRHX3lCZG9odHZ3MjZXcGZVREJld04xVmI1bm1RUjdDczlGNm1kZFNLM1dfMVg2VUZ0ZkVwR3VKMmVUZEtyVnJKVXhaVXJhcTRMdw?oc=5",
-      "type": "article",
-      "title": "Canopy Management Group Earns AMC Institute Accreditation - BusinessWest",
-      "date": "2026-09-17",
-      "source": "BusinessWest",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckhJc1I1VmdySEdRSENVOVI5TUF3aTc4QjFKUXlzb19OZlpBVHhZYkJTWVRKajRoeVRsSUlTSHRodUdkZlhhVlRHX3lCZG9odHZ3MjZXcGZVREJld04xVmI1bm1RUjdDczlGNm1kZFNLM1dfMVg2VUZ0ZkVwR3VKMmVUZEtyVnJKVXhaVXJhcTRMdw?oc=5",
-      "snippet": "Canopy Management Group Earns AMC Institute Accreditation &nbsp;&nbsp; BusinessWest"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXBXU1drYkxfNXNoeWQxMEdEWnFmbkNKVk9obUlDSDcxN3pWcHh1eFFPRUVKVXdtbnk5YksyQ0E2LXg0d3JHUDJ4d2M3aGV2aDRJYUVQeFpWd0dXMmphTklCVW0tLXE1QkdvVF9fN3JTVkY2bGFsUUlMczJtNExUNFVGMjZJdW5sOTVzbzJKWlJzZHRsaFUzQ0FZTk0yTmdBQi0xblAxZmNyWlXSAVZBVV95cUxNRlJrNUlyRlJlTUdDY2dpbHZXQllweFlHeU0zSG5ZUDBGT0NJcUVtZWVsQm1ETks1ellHS3dELVBYcW96NlJCM0FodUFFMHl6eGpQb2NBUQ?oc=5",
-      "type": "article",
-      "title": "Kroger Faces Skepticism In Bid To Slash Wash. AG's Fee Win - Law360",
-      "date": "2026-09-17",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXBXU1drYkxfNXNoeWQxMEdEWnFmbkNKVk9obUlDSDcxN3pWcHh1eFFPRUVKVXdtbnk5YksyQ0E2LXg0d3JHUDJ4d2M3aGV2aDRJYUVQeFpWd0dXMmphTklCVW0tLXE1QkdvVF9fN3JTVkY2bGFsUUlMczJtNExUNFVGMjZJdW5sOTVzbzJKWlJzZHRsaFUzQ0FZTk0yTmdBQi0xblAxZmNyWlXSAVZBVV95cUxNRlJrNUlyRlJlTUdDY2dpbHZXQllweFlHeU0zSG5ZUDBGT0NJcUVtZWVsQm1ETks1ellHS3dELVBYcW96NlJCM0FodUFFMHl6eGpQb2NBUQ?oc=5",
-      "snippet": "Kroger Faces Skepticism In Bid To Slash Wash. AG's Fee Win &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixAFBVV95cUxPSVR5STg3VUFlQ1hYX09yMktVbE8tNzlxaUxEd0U4WU9sOVhfZlRjeW5iSVZubElrdjFYT3FjLUt4QzkyeVFXQWR4TFoxWUU0YzUzNy1CS3ZLQkR3dzItWGxndDIwNzdXSDZlYkFVbllBWlNWSEpaTW1CTTEwZk5wb1hPRWRyTG51TzBrVlduU2l4LWotbmNLTDZqRy1KS1c3RHQyQlBoVmZqZXF5cDdhakZ2ZDJnQ3IzVzRkU25HcFlWdVY2?oc=5",
-      "type": "article",
-      "title": "Rooker-Feldman After T.M.: Implications for Bankruptcy and Foreclosure Practice - Law.com",
-      "date": "2026-09-17",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSVR5STg3VUFlQ1hYX09yMktVbE8tNzlxaUxEd0U4WU9sOVhfZlRjeW5iSVZubElrdjFYT3FjLUt4QzkyeVFXQWR4TFoxWUU0YzUzNy1CS3ZLQkR3dzItWGxndDIwNzdXSDZlYkFVbllBWlNWSEpaTW1CTTEwZk5wb1hPRWRyTG51TzBrVlduU2l4LWotbmNLTDZqRy1KS1c3RHQyQlBoVmZqZXF5cDdhakZ2ZDJnQ3IzVzRkU25HcFlWdVY2?oc=5",
-      "snippet": "Rooker-Feldman After T.M.: Implications for Bankruptcy and Foreclosure Practice &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxOWW80cWVocnZRR0dud05la1hRMFJLY1FBUWh2dWRMT2VwX254R3RmMHNDcndNVFZMaWlja0RzZFJ6UGl2czdOMkRtOTc2TDZuUWNTcHBtbXFhb0V3TDU3NURlbllLWC1oc0wtNVFaTDczUGFOcDFJQ3pkLUtQdXVmX2dyUlBMRXdac29OQjQ0YWZoRjhYalVFWG1HczhEZXBXNV9kMQ?oc=5",
-      "type": "article",
-      "title": "Latham, Sidley Lead on Chelsea FC Ownership Deal - Law.com",
-      "date": "2026-09-17",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWW80cWVocnZRR0dud05la1hRMFJLY1FBUWh2dWRMT2VwX254R3RmMHNDcndNVFZMaWlja0RzZFJ6UGl2czdOMkRtOTc2TDZuUWNTcHBtbXFhb0V3TDU3NURlbllLWC1oc0wtNVFaTDczUGFOcDFJQ3pkLUtQdXVmX2dyUlBMRXdac29OQjQ0YWZoRjhYalVFWG1HczhEZXBXNV9kMQ?oc=5",
-      "snippet": "Latham, Sidley Lead on Chelsea FC Ownership Deal &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkFua2NuelZNQzJzNGZkbkhtYmlveXBkSHM1NXQyZEpmY3JqUjFOS3dJLUNRcTJXRnNpdHhJSzhSOXJWcVl2d0hyajhBZFk2aG1KNzJVajRCaXNHOUtfQlhOaW52YzFrSGc4VkZqYm1naGk0cF9SUU1kV1lYN2g1TzFQWUNKUHJqU0xLUnRFczl1dDJNdmFDRGE2UGl5OF9GRko0TzlHbU8?oc=5",
-      "type": "article",
-      "title": "Oregon Medical Ownership Law Becomes Blueprint for Federal Legislation - Grants Pass Tribune",
-      "date": "2026-09-17",
-      "source": "Grants Pass Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkFua2NuelZNQzJzNGZkbkhtYmlveXBkSHM1NXQyZEpmY3JqUjFOS3dJLUNRcTJXRnNpdHhJSzhSOXJWcVl2d0hyajhBZFk2aG1KNzJVajRCaXNHOUtfQlhOaW52YzFrSGc4VkZqYm1naGk0cF9SUU1kV1lYN2g1TzFQWUNKUHJqU0xLUnRFczl1dDJNdmFDRGE2UGl5OF9GRko0TzlHbU8?oc=5",
-      "snippet": "Oregon Medical Ownership Law Becomes Blueprint for Federal Legislation &nbsp;&nbsp; Grants Pass Tribune"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxOeUZsXzdaNVlGXzdRa2NYZ3FBSktZWXh5a0o4TldkU01QVjhfcF9TWFRmMWtFSGN4eGNHeWpVb1VCemhtQnJuSjd1TmxlaTBoVW9QZnZabHMxc1hpbWFFQmNveFJGajFBblJmbGJhUWtZRjMwTkYtWW1SdzJETlVyclpTSTNNRW5vNUN5b2FWdUJTREwzd1g2ejllRXZHUQ?oc=5",
-      "type": "article",
-      "title": "Ethics Opinion 1302: Provision of integrated legal, tax, and financial planning services - New York State Bar Association",
-      "date": "2026-09-17",
-      "source": "New York State Bar Association",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUZsXzdaNVlGXzdRa2NYZ3FBSktZWXh5a0o4TldkU01QVjhfcF9TWFRmMWtFSGN4eGNHeWpVb1VCemhtQnJuSjd1TmxlaTBoVW9QZnZabHMxc1hpbWFFQmNveFJGajFBblJmbGJhUWtZRjMwTkYtWW1SdzJETlVyclpTSTNNRW5vNUN5b2FWdUJTREwzd1g2ejllRXZHUQ?oc=5",
-      "snippet": "Ethics Opinion 1302: Provision of integrated legal, tax, and financial planning services &nbsp;&nbsp; New York State Bar Association"
     }
   ]
 }
