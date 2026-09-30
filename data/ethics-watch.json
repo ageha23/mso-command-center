@@ -1,8 +1,53 @@
 {
-  "lastRun": "2026-09-29T16:49:48.978827+00:00",
-  "lastRunStatus": "partial: courtlistener: The read operation timed out",
-  "addedThisRun": 9,
+  "lastRun": "2026-09-30T16:43:26.397480+00:00",
+  "lastRunStatus": "ok",
+  "addedThisRun": 11,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3VqSjBWUHZON1FneG1xMEFYdGR0RDF1TEFNaFJBVjVsWUMydkdSZUNjS3BaNGNtb1RpNEloeWZJckxldDFGU0o0SWcyTFNnNnpwcHNVRWVadDRoZFZmdXdRWDBKZUIteGdDMTFqa0hXbUlpT3BPTlhqdHV2WXhVc09ZMzZ6SkZZTi1QSDg1NXYzMTNKNHpEemN1eF9SVF90S1JRd1FjQ0tVV0xhekE?oc=5",
+      "type": "article",
+      "title": "Alpha Growth Management Opens Rep Office in Japan - TradingView",
+      "date": "2026-09-30",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3VqSjBWUHZON1FneG1xMEFYdGR0RDF1TEFNaFJBVjVsWUMydkdSZUNjS3BaNGNtb1RpNEloeWZJckxldDFGU0o0SWcyTFNnNnpwcHNVRWVadDRoZFZmdXdRWDBKZUIteGdDMTFqa0hXbUlpT3BPTlhqdHV2WXhVc09ZMzZ6SkZZTi1QSDg1NXYzMTNKNHpEemN1eF9SVF90S1JRd1FjQ0tVV0xhekE?oc=5",
+      "snippet": "Alpha Growth Management Opens Rep Office in Japan &nbsp;&nbsp; TradingView"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnUwVlhoNkJKVTdTdl9oYkFFZ2xNTjNWdENoSy14ZUF6QlhqSm41M3ZRN0VBaTBSNk4zbjdJdjRCS1ozTnlqUTJjeHMzcWtnbjN0ODNVTkFRd081YTEzN0dKYVllcmZaRjF5dDFUdFc0M29tVWRkSzBZbWY0ZFBYNVZDOHFtNndNX2RBUFJSMEdYSS1ELWo5dk5vWEN0dVdHNm9sRTlHbVlxYWZqWmRVZW9mWTM5dzZwbkNvUUlRb0RheDZyenhUNzFTekpHd3VNRGc?oc=5",
+      "type": "article",
+      "title": "Top 19 Sites To Buy Old Github Accounts In 2025-26 - timesdaily.com",
+      "date": "2026-09-30",
+      "source": "timesdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnUwVlhoNkJKVTdTdl9oYkFFZ2xNTjNWdENoSy14ZUF6QlhqSm41M3ZRN0VBaTBSNk4zbjdJdjRCS1ozTnlqUTJjeHMzcWtnbjN0ODNVTkFRd081YTEzN0dKYVllcmZaRjF5dDFUdFc0M29tVWRkSzBZbWY0ZFBYNVZDOHFtNndNX2RBUFJSMEdYSS1ELWo5dk5vWEN0dVdHNm9sRTlHbVlxYWZqWmRVZW9mWTM5dzZwbkNvUUlRb0RheDZyenhUNzFTekpHd3VNRGc?oc=5",
+      "snippet": "Top 19 Sites To Buy Old Github Accounts In 2025-26 &nbsp;&nbsp; timesdaily.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUp6UDBpMXdKdG45LWhLZkRtZFJpSlB6aTVyYWdZVGJzV3IzalJvNTI2T0VrU2VOTlhYdkVpeTdtNDdiRV9wZGUxYnBCUW9CQkE4eWk5YmR2dmVqbDRTNEM3dERZdEttTnJIUHE0YzZaWWQxVDJ1aERYZTJ4eEdxR1pnZEpfbE1XeUp2RGstLWktS0RzT2dvbHc1Vlh0NkJOMlJoMTB1RlI3cmM?oc=5",
+      "type": "article",
+      "title": "Company news: Emilee Lawson Hatch opens boutique law practice - Syracuse.com",
+      "date": "2026-09-30",
+      "source": "Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUp6UDBpMXdKdG45LWhLZkRtZFJpSlB6aTVyYWdZVGJzV3IzalJvNTI2T0VrU2VOTlhYdkVpeTdtNDdiRV9wZGUxYnBCUW9CQkE4eWk5YmR2dmVqbDRTNEM3dERZdEttTnJIUHE0YzZaWWQxVDJ1aERYZTJ4eEdxR1pnZEpfbE1XeUp2RGstLWktS0RzT2dvbHc1Vlh0NkJOMlJoMTB1RlI3cmM?oc=5",
+      "snippet": "Company news: Emilee Lawson Hatch opens boutique law practice &nbsp;&nbsp; Syracuse.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZkNfTVY2VjNDSGotVkpUQnJYTGMtbjladlg3OUdONlcxT2I1cDA4SVZTUHVtMTlDVUdnRkNjSmxuZVgyemhPb2ltSnRQSjVieFp1NGxuaGo0RUc5YWVSRTMxRmJuVmRuQ2c?oc=5",
+      "type": "article",
+      "title": "On the Move: September 2026 Hires, Promotions, and New ACG Members - middlemarketgrowth.org",
+      "date": "2026-09-30",
+      "source": "middlemarketgrowth.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZkNfTVY2VjNDSGotVkpUQnJYTGMtbjladlg3OUdONlcxT2I1cDA4SVZTUHVtMTlDVUdnRkNjSmxuZVgyemhPb2ltSnRQSjVieFp1NGxuaGo0RUc5YWVSRTMxRmJuVmRuQ2c?oc=5",
+      "snippet": "On the Move: September 2026 Hires, Promotions, and New ACG Members &nbsp;&nbsp; middlemarketgrowth.org"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGhlMW5HVHYybnJKVi1FN0FMX0JHTE9kTWpSdVJQT3I5TUY3WUJoNzhpTEJDV00wd3U1UlBMamdfZDFnTjZ1ak0zQlpKbmkzTFc4cWdKZDF1UU1DM041OGVGM2Z5VTEyNkYyR1c5Wko5QWl2d1lZdmNPYk9SZ2VCWEFIWnR0OW9ZWnlKRjRiZWotTUZhMWxkTDEwNjI2MWwteTg4NW92TFJ4Qm9pdGY4X2J1SHNpejRZNGc?oc=5",
+      "type": "article",
+      "title": "First Trump Came for Immigrants. Then He Came for Their Lawyers. - motherjones.com",
+      "date": "2026-09-30",
+      "source": "motherjones.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGhlMW5HVHYybnJKVi1FN0FMX0JHTE9kTWpSdVJQT3I5TUY3WUJoNzhpTEJDV00wd3U1UlBMamdfZDFnTjZ1ak0zQlpKbmkzTFc4cWdKZDF1UU1DM041OGVGM2Z5VTEyNkYyR1c5Wko5QWl2d1lZdmNPYk9SZ2VCWEFIWnR0OW9ZWnlKRjRiZWotTUZhMWxkTDEwNjI2MWwteTg4NW92TFJ4Qm9pdGY4X2J1SHNpejRZNGc?oc=5",
+      "snippet": "First Trump Came for Immigrants. Then He Came for Their Lawyers. &nbsp;&nbsp; motherjones.com"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMDlJdTBQVjBlQTlzV3NzU1IxOUxGdVhoRS15ZXlNY2JHQkxkaExlY1ZjUjB1d01RaG5mT1hiZFFGZ0ZvUGl3cFhueXhkdXZkQmM5S281UG1HY2NKajF5cEJBNEZETmk1YmpQR1I5UE0?oc=5",
       "type": "article",
@@ -56,6 +101,51 @@
       "source": "SCC Online",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW5aaWo4Zzh6UGJVTUFqSGVXRlZrTjlPem1TalV0aEt2WVVRcXFVNkpPQTVjR29Na2x4R1ZjZWtfc0dQeFR0ZkQ5NmozQWYzc1BZU0lOazR0d0g2RnJvOTRyMXo3TXRQRlk4MGROSUhiMWxyb0V5Ym1LbU03WGN1VWtvZm10bFNVekJQVGU5M3ZJMmk4ZEFxbk9HNFlPZw?oc=5",
       "snippet": "A Lifelong Ban for a Five-Year Tenure: The Constitutional Infirmity of Rule 7, BCI Rules and Rule 16(2), Tribunal Reforms Rules, 2021 &nbsp;&nbsp; SCC Online"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTE1weVhvRXJ6eGM5akRqaktoeFZkTEhHYnZYUVNRa01iUUoxQmVOU2VRX0p4UEIzWldpSWZmZkdnNnJrekxSSE11U2padWloLS03MURXOUxmdVRFQUpJODlxMzBvbGplNGRrX3p1cVZiTFhfREtqN1ZjR3RSZw?oc=5",
+      "type": "article",
+      "title": "PE investment in law firms: 6 considerations as MSO market enters next phase - JDSupra",
+      "date": "2026-09-29",
+      "source": "JDSupra",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1weVhvRXJ6eGM5akRqaktoeFZkTEhHYnZYUVNRa01iUUoxQmVOU2VRX0p4UEIzWldpSWZmZkdnNnJrekxSSE11U2padWloLS03MURXOUxmdVRFQUpJODlxMzBvbGplNGRrX3p1cVZiTFhfREtqN1ZjR3RSZw?oc=5",
+      "snippet": "PE investment in law firms: 6 considerations as MSO market enters next phase &nbsp;&nbsp; JDSupra"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpYUHNRdWtzRXBIZlRfZXlFdEo0aXVwMDJWNWNYU1FVbVBEdE00R05WQll5QXgwRlpadU9XWFZWZjJzTVdXRjdHUkcwMGZPLWlvYkdndTllYTVxS1h2UjMyUDhNTjh6QVVfaUxZNE5vbWh1OVVMWXgzVVk2aVRIbkpkdWNxZW1uaThYWlNlOTBBQmgwcGZ0QlFOeTV4eENtX0hUTzI3elNadktPd3FIYg?oc=5",
+      "type": "article",
+      "title": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal - Bloomberg Law News",
+      "date": "2026-09-29",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpYUHNRdWtzRXBIZlRfZXlFdEo0aXVwMDJWNWNYU1FVbVBEdE00R05WQll5QXgwRlpadU9XWFZWZjJzTVdXRjdHUkcwMGZPLWlvYkdndTllYTVxS1h2UjMyUDhNTjh6QVVfaUxZNE5vbWh1OVVMWXgzVVk2aVRIbkpkdWNxZW1uaThYWlNlOTBBQmgwcGZ0QlFOeTV4eENtX0hUTzI3elNadktPd3FIYg?oc=5",
+      "snippet": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQzhkZ2RzRWNFRmdhdFVGSmVQai1SMC1IQUJ6SWtFOEwwTldOZm9RUVlfZ3pGaGJiQkVqbFNNMTdCdDZxZW9SVlJnLVVrNkVfYVQ3ejk3SktESi1xNHNpMmNfejZiUnczVU5wNGhkZ2lrUGhRNmtQcDBrdDN6QlRNbjdmc2E2ZG1XSEFEUDNuRW9QaDNVR3o4SUtndkpzYUdoSEtkc1J1SUdONmVEbkY0bzVNbXcxLWhRWVlWOWxfYmFOT1BVS3M0ZVdRSlViUl9VVHFuX05SRUVxOEhjNmJsNmRwNA?oc=5",
+      "type": "article",
+      "title": "ABS, legal aid and unprecedented change — Ben Kemp on six months as Law Society of Scotland CEO - Law Society of Scotland",
+      "date": "2026-09-29",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQzhkZ2RzRWNFRmdhdFVGSmVQai1SMC1IQUJ6SWtFOEwwTldOZm9RUVlfZ3pGaGJiQkVqbFNNMTdCdDZxZW9SVlJnLVVrNkVfYVQ3ejk3SktESi1xNHNpMmNfejZiUnczVU5wNGhkZ2lrUGhRNmtQcDBrdDN6QlRNbjdmc2E2ZG1XSEFEUDNuRW9QaDNVR3o4SUtndkpzYUdoSEtkc1J1SUdONmVEbkY0bzVNbXcxLWhRWVlWOWxfYmFOT1BVS3M0ZVdRSlViUl9VVHFuX05SRUVxOEhjNmJsNmRwNA?oc=5",
+      "snippet": "ABS, legal aid and unprecedented change — Ben Kemp on six months as Law Society of Scotland CEO &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0w4MEt6VURrT1JfaTM2OGhxTWNHNkQ4Q1oxZmlfb29SWlIzZ0o2WWlqSi1lbmZMdGR0NS04a3V4bXlfZmY4UnZTZFFfck9hdTRmVk4tQmZVbjE3R0JmdG96dFo2clhpOENCOGV3UTB4TG55bEljM0pNZFF1SlZCbHNjazRSUTJlbUZoeWdBajBMT2ZoaGk1cllzY0NuZmFu?oc=5",
+      "type": "article",
+      "title": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal - Bloomberg Law News",
+      "date": "2026-09-29",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0w4MEt6VURrT1JfaTM2OGhxTWNHNkQ4Q1oxZmlfb29SWlIzZ0o2WWlqSi1lbmZMdGR0NS04a3V4bXlfZmY4UnZTZFFfck9hdTRmVk4tQmZVbjE3R0JmdG96dFo2clhpOENCOGV3UTB4TG55bEljM0pNZFF1SlZCbHNjazRSUTJlbUZoeWdBajBMT2ZoaGk1cllzY0NuZmFu?oc=5",
+      "snippet": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTZLa25yaVRwZTlmZk1ORHF4VWlRTUs4bGpMZWl6NTBJcG1GMGQ5eGFmSTMyT3JnOVdHT0RZUFZzcFgza2JORWNlbzlsRVotaWFvbkM3dnlwZUJaS19CYmVoekpVaVlmdlJpb3BTNUUzZFlFQzRXRmc4VnJVUmVqZEloS3pIMmc0X085MWpzcVZGa01YblhrT1VCSVdvNTBrVUlQZmwySDktMkxWR1E4VGF6Z2hVN0xu0gFWQVVfeXFMUDExUms2SGp6cDdHZ2V3T28tVkc3Q1pGU3BZbHE1LWlDNEV6NWVEemxmWmM2WWJlZ2NDdVdpVUZTb29VOWlRX0daMndtc05YWEFrZzRURnc?oc=5",
+      "type": "article",
+      "title": "How Restitution Became Del. Chancery Court's Middle Ground - Law360",
+      "date": "2026-09-29",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTZLa25yaVRwZTlmZk1ORHF4VWlRTUs4bGpMZWl6NTBJcG1GMGQ5eGFmSTMyT3JnOVdHT0RZUFZzcFgza2JORWNlbzlsRVotaWFvbkM3dnlwZUJaS19CYmVoekpVaVlmdlJpb3BTNUUzZFlFQzRXRmc4VnJVUmVqZEloS3pIMmc0X085MWpzcVZGa01YblhrT1VCSVdvNTBrVUlQZmwySDktMkxWR1E4VGF6Z2hVN0xu0gFWQVVfeXFMUDExUms2SGp6cDdHZ2V3T28tVkc3Q1pGU3BZbHE1LWlDNEV6NWVEemxmWmM2WWJlZ2NDdVdpVUZTb29VOWlRX0daMndtc05YWEFrZzRURnc?oc=5",
+      "snippet": "How Restitution Became Del. Chancery Court's Middle Ground &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZ3VE10YV9vR2JHQ3JoN0tJa0ptS21nazRoZmJEZXhLOS1wTFlyTVpWcHpXMUt2T2VveXROeC03aF9MNnVOWFBySEJZLWsxRzRZaUczUFd3cm9FVTJOVmgzaG9pR19tWnVncXlmWmdXQTQyUUE2V0g4SXdXYlc1cW91aHFfM2UtYzFGOXF6Z0xUN2F3Q0lISHo1OVl0WDMzbzVR?oc=5",
@@ -182,6 +272,15 @@
       "source": "Minnesota Lawyer",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SQ0ZEVTVIR05yQkxELTd3TzRpd0tGR1pyajh3enJBZk9QTmZLTkFNbUx4alJLeU9lTXVBa1Q0VnllQi1GclV3bWR3VlpCSVVRNnB0bmJ2TjRyMmEzUUVrZFJpOTBWSGltblllcXIwVnNzQmdGVk92X25R?oc=5",
       "snippet": "Perspectives: Brandeis battle set precedents 110 years ago &nbsp;&nbsp; Minnesota Lawyer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDZDcXp0TGg2Qmhpd0xYUzZkaTRpQnMwSEN6bk0wMDloeUdESW5GSFlQQjdjSC1uLTBrUGYyWmtTektaYWtBdTNBYW05cU9pTkNZWEpIM083alU3d3ZSVFFkTTQtN0ppbjJ3M3Blb01GMFp3cWFGc2ZGWHFIZEhUOHRsQ2Q2c0VRSzJScFR5M25saDIxR0JqQm9kTGFOYzBYYnAtS2hkZ3dnRHgxdUxTajNrRQ?oc=5",
+      "type": "article",
+      "title": "UAE: Akin hires investment management duo from White & Case, Morgan Lewis - Asia Legal Business",
+      "date": "2026-09-28",
+      "source": "Asia Legal Business",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDZDcXp0TGg2Qmhpd0xYUzZkaTRpQnMwSEN6bk0wMDloeUdESW5GSFlQQjdjSC1uLTBrUGYyWmtTektaYWtBdTNBYW05cU9pTkNZWEpIM083alU3d3ZSVFFkTTQtN0ppbjJ3M3Blb01GMFp3cWFGc2ZGWHFIZEhUOHRsQ2Q2c0VRSzJScFR5M25saDIxR0JqQm9kTGFOYzBYYnAtS2hkZ3dnRHgxdUxTajNrRQ?oc=5",
+      "snippet": "UAE: Akin hires investment management duo from White & Case, Morgan Lewis &nbsp;&nbsp; Asia Legal Business"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjZU85Q1pQOXA0dkZVQkYwS3NwRFBYOXlpMFQzZEVaVkxvQWtrdlJ3MWZGV1JodGNnazdSQm10S196UDU4Yl9haG5sbVhwUkZHcGZ6Zi1rN3U1NkxwS0Rra2g4RQ?oc=5",
@@ -1253,105 +1352,6 @@
       "source": "Just Security",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
       "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEE1eklFSkVOWE9vNGZRQWRoNTBZT2RkSDRVQkExX3haajZfdTNJZW9BRjd2RXNGNHFia1RtaklOd3k2WlhHUmxqNER0cDVZRUZGem5BNkJ1SXN2Rk9DSm4zYmFMWUZXWGVWQzZ0bFBsbndaMFZJX3NfeWdubEhfWDNkMEtKbFZHWTc3TUJNb2NXQQ?oc=5",
-      "type": "article",
-      "title": "Italy - Restructuring & Insolvency Laws and Regulations 2026 - iclg.com",
-      "date": "2026-09-18",
-      "source": "iclg.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEE1eklFSkVOWE9vNGZRQWRoNTBZT2RkSDRVQkExX3haajZfdTNJZW9BRjd2RXNGNHFia1RtaklOd3k2WlhHUmxqNER0cDVZRUZGem5BNkJ1SXN2Rk9DSm4zYmFMWUZXWGVWQzZ0bFBsbndaMFZJX3NfeWdubEhfWDNkMEtKbFZHWTc3TUJNb2NXQQ?oc=5",
-      "snippet": "Italy - Restructuring & Insolvency Laws and Regulations 2026 &nbsp;&nbsp; iclg.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxNbEVNNURSam1yeldVMjA0bUM3VjBoWmlwNWh1Tmpoa2Z5VE9wWHVWZ0tBM2lXMWtzanhQVHBhX0ljWGwzZXZzc2szZUdGOFVscDFlUE5QTjI2ZTN1akpDZzhyUFc0T1ZMdTBzN3RFSVEyZ1VXa3laMGhJUkpEaGtPS25lZm5vbFdoU24zR29qN3BmcnlDWDVPa2ppLVh3dw?oc=5",
-      "type": "article",
-      "title": "England & Wales - Insurance & Reinsurance Laws and Regulations 2026 - iclg.com",
-      "date": "2026-09-18",
-      "source": "iclg.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbEVNNURSam1yeldVMjA0bUM3VjBoWmlwNWh1Tmpoa2Z5VE9wWHVWZ0tBM2lXMWtzanhQVHBhX0ljWGwzZXZzc2szZUdGOFVscDFlUE5QTjI2ZTN1akpDZzhyUFc0T1ZMdTBzN3RFSVEyZ1VXa3laMGhJUkpEaGtPS25lZm5vbFdoU24zR29qN3BmcnlDWDVPa2ppLVh3dw?oc=5",
-      "snippet": "England & Wales - Insurance & Reinsurance Laws and Regulations 2026 &nbsp;&nbsp; iclg.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpheHB0MzRNYlZ4M2EySUFucXl6amRjNmdVVk81Rnl6dG5jZUpnakFpSi1rcVhGMUFzdUtCYVJLbXpzTGJ1RUx3anJUcmNpNGRaYkRKMGdvUVpUVE9zcXZDVTVLT2l3TXN2NzgxZmgwQVFQUHdyc0F0Zl9lZVhTN1d1ZE9qT3lvNWViSE5BY1hsbW9MMW43Z1U2S0bSAVZBVV95cUxOb2lXd0g3aG4wYUQ4RkN4WEh0QlRib1FFemdIWTZNVFdkMVlYUE0xWDdwODNXSUF5WFRaWFZBaXlhdlQ1eWxIMWpMWTJDQnlaSllJY3d1UQ?oc=5",
-      "type": "article",
-      "title": "Michigan Court Pilot Aims To Aid Unrepresented Litigants - Law360",
-      "date": "2026-09-18",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpheHB0MzRNYlZ4M2EySUFucXl6amRjNmdVVk81Rnl6dG5jZUpnakFpSi1rcVhGMUFzdUtCYVJLbXpzTGJ1RUx3anJUcmNpNGRaYkRKMGdvUVpUVE9zcXZDVTVLT2l3TXN2NzgxZmgwQVFQUHdyc0F0Zl9lZVhTN1d1ZE9qT3lvNWViSE5BY1hsbW9MMW43Z1U2S0bSAVZBVV95cUxOb2lXd0g3aG4wYUQ4RkN4WEh0QlRib1FFemdIWTZNVFdkMVlYUE0xWDdwODNXSUF5WFRaWFZBaXlhdlQ1eWxIMWpMWTJDQnlaSllJY3d1UQ?oc=5",
-      "snippet": "Michigan Court Pilot Aims To Aid Unrepresented Litigants &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxNN1BZLW15Ykl0ckU5UkI2Y3MzMlBPQmpTX0t3bGVmUW1rSVY4dHRMUE1SUVFZNTRiQlFzU2hEbnpuQUpTMlktR0M0THJoa0dqMVZzR2x5VmY1SzNwQ0lNVzdpcjVxM2U5Q3h0ZmZvZkxlMzd2c3phdl9pSjc1UE1SdmZsUUotNTRqdGdsZ0sxeXNtc0RSY1FtSTEtX3lfZw?oc=5",
-      "type": "article",
-      "title": "Cayman Islands - Alternative Investment Funds Laws and Regulations 2026 - ICLG",
-      "date": "2026-09-18",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1BZLW15Ykl0ckU5UkI2Y3MzMlBPQmpTX0t3bGVmUW1rSVY4dHRMUE1SUVFZNTRiQlFzU2hEbnpuQUpTMlktR0M0THJoa0dqMVZzR2x5VmY1SzNwQ0lNVzdpcjVxM2U5Q3h0ZmZvZkxlMzd2c3phdl9pSjc1UE1SdmZsUUotNTRqdGdsZ0sxeXNtc0RSY1FtSTEtX3lfZw?oc=5",
-      "snippet": "Cayman Islands - Alternative Investment Funds Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE9JSFJHbXlFNnFhV2x2bTREMW1JcjgwLXNnMkNxQ1lucW9KLVcwdkdRVDJENWxJeGJCVXJCaVF4VDFoSk1DcHZtRTBEWFkyNEpONW9MYjFId1lTOGxELWQ5QUVZeEVuZjlVMExRNzJzM3NURWk0SF95ag?oc=5",
-      "type": "article",
-      "title": "Charles Handy: Understanding Power Culture & Organizational Theory - Business.com",
-      "date": "2026-09-18",
-      "source": "Business.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JSFJHbXlFNnFhV2x2bTREMW1JcjgwLXNnMkNxQ1lucW9KLVcwdkdRVDJENWxJeGJCVXJCaVF4VDFoSk1DcHZtRTBEWFkyNEpONW9MYjFId1lTOGxELWQ5QUVZeEVuZjlVMExRNzJzM3NURWk0SF95ag?oc=5",
-      "snippet": "Charles Handy: Understanding Power Culture & Organizational Theory &nbsp;&nbsp; Business.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMidEFVX3lxTE1KZWU4NjJhdkxoTUxKQm9wYV9RUG5mQ1FpYTlvdDlTMDZYZ2hxbE4zMHlWeEwxN3BRSW1VWW9jajlzVThZZXUzeXNOalhuUmx2RldSTXVXNWl3dGp5NkFGU3VJUFZuRTMtbEhyRFRmSk1Uc1E2?oc=5",
-      "type": "article",
-      "title": "USA - Aviation Laws and Regulations 2026 - ICLG",
-      "date": "2026-09-18",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KZWU4NjJhdkxoTUxKQm9wYV9RUG5mQ1FpYTlvdDlTMDZYZ2hxbE4zMHlWeEwxN3BRSW1VWW9jajlzVThZZXUzeXNOalhuUmx2RldSTXVXNWl3dGp5NkFGU3VJUFZuRTMtbEhyRFRmSk1Uc1E2?oc=5",
-      "snippet": "USA - Aviation Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiekFVX3lxTE5zWkFDaVAxczRwYjBhM3BZa2hPczREZGpDdjJNZk5CV2ctdTNfV1NZRE5VRTRGVHpVQ2lWb0daUlphSGxLWFhLOGMxcXFQWTI4SXZTX2d2Y2xNRFhEbTl2eS1CcFVsaDJpUTFqemkwQ0cydGtLWlZNRDFn?oc=5",
-      "type": "article",
-      "title": "Legal profession - Autonomy, Control, Regulation - Britannica",
-      "date": "2026-09-18",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zWkFDaVAxczRwYjBhM3BZa2hPczREZGpDdjJNZk5CV2ctdTNfV1NZRE5VRTRGVHpVQ2lWb0daUlphSGxLWFhLOGMxcXFQWTI4SXZTX2d2Y2xNRFhEbTl2eS1CcFVsaDJpUTFqemkwQ0cydGtLWlZNRDFn?oc=5",
-      "snippet": "Legal profession - Autonomy, Control, Regulation &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Sk0zNS1BZ0pubGZFZDlINWxUYkoxWTdaODl6NTdnalJ2YjFkeWFCM3VoaE1mTFIxODNWRzJYZUFJNnQtQ3J3cjZjZW82aWhvUzFHTjRoNV85MExRWlhfY1JlR2ZhVXlW?oc=5",
-      "type": "article",
-      "title": "International law - Treaties, Jurisdiction, Disputes - Britannica",
-      "date": "2026-09-18",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Sk0zNS1BZ0pubGZFZDlINWxUYkoxWTdaODl6NTdnalJ2YjFkeWFCM3VoaE1mTFIxODNWRzJYZUFJNnQtQ3J3cjZjZW82aWhvUzFHTjRoNV85MExRWlhfY1JlR2ZhVXlW?oc=5",
-      "snippet": "International law - Treaties, Jurisdiction, Disputes &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMifkFVX3lxTE9FdlZXS2tfLURZVUNLMkFSOTZTNnEzTGlkaW5JZWh5ZFJ0UDVNOXNuNGNNUUtDdU80b1hjMk52ck11THloSTFfYV83eXlKajlOX0J6NFhRYTRfYjM5dHNnLXRSTUhLeTVkVml5cl9Sek8xZVNMS29UY0NuSUtGUQ?oc=5",
-      "type": "article",
-      "title": "Drug & Medical Device Litigation Laws and Regulations Report 2026 India - ICLG",
-      "date": "2026-09-18",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FdlZXS2tfLURZVUNLMkFSOTZTNnEzTGlkaW5JZWh5ZFJ0UDVNOXNuNGNNUUtDdU80b1hjMk52ck11THloSTFfYV83eXlKajlOX0J6NFhRYTRfYjM5dHNnLXRSTUhLeTVkVml5cl9Sek8xZVNMS29UY0NuSUtGUQ?oc=5",
-      "snippet": "Drug & Medical Device Litigation Laws and Regulations Report 2026 India &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWVVY1VnOEdTa1dFbEZYaWlDeUxCZnJTdW1ZaG5kVF81MUl1NHZZcWpSSkVfZC1ZeFFFSUtiVDE0aGM3TXpXbXIyV2hFR09XQ0w4eTdYZmdEcW92aXVnTVl3M1hpWW5iU092RjN3NFd2ckFudWhiMDFQY2tlcWZzdXJyay0?oc=5",
-      "type": "article",
-      "title": "Private equity turns to financial engineering to lure insurance billions - Financial Times",
-      "date": "2026-09-18",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWVVY1VnOEdTa1dFbEZYaWlDeUxCZnJTdW1ZaG5kVF81MUl1NHZZcWpSSkVfZC1ZeFFFSUtiVDE0aGM3TXpXbXIyV2hFR09XQ0w4eTdYZmdEcW92aXVnTVl3M1hpWW5iU092RjN3NFd2ckFudWhiMDFQY2tlcWZzdXJyay0?oc=5",
-      "snippet": "Private equity turns to financial engineering to lure insurance billions &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUJKSkJFMFJwVmtsdjJoWjU3MjdJcE9keG5ma0cxWVZPVll3bzNPT3ZyWWQ0b3V1WXJTS0ZMNW5fUjBPNHMyaXpZYmdRVGtpdV8tSVZTUi0wbE4xZDFEdEQwclFJQkZzUjM4Q2pSX1luMkZQcVN6LWFjYnZKeVhjZ1N5QjVGdkJsOTJCMG96ODBtbjlLSEM0N2o2eWtzWFBUSHYzcHAtM2hXNjFYRG1lekp1S1VRUWpmb2g5b0V4azhpdw?oc=5",
-      "type": "article",
-      "title": "Offshore Law Firms Appleby, Walkers Open a Wider Door to Private Equity - Law.com",
-      "date": "2026-09-17",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUJKSkJFMFJwVmtsdjJoWjU3MjdJcE9keG5ma0cxWVZPVll3bzNPT3ZyWWQ0b3V1WXJTS0ZMNW5fUjBPNHMyaXpZYmdRVGtpdV8tSVZTUi0wbE4xZDFEdEQwclFJQkZzUjM4Q2pSX1luMkZQcVN6LWFjYnZKeVhjZ1N5QjVGdkJsOTJCMG96ODBtbjlLSEM0N2o2eWtzWFBUSHYzcHAtM2hXNjFYRG1lekp1S1VRUWpmb2g5b0V4azhpdw?oc=5",
-      "snippet": "Offshore Law Firms Appleby, Walkers Open a Wider Door to Private Equity &nbsp;&nbsp; Law.com"
     }
   ]
 }
