@@ -1,8 +1,35 @@
 {
-  "lastRun": "2026-10-01T17:18:04.315114+00:00",
+  "lastRun": "2026-10-02T16:33:08.070983+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 12,
+  "addedThisRun": 10,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzJZZFNyTllrRkhPbHVkVGJmNDc5NklKTkRxNUhmdjlzUERTWlJwR1lqWFZ4b2cwNXVUN3lGTW54ZkgtS25FUnBTaWhVcjZNZWt0MjFCVno1RFVlb1lQT0o3NGt5UGFuZGtmY19hdUVYSU1pal84U0Z2djA4RGxQR01B?oc=5",
+      "type": "article",
+      "title": "The 25 leaders protecting Ohio’s digital future - ohiotechnews.com",
+      "date": "2026-10-02",
+      "source": "ohiotechnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzJZZFNyTllrRkhPbHVkVGJmNDc5NklKTkRxNUhmdjlzUERTWlJwR1lqWFZ4b2cwNXVUN3lGTW54ZkgtS25FUnBTaWhVcjZNZWt0MjFCVno1RFVlb1lQT0o3NGt5UGFuZGtmY19hdUVYSU1pal84U0Z2djA4RGxQR01B?oc=5",
+      "snippet": "The 25 leaders protecting Ohio’s digital future &nbsp;&nbsp; ohiotechnews.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxORHlWcmRPTFBTNGExUmYzdUpaYVJNNm5ualU0UmZ3YWNuUXYxd0xoSDB5a0xkX3Bvd1B1Ri1xR2czRDBDczl0a2R6ZWVUZi14anFDLWlHNTF2dUQzaDQzaDF1TWVaNVBWMEJmanc4N1F3dTVEUVIxR05ZU0JXcVEzd0kwMEl5Z3NZN2pQTThXMnMyTGhOSWVVdFhJMnVGT3ZGalQ2Uld3T0NlTW5zYWxKa3hkS0M5Sy10R2MyOEd1N1pvcm42VGw3TTZR0gHKAUFVX3lxTE5EeVZyZE9MUFM0YTFSZjN1SlphUk02bm5qVTRSZndhY25RdjF3TGhIMHlrTGRfcG93UHVGLXFHZzNEMENzOXRrZHplZVRmLXhqcUMtaUc1MXZ1RDNoNDNoMXVNZVo1UFYwQmZqdzg3UXd1NURRUjFHTllTQldxUTN3STAwSXlnc1k3alBNOFcyczJMaE5JZVV0WEkydUZPdkZqVDZSV3dPQ2VNbnNhbEpreGRLQzlLLXRHYzI4R3U3Wm9ybjZUbDdNNlE?oc=5",
+      "type": "article",
+      "title": "To be or not to be? Supreme Court between foundational doctrine and ad-hoc expediency - Bar and Bench",
+      "date": "2026-10-02",
+      "source": "Bar and Bench",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHlWcmRPTFBTNGExUmYzdUpaYVJNNm5ualU0UmZ3YWNuUXYxd0xoSDB5a0xkX3Bvd1B1Ri1xR2czRDBDczl0a2R6ZWVUZi14anFDLWlHNTF2dUQzaDQzaDF1TWVaNVBWMEJmanc4N1F3dTVEUVIxR05ZU0JXcVEzd0kwMEl5Z3NZN2pQTThXMnMyTGhOSWVVdFhJMnVGT3ZGalQ2Uld3T0NlTW5zYWxKa3hkS0M5Sy10R2MyOEd1N1pvcm42VGw3TTZR0gHKAUFVX3lxTE5EeVZyZE9MUFM0YTFSZjN1SlphUk02bm5qVTRSZndhY25RdjF3TGhIMHlrTGRfcG93UHVGLXFHZzNEMENzOXRrZHplZVRmLXhqcUMtaUc1MXZ1RDNoNDNoMXVNZVo1UFYwQmZqdzg3UXd1NURRUjFHTllTQldxUTN3STAwSXlnc1k3alBNOFcyczJMaE5JZVV0WEkydUZPdkZqVDZSV3dPQ2VNbnNhbEpreGRLQzlLLXRHYzI4R3U3Wm9ybjZUbDdNNlE?oc=5",
+      "snippet": "To be or not to be? Supreme Court between foundational doctrine and ad-hoc expediency &nbsp;&nbsp; Bar and Bench"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitAFBVV95cUxOa21NQXUyZGpUNnJmX25KdHY5U1VpWFhoZDViRHpuOTZEUVhQMlRzY29nc3FObGpobkswdFQ4OHB4am43OFBTakpDNlJkRDRGS0hmMXVoWk8zZEt5RENXak1PcWZUUkVQcF9tRkpQUEh2YkRqMDJrcEJBNVRLSjlmcjMzaVlGYzdPZ0RZZmxjOEo3Zk9sems1NG40RjE4M2dlZ09hRk8xY0Jqa2ttQVBoaEZqOGs?oc=5",
+      "type": "article",
+      "title": "Dennis Hursh, Esq, on physician employment contracts: a KevinMD subscriber spotlight - KevinMD.com",
+      "date": "2026-10-02",
+      "source": "KevinMD.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa21NQXUyZGpUNnJmX25KdHY5U1VpWFhoZDViRHpuOTZEUVhQMlRzY29nc3FObGpobkswdFQ4OHB4am43OFBTakpDNlJkRDRGS0hmMXVoWk8zZEt5RENXak1PcWZUUkVQcF9tRkpQUEh2YkRqMDJrcEJBNVRLSjlmcjMzaVlGYzdPZ0RZZmxjOEo3Zk9sems1NG40RjE4M2dlZ09hRk8xY0Jqa2ttQVBoaEZqOGs?oc=5",
+      "snippet": "Dennis Hursh, Esq, on physician employment contracts: a KevinMD subscriber spotlight &nbsp;&nbsp; KevinMD.com"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2VZaUUtc3ltOG15anYxTVlkS1R6R0FXOFBFVGVpNmowOE12Mkc5R3NPRmhKbVc4S3UtbWpXcHVfc0gxNHgyZnpLcnFtVlpzRVFIY05Fb3F2Y1NVcGZseFJDWks3ZmV5cTFtc0UzVE4tVHk4Um5tXzFJUDV1eGxZT3RfX1RyVm9aRm0zSXNiNE9sWndfZTV4aW1KSTctSW9ma25nODRaV1I4aTVucEhCZw?oc=5",
       "type": "article",
@@ -92,6 +119,51 @@
       "source": "Cyril Amarchand Mangaldas",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0ViSl83X3RHRndpMTFxR1VJX3lyVEh1bnRQRWF6VnFuMnplT0EteU5iWFZZQ05QUW9lLVlkaXNIV0x0SWFQakRfU21RS3NkSzFSS05XVzZVc3VPekdGSFlnOHI1cEZBTWQ1akV3Q2Z5WU9LTG9ERnJ5ZGhRUWJJRXByLTZhaXRITC10NHJYdGU5OXhhb2h2Qk43UG9nMEx6RTBmMmJfMG1lazl6b3VELURsd1gwMWR0Zml2U1MzWHp4Rk5GRmhGU3JpS3NTODVkM0sw?oc=5",
       "snippet": "Guarding the Guardians: Building Statutory Discipline into India’s Delegated Legislation &nbsp;&nbsp; Cyril Amarchand Mangaldas"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2t1aF9Od29RVWxQWkFIY1BFZWFORGp3RVV3U1NMblowaVktRXYwd2FvWmRKTjBfNGxvUVVCaF82aTJ3aE5OU3p2UDNlTUxuTnFodWdIOFVKRmx1Q1RZcGlNXzk0SnFPR1I5VWZFamF4WHVtUHlKQS1DalZ3d3V3Q0hVdkw1VHpmMVItMXFNaUM0SWpyb24wNFhfVW9GUDE3WTlmejJ3WEdYSUpMSm5RLXhvM3VNUQ?oc=5",
+      "type": "article",
+      "title": "Before Inking PE Deals, Law Firms Must Navigate 'Comp Scrape' Conundrum - Law.com",
+      "date": "2026-10-01",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2t1aF9Od29RVWxQWkFIY1BFZWFORGp3RVV3U1NMblowaVktRXYwd2FvWmRKTjBfNGxvUVVCaF82aTJ3aE5OU3p2UDNlTUxuTnFodWdIOFVKRmx1Q1RZcGlNXzk0SnFPR1I5VWZFamF4WHVtUHlKQS1DalZ3d3V3Q0hVdkw1VHpmMVItMXFNaUM0SWpyb24wNFhfVW9GUDE3WTlmejJ3WEdYSUpMSm5RLXhvM3VNUQ?oc=5",
+      "snippet": "Before Inking PE Deals, Law Firms Must Navigate 'Comp Scrape' Conundrum &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EZmZZc2pDU0RMUVBud3EycUJIM0hnOURyeTdfazhpU1U2cHZENktSZ2pINS1aSzRydWZhX2dlZU5EWXhCQkVjNVUzWGFNaFcwdGU4MGVVWDNpak9sQkxGcDBDWGE4SEpv?oc=5",
+      "type": "article",
+      "title": "Tested: Best LLC And Formation Services Of 2026 - Forbes",
+      "date": "2026-10-01",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EZmZZc2pDU0RMUVBud3EycUJIM0hnOURyeTdfazhpU1U2cHZENktSZ2pINS1aSzRydWZhX2dlZU5EWXhCQkVjNVUzWGFNaFcwdGU4MGVVWDNpak9sQkxGcDBDWGE4SEpv?oc=5",
+      "snippet": "Tested: Best LLC And Formation Services Of 2026 &nbsp;&nbsp; Forbes"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGxuQkt6MlFpZWdiYlZTRWpEQjNMSGRHeHBZalIwS3NKMDd0RVhCQTJYd0RBd2pNUnJaeDE0Qk9JeHM4Y0p6Q05MVmduNHdYZEQ5SnZubFBZYWdiQThWRmNNZHFIMGRlQWtfeXZXV3A5RTdqMFVuRlNCcG82V2NVM0dPR19mSEk0STMzM05XR1lFUlpYSHpzY0ZEMTJaSlh6MlZrSTRJMHJiOGNhRkdES2F1Z2Y1YTVNOHBTRkJocmQ?oc=5",
+      "type": "article",
+      "title": "McDermott Chair: We Would Not Take Investment Unless Everyone Benefits - Law.com",
+      "date": "2026-10-01",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGxuQkt6MlFpZWdiYlZTRWpEQjNMSGRHeHBZalIwS3NKMDd0RVhCQTJYd0RBd2pNUnJaeDE0Qk9JeHM4Y0p6Q05MVmduNHdYZEQ5SnZubFBZYWdiQThWRmNNZHFIMGRlQWtfeXZXV3A5RTdqMFVuRlNCcG82V2NVM0dPR19mSEk0STMzM05XR1lFUlpYSHpzY0ZEMTJaSlh6MlZrSTRJMHJiOGNhRkdES2F1Z2Y1YTVNOHBTRkJocmQ?oc=5",
+      "snippet": "McDermott Chair: We Would Not Take Investment Unless Everyone Benefits &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDR6d3FOOUtOa2ZpeW1fWHJGMW1sb2N1MEREUE95cHdFbTl5X1cyOGUtYWl0OVRMVGZvVzhvMFY0STN2S1ZKWjhGdDNHd0M0QW56UGh5c3hUOUlqT3hJbUNJRzd0MmdGVUdOeXlRZzNjTkhsQkJLSHRZZC1jNV9WUE930gGCAUFVX3lxTFBoNHp3cU45S05rZml5bV9YckYxbWxvY3UwRERQT3lwd0VtOXlfVzI4ZS1haXQ5VExUZm9XOG8wVjRJM3ZLVkpaOEZ0M0d3QzRBbnpQaHlzeFQ5SWpPeEltQ0lHN3QyZ0ZVR055eVFnM2NOSGxCQktIdFlkLWM1X1ZQT3c?oc=5",
+      "type": "article",
+      "title": "Cartiga Appoints Dave Thomas As Chief Growth Officer - Pulse 2.0",
+      "date": "2026-10-01",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDR6d3FOOUtOa2ZpeW1fWHJGMW1sb2N1MEREUE95cHdFbTl5X1cyOGUtYWl0OVRMVGZvVzhvMFY0STN2S1ZKWjhGdDNHd0M0QW56UGh5c3hUOUlqT3hJbUNJRzd0MmdGVUdOeXlRZzNjTkhsQkJLSHRZZC1jNV9WUE930gGCAUFVX3lxTFBoNHp3cU45S05rZml5bV9YckYxbWxvY3UwRERQT3lwd0VtOXlfVzI4ZS1haXQ5VExUZm9XOG8wVjRJM3ZLVkpaOEZ0M0d3QzRBbnpQaHlzeFQ5SWpPeEltQ0lHN3QyZ0ZVR055eVFnM2NOSGxCQktIdFlkLWM1X1ZQT3c?oc=5",
+      "snippet": "Cartiga Appoints Dave Thomas As Chief Growth Officer &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0FIM1BPT1p0ZFNtMGpvOGNsN2UwVDRyNE1sTTVPRkVEaGUzcmZyZDZ1cURuU1ZqMmlCMmUzRXdWR0REcV9hM0hUdlhObEh1OWNMVmdYdVRub19xMmVWc3VIb1NIdzZrUTcxeGVzdVRRNG83R2pwWFREbTJzYzlNVUdJb1FLcjVLeHR4NmdVXzZGSnEzcWZXZWl30gGaAUFVX3lxTE8zQUgzUE9PWnRkU20wam84Y2w3ZTBUNHI0TWxNNU9GRURoZTNyZnJkNnVxRG5TVmoyaUIyZTNFd1ZHRERxX2EzSFR2WE5sSHU5Y0xWZ1h1VG5vX3EyZVZzdUhvU0h3NmtRNzF4ZXN1VFE0bzdHanBYVERtMnNjOU1VR0lvUUtyNUt4dHg2Z1VfNkZKcTNxZldlaXc?oc=5",
+      "type": "article",
+      "title": "Weil Adds David Jansen As Partner In Frankfurt Private Equity Practice - Pulse 2.0",
+      "date": "2026-10-01",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0FIM1BPT1p0ZFNtMGpvOGNsN2UwVDRyNE1sTTVPRkVEaGUzcmZyZDZ1cURuU1ZqMmlCMmUzRXdWR0REcV9hM0hUdlhObEh1OWNMVmdYdVRub19xMmVWc3VIb1NIdzZrUTcxeGVzdVRRNG83R2pwWFREbTJzYzlNVUdJb1FLcjVLeHR4NmdVXzZGSnEzcWZXZWl30gGaAUFVX3lxTE8zQUgzUE9PWnRkU20wam84Y2w3ZTBUNHI0TWxNNU9GRURoZTNyZnJkNnVxRG5TVmoyaUIyZTNFd1ZHRERxX2EzSFR2WE5sSHU5Y0xWZ1h1VG5vX3EyZVZzdUhvU0h3NmtRNzF4ZXN1VFE0bzdHanBYVERtMnNjOU1VR0lvUUtyNUt4dHg2Z1VfNkZKcTNxZldlaXc?oc=5",
+      "snippet": "Weil Adds David Jansen As Partner In Frankfurt Private Equity Practice &nbsp;&nbsp; Pulse 2.0"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3VqSjBWUHZON1FneG1xMEFYdGR0RDF1TEFNaFJBVjVsWUMydkdSZUNjS3BaNGNtb1RpNEloeWZJckxldDFGU0o0SWcyTFNnNnpwcHNVRWVadDRoZFZmdXdRWDBKZUIteGdDMTFqa0hXbUlpT3BPTlhqdHV2WXhVc09ZMzZ6SkZZTi1QSDg1NXYzMTNKNHpEemN1eF9SVF90S1JRd1FjQ0tVV0xhekE?oc=5",
@@ -254,6 +326,24 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LdjFvMXpsaWJZczR5dHVlTzNkOVlPQVRkajFBSlBiQktva0VOMU9BSjhFeENMOGdTREdLMDlsTXVoRUs2aDlCbndoSTJBMjgtd0J1YWdhQ0EyWlBnek5RSHhGYXJZNTNpZUtfSWZ2M09Hdw?oc=5",
       "snippet": "[2026 Alternative Investment Forum] \"A Complete Corporate Overhaul Is Needed for Successful AX\" &nbsp;&nbsp; 아시아경제"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydlpIdWRDbVVTd0FNcGQ5dk9oLVl6Mm9LeF9wRDNlQ1NkV3JXcTRhQmtRRVFPQ3ZOc2V2UmVteUZFaV83QTVxalV6MGxERWRZR1lsVFEwVU11RzNYSkkxaXFjbVFZUdIBa0FVX3lxTE52d1FFYlUwX2dpZ2dWdGVWX1BaczBtUkJLdmFSWVRYaTUwWWtxbUhlNl9jSTJQUTh4dnVoVTJmdUpxS0dqODdRVHg0YjRxczRLRzRNMkt1RzhWWjlUZXc1RGlyUVlJQTVQOHlJ?oc=5",
+      "type": "article",
+      "title": "The best debt relief companies of October 2026 - CNBC",
+      "date": "2026-09-29",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydlpIdWRDbVVTd0FNcGQ5dk9oLVl6Mm9LeF9wRDNlQ1NkV3JXcTRhQmtRRVFPQ3ZOc2V2UmVteUZFaV83QTVxalV6MGxERWRZR1lsVFEwVU11RzNYSkkxaXFjbVFZUdIBa0FVX3lxTE52d1FFYlUwX2dpZ2dWdGVWX1BaczBtUkJLdmFSWVRYaTUwWWtxbUhlNl9jSTJQUTh4dnVoVTJmdUpxS0dqODdRVHg0YjRxczRLRzRNMkt1RzhWWjlUZXc1RGlyUVlJQTVQOHlJ?oc=5",
+      "snippet": "The best debt relief companies of October 2026 &nbsp;&nbsp; CNBC"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZmdmdkQnFnNzBOVkNWS2d4NS1WRTBlUU5hOUUxYmVWRTNfRW9pZFJ5N1g2ejlWemJZSFBwY2tCcnZ4OGlueXNJMWJjOGNsN0lRXy1HcmxFX0VxUTdPTDMyYTc1d0JzUG9KcXMyX3BVOXBuOWVmT1d3UGs0eG5ybURTeFc?oc=5",
+      "type": "article",
+      "title": "Big money, bigger problems in Big Law - Financial Times",
+      "date": "2026-09-29",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZmdmdkQnFnNzBOVkNWS2d4NS1WRTBlUU5hOUUxYmVWRTNfRW9pZFJ5N1g2ejlWemJZSFBwY2tCcnZ4OGlueXNJMWJjOGNsN0lRXy1HcmxFX0VxUTdPTDMyYTc1d0JzUG9KcXMyX3BVOXBuOWVmT1d3UGs0eG5ybURTeFc?oc=5",
+      "snippet": "Big money, bigger problems in Big Law &nbsp;&nbsp; Financial Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZ3VE10YV9vR2JHQ3JoN0tJa0ptS21nazRoZmJEZXhLOS1wTFlyTVpWcHpXMUt2T2VveXROeC03aF9MNnVOWFBySEJZLWsxRzRZaUczUFd3cm9FVTJOVmgzaG9pR19tWnVncXlmWmdXQTQyUUE2V0g4SXdXYlc1cW91aHFfM2UtYzFGOXF6Z0xUN2F3Q0lISHo1OVl0WDMzbzVR?oc=5",
@@ -1262,96 +1352,6 @@
       "source": "The Latrobe Bulletin",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQU8wc2xZVkRTNFlxd3JQMURKLXhxMG5DY2JXdS1zN3hGbnNkWjRmdDdreW9WZFliRlRBY1E5ZnZKdHBpYS1QY3RTQnRZN2ZpczloWlo0c0RLcWlJalptVXlraWJXbVRfNjIyd0w2NldDSEhfWG16ZjJ2c1ZnV0ZJcVVjVFV5WkJsdUtzTlc5WktfUjJGVl9WWHlUeVZsNEVZd3BsQlJUdExnY3pzQThrcXVjZFUxZEdzSGdmeHVUc2lhV0RZZlBYSFNmRzhEZEJCOWw1Q1NBOGNLNXVHaXRMaHBsSjRWMTNLZnhMSWZ5bnRkZmw2U0xqY1dfTElYcWZwbVhKYm5HQVY0SEhiYlVlLVRR?oc=5",
       "snippet": "Shapiro admin rules for Medicaid recipients spark lawsuit from people with disabilities &nbsp;&nbsp; The Latrobe Bulletin"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWFWOUNZa0M2THR5em9QVWtDMHZBV0FjaXNMdG5RblVKek5Sb0lZa1hsTG9VV0c1ekNrRVQxcXlIVkZfaFNEVFN4ZTVNT0VIYXBOM2lGLVdCMVpFZUJnRGdjRWNRS1lRS1E1X2oyS0dZU3htZE5uQkllaFVMdExNaTcxbzdWZTJMMUFpd2l0VTBPdV9FUkh3a09Zbjl3SFV5UWNkRzlRQlBjcVc3VUhKenljajRES21Zem1iWHJmYndHMnVtMW1SaE42LTVZaXZmSnB2MzBaMA?oc=5",
-      "type": "article",
-      "title": "The Industrialisation of Clinical and Administrative Labour - Deconstructing the Autopilot Playbook in Healthcare - healthcare.digital",
-      "date": "2026-09-19",
-      "source": "healthcare.digital",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWFWOUNZa0M2THR5em9QVWtDMHZBV0FjaXNMdG5RblVKek5Sb0lZa1hsTG9VV0c1ekNrRVQxcXlIVkZfaFNEVFN4ZTVNT0VIYXBOM2lGLVdCMVpFZUJnRGdjRWNRS1lRS1E1X2oyS0dZU3htZE5uQkllaFVMdExNaTcxbzdWZTJMMUFpd2l0VTBPdV9FUkh3a09Zbjl3SFV5UWNkRzlRQlBjcVc3VUhKenljajRES21Zem1iWHJmYndHMnVtMW1SaE42LTVZaXZmSnB2MzBaMA?oc=5",
-      "snippet": "The Industrialisation of Clinical and Administrative Labour - Deconstructing the Autopilot Playbook in Healthcare &nbsp;&nbsp; healthcare.digital"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZV1g5YnFHSVZlbVYwTUcyZ01MX0RERElxaG53b2hXakp0QmZZOUJFVHl0bGVKS2YyMjJqMnpaQ0NZSmpDZm1Hci1CRUc1VXQyck1xOW5yVlhJb3NiUWJZaHdwTlhQcFVZbnVEVDd6ZzRBSXdXbWRrSEVUOA?oc=5",
-      "type": "article",
-      "title": "'A huge problem': Trump has traded more stocks than all of Congress combined - Fortune",
-      "date": "2026-09-19",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZV1g5YnFHSVZlbVYwTUcyZ01MX0RERElxaG53b2hXakp0QmZZOUJFVHl0bGVKS2YyMjJqMnpaQ0NZSmpDZm1Hci1CRUc1VXQyck1xOW5yVlhJb3NiUWJZaHdwTlhQcFVZbnVEVDd6ZzRBSXdXbWRrSEVUOA?oc=5",
-      "snippet": "'A huge problem': Trump has traded more stocks than all of Congress combined &nbsp;&nbsp; Fortune"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa28yb3AyQWJtMjFHTXlZcFp5N1RoMDI4Yy1kTzI4ZlMyckhpNlpUdFB2TERBWGNGbzBSaldoVUgtbjBXWVZpUHJxb2tpaGVlY3ZMX21aalZtZUctOTBtYUF6UGdrV3hMejFBb1RzZUtnQ1d0WHNZdHhUbWhSbW5yLTdITUxEVzhCSHdYSVJzdVpiY2RSejNJZVhlRDRnRU8zVlVCODRkRk5VZ0XSAbABQVVfeXFMUG85YU1PZFNVeVZJWmdROTI2RVdnbzdzSEdZSWtIQ2Z0R1JTYUVLZXVIT3VCaU1CMjd1M1NKYWZIMHFETTVwNXl2UWllSnRTMVcyRzgxWE93S01jaUJoS1JPRWRUUWE0dTBXajQ5MW1rMXZVS3FSdXMxQVNaOFB6SnZ1bHF5ZUpacXFSM3Zaa1BkcjN5ZU5nTlhlelVNRjNNRDJBYURsSm42djFkRWozb0s?oc=5",
-      "type": "article",
-      "title": "OHCA Releases Revised Emergency Regulations Implementing AB 1415 Reporting Requirements for Private Equity (PE) and Management Services Organizations (MSOs) - The National Law Review",
-      "date": "2026-09-18",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa28yb3AyQWJtMjFHTXlZcFp5N1RoMDI4Yy1kTzI4ZlMyckhpNlpUdFB2TERBWGNGbzBSaldoVUgtbjBXWVZpUHJxb2tpaGVlY3ZMX21aalZtZUctOTBtYUF6UGdrV3hMejFBb1RzZUtnQ1d0WHNZdHhUbWhSbW5yLTdITUxEVzhCSHdYSVJzdVpiY2RSejNJZVhlRDRnRU8zVlVCODRkRk5VZ0XSAbABQVVfeXFMUG85YU1PZFNVeVZJWmdROTI2RVdnbzdzSEdZSWtIQ2Z0R1JTYUVLZXVIT3VCaU1CMjd1M1NKYWZIMHFETTVwNXl2UWllSnRTMVcyRzgxWE93S01jaUJoS1JPRWRUUWE0dTBXajQ5MW1rMXZVS3FSdXMxQVNaOFB6SnZ1bHF5ZUpacXFSM3Zaa1BkcjN5ZU5nTlhlelVNRjNNRDJBYURsSm42djFkRWozb0s?oc=5",
-      "snippet": "OHCA Releases Revised Emergency Regulations Implementing AB 1415 Reporting Requirements for Private Equity (PE) and Management Services Organizations (MSOs) &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3R3QURDcWFVbTE3TGo5X3VRNE9IWjZZMlJscTlnV0l4M2pEcTdqdlJDVDZiWTZwbU92VHpWRndMQzhfNnRnWGxRNEpnNFVZT21GaXVuM2p0OW5fdWpmQUJyN012RzVPX0UzR2pJVHF2T0U4V2hhRGpOLXhFMkpEdGVBYU1GWTNPbzFwV25oRmdEYWctdnpiMFRQSnNIcWpqRU4xeU1FdHRYVnZNZ0HSAVZBVV95cUxOb2lXd0g3aG4wYUQ4RkN4WEh0QlRib1FFemdIWTZNVFdkMVlYUE0xWDdwODNXSUF5WFRaWFZBaXlhdlQ1eWxIMWpMWTJDQnlaSllJY3d1UQ?oc=5",
-      "type": "article",
-      "title": "Michigan Court Pilot Aims To Aid Unrepresented Litigants - Law360",
-      "date": "2026-09-18",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3R3QURDcWFVbTE3TGo5X3VRNE9IWjZZMlJscTlnV0l4M2pEcTdqdlJDVDZiWTZwbU92VHpWRndMQzhfNnRnWGxRNEpnNFVZT21GaXVuM2p0OW5fdWpmQUJyN012RzVPX0UzR2pJVHF2T0U4V2hhRGpOLXhFMkpEdGVBYU1GWTNPbzFwV25oRmdEYWctdnpiMFRQSnNIcWpqRU4xeU1FdHRYVnZNZ0HSAVZBVV95cUxOb2lXd0g3aG4wYUQ4RkN4WEh0QlRib1FFemdIWTZNVFdkMVlYUE0xWDdwODNXSUF5WFRaWFZBaXlhdlQ1eWxIMWpMWTJDQnlaSllJY3d1UQ?oc=5",
-      "snippet": "Michigan Court Pilot Aims To Aid Unrepresented Litigants &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTE1FZVBVckpsaTk2WDJSRVpzeUxaT3Q4MXVaeEl1aWMxTGg4OE4ya0VpcEM2RlMyd1dWa2d3QnJYYTMyRmVRcS1nQS1sQUlGOS1MYnBiOWQ4QjdQTldRTkE1X2V5cWh1T2JMUGc?oc=5",
-      "type": "article",
-      "title": "Appleby receives private equity investment from New Mountain Capital - Law.asia",
-      "date": "2026-09-18",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FZVBVckpsaTk2WDJSRVpzeUxaT3Q4MXVaeEl1aWMxTGg4OE4ya0VpcEM2RlMyd1dWa2d3QnJYYTMyRmVRcS1nQS1sQUlGOS1MYnBiOWQ4QjdQTldRTkE1X2V5cWh1T2JMUGc?oc=5",
-      "snippet": "Appleby receives private equity investment from New Mountain Capital &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeHY4TTY0dDhWbEEtbktNWTJrcXlranpRMHVPdWNpeWRzMHJDUkVBN2JpT3QzR1gxR18xcjhpc3MtWkRGcXhvSjI0bm96YVRZWDdaM2g3Q3hJYjNOYnVVb1JCYmpqVEx2b2F5bzhHR2Ftc0xFV1ZwOVZoRGNCYWg5c2hlSGxNbUlGY1JZa21sQUg5V2htMFFRTmREVC1WeWg0VjhKcE1sYlZMSGFkUWNGQWZROUxXdUxfSmpCTWoxSFk2dHZuZ0EyQksyQ2FJY3ZGUEJHYUtXWHNLdVhMbC04ZUMxX3hEOUg1NDlMZkRZZ3hnZDdwOU1BSVdWZ20yNFF2N2piUzJRbnU?oc=5",
-      "type": "article",
-      "title": "Support Magistrate May Serve Mental Health Nonprofit, But Not Participate in Sexual Violence Event: Judicial Ethics Opinion 26-25 - Law.com",
-      "date": "2026-09-18",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeHY4TTY0dDhWbEEtbktNWTJrcXlranpRMHVPdWNpeWRzMHJDUkVBN2JpT3QzR1gxR18xcjhpc3MtWkRGcXhvSjI0bm96YVRZWDdaM2g3Q3hJYjNOYnVVb1JCYmpqVEx2b2F5bzhHR2Ftc0xFV1ZwOVZoRGNCYWg5c2hlSGxNbUlGY1JZa21sQUg5V2htMFFRTmREVC1WeWg0VjhKcE1sYlZMSGFkUWNGQWZROUxXdUxfSmpCTWoxSFk2dHZuZ0EyQksyQ2FJY3ZGUEJHYUtXWHNLdVhMbC04ZUMxX3hEOUg1NDlMZkRZZ3hnZDdwOU1BSVdWZ20yNFF2N2piUzJRbnU?oc=5",
-      "snippet": "Support Magistrate May Serve Mental Health Nonprofit, But Not Participate in Sexual Violence Event: Judicial Ethics Opinion 26-25 &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlVQbmg1SEtCVzBPZUNlSXl3dWhkNXROZTZLMnFaWW44SGZ1Z09RbTFVZDQ4Qi0xeWR0QjlvM3Z5WEtYMng2cU4yZ0lNUkp3bF9DdkxsaFdOalJuLUF4dFZITndhZ1FXQmUxdkk4ZkRlenhFLU5sWENZYzhiQkhubDU1Y1d0dTRMbzJOYU5Gdw?oc=5",
-      "type": "article",
-      "title": "Lawmakers Take Aim at Private Equity in Healthcare - Globest",
-      "date": "2026-09-18",
-      "source": "Globest",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlVQbmg1SEtCVzBPZUNlSXl3dWhkNXROZTZLMnFaWW44SGZ1Z09RbTFVZDQ4Qi0xeWR0QjlvM3Z5WEtYMng2cU4yZ0lNUkp3bF9DdkxsaFdOalJuLUF4dFZITndhZ1FXQmUxdkk4ZkRlenhFLU5sWENZYzhiQkhubDU1Y1d0dTRMbzJOYU5Gdw?oc=5",
-      "snippet": "Lawmakers Take Aim at Private Equity in Healthcare &nbsp;&nbsp; Globest"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAJBVV95cUxNcmV1cVIzZk52YW1SLUdwS1V0WWV6VVRjeUVldU9RT2FhaXJMRDJuZnd6djVmTmlZdEJnQzNHSG9lNkJ0N0tmUmVCcklfTVhscGdqalF5QVNxekpUUWVrZ0tZM2phS0Z2cFRXY1RWVk5neXIxSERPNXBaVlEwZ0xacnJjWGF2bEdIeDBvSVN2QUVZUmw1WHB3WTBCak1oSnduWnlzV1VFVkhFY1NoX05hYUYzaU9vMFRrWXZpdnRIYk5Ca2VzTl9ORjdTbllNZzh2clBadTVYZ05kRW9Lak1yY1FQd3ZRN3Q4aVd2R3M2SnVzQndydnFJdUpDa25ET0U1VzFUMXpZQ1V5Y2dsZ1l2UzR5bDUyU3JHMGhDdm5SZ3pCWUVlN0tISWxQWk8?oc=5",
-      "type": "article",
-      "title": "Eaton Hudson Launches Legal Industry Practice, Bringing Nearly Four Decades of Workout and Asset Disposition Discipline to Law Firm and Litigation Assets - USA Today",
-      "date": "2026-09-18",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcmV1cVIzZk52YW1SLUdwS1V0WWV6VVRjeUVldU9RT2FhaXJMRDJuZnd6djVmTmlZdEJnQzNHSG9lNkJ0N0tmUmVCcklfTVhscGdqalF5QVNxekpUUWVrZ0tZM2phS0Z2cFRXY1RWVk5neXIxSERPNXBaVlEwZ0xacnJjWGF2bEdIeDBvSVN2QUVZUmw1WHB3WTBCak1oSnduWnlzV1VFVkhFY1NoX05hYUYzaU9vMFRrWXZpdnRIYk5Ca2VzTl9ORjdTbllNZzh2clBadTVYZ05kRW9Lak1yY1FQd3ZRN3Q4aVd2R3M2SnVzQndydnFJdUpDa25ET0U1VzFUMXpZQ1V5Y2dsZ1l2UzR5bDUyU3JHMGhDdm5SZ3pCWUVlN0tISWxQWk8?oc=5",
-      "snippet": "Eaton Hudson Launches Legal Industry Practice, Bringing Nearly Four Decades of Workout and Asset Disposition Discipline to Law Firm and Litigation Assets &nbsp;&nbsp; USA Today"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWFnS18zZjRrdm5xX0pTSnZtXzFtZnhMdkhSdFRSSmZXZlhWUWlYWVU2YW53WDJqTTdYdVBIVURQaVRBaHQ0M0hOWEdDOTd2Z3djUHY4NXRvSHFZaVZpQ0lLZDJobmh1djhDOHZweEY5RmhVYWVJM1doSC1rWVIzQW10a3lQWThZNWtrMGJzYl94VnZSTm5PclNxenZTUDJmUk45Q0gtQ2Q1QmxqOU5YQzdpSkk1Ui1JaC14cVF5TzU?oc=5",
-      "type": "article",
-      "title": "Equal Treatment & College Degree Barriers: The Problem of Disparate Impact Doctrine – AFPI - America First Policy Institute",
-      "date": "2026-09-18",
-      "source": "America First Policy Institute",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWFnS18zZjRrdm5xX0pTSnZtXzFtZnhMdkhSdFRSSmZXZlhWUWlYWVU2YW53WDJqTTdYdVBIVURQaVRBaHQ0M0hOWEdDOTd2Z3djUHY4NXRvSHFZaVZpQ0lLZDJobmh1djhDOHZweEY5RmhVYWVJM1doSC1rWVIzQW10a3lQWThZNWtrMGJzYl94VnZSTm5PclNxenZTUDJmUk45Q0gtQ2Q1QmxqOU5YQzdpSkk1Ui1JaC14cVF5TzU?oc=5",
-      "snippet": "Equal Treatment & College Degree Barriers: The Problem of Disparate Impact Doctrine – AFPI &nbsp;&nbsp; America First Policy Institute"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxQMU9IY3NBclZzSUt2cVlYRUlSNE94dUkwSkJuV1ZPZTI4VzFmTEhuVG9HZl96T1VUdHlEWnFSQmRjZDNHLXRNWnBKYWN0cWd5czJHVERkWkpWaWxyc3Flai1WemY3b1d5eFBUb2RkbUNiV2M4a0dJdE9zWE95Xy1XbWJNNC15TGd6b3Eta0dRZw?oc=5",
-      "type": "article",
-      "title": "The procurement laws no contractor can negotiate away - Business & Financial Times",
-      "date": "2026-09-18",
-      "source": "Business & Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMU9IY3NBclZzSUt2cVlYRUlSNE94dUkwSkJuV1ZPZTI4VzFmTEhuVG9HZl96T1VUdHlEWnFSQmRjZDNHLXRNWnBKYWN0cWd5czJHVERkWkpWaWxyc3Flai1WemY3b1d5eFBUb2RkbUNiV2M4a0dJdE9zWE95Xy1XbWJNNC15TGd6b3Eta0dRZw?oc=5",
-      "snippet": "The procurement laws no contractor can negotiate away &nbsp;&nbsp; Business & Financial Times"
     }
   ]
 }
