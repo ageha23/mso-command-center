@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-10-09T17:22:27.864254+00:00",
+  "lastRun": "2026-10-10T16:07:58.742241+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 16,
+  "addedThisRun": 7,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxNOF9WcUNSVkFGYjVQcUxaTC1hNnEwRk9va1NkVi1CSlMzQm5kaFVibWY3QzUycDZwRkVtTzd0V2JoZXFJajR2cHdtXzV1UFRFYnRnXzlxWWh6cVVjVnVnczR5eTdLUFpHS3RoZ1p2djRlX0dDY1d2dUJHWExZZjBtWWhLcGJ0cUNhcHgtSjNGY3FsQQ?oc=5",
+      "type": "article",
+      "title": "The Envelope and the Letter: Anonymous AI Chat and the Practice of Law - New York State Bar Association",
+      "date": "2026-10-10",
+      "source": "New York State Bar Association",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOF9WcUNSVkFGYjVQcUxaTC1hNnEwRk9va1NkVi1CSlMzQm5kaFVibWY3QzUycDZwRkVtTzd0V2JoZXFJajR2cHdtXzV1UFRFYnRnXzlxWWh6cVVjVnVnczR5eTdLUFpHS3RoZ1p2djRlX0dDY1d2dUJHWExZZjBtWWhLcGJ0cUNhcHgtSjNGY3FsQQ?oc=5",
+      "snippet": "The Envelope and the Letter: Anonymous AI Chat and the Practice of Law &nbsp;&nbsp; New York State Bar Association"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXUtNWFyQVNMYm1pZkg4NURfX25laVlqeFFQNk9Fai1mUFR6WWtCeUFOR1I4TEJiRVlGMlFZSkJwT0xGNVpvQUlkVHZjOV9HSlFZRG1pZ2RnVkNuaUFkck5NWE82VkF6WTRjVkx5TlhQSkZHbm5Vb3BUUnlvSEF1QjBB0gGCAUFVX3lxTFBRdHJ3cWhObjRKd0JuQmlCVlE3a2N1emV2V3lLQmVNYXZyLWtXMGtWY0NhSmk5T3QtaUltOU9yT3NWZG5GUTNwem80Y19Yb2FkazhSZ3Vic3p6eVpWblVwZXpyQ0pDaVI2anFzaVRSNENBbm1iR0UyYUluNGtxalRIeHc?oc=5",
+      "type": "article",
+      "title": "Who are Raki and Kimberly McGregor? CMS consultant deals questioned before Hill firing - Charlotte Observer",
+      "date": "2026-10-10",
+      "source": "Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXUtNWFyQVNMYm1pZkg4NURfX25laVlqeFFQNk9Fai1mUFR6WWtCeUFOR1I4TEJiRVlGMlFZSkJwT0xGNVpvQUlkVHZjOV9HSlFZRG1pZ2RnVkNuaUFkck5NWE82VkF6WTRjVkx5TlhQSkZHbm5Vb3BUUnlvSEF1QjBB0gGCAUFVX3lxTFBRdHJ3cWhObjRKd0JuQmlCVlE3a2N1emV2V3lLQmVNYXZyLWtXMGtWY0NhSmk5T3QtaUltOU9yT3NWZG5GUTNwem80Y19Yb2FkazhSZ3Vic3p6eVpWblVwZXpyQ0pDaVI2anFzaVRSNENBbm1iR0UyYUluNGtxalRIeHc?oc=5",
+      "snippet": "Who are Raki and Kimberly McGregor? CMS consultant deals questioned before Hill firing &nbsp;&nbsp; Charlotte Observer"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTE1WUlFGWU9QZklyVWplT3d3NUIxT180QldYVWpSaU13SHNjRE9VdkRvWWlOQkVBaHd6Z05GT0xvWHRlTTVyaXZnRVktMkJoTzFfV3dHRmlvWHBXRWtLeTBxUm5tcHdoZXZqbnc?oc=5",
       "type": "article",
@@ -83,6 +101,33 @@
       "source": "ProPublica",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTBOajZMbWxOR3pkYWpMR2JyOHlya19NRGFVeXVFb09KZXB0bkVxTUxycENQdy1sWlBRU0tPTXNNZnVlQ05iTzhNOGNvRFdXa3VqNVZLVkxZRUI5a0NWSmtzRXItNjh0Mm5iRHR3WGFhOWt6T05hdjJrdjdHaFhQaXdMTkhzTGhEZ1FGUmVkZw?oc=5",
       "snippet": "The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official &nbsp;&nbsp; ProPublica"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxObUVMRlpJMTY0a2FGZWw3bjNPVXphMndubHhlZVZ0aU44ay02akpuMFRtVXVYWWNDTGNCLVVUNWJ3SXI0Zm9qRmQwNEdlVS1DNThGTHE4eHZaUVBlMG1ubVdReE5YbTFHTmd3NWdMQ2E0WVotaWFxYXJKS1Q1N25iZ1RqN3BaOVBOQktGdnVnWDhQWlNVTUhBSk0zVG8yQ05wN3pxSkFxd3lXNUkyOUlHcnU0SkdpSE0?oc=5",
+      "type": "article",
+      "title": "Kirkland Hides Profits as Big Law Clients Scrutinize Legal Costs - Bloomberg Law News",
+      "date": "2026-10-09",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUVMRlpJMTY0a2FGZWw3bjNPVXphMndubHhlZVZ0aU44ay02akpuMFRtVXVYWWNDTGNCLVVUNWJ3SXI0Zm9qRmQwNEdlVS1DNThGTHE4eHZaUVBlMG1ubVdReE5YbTFHTmd3NWdMQ2E0WVotaWFxYXJKS1Q1N25iZ1RqN3BaOVBOQktGdnVnWDhQWlNVTUhBSk0zVG8yQ05wN3pxSkFxd3lXNUkyOUlHcnU0SkdpSE0?oc=5",
+      "snippet": "Kirkland Hides Profits as Big Law Clients Scrutinize Legal Costs &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWZyTFAwdU54TFpkUHc3YWowcG9xNTYxQ1NOWWlEVGc3UXNEUlVHYVFQcF9jeU43bkNZcmc1cUJQQUVvOURfWDNzSHFWT0dFcW9oWTNHa0g3dlpOcG84cF9Uc0NLaUtpbjJPZjlINWZGSS1jeXQzYzl4T1E1dndlRVBMWQ?oc=5",
+      "type": "article",
+      "title": "Nippon Life v. OpenAI and the Future of AI Legal Work - Tech Policy Press",
+      "date": "2026-10-09",
+      "source": "Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWZyTFAwdU54TFpkUHc3YWowcG9xNTYxQ1NOWWlEVGc3UXNEUlVHYVFQcF9jeU43bkNZcmc1cUJQQUVvOURfWDNzSHFWT0dFcW9oWTNHa0g3dlpOcG84cF9Uc0NLaUtpbjJPZjlINWZGSS1jeXQzYzl4T1E1dndlRVBMWQ?oc=5",
+      "snippet": "Nippon Life v. OpenAI and the Future of AI Legal Work &nbsp;&nbsp; Tech Policy Press"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNZWXJhQnpnVmVWZC1waThGMU5VZ0JUaVhVbzVwbXdRV2xjaVpFWVBQR21YdlAzV05GYXIwTjZ1VjZMcng3S1RCdHFZSGtHREdUNS1WTi1jUlREOWRMSWZnN2RweUR0dWxyTFlFaGNxTXQ1blhZOC1UZEFCOGNmYUZ0dkxRTGt6M3pDSFlhMHl3b1FyWnlRNVU1NjM0VS00M2w0cWpYd9IBVkFVX3lxTFBsaTNYM1VfX2ZXT0lfSnhLQ0pjb01Ob3pWLXdnNzh0T1VxSm9MZHJGWDNKNHJjcVNzM2dPclk1dVdKVzR4VjBla19PZzYwWFk4V1YwUHpn?oc=5",
+      "type": "article",
+      "title": "Televangelist Tells Mich. Jury Network Owner Was 'Obnoxious' - Law360",
+      "date": "2026-10-09",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNZWXJhQnpnVmVWZC1waThGMU5VZ0JUaVhVbzVwbXdRV2xjaVpFWVBQR21YdlAzV05GYXIwTjZ1VjZMcng3S1RCdHFZSGtHREdUNS1WTi1jUlREOWRMSWZnN2RweUR0dWxyTFlFaGNxTXQ1blhZOC1UZEFCOGNmYUZ0dkxRTGt6M3pDSFlhMHl3b1FyWnlRNVU1NjM0VS00M2w0cWpYd9IBVkFVX3lxTFBsaTNYM1VfX2ZXT0lfSnhLQ0pjb01Ob3pWLXdnNzh0T1VxSm9MZHJGWDNKNHJjcVNzM2dPclk1dVdKVzR4VjBla19PZzYwWFk4V1YwUHpn?oc=5",
+      "snippet": "Televangelist Tells Mich. Jury Network Owner Was 'Obnoxious' &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFJvM3MtV0kzaHhvM0dsMU1LOFVfLWF6aGRNU2RfNm9IMFJHOHl6UmhUMWJrUDhacVBweUxtZDJydVo1bFpIekZWZ204RGttekNXemtxZ2VpZFJPaDIybWV6MEZjckg1YWdpdEQ4N3hYUmltTl9IM1d2QkNGbFUyUUtGNHlxb1BkbTFCM2h4TW50LWZVT3hpbnZjb1Exck9Yazk5ZUF1VjZvU1RVbFp0WkhQM0U5ZDdi?oc=5",
@@ -191,6 +236,15 @@
       "source": "Lexology",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNy0zX3VyWmZoZmhOaHlNR1Y4Y1NMWHBWdlQ3SFkyT054cFJWUjRQSUNybG5DYjhDdHdVdEtVRWNqWjZWZHQ4UW1HMWtwX3d1bHYweTY5RXhJa1hTT25LaThXX040LVJKakhsTEVIdlh2SEdUcExzQlNfR3BYQUtaZkY3ZjhWVHYxek5V?oc=5",
       "snippet": "Context is centre stage: Key takeaways from ALPMA 2026 &nbsp;&nbsp; Lexology"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxONlZUUk9fWUdaellxWVJPa1JHNVFUVHVlbVJsYXNVbnM3VElSdDZ0UGFUMnRhY2RxdDluSjJWMHVvbzBWVXBhZHQycnBzUlJnWXVYUWMtV0xEUHU2aEM2NDZ0c2hFb1dlTXBTUGhSYl9pVm5pYXJQbFdoVTlXbjJ0T0FLQmE5MG91TktERjBHcHltZw?oc=5",
+      "type": "article",
+      "title": "Wragg Mark-Bell appoints new operations director - Business Crack",
+      "date": "2026-10-08",
+      "source": "Business Crack",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlZUUk9fWUdaellxWVJPa1JHNVFUVHVlbVJsYXNVbnM3VElSdDZ0UGFUMnRhY2RxdDluSjJWMHVvbzBWVXBhZHQycnBzUlJnWXVYUWMtV0xEUHU2aEM2NDZ0c2hFb1dlTXBTUGhSYl9pVm5pYXJQbFdoVTlXbjJ0T0FLQmE5MG91TktERjBHcHltZw?oc=5",
+      "snippet": "Wragg Mark-Bell appoints new operations director &nbsp;&nbsp; Business Crack"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUpLUThaS1JQQVJObnE1OTVsblJXUGNWaGJ5OHJrTkpQT3FFbllsMkhxZW9mM0duMmNFNm5nVHFMbDh2MDB6ajlLejFBT1NZd1pZYWduY3lHSjVRLWZEeUh0UXhmZ29uMGNDWks4MXh3dlBneUlvZmY2el92dUdYTll0S01GQ21qdjl2U2NNQTBOTlQ5M3JpS3NQdGRERkVTQk9LdS1ObEtOcjBHX2FoVWdMak9GcnlORmFrVTJJNGxVMzVaRmg0LQ?oc=5",
@@ -362,6 +416,15 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVZGZHZDNXMtdHJlbjlXYm1iRDJRYkJsLXQ4aTNHX29SMGl4TmxXSzlSbk9XVGJFYzladWg0REI0T3pwc1NoMGM2YVAwR0pDcEd3TUlra0Zpb2lvZW4zdko2SUx6cmxzOUZmVTdCbDl1VE5GTWZXSVJnSXVVV3AyQThYSkRDNFdsZnBTalJlRWYzSXR6aHk5YURBemFYYWk4YmfSAVZBVV95cUxOQTNQd2w2S1ZVSm45ZC16d3QwVmVacFVxc3EwX1dNWTNDcU9YcHozNUxKZ094T1JUc08tYkpac013N1Z1VV9lTl85M3pMcTRuTFR3Wm1yQQ?oc=5",
       "snippet": "Texas Apartment Owner Hits Ch. 11 With Over $50M In Debt &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmZXVTEwcmtGaFMwQXFoUXRicDQ0dmFQR2FjN3Z4dkpTaHE1VmxPR190VG9GSWIzTHdTRjQ4eUZjOEM0UjF2WGN5aXpCQmhqX0o3R0I0RUh0X1hmMHZEOV81a1NBQkFscFItWW83ZUxLaUMyQk1XcGZtb3lTckNRUlJyRzk4V0NJTTVvU3c0SngxTGNmVVRvQ002WVhFbnFfR05wLTFiVGoxbDhRWWZnMg?oc=5",
+      "type": "article",
+      "title": "Private Equity’s Longer Hold Period May Be Creating An Overlooked IP Opportunity - Law.com",
+      "date": "2026-10-07",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmZXVTEwcmtGaFMwQXFoUXRicDQ0dmFQR2FjN3Z4dkpTaHE1VmxPR190VG9GSWIzTHdTRjQ4eUZjOEM0UjF2WGN5aXpCQmhqX0o3R0I0RUh0X1hmMHZEOV81a1NBQkFscFItWW83ZUxLaUMyQk1XcGZtb3lTckNRUlJyRzk4V0NJTTVvU3c0SngxTGNmVVRvQ002WVhFbnFfR05wLTFiVGoxbDhRWWZnMg?oc=5",
+      "snippet": "Private Equity’s Longer Hold Period May Be Creating An Overlooked IP Opportunity &nbsp;&nbsp; Law.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EWmwxdEgxSWxDUnF4RFB3eGdOaFhFbS1XX0haN2ZzQm9keDdLUWIxOFlNdklaMVo1U1RJY3NHeUpIMXE3T3NMa2NPUmlqdGVrdmFzU2M5LU1jWVNYalRleVJvcw?oc=5",
@@ -1289,69 +1352,6 @@
       "source": "law.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZ3VE10YV9vR2JHQ3JoN0tJa0ptS21nazRoZmJEZXhLOS1wTFlyTVpWcHpXMUt2T2VveXROeC03aF9MNnVOWFBySEJZLWsxRzRZaUczUFd3cm9FVTJOVmgzaG9pR19tWnVncXlmWmdXQTQyUUE2V0g4SXdXYlc1cW91aHFfM2UtYzFGOXF6Z0xUN2F3Q0lISHo1OVl0WDMzbzVR?oc=5",
       "snippet": "Your Law Firm May Soon Have an MSO. Here’s What That Means. &nbsp;&nbsp; law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOXZQWFh5eXJwYkRRMHdneURNWVViejdKbERkOTFNcUdyQkJySmg2a1RhWERoRzFJcmw5TEJaWVVYbnNqemNwTWtCMXEyNE1KU1NrNUVVWE1iZTlXdE5jdVAxeHNUVTBYXzNiQlBkaTAtbFdUcDN5Tlo2bFRZYVFLS2xsMWJWTEUyazc1MGV4aGl4bE4wVUlXdXVGZzlUd0xIZUVnYldiTnFJS0JtVGQwWktqX21Va3VDXzl5V1dUaER4VW1oYVBDLXRLay1rbFVaNHRjVTNfV08xX250djNKUEVEUWxGeVdCdTJWWFNJOThUeXJOTGc?oc=5",
-      "type": "article",
-      "title": "From Oregon to Washington DC: Federal Bill Modeled on State Law Seeks Nationwide Ban on Corporate Practice of Medicine - Quarles & Brady LLP",
-      "date": "2026-09-28",
-      "source": "Quarles & Brady LLP",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOXZQWFh5eXJwYkRRMHdneURNWVViejdKbERkOTFNcUdyQkJySmg2a1RhWERoRzFJcmw5TEJaWVVYbnNqemNwTWtCMXEyNE1KU1NrNUVVWE1iZTlXdE5jdVAxeHNUVTBYXzNiQlBkaTAtbFdUcDN5Tlo2bFRZYVFLS2xsMWJWTEUyazc1MGV4aGl4bE4wVUlXdXVGZzlUd0xIZUVnYldiTnFJS0JtVGQwWktqX21Va3VDXzl5V1dUaER4VW1oYVBDLXRLay1rbFVaNHRjVTNfV08xX250djNKUEVEUWxGeVdCdTJWWFNJOThUeXJOTGc?oc=5",
-      "snippet": "From Oregon to Washington DC: Federal Bill Modeled on State Law Seeks Nationwide Ban on Corporate Practice of Medicine &nbsp;&nbsp; Quarles & Brady LLP"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiogJBVV95cUxOelk3dlZBS3NOVGwzNnFialhFMjNteWFST09yYUNGSV91c2plSjZHZ20yT2k4YnFpODVHMTNHc2s2bVI4UXVQSkNwa2ZzdkhzczN3VGhoZGdaT1BVd0hDSWNjOEVyaXJfVU5MVG5ETlY1aV9IODlsdWROM0ZVajcyM3BtcG5ZSy02V3poWm96OC1ZVDNpbnBzSFQwWWpNdzJuVU9fNHdyZXMwRHg3WWhvQXFaa2tRMzExNW1ld2s0MFl2eU1iN3JINUxuTFVkWEp5VUlMQmZmZXNYSGRlZE1SeU1CNFR3NXZJODBCM1c0N3B5OElOaDNkbW1vSVhuNUxKcTMtU0JiOUR5WE00aUlTc2ktbDRsaFFNaEs5U3ZnSkhuUQ?oc=5",
-      "type": "article",
-      "title": "Comment Period Closes on California OHCA’s Proposed Emergency Regulations Expanding Private Equity, Hedge Fund, and MSO Reporting in Health Care Transactions - ebglaw.com",
-      "date": "2026-09-28",
-      "source": "ebglaw.com",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOelk3dlZBS3NOVGwzNnFialhFMjNteWFST09yYUNGSV91c2plSjZHZ20yT2k4YnFpODVHMTNHc2s2bVI4UXVQSkNwa2ZzdkhzczN3VGhoZGdaT1BVd0hDSWNjOEVyaXJfVU5MVG5ETlY1aV9IODlsdWROM0ZVajcyM3BtcG5ZSy02V3poWm96OC1ZVDNpbnBzSFQwWWpNdzJuVU9fNHdyZXMwRHg3WWhvQXFaa2tRMzExNW1ld2s0MFl2eU1iN3JINUxuTFVkWEp5VUlMQmZmZXNYSGRlZE1SeU1CNFR3NXZJODBCM1c0N3B5OElOaDNkbW1vSVhuNUxKcTMtU0JiOUR5WE00aUlTc2ktbDRsaFFNaEs5U3ZnSkhuUQ?oc=5",
-      "snippet": "Comment Period Closes on California OHCA’s Proposed Emergency Regulations Expanding Private Equity, Hedge Fund, and MSO Reporting in Health Care Transactions &nbsp;&nbsp; ebglaw.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTQ4X01WWlQyaHptQ04zeV9ZRDZZazZDQTJES0drbDRvQzlFU3ctZTJ0WWx5RndXSHczaGRZY1B2blZxRlVLUGMyNDZOZEhwdVBHQzJ2STltNkttSFltSVdPT3JtemRVdjBjMTV0OFdCLUVJS3E5MTNhb2Z5Y3psUnZTRFIwZFJkektfRTlzUFdoZG5NYjVXX3NNeVc4V0FsTGRPR0VPVk8xMkxwN1VIemdveFdhZEVGcmtSRzhnUWNBcnhXX2J2ZC1SY3hka3gtS0w1aXNFNXJaeExhN3hhWGpxY1lMM2UwTEhHVFJrdkdscGM?oc=5",
-      "type": "article",
-      "title": "Akin, an Elite Global Law Firm - akingump.com",
-      "date": "2026-09-28",
-      "source": "akingump.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTQ4X01WWlQyaHptQ04zeV9ZRDZZazZDQTJES0drbDRvQzlFU3ctZTJ0WWx5RndXSHczaGRZY1B2blZxRlVLUGMyNDZOZEhwdVBHQzJ2STltNkttSFltSVdPT3JtemRVdjBjMTV0OFdCLUVJS3E5MTNhb2Z5Y3psUnZTRFIwZFJkektfRTlzUFdoZG5NYjVXX3NNeVc4V0FsTGRPR0VPVk8xMkxwN1VIemdveFdhZEVGcmtSRzhnUWNBcnhXX2J2ZC1SY3hka3gtS0w1aXNFNXJaeExhN3hhWGpxY1lMM2UwTEhHVFJrdkdscGM?oc=5",
-      "snippet": "Akin, an Elite Global Law Firm &nbsp;&nbsp; akingump.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxQRldvSlZaMEQ4eGM3em9UdU96YW9rakUwak1FbDltSldTVmxNUzBDRzdTX0xDOXB6aDdQZlhZcVZ1MUV3YTFPc3NaekpkR2d3YWIzTHFaTU0zXzZuTnJXY29zS3hXVGlPVF9YUk10UWlUc1pZdmRpN1pzMUx6N2MzNl9TdnNxY3JXVWRScm91TTNYb1otU0s2elhaM2ZncllSaXpDLVZiQW5XQ1ozeHc?oc=5",
-      "type": "article",
-      "title": "Akin hires investment management duo from White & Case, Morgan Lewis - Asia Legal Business",
-      "date": "2026-09-28",
-      "source": "Asia Legal Business",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRldvSlZaMEQ4eGM3em9UdU96YW9rakUwak1FbDltSldTVmxNUzBDRzdTX0xDOXB6aDdQZlhZcVZ1MUV3YTFPc3NaekpkR2d3YWIzTHFaTU0zXzZuTnJXY29zS3hXVGlPVF9YUk10UWlUc1pZdmRpN1pzMUx6N2MzNl9TdnNxY3JXVWRScm91TTNYb1otU0s2elhaM2ZncllSaXpDLVZiQW5XQ1ozeHc?oc=5",
-      "snippet": "Akin hires investment management duo from White & Case, Morgan Lewis &nbsp;&nbsp; Asia Legal Business"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkNHcXRCYXp0cTZmUktsOGRoTWVzZXFpWG03eUZfN3BfSUJuVDV1Vy1IVjJRekJrTG0wcE1ULTFEa29KNGNBN2hneGRZcHlOTjhGN3RQQ0daZWI5WXNQS0Jtb2VrcmRhQnUwWDltaXlHTmR6RnhvbUhjUVBjNUlxTVlLUmhUUG9hMjlEWTN1NjZnaGRvOUpfaTlBdUhPVm1uejRoSW43bHJOOGhGdldRSzJLRDZrMFRPb2lDRUZVY0RjZlVMaHZwWdIB0AFBVV95cUxPSjVtUEQ5bXFzdVBxVXZpZzBvUUdqMWZ3VzRxNDI3RmxSbjhLcmZSdjMxTTZyVU4xS1VVTGNGUmdXbHJ3TWg0bldWbU5ldFNhcWE3WW0tb0ZvMDBiRDVwVGZoYlllT1lTMWNIX0l0VkljSmE0dnNuTGxiTFpfNmhpQUlLTV9YLUQzT3F2VWJ3dU1aR29EdTI0XzBhOUM0SUZsTHM4YjhSS2prOW5XaU90NzJ5eFlWZ0tKdk9adFE1RWdrTF9YVjJ3NndIcDVLZHRY?oc=5",
-      "type": "article",
-      "title": "Tata Trusts Pitch Tata Sons Restructuring As Alternative To RBI's Listing Requirement - NDTV Profit",
-      "date": "2026-09-28",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkNHcXRCYXp0cTZmUktsOGRoTWVzZXFpWG03eUZfN3BfSUJuVDV1Vy1IVjJRekJrTG0wcE1ULTFEa29KNGNBN2hneGRZcHlOTjhGN3RQQ0daZWI5WXNQS0Jtb2VrcmRhQnUwWDltaXlHTmR6RnhvbUhjUVBjNUlxTVlLUmhUUG9hMjlEWTN1NjZnaGRvOUpfaTlBdUhPVm1uejRoSW43bHJOOGhGdldRSzJLRDZrMFRPb2lDRUZVY0RjZlVMaHZwWdIB0AFBVV95cUxPSjVtUEQ5bXFzdVBxVXZpZzBvUUdqMWZ3VzRxNDI3RmxSbjhLcmZSdjMxTTZyVU4xS1VVTGNGUmdXbHJ3TWg0bldWbU5ldFNhcWE3WW0tb0ZvMDBiRDVwVGZoYlllT1lTMWNIX0l0VkljSmE0dnNuTGxiTFpfNmhpQUlLTV9YLUQzT3F2VWJ3dU1aR29EdTI0XzBhOUM0SUZsTHM4YjhSS2prOW5XaU90NzJ5eFlWZ0tKdk9adFE1RWdrTF9YVjJ3NndIcDVLZHRY?oc=5",
-      "snippet": "Tata Trusts Pitch Tata Sons Restructuring As Alternative To RBI's Listing Requirement &nbsp;&nbsp; NDTV Profit"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WR3A4RGc5ZDcwV3Z0aGxkbUw0WFVTMXRHaE9rZ0NiSmRCc3N5TWk5ajdaLUtac20xUEdueGNKMnZCanpkdnNrRGpPT19zOGJmLXk5LWpn?oc=5",
-      "type": "article",
-      "title": "As the schedule for moving into the third new city has been delayed one after another, the governmen.. - 매일경제",
-      "date": "2026-09-28",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WR3A4RGc5ZDcwV3Z0aGxkbUw0WFVTMXRHaE9rZ0NiSmRCc3N5TWk5ajdaLUtac20xUEdueGNKMnZCanpkdnNrRGpPT19zOGJmLXk5LWpn?oc=5",
-      "snippet": "As the schedule for moving into the third new city has been delayed one after another, the governmen.. &nbsp;&nbsp; 매일경제"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxNNl9CY1NGZVprbkhRR3FTQWtYOG4zTUpad2VuZzBoaTRmTURmNk1CcjhBcm1xLTNXQ2k0cFR4RlIxd3JaOW42RXE0YlFwOFM2WVd1N01rNWZacGp2VGwyczNJUVdMTnh6RW82LVZiTzRvUEZWRnQ2MGFWRWR3a3FpVzVYSms3aUZTZVNnMnlWMVI2VTh1cnc?oc=5",
-      "type": "article",
-      "title": "Bill Would Devastate Healthcare Investing, Ban Common MSOs Structure, Force Divestiture. Is ABA Next? - Breaking News ABA",
-      "date": "2026-09-28",
-      "source": "Breaking News ABA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNl9CY1NGZVprbkhRR3FTQWtYOG4zTUpad2VuZzBoaTRmTURmNk1CcjhBcm1xLTNXQ2k0cFR4RlIxd3JaOW42RXE0YlFwOFM2WVd1N01rNWZacGp2VGwyczNJUVdMTnh6RW82LVZiTzRvUEZWRnQ2MGFWRWR3a3FpVzVYSms3aUZTZVNnMnlWMVI2VTh1cnc?oc=5",
-      "snippet": "Bill Would Devastate Healthcare Investing, Ban Common MSOs Structure, Force Divestiture. Is ABA Next? &nbsp;&nbsp; Breaking News ABA"
     }
   ]
 }
