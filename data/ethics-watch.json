@@ -1,8 +1,17 @@
 {
-  "lastRun": "2026-10-10T16:07:58.742241+00:00",
+  "lastRun": "2026-10-11T16:34:54.177046+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 7,
+  "addedThisRun": 10,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVM2SmN1MWxpVkFpUm9RLURIT3BFYnQ5Yk1QNUZrNDE1czdsNHZIeWNlWFB1SWh0aUswVjFXRl83dW9mSFlDVG5STjJQb1lnellxeDctT0pxNXd0R0Jod2MteVBvcTFIMVhPcU56N09PYWVwX0tLQ19YZVd0OGtzVHNoSG83QVUxQW0zbmt3QzhzdlJOLXZkdnhFOGY3eG5DRV9rVzVUYW4?oc=5",
+      "type": "article",
+      "title": "2026 Top Workplaces — Small Employers - San Antonio Express-News",
+      "date": "2026-10-11",
+      "source": "San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVM2SmN1MWxpVkFpUm9RLURIT3BFYnQ5Yk1QNUZrNDE1czdsNHZIeWNlWFB1SWh0aUswVjFXRl83dW9mSFlDVG5STjJQb1lnellxeDctT0pxNXd0R0Jod2MteVBvcTFIMVhPcU56N09PYWVwX0tLQ19YZVd0OGtzVHNoSG83QVUxQW0zbmt3QzhzdlJOLXZkdnhFOGY3eG5DRV9rVzVUYW4?oc=5",
+      "snippet": "2026 Top Workplaces — Small Employers &nbsp;&nbsp; San Antonio Express-News"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxNOF9WcUNSVkFGYjVQcUxaTC1hNnEwRk9va1NkVi1CSlMzQm5kaFVibWY3QzUycDZwRkVtTzd0V2JoZXFJajR2cHdtXzV1UFRFYnRnXzlxWWh6cVVjVnVnczR5eTdLUFpHS3RoZ1p2djRlX0dDY1d2dUJHWExZZjBtWWhLcGJ0cUNhcHgtSjNGY3FsQQ?oc=5",
       "type": "article",
@@ -20,6 +29,15 @@
       "source": "Charlotte Observer",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXUtNWFyQVNMYm1pZkg4NURfX25laVlqeFFQNk9Fai1mUFR6WWtCeUFOR1I4TEJiRVlGMlFZSkJwT0xGNVpvQUlkVHZjOV9HSlFZRG1pZ2RnVkNuaUFkck5NWE82VkF6WTRjVkx5TlhQSkZHbm5Vb3BUUnlvSEF1QjBB0gGCAUFVX3lxTFBRdHJ3cWhObjRKd0JuQmlCVlE3a2N1emV2V3lLQmVNYXZyLWtXMGtWY0NhSmk5T3QtaUltOU9yT3NWZG5GUTNwem80Y19Yb2FkazhSZ3Vic3p6eVpWblVwZXpyQ0pDaVI2anFzaVRSNENBbm1iR0UyYUluNGtxalRIeHc?oc=5",
       "snippet": "Who are Raki and Kimberly McGregor? CMS consultant deals questioned before Hill firing &nbsp;&nbsp; Charlotte Observer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAJBVV95cUxOVmVGX0UyWGVjZzhGWVMzQ2hCNHhlcnZKdnZrdWJ6bDhtSDF0YzJqVVo2M1hLOVVwdTJia3pqT0paZHZ5SFJrbXQ3c3JyRUUtM0pCVmtGRGNlRjlGMzVTZTdpX1I0YnpCRHNWb2luYUthaEw4WUQ0ZkZtRzBiYk9XM0o5MS1LTkJmckdfUGg4LVVTVUY1QkZlS0xRNnZqaHlDajJYN1B5d0p3VjFPeUNDVGp3bThTRkZwNC1mNjZPLVdEc2s1MUZKYkRKN2otNzNqX3pQdUpWbFI4cE04ZlhROGJ2MXpmdWZwdUFWSEd0cThCV2JmVmt0ejNiNHk4WGt2ekxiejJ1c0J5U0xsRWZjMGZBNF9fc2tBaWhrem5fVkp6Nk5FaElqczIxVE0?oc=5",
+      "type": "article",
+      "title": "Eaton Hudson Launches Legal Industry Practice, Bringing Nearly Four Decades of Workout and Asset Disposition Discipline to Law Firm and Litigation Assets - USA Today",
+      "date": "2026-10-10",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOVmVGX0UyWGVjZzhGWVMzQ2hCNHhlcnZKdnZrdWJ6bDhtSDF0YzJqVVo2M1hLOVVwdTJia3pqT0paZHZ5SFJrbXQ3c3JyRUUtM0pCVmtGRGNlRjlGMzVTZTdpX1I0YnpCRHNWb2luYUthaEw4WUQ0ZkZtRzBiYk9XM0o5MS1LTkJmckdfUGg4LVVTVUY1QkZlS0xRNnZqaHlDajJYN1B5d0p3VjFPeUNDVGp3bThTRkZwNC1mNjZPLVdEc2s1MUZKYkRKN2otNzNqX3pQdUpWbFI4cE04ZlhROGJ2MXpmdWZwdUFWSEd0cThCV2JmVmt0ejNiNHk4WGt2ekxiejJ1c0J5U0xsRWZjMGZBNF9fc2tBaWhrem5fVkp6Nk5FaElqczIxVE0?oc=5",
+      "snippet": "Eaton Hudson Launches Legal Industry Practice, Bringing Nearly Four Decades of Workout and Asset Disposition Discipline to Law Firm and Litigation Assets &nbsp;&nbsp; USA Today"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTE1WUlFGWU9QZklyVWplT3d3NUIxT180QldYVWpSaU13SHNjRE9VdkRvWWlOQkVBaHd6Z05GT0xvWHRlTTVyaXZnRVktMkJoTzFfV3dHRmlvWHBXRWtLeTBxUm5tcHdoZXZqbnc?oc=5",
@@ -128,6 +146,42 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNZWXJhQnpnVmVWZC1waThGMU5VZ0JUaVhVbzVwbXdRV2xjaVpFWVBQR21YdlAzV05GYXIwTjZ1VjZMcng3S1RCdHFZSGtHREdUNS1WTi1jUlREOWRMSWZnN2RweUR0dWxyTFlFaGNxTXQ1blhZOC1UZEFCOGNmYUZ0dkxRTGt6M3pDSFlhMHl3b1FyWnlRNVU1NjM0VS00M2w0cWpYd9IBVkFVX3lxTFBsaTNYM1VfX2ZXT0lfSnhLQ0pjb01Ob3pWLXdnNzh0T1VxSm9MZHJGWDNKNHJjcVNzM2dPclk1dVdKVzR4VjBla19PZzYwWFk4V1YwUHpn?oc=5",
       "snippet": "Televangelist Tells Mich. Jury Network Owner Was 'Obnoxious' &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk9BMmVrcnUzTjNJNHAxek5seWtSQTRpallxdThVUl9VZ2xPWjRWa29oS3A3MHFvYTA4MzhFVlZPWFpVRDNJcFF5XzZiRTNCZ0QxenhEM2xSWkV3MWI2bnR6QzBqVmlFajdrTGZLQXE3S0loUzlrbXVWRnV5WmxqTTJja1ZsVEFueGNTZ0F0bmNJN3lwUFh3RGZXZ1FjN2lsdVRROHhtcEtEUjZSTUYtdTVmSERKWkhsdGRlY19zN1VGZWc?oc=5",
+      "type": "article",
+      "title": "After the Standoff: Why New Jersey Must Reform Its Executive Succession Framework - Law.com",
+      "date": "2026-10-09",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk9BMmVrcnUzTjNJNHAxek5seWtSQTRpallxdThVUl9VZ2xPWjRWa29oS3A3MHFvYTA4MzhFVlZPWFpVRDNJcFF5XzZiRTNCZ0QxenhEM2xSWkV3MWI2bnR6QzBqVmlFajdrTGZLQXE3S0loUzlrbXVWRnV5WmxqTTJja1ZsVEFueGNTZ0F0bmNJN3lwUFh3RGZXZ1FjN2lsdVRROHhtcEtEUjZSTUYtdTVmSERKWkhsdGRlY19zN1VGZWc?oc=5",
+      "snippet": "After the Standoff: Why New Jersey Must Reform Its Executive Succession Framework &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFdKWDBqSGsyenJvb0wwTUVUNE94M1MxTmY0NTljZUhkM1puSE0xR0x5ZHVfM1ZCeVMxQzFrbTBtdE1qVklhS2NiWURnYkxTMFFyWi1YQVRaNUpLQ2p6cGFhdS1oclZhVVBJdHdPSy1CV0tlYnNUeVhkN1NOZzNiNUZtMGszT1VVSTRGMUYzdWRMdG5LU3NlSWhuYw?oc=5",
+      "type": "article",
+      "title": "New England Social Impact Winner: Madeleine Rodriguez, Foley Hoag - Law.com",
+      "date": "2026-10-09",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFdKWDBqSGsyenJvb0wwTUVUNE94M1MxTmY0NTljZUhkM1puSE0xR0x5ZHVfM1ZCeVMxQzFrbTBtdE1qVklhS2NiWURnYkxTMFFyWi1YQVRaNUpLQ2p6cGFhdS1oclZhVVBJdHdPSy1CV0tlYnNUeVhkN1NOZzNiNUZtMGszT1VVSTRGMUYzdWRMdG5LU3NlSWhuYw?oc=5",
+      "snippet": "New England Social Impact Winner: Madeleine Rodriguez, Foley Hoag &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "type": "article",
+      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions - Just Security",
+      "date": "2026-10-09",
+      "source": "Just Security",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTE9wYVJpeDZfc0RHUXFyNEpFeVhNSWw5UWdvT21uXzlWTTBEWHhTZVFyb0FJdHlKdXFCTk9jY3RaUDZnNWtSempSQ0QxNVJ4QV9XMUxmbmpkWkdHV2JBcUJSVS1oLWpNZ18tcG4takItOWN1TUVFTHlPUUEzVQ?oc=5",
+      "type": "article",
+      "title": "India - Trade Mark Laws and Regulations 2026 - ICLG",
+      "date": "2026-10-09",
+      "source": "ICLG",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wYVJpeDZfc0RHUXFyNEpFeVhNSWw5UWdvT21uXzlWTTBEWHhTZVFyb0FJdHlKdXFCTk9jY3RaUDZnNWtSempSQ0QxNVJ4QV9XMUxmbmpkWkdHV2JBcUJSVS1oLWpNZ18tcG4takItOWN1TUVFTHlPUUEzVQ?oc=5",
+      "snippet": "India - Trade Mark Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFJvM3MtV0kzaHhvM0dsMU1LOFVfLWF6aGRNU2RfNm9IMFJHOHl6UmhUMWJrUDhacVBweUxtZDJydVo1bFpIekZWZ204RGttekNXemtxZ2VpZFJPaDIybWV6MEZjckg1YWdpdEQ4N3hYUmltTl9IM1d2QkNGbFUyUUtGNHlxb1BkbTFCM2h4TW50LWZVT3hpbnZjb1Exck9Yazk5ZUF1VjZvU1RVbFp0WkhQM0U5ZDdi?oc=5",
@@ -245,6 +299,42 @@
       "source": "Business Crack",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlZUUk9fWUdaellxWVJPa1JHNVFUVHVlbVJsYXNVbnM3VElSdDZ0UGFUMnRhY2RxdDluSjJWMHVvbzBWVXBhZHQycnBzUlJnWXVYUWMtV0xEUHU2aEM2NDZ0c2hFb1dlTXBTUGhSYl9pVm5pYXJQbFdoVTlXbjJ0T0FLQmE5MG91TktERjBHcHltZw?oc=5",
       "snippet": "Wragg Mark-Bell appoints new operations director &nbsp;&nbsp; Business Crack"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUMHk5bHVIc2c5SWRkX1BqSzNsNWQyWUNUeFdhQThfbVU3VUVLbDlxQlEwSlFtZGg1cWRUOUZGWHNwMzZoZlR4VDctbEFBVGpJQ2hvcjlWVWpwVXVN?oc=5",
+      "type": "article",
+      "title": "Unwrapping GIFT City - Law.asia",
+      "date": "2026-10-08",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUMHk5bHVIc2c5SWRkX1BqSzNsNWQyWUNUeFdhQThfbVU3VUVLbDlxQlEwSlFtZGg1cWRUOUZGWHNwMzZoZlR4VDctbEFBVGpJQ2hvcjlWVWpwVXVN?oc=5",
+      "snippet": "Unwrapping GIFT City &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTE5td2JCczN4emUzZEV1SGZKUmNxZkNyajAwWG1ERE11a2VpdHRickNWLWtKSi1xeWV2TGt2VGFnZFVWbWFLUTlrZ194VDU0ZGlFcjNoRnJiMVRma2F6SEJyNmVFejJmYXhMX2c?oc=5",
+      "type": "article",
+      "title": "JSA guides Technopaints on USD52m IPO bid in India - Law.asia",
+      "date": "2026-10-08",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5td2JCczN4emUzZEV1SGZKUmNxZkNyajAwWG1ERE11a2VpdHRickNWLWtKSi1xeWV2TGt2VGFnZFVWbWFLUTlrZ194VDU0ZGlFcjNoRnJiMVRma2F6SEJyNmVFejJmYXhMX2c?oc=5",
+      "snippet": "JSA guides Technopaints on USD52m IPO bid in India &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1FXzF6ZHlObFJPRU9BV0ZObm80ejVBT3pfTTZlR1pHMUg1a1RORi1UcURrbkZkdG1jbDROS2ltOHpDYVlXN3lfLTlTNEh0Z3l1UThwMm05R3NFUUlZLUdTNFpDQUJtWk55aWlEUEFnNHFPLWJsVjNvTk40YVhZN01Jd0hzcm5jRTJSSkpyUC10VlA1TERB?oc=5",
+      "type": "article",
+      "title": "10 of the Best Wealth Management Firms: Well-Known Fiduciary Investment Companies to Consider - WSJ",
+      "date": "2026-10-08",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1FXzF6ZHlObFJPRU9BV0ZObm80ejVBT3pfTTZlR1pHMUg1a1RORi1UcURrbkZkdG1jbDROS2ltOHpDYVlXN3lfLTlTNEh0Z3l1UThwMm05R3NFUUlZLUdTNFpDQUJtWk55aWlEUEFnNHFPLWJsVjNvTk40YVhZN01Jd0hzcm5jRTJSSkpyUC10VlA1TERB?oc=5",
+      "snippet": "10 of the Best Wealth Management Firms: Well-Known Fiduciary Investment Companies to Consider &nbsp;&nbsp; WSJ"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikwJBVV95cUxOaC0zbGF2NFM1MVZPczZDVGJFclFwZ3BDcWdBYmY5ZWpUQ3Vfd2ZLZWEtVnVyLUYtUlM0QmZVanpMazUtSzRONE4zR1c4SThNQjR2dHhlRG50b2VLNkRYQUFXM1RtRkUyVmNqUFJQby1BSXVDTW53M3BQTExrRFVZdC1QOUIzMG9QX1RkSzFxZDZVbE1YTmFVUlpUeFpUTWE3QUh4VGQxMGNWRV8ycHFnLTFGLXc3N1Zfal9BaGpPOHJJUXFzSEZMQVRyamZRdkxCUzFiZm5feU5teXMza2pPczI0SFpZOU5XMVJEWmFMdVc2MGtyeXZSWEZaY1pRV1J0MUxUbzJFYVpQa19DSjV3aWxya9IBmAJBVV95cUxObmJudE5EYnFhVTVPNHlFSmFvSnJrQnRvUFlBWlp0M1RDZjk1M0p4a1JndVRSMnowVTJfT1U5Ym1Tc0R0cmxReUdSbkxMOElOdEdpVzc4Z3R6R0dpR0VRd0tOTXRpNTRMZjBLQmtURTZ4R1U5Z1QwWHpCT0ctVzF5d0FUODFCOEdVT0tsUkdIaDVlaHZDZml6cUwyTVVpRjdvX1dLc0pCVzJLOGQtc053UGllbUJPNUxjYWNDUzZ5UV93ZjZFcFZrVG00V2JrRG9VaFQxXzJDNU9razB5bW13eF9pd2prSHM2WDN4NE5qRThRa3o3R3lTelNMcV9ZU1dsMVQ5SzZzQ2lfNllYTTVYVzBpMUYwZGdH?oc=5",
+      "type": "article",
+      "title": "C. Savva & Associates Outlines Its Advisory Work as Companies and Individuals Adjust to the 2026 Cyprus Tax Reform - The Manila Times",
+      "date": "2026-10-08",
+      "source": "The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOaC0zbGF2NFM1MVZPczZDVGJFclFwZ3BDcWdBYmY5ZWpUQ3Vfd2ZLZWEtVnVyLUYtUlM0QmZVanpMazUtSzRONE4zR1c4SThNQjR2dHhlRG50b2VLNkRYQUFXM1RtRkUyVmNqUFJQby1BSXVDTW53M3BQTExrRFVZdC1QOUIzMG9QX1RkSzFxZDZVbE1YTmFVUlpUeFpUTWE3QUh4VGQxMGNWRV8ycHFnLTFGLXc3N1Zfal9BaGpPOHJJUXFzSEZMQVRyamZRdkxCUzFiZm5feU5teXMza2pPczI0SFpZOU5XMVJEWmFMdVc2MGtyeXZSWEZaY1pRV1J0MUxUbzJFYVpQa19DSjV3aWxya9IBmAJBVV95cUxObmJudE5EYnFhVTVPNHlFSmFvSnJrQnRvUFlBWlp0M1RDZjk1M0p4a1JndVRSMnowVTJfT1U5Ym1Tc0R0cmxReUdSbkxMOElOdEdpVzc4Z3R6R0dpR0VRd0tOTXRpNTRMZjBLQmtURTZ4R1U5Z1QwWHpCT0ctVzF5d0FUODFCOEdVT0tsUkdIaDVlaHZDZml6cUwyTVVpRjdvX1dLc0pCVzJLOGQtc053UGllbUJPNUxjYWNDUzZ5UV93ZjZFcFZrVG00V2JrRG9VaFQxXzJDNU9razB5bW13eF9pd2prSHM2WDN4NE5qRThRa3o3R3lTelNMcV9ZU1dsMVQ5SzZzQ2lfNllYTTVYVzBpMUYwZGdH?oc=5",
+      "snippet": "C. Savva & Associates Outlines Its Advisory Work as Companies and Individuals Adjust to the 2026 Cyprus Tax Reform &nbsp;&nbsp; The Manila Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUpLUThaS1JQQVJObnE1OTVsblJXUGNWaGJ5OHJrTkpQT3FFbllsMkhxZW9mM0duMmNFNm5nVHFMbDh2MDB6ajlLejFBT1NZd1pZYWduY3lHSjVRLWZEeUh0UXhmZ29uMGNDWks4MXh3dlBneUlvZmY2el92dUdYTll0S01GQ21qdjl2U2NNQTBOTlQ5M3JpS3NQdGRERkVTQk9LdS1ObEtOcjBHX2FoVWdMak9GcnlORmFrVTJJNGxVMzVaRmg0LQ?oc=5",
@@ -1262,96 +1352,6 @@
       "source": "Law.asia",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U25MRUVqSXVLVUh3RmxFQmdWMnhoaFozMEZVUWFyMkJrUGwtM2VtR1Z5NWhwT2FkZDNWTmZvb1U0b3lFRExsTDRLbnBzN3ZRdHhVbW9BdmJlZzFZME1HXw?oc=5",
       "snippet": "Philippine practice guide to patent law 2026 &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxQWW5aaWo4Zzh6UGJVTUFqSGVXRlZrTjlPem1TalV0aEt2WVVRcXFVNkpPQTVjR29Na2x4R1ZjZWtfc0dQeFR0ZkQ5NmozQWYzc1BZU0lOazR0d0g2RnJvOTRyMXo3TXRQRlk4MGROSUhiMWxyb0V5Ym1LbU03WGN1VWtvZm10bFNVekJQVGU5M3ZJMmk4ZEFxbk9HNFlPZw?oc=5",
-      "type": "article",
-      "title": "A Lifelong Ban for a Five-Year Tenure: The Constitutional Infirmity of Rule 7, BCI Rules and Rule 16(2), Tribunal Reforms Rules, 2021 - SCC Online",
-      "date": "2026-09-29",
-      "source": "SCC Online",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW5aaWo4Zzh6UGJVTUFqSGVXRlZrTjlPem1TalV0aEt2WVVRcXFVNkpPQTVjR29Na2x4R1ZjZWtfc0dQeFR0ZkQ5NmozQWYzc1BZU0lOazR0d0g2RnJvOTRyMXo3TXRQRlk4MGROSUhiMWxyb0V5Ym1LbU03WGN1VWtvZm10bFNVekJQVGU5M3ZJMmk4ZEFxbk9HNFlPZw?oc=5",
-      "snippet": "A Lifelong Ban for a Five-Year Tenure: The Constitutional Infirmity of Rule 7, BCI Rules and Rule 16(2), Tribunal Reforms Rules, 2021 &nbsp;&nbsp; SCC Online"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTE1weVhvRXJ6eGM5akRqaktoeFZkTEhHYnZYUVNRa01iUUoxQmVOU2VRX0p4UEIzWldpSWZmZkdnNnJrekxSSE11U2padWloLS03MURXOUxmdVRFQUpJODlxMzBvbGplNGRrX3p1cVZiTFhfREtqN1ZjR3RSZw?oc=5",
-      "type": "article",
-      "title": "PE investment in law firms: 6 considerations as MSO market enters next phase - JDSupra",
-      "date": "2026-09-29",
-      "source": "JDSupra",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1weVhvRXJ6eGM5akRqaktoeFZkTEhHYnZYUVNRa01iUUoxQmVOU2VRX0p4UEIzWldpSWZmZkdnNnJrekxSSE11U2padWloLS03MURXOUxmdVRFQUpJODlxMzBvbGplNGRrX3p1cVZiTFhfREtqN1ZjR3RSZw?oc=5",
-      "snippet": "PE investment in law firms: 6 considerations as MSO market enters next phase &nbsp;&nbsp; JDSupra"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpYUHNRdWtzRXBIZlRfZXlFdEo0aXVwMDJWNWNYU1FVbVBEdE00R05WQll5QXgwRlpadU9XWFZWZjJzTVdXRjdHUkcwMGZPLWlvYkdndTllYTVxS1h2UjMyUDhNTjh6QVVfaUxZNE5vbWh1OVVMWXgzVVk2aVRIbkpkdWNxZW1uaThYWlNlOTBBQmgwcGZ0QlFOeTV4eENtX0hUTzI3elNadktPd3FIYg?oc=5",
-      "type": "article",
-      "title": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal - Bloomberg Law News",
-      "date": "2026-09-29",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpYUHNRdWtzRXBIZlRfZXlFdEo0aXVwMDJWNWNYU1FVbVBEdE00R05WQll5QXgwRlpadU9XWFZWZjJzTVdXRjdHUkcwMGZPLWlvYkdndTllYTVxS1h2UjMyUDhNTjh6QVVfaUxZNE5vbWh1OVVMWXgzVVk2aVRIbkpkdWNxZW1uaThYWlNlOTBBQmgwcGZ0QlFOeTV4eENtX0hUTzI3elNadktPd3FIYg?oc=5",
-      "snippet": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQzhkZ2RzRWNFRmdhdFVGSmVQai1SMC1IQUJ6SWtFOEwwTldOZm9RUVlfZ3pGaGJiQkVqbFNNMTdCdDZxZW9SVlJnLVVrNkVfYVQ3ejk3SktESi1xNHNpMmNfejZiUnczVU5wNGhkZ2lrUGhRNmtQcDBrdDN6QlRNbjdmc2E2ZG1XSEFEUDNuRW9QaDNVR3o4SUtndkpzYUdoSEtkc1J1SUdONmVEbkY0bzVNbXcxLWhRWVlWOWxfYmFOT1BVS3M0ZVdRSlViUl9VVHFuX05SRUVxOEhjNmJsNmRwNA?oc=5",
-      "type": "article",
-      "title": "ABS, legal aid and unprecedented change — Ben Kemp on six months as Law Society of Scotland CEO - Law Society of Scotland",
-      "date": "2026-09-29",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQzhkZ2RzRWNFRmdhdFVGSmVQai1SMC1IQUJ6SWtFOEwwTldOZm9RUVlfZ3pGaGJiQkVqbFNNMTdCdDZxZW9SVlJnLVVrNkVfYVQ3ejk3SktESi1xNHNpMmNfejZiUnczVU5wNGhkZ2lrUGhRNmtQcDBrdDN6QlRNbjdmc2E2ZG1XSEFEUDNuRW9QaDNVR3o4SUtndkpzYUdoSEtkc1J1SUdONmVEbkY0bzVNbXcxLWhRWVlWOWxfYmFOT1BVS3M0ZVdRSlViUl9VVHFuX05SRUVxOEhjNmJsNmRwNA?oc=5",
-      "snippet": "ABS, legal aid and unprecedented change — Ben Kemp on six months as Law Society of Scotland CEO &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0w4MEt6VURrT1JfaTM2OGhxTWNHNkQ4Q1oxZmlfb29SWlIzZ0o2WWlqSi1lbmZMdGR0NS04a3V4bXlfZmY4UnZTZFFfck9hdTRmVk4tQmZVbjE3R0JmdG96dFo2clhpOENCOGV3UTB4TG55bEljM0pNZFF1SlZCbHNjazRSUTJlbUZoeWdBajBMT2ZoaGk1cllzY0NuZmFu?oc=5",
-      "type": "article",
-      "title": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal - Bloomberg Law News",
-      "date": "2026-09-29",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0w4MEt6VURrT1JfaTM2OGhxTWNHNkQ4Q1oxZmlfb29SWlIzZ0o2WWlqSi1lbmZMdGR0NS04a3V4bXlfZmY4UnZTZFFfck9hdTRmVk4tQmZVbjE3R0JmdG96dFo2clhpOENCOGV3UTB4TG55bEljM0pNZFF1SlZCbHNjazRSUTJlbUZoeWdBajBMT2ZoaGk1cllzY0NuZmFu?oc=5",
-      "snippet": "Partners OK Pay Cuts in Massumi + Consoli Private Equity Deal &nbsp;&nbsp; Bloomberg Law News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTZLa25yaVRwZTlmZk1ORHF4VWlRTUs4bGpMZWl6NTBJcG1GMGQ5eGFmSTMyT3JnOVdHT0RZUFZzcFgza2JORWNlbzlsRVotaWFvbkM3dnlwZUJaS19CYmVoekpVaVlmdlJpb3BTNUUzZFlFQzRXRmc4VnJVUmVqZEloS3pIMmc0X085MWpzcVZGa01YblhrT1VCSVdvNTBrVUlQZmwySDktMkxWR1E4VGF6Z2hVN0xu0gFWQVVfeXFMUDExUms2SGp6cDdHZ2V3T28tVkc3Q1pGU3BZbHE1LWlDNEV6NWVEemxmWmM2WWJlZ2NDdVdpVUZTb29VOWlRX0daMndtc05YWEFrZzRURnc?oc=5",
-      "type": "article",
-      "title": "How Restitution Became Del. Chancery Court's Middle Ground - Law360",
-      "date": "2026-09-29",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTZLa25yaVRwZTlmZk1ORHF4VWlRTUs4bGpMZWl6NTBJcG1GMGQ5eGFmSTMyT3JnOVdHT0RZUFZzcFgza2JORWNlbzlsRVotaWFvbkM3dnlwZUJaS19CYmVoekpVaVlmdlJpb3BTNUUzZFlFQzRXRmc4VnJVUmVqZEloS3pIMmc0X085MWpzcVZGa01YblhrT1VCSVdvNTBrVUlQZmwySDktMkxWR1E4VGF6Z2hVN0xu0gFWQVVfeXFMUDExUms2SGp6cDdHZ2V3T28tVkc3Q1pGU3BZbHE1LWlDNEV6NWVEemxmWmM2WWJlZ2NDdVdpVUZTb29VOWlRX0daMndtc05YWEFrZzRURnc?oc=5",
-      "snippet": "How Restitution Became Del. Chancery Court's Middle Ground &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMickFVX3lxTE5LdjFvMXpsaWJZczR5dHVlTzNkOVlPQVRkajFBSlBiQktva0VOMU9BSjhFeENMOGdTREdLMDlsTXVoRUs2aDlCbndoSTJBMjgtd0J1YWdhQ0EyWlBnek5RSHhGYXJZNTNpZUtfSWZ2M09Hdw?oc=5",
-      "type": "article",
-      "title": "[2026 Alternative Investment Forum] \"A Complete Corporate Overhaul Is Needed for Successful AX\" - 아시아경제",
-      "date": "2026-09-29",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LdjFvMXpsaWJZczR5dHVlTzNkOVlPQVRkajFBSlBiQktva0VOMU9BSjhFeENMOGdTREdLMDlsTXVoRUs2aDlCbndoSTJBMjgtd0J1YWdhQ0EyWlBnek5RSHhGYXJZNTNpZUtfSWZ2M09Hdw?oc=5",
-      "snippet": "[2026 Alternative Investment Forum] \"A Complete Corporate Overhaul Is Needed for Successful AX\" &nbsp;&nbsp; 아시아경제"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydlpIdWRDbVVTd0FNcGQ5dk9oLVl6Mm9LeF9wRDNlQ1NkV3JXcTRhQmtRRVFPQ3ZOc2V2UmVteUZFaV83QTVxalV6MGxERWRZR1lsVFEwVU11RzNYSkkxaXFjbVFZUdIBa0FVX3lxTE52d1FFYlUwX2dpZ2dWdGVWX1BaczBtUkJLdmFSWVRYaTUwWWtxbUhlNl9jSTJQUTh4dnVoVTJmdUpxS0dqODdRVHg0YjRxczRLRzRNMkt1RzhWWjlUZXc1RGlyUVlJQTVQOHlJ?oc=5",
-      "type": "article",
-      "title": "The best debt relief companies of October 2026 - CNBC",
-      "date": "2026-09-29",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydlpIdWRDbVVTd0FNcGQ5dk9oLVl6Mm9LeF9wRDNlQ1NkV3JXcTRhQmtRRVFPQ3ZOc2V2UmVteUZFaV83QTVxalV6MGxERWRZR1lsVFEwVU11RzNYSkkxaXFjbVFZUdIBa0FVX3lxTE52d1FFYlUwX2dpZ2dWdGVWX1BaczBtUkJLdmFSWVRYaTUwWWtxbUhlNl9jSTJQUTh4dnVoVTJmdUpxS0dqODdRVHg0YjRxczRLRzRNMkt1RzhWWjlUZXc1RGlyUVlJQTVQOHlJ?oc=5",
-      "snippet": "The best debt relief companies of October 2026 &nbsp;&nbsp; CNBC"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZmdmdkQnFnNzBOVkNWS2d4NS1WRTBlUU5hOUUxYmVWRTNfRW9pZFJ5N1g2ejlWemJZSFBwY2tCcnZ4OGlueXNJMWJjOGNsN0lRXy1HcmxFX0VxUTdPTDMyYTc1d0JzUG9KcXMyX3BVOXBuOWVmT1d3UGs0eG5ybURTeFc?oc=5",
-      "type": "article",
-      "title": "Big money, bigger problems in Big Law - Financial Times",
-      "date": "2026-09-29",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZmdmdkQnFnNzBOVkNWS2d4NS1WRTBlUU5hOUUxYmVWRTNfRW9pZFJ5N1g2ejlWemJZSFBwY2tCcnZ4OGlueXNJMWJjOGNsN0lRXy1HcmxFX0VxUTdPTDMyYTc1d0JzUG9KcXMyX3BVOXBuOWVmT1d3UGs0eG5ybURTeFc?oc=5",
-      "snippet": "Big money, bigger problems in Big Law &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZ3VE10YV9vR2JHQ3JoN0tJa0ptS21nazRoZmJEZXhLOS1wTFlyTVpWcHpXMUt2T2VveXROeC03aF9MNnVOWFBySEJZLWsxRzRZaUczUFd3cm9FVTJOVmgzaG9pR19tWnVncXlmWmdXQTQyUUE2V0g4SXdXYlc1cW91aHFfM2UtYzFGOXF6Z0xUN2F3Q0lISHo1OVl0WDMzbzVR?oc=5",
-      "type": "article",
-      "title": "Your Law Firm May Soon Have an MSO. Here’s What That Means. - law.com",
-      "date": "2026-09-28",
-      "source": "law.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZ3VE10YV9vR2JHQ3JoN0tJa0ptS21nazRoZmJEZXhLOS1wTFlyTVpWcHpXMUt2T2VveXROeC03aF9MNnVOWFBySEJZLWsxRzRZaUczUFd3cm9FVTJOVmgzaG9pR19tWnVncXlmWmdXQTQyUUE2V0g4SXdXYlc1cW91aHFfM2UtYzFGOXF6Z0xUN2F3Q0lISHo1OVl0WDMzbzVR?oc=5",
-      "snippet": "Your Law Firm May Soon Have an MSO. Here’s What That Means. &nbsp;&nbsp; law.com"
     }
   ]
 }
