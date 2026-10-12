@@ -1,8 +1,161 @@
 {
-  "lastRun": "2026-10-11T16:34:54.177046+00:00",
+  "lastRun": "2026-10-12T20:10:18.942649+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 10,
+  "addedThisRun": 19,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PM1QyMjBENlF1R0JDMzBjbEFKVHZtY2lUQlhvVDJXTnZwaU16ZEJ4S1JfQk85TWtEeWljcUFfSm41MDFZQlppRTE5S2xGaVRDRXRMOGw4OVJXd0pV?oc=5",
+      "type": "article",
+      "title": "Stride Legal advises P9 Farms on USD14m Panthera funding - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PM1QyMjBENlF1R0JDMzBjbEFKVHZtY2lUQlhvVDJXTnZwaU16ZEJ4S1JfQk85TWtEeWljcUFfSm41MDFZQlppRTE5S2xGaVRDRXRMOGw4OVJXd0pV?oc=5",
+      "snippet": "Stride Legal advises P9 Farms on USD14m Panthera funding &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiX0FVX3lxTE9acXpNeW5sRjRLRXN4RVN3Q0FSNktvMEJqbE9wNVpHRlE1M1pyRjlWYV9KcTdvQXlLQUo5RFNtb0pIRnJJTHpiQng1ZWkzR0xNZDUwTEVITV9nLXpRUHVF?oc=5",
+      "type": "article",
+      "title": "Japan’s Yonex secures 50% of India distributor Sunrise Sports - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9acXpNeW5sRjRLRXN4RVN3Q0FSNktvMEJqbE9wNVpHRlE1M1pyRjlWYV9KcTdvQXlLQUo5RFNtb0pIRnJJTHpiQng1ZWkzR0xNZDUwTEVITV9nLXpRUHVF?oc=5",
+      "snippet": "Japan’s Yonex secures 50% of India distributor Sunrise Sports &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDQU9YR0FrQ25UTGtiQU93UmoyMDNpQlJ0YlBTUmVXUk5Ja3hOQTN3MlZ1T3hXU0lhaXdsLVVkQ3RWRUJsaVBfVXQ0bVl6blpQZm5OMUswUGZqVlk?oc=5",
+      "type": "article",
+      "title": "Attracting capital and building investor confidence in India - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDQU9YR0FrQ25UTGtiQU93UmoyMDNpQlJ0YlBTUmVXUk5Ja3hOQTN3MlZ1T3hXU0lhaXdsLVVkQ3RWRUJsaVBfVXQ0bVl6blpQZm5OMUswUGZqVlk?oc=5",
+      "snippet": "Attracting capital and building investor confidence in India &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cG5aTFBtb1M5dXA5ME5WVTd0MlJoQ0NJQ0VKUWpNdWl2LWpRbUJCdnBiNU9nY1lDVDFGcFQyTVAwdUNDc2N1X0hTWWVBR0twOXRV?oc=5",
+      "type": "article",
+      "title": "Japan’s ‘nextgen’ global capability centre in Haryana - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cG5aTFBtb1M5dXA5ME5WVTd0MlJoQ0NJQ0VKUWpNdWl2LWpRbUJCdnBiNU9nY1lDVDFGcFQyTVAwdUNDc2N1X0hTWWVBR0twOXRV?oc=5",
+      "snippet": "Japan’s ‘nextgen’ global capability centre in Haryana &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCNlJldHFyV2JiLXUwektzMWl6U3hmRnBvcVRWempxWUplUi1wcEZ5bHM1UWZnYmdaQnFHa1ZnOHNGSHhBM0NiYWN2M2l4bUNCOUpXd1VQS1BWX2c3SlE?oc=5",
+      "type": "article",
+      "title": "Is a fast-track merger really fast? - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCNlJldHFyV2JiLXUwektzMWl6U3hmRnBvcVRWempxWUplUi1wcEZ5bHM1UWZnYmdaQnFHa1ZnOHNGSHhBM0NiYWN2M2l4bUNCOUpXd1VQS1BWX2c3SlE?oc=5",
+      "snippet": "Is a fast-track merger really fast? &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbkI0UlhlUWgzT2ZGamVWbkNERnhhNkgySDNhSXZZQkY4WnJGRDdrOEctVHpaeUhvVUhKcnFrYW1TYUlscEV1YVphd0RTM3BOWXJSQVg4UWpCRWJNaDNNeHVRNzRBVWpfSzloTQ?oc=5",
+      "type": "article",
+      "title": "Indian courts will not reprice agreed commercial bargains - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbkI0UlhlUWgzT2ZGamVWbkNERnhhNkgySDNhSXZZQkY4WnJGRDdrOEctVHpaeUhvVUhKcnFrYW1TYUlscEV1YVphd0RTM3BOWXJSQVg4UWpCRWJNaDNNeHVRNzRBVWpfSzloTQ?oc=5",
+      "snippet": "Indian courts will not reprice agreed commercial bargains &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQ2xReXhtQnVndHpPU2dKRkZqZnowQTQ1UHdLYTh1ZVprRjB2bWZYcEVtV0w0OXN0U1V5azdLN3ZmQ2pZTFIwd2xvNjI2YmN3UUJHUnVfNGVSTTRRUEpxMlYwd3U?oc=5",
+      "type": "article",
+      "title": "Andhra Pradesh High Court warns Adani’s data centre project - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQ2xReXhtQnVndHpPU2dKRkZqZnowQTQ1UHdLYTh1ZVprRjB2bWZYcEVtV0w0OXN0U1V5azdLN3ZmQ2pZTFIwd2xvNjI2YmN3UUJHUnVfNGVSTTRRUEpxMlYwd3U?oc=5",
+      "snippet": "Andhra Pradesh High Court warns Adani’s data centre project &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTVwSTRhWWl3Q1psYXlqUlNJVW9hQllkVS1tREljY2VVczJDM0U3X1htMXV5WHJFTE9va3VzbmNJcENfNGhKOEVHekcxS09UNW1EOWFrTWFGdllrdlZNNmRxXzBiSWI1T1hTRDdYYy00VG5tVVgycmwtSW9fdWt5QlNad2ViWnEzT0kw?oc=5",
+      "type": "article",
+      "title": "TN Supreme Court Keeps Non-Lawyer Law Firm Ownership Restrictions - State Affairs Pro",
+      "date": "2026-10-12",
+      "source": "State Affairs Pro",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTVwSTRhWWl3Q1psYXlqUlNJVW9hQllkVS1tREljY2VVczJDM0U3X1htMXV5WHJFTE9va3VzbmNJcENfNGhKOEVHekcxS09UNW1EOWFrTWFGdllrdlZNNmRxXzBiSWI1T1hTRDdYYy00VG5tVVgycmwtSW9fdWt5QlNad2ViWnEzT0kw?oc=5",
+      "snippet": "TN Supreme Court Keeps Non-Lawyer Law Firm Ownership Restrictions &nbsp;&nbsp; State Affairs Pro"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMibkFVX3lxTE01dzdZeEJ6Q3ZTRF9xQWtNQU1zM190MWVDdWZVMDh1VDVTVzlWa3JPMzdWbUlxamdQTkY4M2EtRHZ3aUY3d09rdjJwNE5MM2NtdlpWdVpaSWJKR3pycmJvT1ZTMko3UWR5UTdBQk9n?oc=5",
+      "type": "article",
+      "title": "Room for manoeuvre - Law.asia",
+      "date": "2026-10-12",
+      "source": "Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01dzdZeEJ6Q3ZTRF9xQWtNQU1zM190MWVDdWZVMDh1VDVTVzlWa3JPMzdWbUlxamdQTkY4M2EtRHZ3aUY3d09rdjJwNE5MM2NtdlpWdVpaSWJKR3pycmJvT1ZTMko3UWR5UTdBQk9n?oc=5",
+      "snippet": "Room for manoeuvre &nbsp;&nbsp; Law.asia"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeURjWE5FRUd0aHR0YXdJaHRPczZ1WDVHbjRyRERSak5NcjVMQ0JhOWIyYW9mYWhNNnYyRVRjd2QwYTFRQWRrY05ieWpTNmpFcHhGSmppTWFLNl9lNzdMLXUxeGJFTzFQTWlWaklCa09mTk42Q3JQZkFIaURGb0FMYkcxbUp0TmVoSWhiQXprZ0tueXdfbEVtNlFPUERWRm81M1Y4QmgwaDM?oc=5",
+      "type": "article",
+      "title": "Co-op Legal Services defends use of AI to monitor client calls - Legal Futures",
+      "date": "2026-10-12",
+      "source": "Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeURjWE5FRUd0aHR0YXdJaHRPczZ1WDVHbjRyRERSak5NcjVMQ0JhOWIyYW9mYWhNNnYyRVRjd2QwYTFRQWRrY05ieWpTNmpFcHhGSmppTWFLNl9lNzdMLXUxeGJFTzFQTWlWaklCa09mTk42Q3JQZkFIaURGb0FMYkcxbUp0TmVoSWhiQXprZ0tueXdfbEVtNlFPUERWRm81M1Y4QmgwaDM?oc=5",
+      "snippet": "Co-op Legal Services defends use of AI to monitor client calls &nbsp;&nbsp; Legal Futures"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxQb21KREs3OEZpMGdsUmxMejZqeUVLdGlZc0FVU1RlSjFlaG52ZmlVY05LNWlvUk9xemZBWmFFcWZhbGJleXdRQk5vaVpJVmx2czM2R1hxOG9GVjdRSFlSTnhiVVptR2tXcWR6VHdyV3JZdEZvb3lfVEVDbTBEOTV2RmRKU3g2R0Q4WDY1VGk3aUNiN0FsSHhPYkdn?oc=5",
+      "type": "article",
+      "title": "New Federal Bill Takes Aim at Corporate Practice of Medicine - Medical Device and Diagnostic industry",
+      "date": "2026-10-12",
+      "source": "Medical Device and Diagnostic industry",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb21KREs3OEZpMGdsUmxMejZqeUVLdGlZc0FVU1RlSjFlaG52ZmlVY05LNWlvUk9xemZBWmFFcWZhbGJleXdRQk5vaVpJVmx2czM2R1hxOG9GVjdRSFlSTnhiVVptR2tXcWR6VHdyV3JZdEZvb3lfVEVDbTBEOTV2RmRKU3g2R0Q4WDY1VGk3aUNiN0FsSHhPYkdn?oc=5",
+      "snippet": "New Federal Bill Takes Aim at Corporate Practice of Medicine &nbsp;&nbsp; Medical Device and Diagnostic industry"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnVZa01La2hnSU1SSzJ2ak43ZGVtWEwwVDhYMDVldHVyT1kwNkh3enl4LUlUMlA5YWdmNjRobE1PaGdqWFhac0F3Z2FsV3E3VzZjLVkzSS04c21zUjdNRVJjMnhMTVhEbnFSYWZNRm54Y0tVdS1nUjVQSzhvM0JnT0dOU0dVbzc4RzBjTHozMjVTMlRMbk1UcTdTWmRfUG1qR1d4Z2NGVld6TlVsUEVpdXpydXlsR01IaWQ0cWgzb1VMWnY0U0xTNzN2TmtPU0o5Z2RN?oc=5",
+      "type": "article",
+      "title": "A New Strategic Framework in the AI Era: Law.com and Industry Leaders Come Together to Create - Law.com",
+      "date": "2026-10-12",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnVZa01La2hnSU1SSzJ2ak43ZGVtWEwwVDhYMDVldHVyT1kwNkh3enl4LUlUMlA5YWdmNjRobE1PaGdqWFhac0F3Z2FsV3E3VzZjLVkzSS04c21zUjdNRVJjMnhMTVhEbnFSYWZNRm54Y0tVdS1nUjVQSzhvM0JnT0dOU0dVbzc4RzBjTHozMjVTMlRMbk1UcTdTWmRfUG1qR1d4Z2NGVld6TlVsUEVpdXpydXlsR01IaWQ0cWgzb1VMWnY0U0xTNzN2TmtPU0o5Z2RN?oc=5",
+      "snippet": "A New Strategic Framework in the AI Era: Law.com and Industry Leaders Come Together to Create &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFlIaXJTYmF4dXlOcDR0RUVSRFZGWU9BUml1Z1BFWWtXVTRURWV1eFNrOW9IcXE5WF9oYXJTZzA3R1lFUmhFOXZybV8zamEteGFTVkFMWVkyNFZtcjBYSDFrRXhSWi10WFZzTm9vaEx5dnF6V3NkdS1FdmZ1N2Q2V0V3emRVR0FBWHo0V0tPWHFCR2Vt?oc=5",
+      "type": "article",
+      "title": "Costco isn’t the only big item before Asheville Council - 828 News Now",
+      "date": "2026-10-12",
+      "source": "828 News Now",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFlIaXJTYmF4dXlOcDR0RUVSRFZGWU9BUml1Z1BFWWtXVTRURWV1eFNrOW9IcXE5WF9oYXJTZzA3R1lFUmhFOXZybV8zamEteGFTVkFMWVkyNFZtcjBYSDFrRXhSWi10WFZzTm9vaEx5dnF6V3NkdS1FdmZ1N2Q2V0V3emRVR0FBWHo0V0tPWHFCR2Vt?oc=5",
+      "snippet": "Costco isn’t the only big item before Asheville Council &nbsp;&nbsp; 828 News Now"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmZGVEJyZnhmcGRhXzN6UmhSRUl6cE1QQnBPOEFJR3JFYnRSU3BvMU5PNHBEalVYaUdqUUV0dHJ3VVE2MG9BZkpuNVhTaG1MQkJFZEY4NzdMZGpKQ1V5a2UtZ0VSNzkzQjg0TjIzdlpJcFdYdlAyQTRMZ3lhWlNIS3ZVdHRlckpUd0pLX0lDd2hQMk45NklJ?oc=5",
+      "type": "article",
+      "title": "New Regulations on The Law on Anti-Money Laundering (“AML”) - kpmg.com",
+      "date": "2026-10-12",
+      "source": "kpmg.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmZGVEJyZnhmcGRhXzN6UmhSRUl6cE1QQnBPOEFJR3JFYnRSU3BvMU5PNHBEalVYaUdqUUV0dHJ3VVE2MG9BZkpuNVhTaG1MQkJFZEY4NzdMZGpKQ1V5a2UtZ0VSNzkzQjg0TjIzdlpJcFdYdlAyQTRMZ3lhWlNIS3ZVdHRlckpUd0pLX0lDd2hQMk45NklJ?oc=5",
+      "snippet": "New Regulations on The Law on Anti-Money Laundering (“AML”) &nbsp;&nbsp; kpmg.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE9wajlDSGt3THFvV21ZRE5KR3A1dG5LZUpGRlRCTThiSU8zSzJFZEJOWEJaNWpWVmhubDdqbC1Qam1iMWI1MTVqajBUNGJpMk5MTmRCZU1pQWtOOVpOUnlfa01IVmNELXZDdTlqXw?oc=5",
+      "type": "article",
+      "title": "Building Your Fractional C-Suite - NH Business Review",
+      "date": "2026-10-12",
+      "source": "NH Business Review",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wajlDSGt3THFvV21ZRE5KR3A1dG5LZUpGRlRCTThiSU8zSzJFZEJOWEJaNWpWVmhubDdqbC1Qam1iMWI1MTVqajBUNGJpMk5MTmRCZU1pQWtOOVpOUnlfa01IVmNELXZDdTlqXw?oc=5",
+      "snippet": "Building Your Fractional C-Suite &nbsp;&nbsp; NH Business Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZmVzNVRYbDJHT2o2MVJMckhxcHV6Rkp0YUNhUmVDY2Y3b0NNSTZfYUlQTEVJbnBWNUVLdVlaT281bHYwU1QtT2w1T2tLN1JvRVhIOVZGSDVuM3BmVGZDSjFENnVSYU5qcVFqbzliLU5ZaVQ3cnVORHVTTTlWYW9yZl82SEpvTUdpbVVpSENZdWZ3bHRVS003SUlURzJpY0NnUDVSc0FVbU9qWE5NUnYyN1YteWZmRUdzX01sYWltSmJRUzNnU3FyT2tjaWR3VTUtcWdENkpBckxEUW1TQnpZWFk4YUNHWTBhTVdYS0hsTVFEMFE?oc=5",
+      "type": "article",
+      "title": "Federal Court rules Australian privilege law applies to Japanese legal advice - Australasian Lawyer",
+      "date": "2026-10-12",
+      "source": "Australasian Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZmVzNVRYbDJHT2o2MVJMckhxcHV6Rkp0YUNhUmVDY2Y3b0NNSTZfYUlQTEVJbnBWNUVLdVlaT281bHYwU1QtT2w1T2tLN1JvRVhIOVZGSDVuM3BmVGZDSjFENnVSYU5qcVFqbzliLU5ZaVQ3cnVORHVTTTlWYW9yZl82SEpvTUdpbVVpSENZdWZ3bHRVS003SUlURzJpY0NnUDVSc0FVbU9qWE5NUnYyN1YteWZmRUdzX01sYWltSmJRUzNnU3FyT2tjaWR3VTUtcWdENkpBckxEUW1TQnpZWFk4YUNHWTBhTVdYS0hsTVFEMFE?oc=5",
+      "snippet": "Federal Court rules Australian privilege law applies to Japanese legal advice &nbsp;&nbsp; Australasian Lawyer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWdIBS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWQ?oc=5",
+      "type": "article",
+      "title": "The Iraq-Syria oil pipeline: Who is behind the project raising conflict-of-interest concerns? - نون بوست",
+      "date": "2026-10-12",
+      "source": "نون بوست",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWdIBS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWQ?oc=5",
+      "snippet": "The Iraq-Syria oil pipeline: Who is behind the project raising conflict-of-interest concerns? &nbsp;&nbsp; نون بوست"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVM2SmN1MWxpVkFpUm9RLURIT3BFYnQ5Yk1QNUZrNDE1czdsNHZIeWNlWFB1SWh0aUswVjFXRl83dW9mSFlDVG5STjJQb1lnellxeDctT0pxNXd0R0Jod2MteVBvcTFIMVhPcU56N09PYWVwX0tLQ19YZVd0OGtzVHNoSG83QVUxQW0zbmt3QzhzdlJOLXZkdnhFOGY3eG5DRV9rVzVUYW4?oc=5",
       "type": "article",
@@ -182,6 +335,24 @@
       "source": "ICLG",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wYVJpeDZfc0RHUXFyNEpFeVhNSWw5UWdvT21uXzlWTTBEWHhTZVFyb0FJdHlKdXFCTk9jY3RaUDZnNWtSempSQ0QxNVJ4QV9XMUxmbmpkWkdHV2JBcUJSVS1oLWpNZ18tcG4takItOWN1TUVFTHlPUUEzVQ?oc=5",
       "snippet": "India - Trade Mark Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWRCYlZjLWpfOUxMeDJ1aURZVUlLeUlaS2V3TS1WZy1JNW1WNzJSSVFxWGtrdzFTV3d0dWJHTDJyV0cxV2ZnN2FXU3lRMDZPWmxkQ0d1UFhZUmpiT01ycGtPRkxzM3M3MEdZSEpvTXRQSHFvZjFQMmMySGdQQTVQcU1MSk1IQTh6aXkw?oc=5",
+      "type": "article",
+      "title": "United Kingdom - Private Equity Laws and Regulations 2026 - ICLG",
+      "date": "2026-10-09",
+      "source": "ICLG",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWRCYlZjLWpfOUxMeDJ1aURZVUlLeUlaS2V3TS1WZy1JNW1WNzJSSVFxWGtrdzFTV3d0dWJHTDJyV0cxV2ZnN2FXU3lRMDZPWmxkQ0d1UFhZUmpiT01ycGtPRkxzM3M3MEdZSEpvTXRQSHFvZjFQMmMySGdQQTVQcU1MSk1IQTh6aXkw?oc=5",
+      "snippet": "United Kingdom - Private Equity Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUQxRVdacEVWQnV4Wm0yN3psVmtpRmFKcUZlc20tbTRPSllRNy05Vlh3ZC1YTnhtMTUtU3MyVzdsMm04NDJiQ0xQZnZ6WF9RX0pVRENOUTBPa1Vic2s1Q3lPQWtwRTZqR3R6OFJMRF9EMWRzSmRDOF9PQm5iUzZjVg?oc=5",
+      "type": "article",
+      "title": "Netherlands - Franchise Laws and Regulations 2026 - ICLG",
+      "date": "2026-10-09",
+      "source": "ICLG",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUQxRVdacEVWQnV4Wm0yN3psVmtpRmFKcUZlc20tbTRPSllRNy05Vlh3ZC1YTnhtMTUtU3MyVzdsMm04NDJiQ0xQZnZ6WF9RX0pVRENOUTBPa1Vic2s1Q3lPQWtwRTZqR3R6OFJMRF9EMWRzSmRDOF9PQm5iUzZjVg?oc=5",
+      "snippet": "Netherlands - Franchise Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFJvM3MtV0kzaHhvM0dsMU1LOFVfLWF6aGRNU2RfNm9IMFJHOHl6UmhUMWJrUDhacVBweUxtZDJydVo1bFpIekZWZ204RGttekNXemtxZ2VpZFJPaDIybWV6MEZjckg1YWdpdEQ4N3hYUmltTl9IM1d2QkNGbFUyUUtGNHlxb1BkbTFCM2h4TW50LWZVT3hpbnZjb1Exck9Yazk5ZUF1VjZvU1RVbFp0WkhQM0U5ZDdi?oc=5",
@@ -1181,177 +1352,6 @@
       "source": "Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0FIM1BPT1p0ZFNtMGpvOGNsN2UwVDRyNE1sTTVPRkVEaGUzcmZyZDZ1cURuU1ZqMmlCMmUzRXdWR0REcV9hM0hUdlhObEh1OWNMVmdYdVRub19xMmVWc3VIb1NIdzZrUTcxeGVzdVRRNG83R2pwWFREbTJzYzlNVUdJb1FLcjVLeHR4NmdVXzZGSnEzcWZXZWl30gGaAUFVX3lxTE8zQUgzUE9PWnRkU20wam84Y2w3ZTBUNHI0TWxNNU9GRURoZTNyZnJkNnVxRG5TVmoyaUIyZTNFd1ZHRERxX2EzSFR2WE5sSHU5Y0xWZ1h1VG5vX3EyZVZzdUhvU0h3NmtRNzF4ZXN1VFE0bzdHanBYVERtMnNjOU1VR0lvUUtyNUt4dHg2Z1VfNkZKcTNxZldlaXc?oc=5",
       "snippet": "Weil Adds David Jansen As Partner In Frankfurt Private Equity Practice &nbsp;&nbsp; Pulse 2.0"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2N6NmdOTUE4QlJZTnFkZGJ5SWpEN0x4MGg4WFNYU0F1Wnk5ZnN2TlkyUmNwc3J3SzdHNnNOelQtcTVCUmpPLUtNUXJkT05fVkxvcWItY3VMU18xLURpWmhYN1BybmF0TndqWVZMT0FhUE9sYjE2V0J6VDVDS1RIaHVENnp6Nnc2?oc=5",
-      "type": "article",
-      "title": "New Model Law Firm Arceus Raises $17m - Artificial Lawyer",
-      "date": "2026-10-01",
-      "source": "Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2N6NmdOTUE4QlJZTnFkZGJ5SWpEN0x4MGg4WFNYU0F1Wnk5ZnN2TlkyUmNwc3J3SzdHNnNOelQtcTVCUmpPLUtNUXJkT05fVkxvcWItY3VMU18xLURpWmhYN1BybmF0TndqWVZMT0FhUE9sYjE2V0J6VDVDS1RIaHVENnp6Nnc2?oc=5",
-      "snippet": "New Model Law Firm Arceus Raises $17m &nbsp;&nbsp; Artificial Lawyer"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeC1icndEMEtQeW1DUXFtUDFfMjlJRl9SRURUaXItaWhHc3BtVnh0UlFWTWdYa2o1Sm9oT0NZY1BKRERlVFdtekliNWF5ZlBma28zSEZWRFFYUFk1VGdwV3FOZ2NWdldTWl91eE9fU2NJc3ZWVjBxbzJvZ1NqbDUtOUlCbGZlNUVEX0NoYmxBek1TNHFVVW1PUHNEU05qNDdrdWktR0ZKR0xjQjA0Ti05VDlwU1o2d0RuVnpVYVVNYV9LbE95YnZvQlhodzhMOTdvNEpZ?oc=5",
-      "type": "article",
-      "title": "Under new management? Not so fast: Federal CPOM bill targets MSO structures, ‘friendly physician’ model - McDermott Will & Schulte",
-      "date": "2026-10-01",
-      "source": "McDermott Will & Schulte",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeC1icndEMEtQeW1DUXFtUDFfMjlJRl9SRURUaXItaWhHc3BtVnh0UlFWTWdYa2o1Sm9oT0NZY1BKRERlVFdtekliNWF5ZlBma28zSEZWRFFYUFk1VGdwV3FOZ2NWdldTWl91eE9fU2NJc3ZWVjBxbzJvZ1NqbDUtOUlCbGZlNUVEX0NoYmxBek1TNHFVVW1PUHNEU05qNDdrdWktR0ZKR0xjQjA0Ti05VDlwU1o2d0RuVnpVYVVNYV9LbE95YnZvQlhodzhMOTdvNEpZ?oc=5",
-      "snippet": "Under new management? Not so fast: Federal CPOM bill targets MSO structures, ‘friendly physician’ model &nbsp;&nbsp; McDermott Will & Schulte"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wb011dTJpRHB5bGt1VFFOVDBUb09TM01mekwwNjZwSTdMSmp1aXhsWkFYQVVJYUJSeHVmTWE1cnplSUttUjQ2cTZvR2RwcW9BelE?oc=5",
-      "type": "article",
-      "title": "Bluesky | History, Social Media, Jack Dorsey, & Features - Britannica",
-      "date": "2026-10-01",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wb011dTJpRHB5bGt1VFFOVDBUb09TM01mekwwNjZwSTdMSmp1aXhsWkFYQVVJYUJSeHVmTWE1cnplSUttUjQ2cTZvR2RwcW9BelE?oc=5",
-      "snippet": "Bluesky | History, Social Media, Jack Dorsey, & Features &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGpLZzdzb2tQS1kxNTBGVGlvdHhhbE55YnhRZWFGWmdKV2g2OEpTenQza20xYThBSkRHR3RlN1UxNlF1SVFFVXhwQkhwVkVXRWlLSERLQ29MLWFUSVVhRjZ4TXp4cWNSRXFpT1RuR2hyTHNvRkRIcEc3S2FkdnFWc3BUNXZsMGZGYk8wVGUyUWpJNGRLeTRpRmZEUXhxNDVzWmo2U1FlWWhvZWVvWUlWdUI5Vll6Tnli?oc=5",
-      "type": "article",
-      "title": "Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers - Los Angeles Times",
-      "date": "2026-10-01",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGpLZzdzb2tQS1kxNTBGVGlvdHhhbE55YnhRZWFGWmdKV2g2OEpTenQza20xYThBSkRHR3RlN1UxNlF1SVFFVXhwQkhwVkVXRWlLSERLQ29MLWFUSVVhRjZ4TXp4cWNSRXFpT1RuR2hyTHNvRkRIcEc3S2FkdnFWc3BUNXZsMGZGYk8wVGUyUWpJNGRLeTRpRmZEUXhxNDVzWmo2U1FlWWhvZWVvWUlWdUI5Vll6Tnli?oc=5",
-      "snippet": "Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers &nbsp;&nbsp; Los Angeles Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAJBVV95cUxORUJZeTRNX0s5NTVIX0o5M3BVNnRUYnB3b3hES1J3RFZrRUlMUlpPRHlnNTR0Mk41aEFZR2l0R0QxenpiVlN4ajA5cktGR29LQjNaNWxUeU9JNjNGLWxVeHBNWVVndTI4aFl3czhLdEM1ZmZ6Zk9RdVdJd01PLWJlR2MtUk40Z1JqVG9kTUg2dWNRaEptcFZlcjd1TUJhVjRyanJfdGZsRGdRTUR5UUJxV2ZYb2tVYnNydThpLVF5b0ZZMlB2WTM4enhNZGNJNWZOdDN1cHdtMkdYYWdPbFFnbGZXZDJFeU1yeHd6WEV1UVJKQU1INHE1NWRWN1VmTTJaRkIzMA?oc=5",
-      "type": "article",
-      "title": "Court Clarifies Personal Comfort Doctrine, Holds Worker Suffered Compensable Injury While on Break Too Short for Autonomy - Law.com",
-      "date": "2026-10-01",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORUJZeTRNX0s5NTVIX0o5M3BVNnRUYnB3b3hES1J3RFZrRUlMUlpPRHlnNTR0Mk41aEFZR2l0R0QxenpiVlN4ajA5cktGR29LQjNaNWxUeU9JNjNGLWxVeHBNWVVndTI4aFl3czhLdEM1ZmZ6Zk9RdVdJd01PLWJlR2MtUk40Z1JqVG9kTUg2dWNRaEptcFZlcjd1TUJhVjRyanJfdGZsRGdRTUR5UUJxV2ZYb2tVYnNydThpLVF5b0ZZMlB2WTM4enhNZGNJNWZOdDN1cHdtMkdYYWdPbFFnbGZXZDJFeU1yeHd6WEV1UVJKQU1INHE1NWRWN1VmTTJaRkIzMA?oc=5",
-      "snippet": "Court Clarifies Personal Comfort Doctrine, Holds Worker Suffered Compensable Injury While on Break Too Short for Autonomy &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMifEFVX3lxTE1nVS02bDgxM2VBZ1JtOGZBS29VODhHTXdGaUJDV0FXU3U3RHNwWHdneE9VdjlPQTdrR1ZXcXZ3RE5QTC1QOTNPWmFvWmowaEg0S09sT3ZjdDl4RTN5UnBfZXZJSzRNWUlrQkQ5VXd3QVNfOFNfbUJrM0YyTEvSAYIBQVVfeXFMUGg0endxTjlLTmtmaXltX1hyRjFtbG9jdTBERFBPeXB3RW05eV9XMjhlLWFpdDlUTFRmb1c4bzBWNEkzdktWSlo4RnQzR3dDNEFuelBoeXN4VDlJak94SW1DSUc3dDJnRlVHTnl5UWczY05IbEJCS0h0WWQtYzVfVlBPdw?oc=5",
-      "type": "article",
-      "title": "Cartiga Appoints Dave Thomas As Chief Growth Officer - Pulse 2.0",
-      "date": "2026-10-01",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nVS02bDgxM2VBZ1JtOGZBS29VODhHTXdGaUJDV0FXU3U3RHNwWHdneE9VdjlPQTdrR1ZXcXZ3RE5QTC1QOTNPWmFvWmowaEg0S09sT3ZjdDl4RTN5UnBfZXZJSzRNWUlrQkQ5VXd3QVNfOFNfbUJrM0YyTEvSAYIBQVVfeXFMUGg0endxTjlLTmtmaXltX1hyRjFtbG9jdTBERFBPeXB3RW05eV9XMjhlLWFpdDlUTFRmb1c4bzBWNEkzdktWSlo4RnQzR3dDNEFuelBoeXN4VDlJak94SW1DSUc3dDJnRlVHTnl5UWczY05IbEJCS0h0WWQtYzVfVlBPdw?oc=5",
-      "snippet": "Cartiga Appoints Dave Thomas As Chief Growth Officer &nbsp;&nbsp; Pulse 2.0"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3VqSjBWUHZON1FneG1xMEFYdGR0RDF1TEFNaFJBVjVsWUMydkdSZUNjS3BaNGNtb1RpNEloeWZJckxldDFGU0o0SWcyTFNnNnpwcHNVRWVadDRoZFZmdXdRWDBKZUIteGdDMTFqa0hXbUlpT3BPTlhqdHV2WXhVc09ZMzZ6SkZZTi1QSDg1NXYzMTNKNHpEemN1eF9SVF90S1JRd1FjQ0tVV0xhekE?oc=5",
-      "type": "article",
-      "title": "Alpha Growth Management Opens Rep Office in Japan - TradingView",
-      "date": "2026-09-30",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3VqSjBWUHZON1FneG1xMEFYdGR0RDF1TEFNaFJBVjVsWUMydkdSZUNjS3BaNGNtb1RpNEloeWZJckxldDFGU0o0SWcyTFNnNnpwcHNVRWVadDRoZFZmdXdRWDBKZUIteGdDMTFqa0hXbUlpT3BPTlhqdHV2WXhVc09ZMzZ6SkZZTi1QSDg1NXYzMTNKNHpEemN1eF9SVF90S1JRd1FjQ0tVV0xhekE?oc=5",
-      "snippet": "Alpha Growth Management Opens Rep Office in Japan &nbsp;&nbsp; TradingView"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnUwVlhoNkJKVTdTdl9oYkFFZ2xNTjNWdENoSy14ZUF6QlhqSm41M3ZRN0VBaTBSNk4zbjdJdjRCS1ozTnlqUTJjeHMzcWtnbjN0ODNVTkFRd081YTEzN0dKYVllcmZaRjF5dDFUdFc0M29tVWRkSzBZbWY0ZFBYNVZDOHFtNndNX2RBUFJSMEdYSS1ELWo5dk5vWEN0dVdHNm9sRTlHbVlxYWZqWmRVZW9mWTM5dzZwbkNvUUlRb0RheDZyenhUNzFTekpHd3VNRGc?oc=5",
-      "type": "article",
-      "title": "Top 19 Sites To Buy Old Github Accounts In 2025-26 - timesdaily.com",
-      "date": "2026-09-30",
-      "source": "timesdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnUwVlhoNkJKVTdTdl9oYkFFZ2xNTjNWdENoSy14ZUF6QlhqSm41M3ZRN0VBaTBSNk4zbjdJdjRCS1ozTnlqUTJjeHMzcWtnbjN0ODNVTkFRd081YTEzN0dKYVllcmZaRjF5dDFUdFc0M29tVWRkSzBZbWY0ZFBYNVZDOHFtNndNX2RBUFJSMEdYSS1ELWo5dk5vWEN0dVdHNm9sRTlHbVlxYWZqWmRVZW9mWTM5dzZwbkNvUUlRb0RheDZyenhUNzFTekpHd3VNRGc?oc=5",
-      "snippet": "Top 19 Sites To Buy Old Github Accounts In 2025-26 &nbsp;&nbsp; timesdaily.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUp6UDBpMXdKdG45LWhLZkRtZFJpSlB6aTVyYWdZVGJzV3IzalJvNTI2T0VrU2VOTlhYdkVpeTdtNDdiRV9wZGUxYnBCUW9CQkE4eWk5YmR2dmVqbDRTNEM3dERZdEttTnJIUHE0YzZaWWQxVDJ1aERYZTJ4eEdxR1pnZEpfbE1XeUp2RGstLWktS0RzT2dvbHc1Vlh0NkJOMlJoMTB1RlI3cmM?oc=5",
-      "type": "article",
-      "title": "Company news: Emilee Lawson Hatch opens boutique law practice - Syracuse.com",
-      "date": "2026-09-30",
-      "source": "Syracuse.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUp6UDBpMXdKdG45LWhLZkRtZFJpSlB6aTVyYWdZVGJzV3IzalJvNTI2T0VrU2VOTlhYdkVpeTdtNDdiRV9wZGUxYnBCUW9CQkE4eWk5YmR2dmVqbDRTNEM3dERZdEttTnJIUHE0YzZaWWQxVDJ1aERYZTJ4eEdxR1pnZEpfbE1XeUp2RGstLWktS0RzT2dvbHc1Vlh0NkJOMlJoMTB1RlI3cmM?oc=5",
-      "snippet": "Company news: Emilee Lawson Hatch opens boutique law practice &nbsp;&nbsp; Syracuse.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZkNfTVY2VjNDSGotVkpUQnJYTGMtbjladlg3OUdONlcxT2I1cDA4SVZTUHVtMTlDVUdnRkNjSmxuZVgyemhPb2ltSnRQSjVieFp1NGxuaGo0RUc5YWVSRTMxRmJuVmRuQ2c?oc=5",
-      "type": "article",
-      "title": "On the Move: September 2026 Hires, Promotions, and New ACG Members - middlemarketgrowth.org",
-      "date": "2026-09-30",
-      "source": "middlemarketgrowth.org",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZkNfTVY2VjNDSGotVkpUQnJYTGMtbjladlg3OUdONlcxT2I1cDA4SVZTUHVtMTlDVUdnRkNjSmxuZVgyemhPb2ltSnRQSjVieFp1NGxuaGo0RUc5YWVSRTMxRmJuVmRuQ2c?oc=5",
-      "snippet": "On the Move: September 2026 Hires, Promotions, and New ACG Members &nbsp;&nbsp; middlemarketgrowth.org"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGhlMW5HVHYybnJKVi1FN0FMX0JHTE9kTWpSdVJQT3I5TUY3WUJoNzhpTEJDV00wd3U1UlBMamdfZDFnTjZ1ak0zQlpKbmkzTFc4cWdKZDF1UU1DM041OGVGM2Z5VTEyNkYyR1c5Wko5QWl2d1lZdmNPYk9SZ2VCWEFIWnR0OW9ZWnlKRjRiZWotTUZhMWxkTDEwNjI2MWwteTg4NW92TFJ4Qm9pdGY4X2J1SHNpejRZNGc?oc=5",
-      "type": "article",
-      "title": "First Trump Came for Immigrants. Then He Came for Their Lawyers. - motherjones.com",
-      "date": "2026-09-30",
-      "source": "motherjones.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGhlMW5HVHYybnJKVi1FN0FMX0JHTE9kTWpSdVJQT3I5TUY3WUJoNzhpTEJDV00wd3U1UlBMamdfZDFnTjZ1ak0zQlpKbmkzTFc4cWdKZDF1UU1DM041OGVGM2Z5VTEyNkYyR1c5Wko5QWl2d1lZdmNPYk9SZ2VCWEFIWnR0OW9ZWnlKRjRiZWotTUZhMWxkTDEwNjI2MWwteTg4NW92TFJ4Qm9pdGY4X2J1SHNpejRZNGc?oc=5",
-      "snippet": "First Trump Came for Immigrants. Then He Came for Their Lawyers. &nbsp;&nbsp; motherjones.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxQekdGTy1LeGZmRThsbHBKQjdPXzhxQkYxRm04cmUxd3Nzd1RFdmFIUnBrX1otTFZKX2JmQ2YyWGpqSGhIdW5hby1vZFdVbXI2RFZSLXJzLWJGaVU1V3B5RnhBMVhmVVhRT2FCX2w3ME5oQlZvenpuUXR6VGZvWFFMWmdHNVFWM2EwM1hzNnFvVnJISEtySzBPOVlrdGLSAaIBQVVfeXFMT3FTdnpBQkNjcGFRVXRaSndmMTdVVnIya2h1dzNFcGdVSmpnSDVETkZTN0lJakZmT2ExZ2ZPVVNkWVluckpLLUNDd1VsWUNTTG5tSnE1a3NGN18ta3lvRmxCRUp4RlFIUW1LMnV5SnlxQ3ZYSFAyUUVRVEV6c0NhQzZqdDdzcmgzYm93VTcxUmhQZ3JaZG4zVjBqdVk3TGhoNzV3?oc=5",
-      "type": "article",
-      "title": "Debevoise Adds Mary Lavelle As London Partner To Expand Secondaries Practice - Pulse 2.0",
-      "date": "2026-09-30",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekdGTy1LeGZmRThsbHBKQjdPXzhxQkYxRm04cmUxd3Nzd1RFdmFIUnBrX1otTFZKX2JmQ2YyWGpqSGhIdW5hby1vZFdVbXI2RFZSLXJzLWJGaVU1V3B5RnhBMVhmVVhRT2FCX2w3ME5oQlZvenpuUXR6VGZvWFFMWmdHNVFWM2EwM1hzNnFvVnJISEtySzBPOVlrdGLSAaIBQVVfeXFMT3FTdnpBQkNjcGFRVXRaSndmMTdVVnIya2h1dzNFcGdVSmpnSDVETkZTN0lJakZmT2ExZ2ZPVVNkWVluckpLLUNDd1VsWUNTTG5tSnE1a3NGN18ta3lvRmxCRUp4RlFIUW1LMnV5SnlxQ3ZYSFAyUUVRVEV6c0NhQzZqdDdzcmgzYm93VTcxUmhQZ3JaZG4zVjBqdVk3TGhoNzV3?oc=5",
-      "snippet": "Debevoise Adds Mary Lavelle As London Partner To Expand Secondaries Practice &nbsp;&nbsp; Pulse 2.0"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1IxNWpsZXppdFcyeXhqMWZWMFJZbVRoM01yQ3I3dDVBLTZqdXJjQ3JtUk9MOV92N0tVUnZ4UHpZTHMwMmpLQ0tGMnl0ektEWU0yaW5KNmhGTXNLVkttZHRlREY4R2p2QVNjdDQwSUpTUTFSVlBPdmdzTV9UNkRWRUptc3NKMDMtRTRBVEFidmJ1RUpxWkxwOGNlSFU?oc=5",
-      "type": "article",
-      "title": "PE investment in law firms: 6 considerations as MSO market enters next phase - McDermott Will & Schulte",
-      "date": "2026-09-30",
-      "source": "McDermott Will & Schulte",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1IxNWpsZXppdFcyeXhqMWZWMFJZbVRoM01yQ3I3dDVBLTZqdXJjQ3JtUk9MOV92N0tVUnZ4UHpZTHMwMmpLQ0tGMnl0ektEWU0yaW5KNmhGTXNLVkttZHRlREY4R2p2QVNjdDQwSUpTUTFSVlBPdmdzTV9UNkRWRUptc3NKMDMtRTRBVEFidmJ1RUpxWkxwOGNlSFU?oc=5",
-      "snippet": "PE investment in law firms: 6 considerations as MSO market enters next phase &nbsp;&nbsp; McDermott Will & Schulte"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE1zLUt5Q01tYnJKV0pDOEpLbnA5X2xHWFE4cUVHSXh0RV9xZHVpVXNQcTVzZjJnQ1ZKNFcwTXEwclRPbk9rbmZYVjAtSVhLNlR5eWpPZ3V6S2xNTzdfeXNuT3pVa3liQnVJNVlVX3V4cklDd3hONUxBSA?oc=5",
-      "type": "article",
-      "title": "Public Benefit Corporations (PBCs): Meaning, Examples, & Rules - Britannica",
-      "date": "2026-09-30",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zLUt5Q01tYnJKV0pDOEpLbnA5X2xHWFE4cUVHSXh0RV9xZHVpVXNQcTVzZjJnQ1ZKNFcwTXEwclRPbk9rbmZYVjAtSVhLNlR5eWpPZ3V6S2xNTzdfeXNuT3pVa3liQnVJNVlVX3V4cklDd3hONUxBSA?oc=5",
-      "snippet": "Public Benefit Corporations (PBCs): Meaning, Examples, & Rules &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMDlJdTBQVjBlQTlzV3NzU1IxOUxGdVhoRS15ZXlNY2JHQkxkaExlY1ZjUjB1d01RaG5mT1hiZFFGZ0ZvUGl3cFhueXhkdXZkQmM5S281UG1HY2NKajF5cEJBNEZETmk1YmpQR1I5UE0?oc=5",
-      "type": "article",
-      "title": "[2026 Alternative Investment Forum] \"A Complete Corporate Overhaul Is Needed for Successful AX\" - 아시아경제",
-      "date": "2026-09-29",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMDlJdTBQVjBlQTlzV3NzU1IxOUxGdVhoRS15ZXlNY2JHQkxkaExlY1ZjUjB1d01RaG5mT1hiZFFGZ0ZvUGl3cFhueXhkdXZkQmM5S281UG1HY2NKajF5cEJBNEZETmk1YmpQR1I5UE0?oc=5",
-      "snippet": "[2026 Alternative Investment Forum] \"A Complete Corporate Overhaul Is Needed for Successful AX\" &nbsp;&nbsp; 아시아경제"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmM3N3lLOWsxNGRPR3hzbG1zWUFyeV9fY1kyMXJHYmtsZFo3RzNRY3FzQXdHSFVIQnplamI2d19sSW9HUkw3TENQZ1FHR0JGQ21XV0VEZzdZM0swb19zOU5mMGZ1N0VabDVOYzA0QVZNWnZuQ2JuWEVnWmpwa1RxVnRPTjZNUEV0R0x6ZU9VdGJCeWMzc3E3d3RCYk1yaHVReFhpckpvZTFtUWJuMUgwLVkyVVgzUUM1bVJ2b3pTTnpFRHkzaE9ISjFzMnIzRjg1NGZWX1YtWlNpaVdH0gHcAUFVX3lxTE1aYzc3eUs5azE0ZE9HeHNsbXNZQXJ5X19jWTIxckdia2xkWjdHM1FjcXNBd0dIVUhCemVqYjZ3X2xJb0dSTDdMQ1BnUUdHQkZDbVdXRURnN1kzSzBvX3M5TmYwZnU3RVpsNU5jMDRBVk1adm5DYm5YRWdaanBrVHFWdE9ONk1QRXRHTHplT1V0YkJ5YzNzcTd3dEJiTXJodVF4WGlySm9lMW1RYm4xSDAtWTJVWDNRQzVtUnZvelNOekVEeTNoT0hKMXMycjNGODU0ZlZfVi1aU2lpV0c?oc=5",
-      "type": "article",
-      "title": "Australia cuts migration target to 225,000: 7 visa changes you need to know - business-standard.com",
-      "date": "2026-09-29",
-      "source": "business-standard.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmM3N3lLOWsxNGRPR3hzbG1zWUFyeV9fY1kyMXJHYmtsZFo3RzNRY3FzQXdHSFVIQnplamI2d19sSW9HUkw3TENQZ1FHR0JGQ21XV0VEZzdZM0swb19zOU5mMGZ1N0VabDVOYzA0QVZNWnZuQ2JuWEVnWmpwa1RxVnRPTjZNUEV0R0x6ZU9VdGJCeWMzc3E3d3RCYk1yaHVReFhpckpvZTFtUWJuMUgwLVkyVVgzUUM1bVJ2b3pTTnpFRHkzaE9ISjFzMnIzRjg1NGZWX1YtWlNpaVdH0gHcAUFVX3lxTE1aYzc3eUs5azE0ZE9HeHNsbXNZQXJ5X19jWTIxckdia2xkWjdHM1FjcXNBd0dIVUhCemVqYjZ3X2xJb0dSTDdMQ1BnUUdHQkZDbVdXRURnN1kzSzBvX3M5TmYwZnU3RVpsNU5jMDRBVk1adm5DYm5YRWdaanBrVHFWdE9ONk1QRXRHTHplT1V0YkJ5YzNzcTd3dEJiTXJodVF4WGlySm9lMW1RYm4xSDAtWTJVWDNRQzVtUnZvelNOekVEeTNoT0hKMXMycjNGODU0ZlZfVi1aU2lpV0c?oc=5",
-      "snippet": "Australia cuts migration target to 225,000: 7 visa changes you need to know &nbsp;&nbsp; business-standard.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxPaE5VOWR3WmNWNVBab2pZZVFhcDRPVS03Nk5NSXlnX0tkRUJqV2l0alBtcGYwUW9RSTNrWkRnR054OHpKU1pESGhpZk43bU9ZM3o2Qi01REFUOHRjNXUyVHZHMGxDb05KSXJiNEhXUGNQQTFBVTJZbGdQVEY5OHJaLTV0TThnSk8wLVhjaEhvQTdEVnBoa000RzVndTBnZTA1RTNKajdQMkV4anpkeWRmTUM2UUw2aFBUckE?oc=5",
-      "type": "article",
-      "title": "A telehealth platform has generated over $48 million in sales since 2023. KALA Bio may buy it. - Stock Titan",
-      "date": "2026-09-29",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaE5VOWR3WmNWNVBab2pZZVFhcDRPVS03Nk5NSXlnX0tkRUJqV2l0alBtcGYwUW9RSTNrWkRnR054OHpKU1pESGhpZk43bU9ZM3o2Qi01REFUOHRjNXUyVHZHMGxDb05KSXJiNEhXUGNQQTFBVTJZbGdQVEY5OHJaLTV0TThnSk8wLVhjaEhvQTdEVnBoa000RzVndTBnZTA1RTNKajdQMkV4anpkeWRmTUM2UUw2aFBUckE?oc=5",
-      "snippet": "A telehealth platform has generated over $48 million in sales since 2023. KALA Bio may buy it. &nbsp;&nbsp; Stock Titan"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkpOdTdpMjhMN0FndldMd3p2Q3hYYm9MakJqR3l0eGV5VDZ1UTIwQlA0NlFXeG9rNkpZOEtFNHJzN2tBZ1NINlFKaEdBZ3RWRHFRLXNrbGJYUWJ6OGctdWtZeHpfbkpnLVpKbVNMMGhDQXg2MWNTVXg5a29VOWNGZEpvN0JSVFFvZEFCYUxjYVRSWW03QTNDM1lOcl8xYkNpMFAyVW5tLUpYUU4xdHJpWHNfdnhHTGVRaWlqdmg5UmxfUTc5allBSXBfUE1SbDRlTWc?oc=5",
-      "type": "article",
-      "title": "Savills Expands Integrated Workplace Strategy and Change Management Platform Across North America - citybiz",
-      "date": "2026-09-29",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkpOdTdpMjhMN0FndldMd3p2Q3hYYm9MakJqR3l0eGV5VDZ1UTIwQlA0NlFXeG9rNkpZOEtFNHJzN2tBZ1NINlFKaEdBZ3RWRHFRLXNrbGJYUWJ6OGctdWtZeHpfbkpnLVpKbVNMMGhDQXg2MWNTVXg5a29VOWNGZEpvN0JSVFFvZEFCYUxjYVRSWW03QTNDM1lOcl8xYkNpMFAyVW5tLUpYUU4xdHJpWHNfdnhHTGVRaWlqdmg5UmxfUTc5allBSXBfUE1SbDRlTWc?oc=5",
-      "snippet": "Savills Expands Integrated Workplace Strategy and Change Management Platform Across North America &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U25MRUVqSXVLVUh3RmxFQmdWMnhoaFozMEZVUWFyMkJrUGwtM2VtR1Z5NWhwT2FkZDNWTmZvb1U0b3lFRExsTDRLbnBzN3ZRdHhVbW9BdmJlZzFZME1HXw?oc=5",
-      "type": "article",
-      "title": "Philippine practice guide to patent law 2026 - Law.asia",
-      "date": "2026-09-29",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U25MRUVqSXVLVUh3RmxFQmdWMnhoaFozMEZVUWFyMkJrUGwtM2VtR1Z5NWhwT2FkZDNWTmZvb1U0b3lFRExsTDRLbnBzN3ZRdHhVbW9BdmJlZzFZME1HXw?oc=5",
-      "snippet": "Philippine practice guide to patent law 2026 &nbsp;&nbsp; Law.asia"
     }
   ]
 }
