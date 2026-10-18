@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-10-17T14:05:57.435833+00:00",
+  "lastRun": "2026-10-18T14:20:47.622653+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 12,
+  "addedThisRun": 9,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPd25Zd1BzS2JFWmoxU29vOXBYa2NZUmE3RFpPZ1hRUWIzeXhYVGRRMjdkaHpDbGt2M08tTjFKYms2Y1FTYUlPb0hqRVoxNUwyMWk1OS10UUQ4c1Z6MTIwdnlWN3BmeGk4QlpzbGxqNXVwMVBidS1VVzdlaTRicGdYY1VRN1NtbE1QZWpVOW1aR1lyWU5WQ1VrVA?oc=5",
+      "type": "article",
+      "title": "Palatine buys into football's lawyers with Centrefield deal - Dealroom",
+      "date": "2026-10-18",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd25Zd1BzS2JFWmoxU29vOXBYa2NZUmE3RFpPZ1hRUWIzeXhYVGRRMjdkaHpDbGt2M08tTjFKYms2Y1FTYUlPb0hqRVoxNUwyMWk1OS10UUQ4c1Z6MTIwdnlWN3BmeGk4QlpzbGxqNXVwMVBidS1VVzdlaTRicGdYY1VRN1NtbE1QZWpVOW1aR1lyWU5WQ1VrVA?oc=5",
+      "snippet": "Palatine buys into football's lawyers with Centrefield deal &nbsp;&nbsp; Dealroom"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjluTi1kQjFIYmVDcUNrWEt1TlptTTU4VUFDbDV1ajB3QldtTGRQVk8yNTFlMWh0ZXZzSEl2WHpYRko0ZDB4Mk5ZM3NRNjVwc0R6T1o2Y1pidXFGR0JwVUFwSnRycFBQMEFSbHVYRFc2VGtrRjlFNkxlLXFELUhjdi1qZ0E0VWxjRXRyS3BHTF9WWmtIOWlWNUhQZzlGc0FyaVFSZ3owdlBBSFV5MXotTV9jYXRPWFdq?oc=5",
+      "type": "article",
+      "title": "Becoming a lawyer could get cheaper and faster under looming Trump admin shakeup - WFIN",
+      "date": "2026-10-18",
+      "source": "WFIN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjluTi1kQjFIYmVDcUNrWEt1TlptTTU4VUFDbDV1ajB3QldtTGRQVk8yNTFlMWh0ZXZzSEl2WHpYRko0ZDB4Mk5ZM3NRNjVwc0R6T1o2Y1pidXFGR0JwVUFwSnRycFBQMEFSbHVYRFc2VGtrRjlFNkxlLXFELUhjdi1qZ0E0VWxjRXRyS3BHTF9WWmtIOWlWNUhQZzlGc0FyaVFSZ3owdlBBSFV5MXotTV9jYXRPWFdq?oc=5",
+      "snippet": "Becoming a lawyer could get cheaper and faster under looming Trump admin shakeup &nbsp;&nbsp; WFIN"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFZVRlJIVW9MYnFkREFxbDJuaTZMdmN0anEwSGI3Ylh2QW5DZURwelhPQi1mbkxHdDZ4SGZnVEFoRG1qZnRFVllOZ2hOejVDYTVwTUZVbnF2N2N1S1FETEljRFNqRzhkM3dqZGlRUWhoUzhqUlJWSFJ5S21FOEZ3cW44WWVHSzIzalJ4enpjZldqaGVMc2phdGEwTFlTVlJWWkpTVjZhSUJwRGJqdmRfX3dPMEVJSFFtZXc1c3h4aHI5dw?oc=5",
       "type": "article",
@@ -38,6 +56,15 @@
       "source": "Indian Startup Times",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG5pOVBJM19vcllCa2dmdUU2NW9aRXVtQTdEdXNVVVBqSVljVHF5OFN5a3FhOGdxSWVnWTZVQko5TDZlaVpQVVdXcU85MTA4SnJGeTF3cGFyZDdoUzhqM0hPOVdWN0hFRVJ5d19BSUhreXBfVTZWb0ZsUFdBbElvRXFWQXViTWJRYTA4U05OdVhObXhOX2FQRV95N2Q4eVRJdC1VcmU1ek9DMmRVa3VFek5acU5NY2czMFBRMExncHhiVmJfZzNVdWt3?oc=5",
       "snippet": "Navigating the Unwritten Rules: Attreyi Mukherjee on AI, Electric Mobility and Ethics &nbsp;&nbsp; Indian Startup Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdXZfVlR2UUlUdlBZcm1Qd1dsTjRlTExfbDI3Z0dlWG50ajNFMnk1Q2FGbUVJQVNlcklEalpzU2dFREJITnFoSFpmbWlGMTlfUG84UkQzU29QSTJVX3VWRk9aQnlXTHRaNnBhcktmT2xwSmZZbEJRWHJVLTVNWnlNc0pVVkRSczlEQVpLRlpKdzVCTFN3M3Y3Z29CQnBFekU1UlV5SGxCSi1wdjRSdm1PSVJ3dTBiUm5VbkpXd2lEX1RKT3gxcjJFbE1SdGZ2NFkxZ3hVTXZISjVjeHdmYWQ3YldhcE5lTTVtbDdhcDNRYw?oc=5",
+      "type": "article",
+      "title": "SAFE SBC’s 3rd Annual Freedom to Flourish Gala Raises Nearly $300,000 to Combat Human Trafficking in Santa Barbara County - The Santa Barbara Independent",
+      "date": "2026-10-17",
+      "source": "The Santa Barbara Independent",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdXZfVlR2UUlUdlBZcm1Qd1dsTjRlTExfbDI3Z0dlWG50ajNFMnk1Q2FGbUVJQVNlcklEalpzU2dFREJITnFoSFpmbWlGMTlfUG84UkQzU29QSTJVX3VWRk9aQnlXTHRaNnBhcktmT2xwSmZZbEJRWHJVLTVNWnlNc0pVVkRSczlEQVpLRlpKdzVCTFN3M3Y3Z29CQnBFekU1UlV5SGxCSi1wdjRSdm1PSVJ3dTBiUm5VbkpXd2lEX1RKT3gxcjJFbE1SdGZ2NFkxZ3hVTXZISjVjeHdmYWQ3YldhcE5lTTVtbDdhcDNRYw?oc=5",
+      "snippet": "SAFE SBC’s 3rd Annual Freedom to Flourish Gala Raises Nearly $300,000 to Combat Human Trafficking in Santa Barbara County &nbsp;&nbsp; The Santa Barbara Independent"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxQTThDMmJrV3VfaDhsZmp5UzBRc3lpQkxKN2N4M2RZbzF5ZXRodE5SZnVOZmg2d2s3T1ZZVXIyVnZ6Z25nMEswTEtqTlg3Nmc0MFFHTmk2ckJJOUxGbDdYS1NfaFk1dnM3V1p5MFl4STJKdEx5eFhVc2xlYmxrUXdJTXRGMlYwNXNLZlhXVjhhOW51a255ZndSTkdR?oc=5",
@@ -110,6 +137,15 @@
       "source": "The Texas Lawbook",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1A5SER2NlpzdjJDQmZ3QW0xZ2RqM0Jyd21iM3ZZOFZJdnlGQnd3UWlrTmJEc0R3a0VUX3E3NEpqUmtralJTMUpmaEtfTlpaWkVtbVpaZVVwMll4TUtwNHF3TGw4c0R5MS1fVWlLRXR1dUpvVHR3X0Q2XzQ3YzFoRVJORlZHc1RMZ1ZoUl8tVTNWMWV5TGpnZVdyRTFtTEw5XzFSSA?oc=5",
       "snippet": "P.S. — It’s Pro Bono Month; Baker Botts, Toyota Recognized for Joint Legal Clinics &nbsp;&nbsp; The Texas Lawbook"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1F1N0VMdW8xdUdhMGQyb2dNWUItNEdzblk4S3ZReUtkY1pxQ3hubHJmT1JucnhJNzhtZkQzUTdSQ3BHZ3JLdEhBVVBRWUhVQmVIZXk0cXZvUGFPWUt3OUxNQ1hMSmJzN0VkR2t4ZkhJWkFManFkT2w4MTZuYTZMam13aWVsZHRJWTdKbTltU0N4TXNUMUlDZGlFOHY3S1h4OVQxZDNFU3I2NzQ?oc=5",
+      "type": "article",
+      "title": "Deputy attorney general fired after arrest on distributing child sex material - New Jersey Globe",
+      "date": "2026-10-16",
+      "source": "New Jersey Globe",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1F1N0VMdW8xdUdhMGQyb2dNWUItNEdzblk4S3ZReUtkY1pxQ3hubHJmT1JucnhJNzhtZkQzUTdSQ3BHZ3JLdEhBVVBRWUhVQmVIZXk0cXZvUGFPWUt3OUxNQ1hMSmJzN0VkR2t4ZkhJWkFManFkT2w4MTZuYTZMam13aWVsZHRJWTdKbTltU0N4TXNUMUlDZGlFOHY3S1h4OVQxZDNFU3I2NzQ?oc=5",
+      "snippet": "Deputy attorney general fired after arrest on distributing child sex material &nbsp;&nbsp; New Jersey Globe"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlNMN0xYSktXZGFITzA5WXItT1JwckEzMEFUMU5GR3NxcnIxd2VncklMQVZGV0RHRmR1S0NFd09VZDkzS3pFb3daazUxRkI3VERLSmtwV2hLM3RQWExQb3BDcGJ4Zmxta0QzNFlSUy04MHExNjRrd2lsajNNekJsbQ?oc=5",
@@ -290,6 +326,51 @@
       "source": "Law.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzg3aEQyV1BkblI0S1lvN2xkZ0xIR2ltMFd0NDFRSktGVTJULS1ZRHg2VXF5UDBheEExSW1oMENBWXp3TVlVSEt1Z1FtMGZxWUZjZ0UyZ25tN0pFNzRpVzRMZkFhTndkT2NzdWgwSEp2QWlMYWw2S2JlWmw4c2dfVmt0ZTZ6MmdTcm93QnVvMEhXOE5BSS1SQ1had0l2dXF5YjFSYW1pa2VFZnNzWDZNSGt5OFZldzZzWk52bXlnOHR5LVNnVmRLdmI0MlFFM21WQnctSlNn?oc=5",
       "snippet": "Judge May Preside Over Traffic Case Against Public Defender: Judicial Ethics Opinion 26-41 &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "type": "article",
+      "title": "Anthropic | History, Controversies, & Claude AI - Britannica",
+      "date": "2026-10-15",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "snippet": "Anthropic | History, Controversies, & Claude AI &nbsp;&nbsp; Britannica"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMickFVX3lxTE9kWGZxdVRjaWVjOENTSGduanlsdGwxUGZLQXRmUHNDV3c3Z19YeUFnREVqVnhDS2I2UUx0SHZ0dGxHNUZfNmkxOUF5b0ZtTDA2b0xGZjVRaEc2MUp5SEdERmtwT3p5QzNGOW9EQXBiVFhXdw?oc=5",
+      "type": "article",
+      "title": "The 6 Best Work Bags for Women, From an Editor Who's Tested More Than 50 - Business Insider",
+      "date": "2026-10-15",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kWGZxdVRjaWVjOENTSGduanlsdGwxUGZLQXRmUHNDV3c3Z19YeUFnREVqVnhDS2I2UUx0SHZ0dGxHNUZfNmkxOUF5b0ZtTDA2b0xGZjVRaEc2MUp5SEdERmtwT3p5QzNGOW9EQXBiVFhXdw?oc=5",
+      "snippet": "The 6 Best Work Bags for Women, From an Editor Who's Tested More Than 50 &nbsp;&nbsp; Business Insider"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2h2ZnV1NC1EMnJlVUt0MjBUZkhyUlV1ODFYa09MNFdFYWRkOXlZbExwd0J5ZFZHSDJQaFhWRjNMeG5KSmFidUdPMXZTZi1FNDREUWtOLVlGUS1aNVRHWXU4dHQ2VGNBWnBEU0c5bU93NEJ4WEpFaVhSQmpwaW01d0Y5TzFXcEpMeG9qOWJiTVlMQ3ZjbzBmRjYxcnNmNzVMemotc0xIaGx5akF5cEhOeFNkODQ0SlVkcHZXelFHUkNYdHc?oc=5",
+      "type": "article",
+      "title": "Family trusts get one chance to beat the 30pc tax: your options - AFR",
+      "date": "2026-10-15",
+      "source": "AFR",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2h2ZnV1NC1EMnJlVUt0MjBUZkhyUlV1ODFYa09MNFdFYWRkOXlZbExwd0J5ZFZHSDJQaFhWRjNMeG5KSmFidUdPMXZTZi1FNDREUWtOLVlGUS1aNVRHWXU4dHQ2VGNBWnBEU0c5bU93NEJ4WEpFaVhSQmpwaW01d0Y5TzFXcEpMeG9qOWJiTVlMQ3ZjbzBmRjYxcnNmNzVMemotc0xIaGx5akF5cEhOeFNkODQ0SlVkcHZXelFHUkNYdHc?oc=5",
+      "snippet": "Family trusts get one chance to beat the 30pc tax: your options &nbsp;&nbsp; AFR"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxPelFFREJ4b0JRc0FHUWdNYTF0c1BwYlR3QmpzczNvRWRDUzQ5UW5Na2Rva0wxc3RmMlE3TzhzajdrcmtSR3BOdzVqSHFNV0dWMm8xLXRkTVRtbWRpYlZtX2tUb0ZGTjZDOHZBYUk4MHZSZ1NLYVJvVGdjSlVjRmdDWGFNSHpLUDc5SEZWengtQWhLd0xkVlNGZUF2eVBRajNzaDhCTjNDb1NDRTVSY211YTJyeUpCeTg?oc=5",
+      "type": "article",
+      "title": "New procedure for special measures for vulnerable witnesses - Law Society of Scotland",
+      "date": "2026-10-15",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelFFREJ4b0JRc0FHUWdNYTF0c1BwYlR3QmpzczNvRWRDUzQ5UW5Na2Rva0wxc3RmMlE3TzhzajdrcmtSR3BOdzVqSHFNV0dWMm8xLXRkTVRtbWRpYlZtX2tUb0ZGTjZDOHZBYUk4MHZSZ1NLYVJvVGdjSlVjRmdDWGFNSHpLUDc5SEZWengtQWhLd0xkVlNGZUF2eVBRajNzaDhCTjNDb1NDRTVSY211YTJyeUpCeTg?oc=5",
+      "snippet": "New procedure for special measures for vulnerable witnesses &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjliclp0TTh2OW5DejR4RmZuSUdSSEFNRk44S0JIckhJN1VKcXNFZldyMGZBNHlpTlZDYjZFT0VjZk9YOWRQRkpXZXRtUGFzUjlybVZQN3VCS0Rvc1BPU0YwX2lLeU5qb3pmbTIwUkQ0aDdwZXZVcW5paWpoWnpWSVBrSGZzXzBpZlFZS215QU9SZmdxOGF5ejVodlEyTXExLXc2ZHI1N01RUkEwenk2MDRoakFlSDJVN25BRERR?oc=5",
+      "type": "article",
+      "title": "Marquette Law School honored by American Bar Association for volunteer legal clinics - Marquette Today",
+      "date": "2026-10-15",
+      "source": "Marquette Today",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjliclp0TTh2OW5DejR4RmZuSUdSSEFNRk44S0JIckhJN1VKcXNFZldyMGZBNHlpTlZDYjZFT0VjZk9YOWRQRkpXZXRtUGFzUjlybVZQN3VCS0Rvc1BPU0YwX2lLeU5qb3pmbTIwUkQ0aDdwZXZVcW5paWpoWnpWSVBrSGZzXzBpZlFZS215QU9SZmdxOGF5ejVodlEyTXExLXc2ZHI1N01RUkEwenk2MDRoakFlSDJVN25BRERR?oc=5",
+      "snippet": "Marquette Law School honored by American Bar Association for volunteer legal clinics &nbsp;&nbsp; Marquette Today"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMivAFBVV95cUxNVU82Y2luNXp4LU90b1dlMzhRUng2VlgzbUxTdnFFY1pUU1Z5S3R3RW04MExWSnNTbGd6TDlQRVZ5Y04wc1BKMms3dmp2RXJ3VGlwaDg0a2tFaTMzNC1vZzFTbk43dVR6bGRhN3NTTUsxVjIzdXNMQk5TREw5ZlNNTG1ZeHdIbkwtclJON1RfUEUtRllCTTZ2Y3hPTEduQzNMSFBNaWN6N0c5cTBLS2FBZGFlVTBBRjFiZmlncQ?oc=5",
@@ -1271,87 +1352,6 @@
       "source": "Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNF9GSElvMzNQczM3R1ppb1JZXzZLRHl0Y25JSDlodXZRNUhtYTlVNG9sR1FscW5KWm5OMmo1OUUzcm5TYU1xRDF2dW0wblBCMEZ5NGQtUFY3UUVBanlyeWltTWlPMmpQN25HQ0w0N3lTOHlLbXlrRWJJQ3dvZHpENzVTNGFjOGs1NTdaZW1qRkFUdFZTcGtyS2hxQVBUejJOODNXc2J3VHRGVXVmVFloOE5feVTSAboBQVVfeXFMT1ZScEZFdFVMZTVkT1JjTm95RWtjc1BJcnVSR1FfRFdlVEVHdVV5djE1dFBzVDF1Y1JGT1piQmtoZGxmODB0ZENtMVJ4d2RFUy1vSUluR21ZVDF2S2trVkFIVVdzZTFiaTRJSnBiM1NWejJZd2VrYmg0MWFZZnVHR3BCYlhlUDRtWllLV0lKOG9xa0RnY0RYMGc2MnRTV0xXcG1kN1hZWDdhdXJXUWhMbl9uYjZqV3pxaTBR?oc=5",
       "snippet": "Frontline Managed Services Acquires KL Software And Launches Intelligent Applications Business &nbsp;&nbsp; Pulse 2.0"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSjVMWTYwdHk0RENFMWxxQ2NSYlJnWVM0SVZXMDFSLVdqRDU2UHlFRjh1WU4zbHlxdHlCazZTc2RmVWV6M2pTRGlldjkxZHJaZVVPRVNMOGx1eWFKN29OMEl0ZTE2OHdpRjZiUE11Xy1USHI3bWpyRC1GNE9DZDhySFlyUjdlYktxUy1IRUNVaHVORnZxa3RVTHVRT284YzNYVjJsZTBQVHZnNHJXS3lLRzFCSTZyREpFd0M1aTVSbG5jeW0talQ2ME9nSk5ZdzNpUEFLWFdjVGZrZWMxOWc?oc=5",
-      "type": "article",
-      "title": "5 Green Bay-area businesses among Wisconsin's 75 largest private firms - Green Bay Press-Gazette",
-      "date": "2026-10-07",
-      "source": "Green Bay Press-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSjVMWTYwdHk0RENFMWxxQ2NSYlJnWVM0SVZXMDFSLVdqRDU2UHlFRjh1WU4zbHlxdHlCazZTc2RmVWV6M2pTRGlldjkxZHJaZVVPRVNMOGx1eWFKN29OMEl0ZTE2OHdpRjZiUE11Xy1USHI3bWpyRC1GNE9DZDhySFlyUjdlYktxUy1IRUNVaHVORnZxa3RVTHVRT284YzNYVjJsZTBQVHZnNHJXS3lLRzFCSTZyREpFd0M1aTVSbG5jeW0talQ2ME9nSk5ZdzNpUEFLWFdjVGZrZWMxOWc?oc=5",
-      "snippet": "5 Green Bay-area businesses among Wisconsin's 75 largest private firms &nbsp;&nbsp; Green Bay Press-Gazette"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVQtTjdsT2doYnpUS3pUNTZxM2lrelhtRUsxb2R4VmRRMU9JUGFSM2ZPMEVPOTMyWU55eElDSnFsbTFQUU56aXRVam9tblNNRzZFTUlVcUVQckNwWkVlRngwMFRLNkdUTXh0SnlzWFc3VUhzMHVual9udzVqUmZMTnptNTY?oc=5",
-      "type": "article",
-      "title": "Billionaire Weston family to buy Boots in $8.9bn deal - Financial Times",
-      "date": "2026-10-07",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVQtTjdsT2doYnpUS3pUNTZxM2lrelhtRUsxb2R4VmRRMU9JUGFSM2ZPMEVPOTMyWU55eElDSnFsbTFQUU56aXRVam9tblNNRzZFTUlVcUVQckNwWkVlRngwMFRLNkdUTXh0SnlzWFc3VUhzMHVual9udzVqUmZMTnptNTY?oc=5",
-      "snippet": "Billionaire Weston family to buy Boots in $8.9bn deal &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXZsLU9LdUZUcWhpdjd6RzliMXRFZUlnQl9vcTE1MHFTREFReGxkcnJnMFBCYzMzYXlrNDNEdU5yMmYxaF80MDl0Q0pwTjJWUmExSW5LWG9xNkw1V3M2OENkOHJyR2ZwSVI5dGVFNENQWHQ0cHNFX05PVDdIbjRBbll5Q0dUbnpadmR1bVdDRFQ3clVBeTlyTTRRVlpHT0NZ?oc=5",
-      "type": "article",
-      "title": "Could Law Firms Be Private Equity’s Next Darling? - Law.com",
-      "date": "2026-10-07",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXZsLU9LdUZUcWhpdjd6RzliMXRFZUlnQl9vcTE1MHFTREFReGxkcnJnMFBCYzMzYXlrNDNEdU5yMmYxaF80MDl0Q0pwTjJWUmExSW5LWG9xNkw1V3M2OENkOHJyR2ZwSVI5dGVFNENQWHQ0cHNFX05PVDdIbjRBbll5Q0dUbnpadmR1bVdDRFQ3clVBeTlyTTRRVlpHT0NZ?oc=5",
-      "snippet": "Could Law Firms Be Private Equity’s Next Darling? &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjdMVE5kM3U2bXo3aHJmOWRIelBVa2pVdTlOdDFUcXZyRV80OHRwSVZiUHIzVm9TeWN2NldaRGRoTGx6YU43bmRHcjhQZjB5VGpKZkNFeTBFUm14NkFybnlWTFFGVGdmTElGTTEzZlM0ZWw0LXh6c0lTM1J3c3hVZjFnTGc?oc=5",
-      "type": "article",
-      "title": "Litigation Finance’s Institutional Inflection Point - ABF Journal",
-      "date": "2026-10-07",
-      "source": "ABF Journal",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjdMVE5kM3U2bXo3aHJmOWRIelBVa2pVdTlOdDFUcXZyRV80OHRwSVZiUHIzVm9TeWN2NldaRGRoTGx6YU43bmRHcjhQZjB5VGpKZkNFeTBFUm14NkFybnlWTFFGVGdmTElGTTEzZlM0ZWw0LXh6c0lTM1J3c3hVZjFnTGc?oc=5",
-      "snippet": "Litigation Finance’s Institutional Inflection Point &nbsp;&nbsp; ABF Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMifkFVX3lxTFBFMGZLeVpLRXZlNEdsUXdzMFAzNlR2TEpWV245eW1yRGk3MW9MSWdmLVJDUWpXTnRKeFhzRzdkdWVTQ2ZwaUg1Z3FyeDBwMTVEVDhEM2FoMThIUjUteDRlRDAzRnNFQ3pESlplMXdkWmk5Z09mS2ZVVFdfOU52QQ?oc=5",
-      "type": "article",
-      "title": "Continuation vehicles meld with fund ABS - Private Funds CFO",
-      "date": "2026-10-07",
-      "source": "Private Funds CFO",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFMGZLeVpLRXZlNEdsUXdzMFAzNlR2TEpWV245eW1yRGk3MW9MSWdmLVJDUWpXTnRKeFhzRzdkdWVTQ2ZwaUg1Z3FyeDBwMTVEVDhEM2FoMThIUjUteDRlRDAzRnNFQ3pESlplMXdkWmk5Z09mS2ZVVFdfOU52QQ?oc=5",
-      "snippet": "Continuation vehicles meld with fund ABS &nbsp;&nbsp; Private Funds CFO"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTDZOVXRpejk3VzFFYm41MG9NSndEcEp5UG5kT2pxSjdjQXBKM0toVEZZcW01YTJPYWRfbjlfaFhoSXdMTnNPRTNkeUczSjllUzR2OHdXVmlFdmJFdUFJR3FoYzUyMGxtak9oOXVtajRVbFRGR2M0Y2R6aFk2eHUzM3lyN3ktSXJLN1lVd0tLOEtJSFFIUFpjaXNJM2tDRFowbDRVb3ZQdkY3RkV2eE12em9PVVJvUHpDaW5oNzNtd2FwSkFrZjNCdlluX1dCaGpIanVpcXRERXVFYk5lYThxakg2TWxtT3pLN2c?oc=5",
-      "type": "article",
-      "title": "When AI Writes the Prescription: Licensure, Liability, and the Corporate Practice of Medicine in Utah’s Autonomous AI Pilot - Snell & Wilmer",
-      "date": "2026-10-07",
-      "source": "Snell & Wilmer",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTDZOVXRpejk3VzFFYm41MG9NSndEcEp5UG5kT2pxSjdjQXBKM0toVEZZcW01YTJPYWRfbjlfaFhoSXdMTnNPRTNkeUczSjllUzR2OHdXVmlFdmJFdUFJR3FoYzUyMGxtak9oOXVtajRVbFRGR2M0Y2R6aFk2eHUzM3lyN3ktSXJLN1lVd0tLOEtJSFFIUFpjaXNJM2tDRFowbDRVb3ZQdkY3RkV2eE12em9PVVJvUHpDaW5oNzNtd2FwSkFrZjNCdlluX1dCaGpIanVpcXRERXVFYk5lYThxakg2TWxtT3pLN2c?oc=5",
-      "snippet": "When AI Writes the Prescription: Licensure, Liability, and the Corporate Practice of Medicine in Utah’s Autonomous AI Pilot &nbsp;&nbsp; Snell & Wilmer"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUExzS3BIQ1RoNUQyXzlwc05HN0dxNHVWSjVQMmhXOGFMQzNqNmc0TE5yU2xEaEc5cC04SFRWN0NuNEQ3cHRtNXdtb2NXb2FJZzlGYXJuV3NiSFdIUXVJNDktMVg2Sy1pNUcxeUJPb21mcU9ZaGNDMVdRRk1kaUo4SENNd0JxLTRMNkdYOF90Q1dHTi1JUUJVOFdfOVhvUDBmRVgyeFFXanNnLXF5dWlKRDA4TVc0SEtpWGIzdWZVSTAxblJBbEx2T0k3UExZd3VzQlBRYXhhTjA1NjRtTkE?oc=5",
-      "type": "article",
-      "title": "13 of Wisconsin's 75 largest private companies based in Fox Cities - The Post-Crescent",
-      "date": "2026-10-07",
-      "source": "The Post-Crescent",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUExzS3BIQ1RoNUQyXzlwc05HN0dxNHVWSjVQMmhXOGFMQzNqNmc0TE5yU2xEaEc5cC04SFRWN0NuNEQ3cHRtNXdtb2NXb2FJZzlGYXJuV3NiSFdIUXVJNDktMVg2Sy1pNUcxeUJPb21mcU9ZaGNDMVdRRk1kaUo4SENNd0JxLTRMNkdYOF90Q1dHTi1JUUJVOFdfOVhvUDBmRVgyeFFXanNnLXF5dWlKRDA4TVc0SEtpWGIzdWZVSTAxblJBbEx2T0k3UExZd3VzQlBRYXhhTjA1NjRtTkE?oc=5",
-      "snippet": "13 of Wisconsin's 75 largest private companies based in Fox Cities &nbsp;&nbsp; The Post-Crescent"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWRGb0VmREVwdlpBcFprVXJqd09RX09VM0EtcE5oazlGeUF3WjRnOEtpNEE4OXhOR05vZUxjd2Rfc0tLS25XcGs5OFdOMDU1ODhwenNQRzhUdWhvdkE0RzQ2THdUMkZhSFJuUVQtWGZ6RmEtREVfYUJveHZCbEJsU3RFZXhMZGtqcWwzWVlXVm1HeDl4?oc=5",
-      "type": "article",
-      "title": "ADISA announces 2026 alternative investments industry award winners - Institutional Real Estate, Inc.",
-      "date": "2026-10-07",
-      "source": "Institutional Real Estate, Inc.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWRGb0VmREVwdlpBcFprVXJqd09RX09VM0EtcE5oazlGeUF3WjRnOEtpNEE4OXhOR05vZUxjd2Rfc0tLS25XcGs5OFdOMDU1ODhwenNQRzhUdWhvdkE0RzQ2THdUMkZhSFJuUVQtWGZ6RmEtREVfYUJveHZCbEJsU3RFZXhMZGtqcWwzWVlXVm1HeDl4?oc=5",
-      "snippet": "ADISA announces 2026 alternative investments industry award winners &nbsp;&nbsp; Institutional Real Estate, Inc."
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3hwSU92b2N4N2xacnBkam5ZVThpSjhEdVRXVTFNbDl2dzZEZGdRTE9VemdHMkhWNVZSbXBRVnl2aHhWVTZlcWtabHBiNVZ0b2ViOUx6Q09MQU5McFpFN3cydFJIYldkRnh6Q0lRdlBKeWJXNTZxMDlkNFVJbmFWTTJCX2FUTmx6SzNaaEg4MGNGUHp6eDNhc0hLWQ?oc=5",
-      "type": "article",
-      "title": "Carlisle law firm appoints new operations director amid ABS transition - in-Cumbria",
-      "date": "2026-10-07",
-      "source": "in-Cumbria",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3hwSU92b2N4N2xacnBkam5ZVThpSjhEdVRXVTFNbDl2dzZEZGdRTE9VemdHMkhWNVZSbXBRVnl2aHhWVTZlcWtabHBiNVZ0b2ViOUx6Q09MQU5McFpFN3cydFJIYldkRnh6Q0lRdlBKeWJXNTZxMDlkNFVJbmFWTTJCX2FUTmx6SzNaaEg4MGNGUHp6eDNhc0hLWQ?oc=5",
-      "snippet": "Carlisle law firm appoints new operations director amid ABS transition &nbsp;&nbsp; in-Cumbria"
     }
   ]
 }
