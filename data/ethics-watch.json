@@ -1,8 +1,53 @@
 {
-  "lastRun": "2026-10-21T15:51:51.113650+00:00",
+  "lastRun": "2026-10-22T15:48:43.477096+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 12,
+  "addedThisRun": 14,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSldOZmJScTBBYWtUYXYzUk9ERVZQWnUxckgtV1lTb1hTUmx0cDAxUWFkemR6a0tSRXRIWFB4RHRPc2lfempjMGVaZVdVNWs5NFFyNmJ4WmNjNVVYbnFwNy1lNmdORU9tTWg1SUpYdlZ1enNCS3g2dQ?oc=5",
+      "type": "article",
+      "title": "TN High Court Says ‘No’ to PE Ownership of Law Firms But Other Options Open - Insurance Journal",
+      "date": "2026-10-22",
+      "source": "Insurance Journal",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSldOZmJScTBBYWtUYXYzUk9ERVZQWnUxckgtV1lTb1hTUmx0cDAxUWFkemR6a0tSRXRIWFB4RHRPc2lfempjMGVaZVdVNWs5NFFyNmJ4WmNjNVVYbnFwNy1lNmdORU9tTWg1SUpYdlZ1enNCS3g2dQ?oc=5",
+      "snippet": "TN High Court Says ‘No’ to PE Ownership of Law Firms But Other Options Open &nbsp;&nbsp; Insurance Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEdqOXBJYTZIX0M0YlJqaWxnWEpwN2dTaWk3aW9FNW4wdU94Z3QzMHFXbERwTUYzMmJ0MWQwS1F2N29UUG1WZkg4amRGZGU2OXNpcUcxZnVHWFowVUJYajMwcWp6eGNDWHpDVFk0UTFjUXd2SmFOSWxOSnpwMEtkQy12MEFkY0s1MkVKRlJId0E5b3J1RVBMWEtNRHFwSjZUbkpzZXF0QQ?oc=5",
+      "type": "article",
+      "title": "Vermont restricts private equity control of clinical decision making and introduces ownership reporting for health care facilities and MSOs - Hogan Lovells Cadwalader",
+      "date": "2026-10-22",
+      "source": "Hogan Lovells Cadwalader",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEdqOXBJYTZIX0M0YlJqaWxnWEpwN2dTaWk3aW9FNW4wdU94Z3QzMHFXbERwTUYzMmJ0MWQwS1F2N29UUG1WZkg4amRGZGU2OXNpcUcxZnVHWFowVUJYajMwcWp6eGNDWHpDVFk0UTFjUXd2SmFOSWxOSnpwMEtkQy12MEFkY0s1MkVKRlJId0E5b3J1RVBMWEtNRHFwSjZUbkpzZXF0QQ?oc=5",
+      "snippet": "Vermont restricts private equity control of clinical decision making and introduces ownership reporting for health care facilities and MSOs &nbsp;&nbsp; Hogan Lovells Cadwalader"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVJhb3R3bldYQmwzVUI4MnRIV0otRXBfeHgwUzN4S01GTjYzdld3YU5CaE5JNGFvcE5RaWZjYUlXWHVnTmV1azhRcGJvNFJpUkRQSXNPUlViOTVCV1B2YU9icTFETnA3eU1CdWFMR2pIMGwtUGVFTTJqcVNWdEh1SlBCMF9yVnU4OU9ScHFPU25VdmNjVHBGaHd5YUc3cjM5eVJHR0NLbzNna3Z2YmFDeHFGS0RpSExwZ1lwVzl1RmxhNjF2YnRsUk9kYjJCQkhMZFZwTUVR?oc=5",
+      "type": "article",
+      "title": "FTI Consulting Appoints Katie Norris Senior Managing Director in Healthcare Risk Management Practice - citybiz",
+      "date": "2026-10-22",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVJhb3R3bldYQmwzVUI4MnRIV0otRXBfeHgwUzN4S01GTjYzdld3YU5CaE5JNGFvcE5RaWZjYUlXWHVnTmV1azhRcGJvNFJpUkRQSXNPUlViOTVCV1B2YU9icTFETnA3eU1CdWFMR2pIMGwtUGVFTTJqcVNWdEh1SlBCMF9yVnU4OU9ScHFPU25VdmNjVHBGaHd5YUc3cjM5eVJHR0NLbzNna3Z2YmFDeHFGS0RpSExwZ1lwVzl1RmxhNjF2YnRsUk9kYjJCQkhMZFZwTUVR?oc=5",
+      "snippet": "FTI Consulting Appoints Katie Norris Senior Managing Director in Healthcare Risk Management Practice &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi7wFBVV95cUxQby1jQmRveVIzeTQzcjBEUUJ2Sk1tSWU5V2dOWm1obi14RUc0RXFHbE5fS3d6VlpnYmZHcXJYdG9JM29NZllBTlBqWm81UlVmY0lMMHJMd005cFZIdkVfN3padmJXREJIdlJkSWZoTUhfUnBaWkJrTk8xaVdKUHlTVWlEdERmcFI3VFkxNjZxNkIzdmZoLVpPUnl0UWRmTW4yMFBjZ3dhUDFoNk9Jb2hfa29ZTWplZndYdXNpZjhFOWpwVDNndF92VHQtSG81OXJMRnVXQng3MjVKd1FMVVIxR1Q0bVN0QTlVNUN5M3FCTQ?oc=5",
+      "type": "article",
+      "title": "Judge Must Recuse From Former Firm’s Cases for 2 Years After Financial Ties End: Judicial Ethics Opinion 26-45 - Law.com",
+      "date": "2026-10-22",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQby1jQmRveVIzeTQzcjBEUUJ2Sk1tSWU5V2dOWm1obi14RUc0RXFHbE5fS3d6VlpnYmZHcXJYdG9JM29NZllBTlBqWm81UlVmY0lMMHJMd005cFZIdkVfN3padmJXREJIdlJkSWZoTUhfUnBaWkJrTk8xaVdKUHlTVWlEdERmcFI3VFkxNjZxNkIzdmZoLVpPUnl0UWRmTW4yMFBjZ3dhUDFoNk9Jb2hfa29ZTWplZndYdXNpZjhFOWpwVDNndF92VHQtSG81OXJMRnVXQng3MjVKd1FMVVIxR1Q0bVN0QTlVNUN5M3FCTQ?oc=5",
+      "snippet": "Judge Must Recuse From Former Firm’s Cases for 2 Years After Financial Ties End: Judicial Ethics Opinion 26-45 &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FRVhfUkxPTktUT1hLUE1jLWpvekNNZDd6RGk1T1NYQ3NmblNDZzVPQmpqTW5OYjV2dHVTaFllSm5TV2M?oc=5",
+      "type": "article",
+      "title": "FCPA Explained: Anti-Bribery Rules, Penalties and 2026 Enforcement - Legal Desire",
+      "date": "2026-10-22",
+      "source": "Legal Desire",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FRVhfUkxPTktUT1hLUE1jLWpvekNNZDd6RGk1T1NYQ3NmblNDZzVPQmpqTW5OYjV2dHVTaFllSm5TV2M?oc=5",
+      "snippet": "FCPA Explained: Anti-Bribery Rules, Penalties and 2026 Enforcement &nbsp;&nbsp; Legal Desire"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGdjbmNiamJYT0xHMFltc1dHUDhNbGpjRlducTloMFR1ZXFna2FCUG9LU3RNemF5cllYb29yMWp2M2QwRU9mVGhkNTBYbWRUM2Q4M0w3dlJqWFFUenI5V0hyTExSRXR0VnVwdWlOX1VxY1V3V3B5cm1ObnlrRi0zQURRU3hOLVdoaVB2b1RBMlBnM0pxVF9BaE8yenFkSGdHcHkxQ1hkNXBnZjJwUlVIV2M0ajF4bHQzbGNtY1dvMnZUaW9lZUx0WTM3SG93TGJpTEZrVE5VT21JQ3FmU25qS2RHNXl2czYyaDRxM0huWV9SN3dWS2c?oc=5",
       "type": "article",
@@ -29,6 +74,78 @@
       "source": "Texas Medical Association",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NTGdUd2JlUlhxWHpuNkJTT0RXUjR3UTVfZDhQdFpHbmJrZjhsNHVjQUg4SEpCZDg5MWtEaVdubWF5ZWozdEZoZGFuME9iNUhRRE50c2dNblF0OVFhekhlSXo5T3N3ZzQ?oc=5",
       "snippet": "In Potential Landmark Corporate Practice of Medicine Case, TMA Backs Physician Autonomy &nbsp;&nbsp; Texas Medical Association"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjFiRlJKN3l4UkhOSzlVVnVERnFYUEM0c0RxV3NrTE9nTU9wZWcxVS1UT3Rpc25QcUs5RmN2LTd1MnVBZTdjNXh3Nmd2djRJLWJvb2VVcVF1NVhWYmNCMWtvZ2t2Ui1DSVd4R2RVbUpQZVdnYWZ4aWtQNXZNRjlQNWVJcTJncTF5YkpQdEdEcURvSnU2X09fWUt3?oc=5",
+      "type": "article",
+      "title": "Parody Video Describes Private Equity Rolling Up On Law Firms - Above the Law",
+      "date": "2026-10-21",
+      "source": "Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjFiRlJKN3l4UkhOSzlVVnVERnFYUEM0c0RxV3NrTE9nTU9wZWcxVS1UT3Rpc25QcUs5RmN2LTd1MnVBZTdjNXh3Nmd2djRJLWJvb2VVcVF1NVhWYmNCMWtvZ2t2Ui1DSVd4R2RVbUpQZVdnYWZ4aWtQNXZNRjlQNWVJcTJncTF5YkpQdEdEcURvSnU2X09fWUt3?oc=5",
+      "snippet": "Parody Video Describes Private Equity Rolling Up On Law Firms &nbsp;&nbsp; Above the Law"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxOSld0Yk5UbnVibkxLamVaX0VtSVRZSHJGcERnNGdsY1N4OF9Semx1T04wclhWemw1aVdkUjU4S1cyQlI4NHJGeEdLb0MyZVE4em5qaTNBbWtHTjZzWExtUGt0NjBlOFRuTy1aRWFiQmFuREFzUmY3eWRIZFZhQm1IaGhETmpNaC0xdGxXa2w1ZGRUZGtXNlNXVGg5Sjc1TGpRUTlXQlJra3paalVQb2NSWXFYNmJZMkpkNXBiYWQtdlVURWFqRUxv?oc=5",
+      "type": "article",
+      "title": "Tennessee high court maintains ban on nonlawyer ownership of law firms, fee splitting - ABA Journal",
+      "date": "2026-10-21",
+      "source": "ABA Journal",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSld0Yk5UbnVibkxLamVaX0VtSVRZSHJGcERnNGdsY1N4OF9Semx1T04wclhWemw1aVdkUjU4S1cyQlI4NHJGeEdLb0MyZVE4em5qaTNBbWtHTjZzWExtUGt0NjBlOFRuTy1aRWFiQmFuREFzUmY3eWRIZFZhQm1IaGhETmpNaC0xdGxXa2w1ZGRUZGtXNlNXVGg5Sjc1TGpRUTlXQlJra3paalVQb2NSWXFYNmJZMkpkNXBiYWQtdlVURWFqRUxv?oc=5",
+      "snippet": "Tennessee high court maintains ban on nonlawyer ownership of law firms, fee splitting &nbsp;&nbsp; ABA Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzUtT0MwdE5xd1FPdEU4cE5LWTlaclhEdXpiSjhSQnBKRXNwSjJIZjZhWkxMTndKZFM5VC1YWVB2bUNHTkFsVko1X08yTmZJbFcydzcxdnpvSXBhcHQycWprdU11cWhxS09FUDlNX1kwUVNPVS1NSG41Q2g0QVZ5MkQzQUF3T1pCOS1oSDJxQ3p4SGZqSDFBSGIzQ0tqc1RFazZoWFlpdTJReEV6UUxWanptMnRRdm9wbUdmYnFB?oc=5",
+      "type": "article",
+      "title": "Private Equity Can’t Own Tennessee Law Firms, But It Can Still Get A Piece Of The Business - Above the Law",
+      "date": "2026-10-21",
+      "source": "Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzUtT0MwdE5xd1FPdEU4cE5LWTlaclhEdXpiSjhSQnBKRXNwSjJIZjZhWkxMTndKZFM5VC1YWVB2bUNHTkFsVko1X08yTmZJbFcydzcxdnpvSXBhcHQycWprdU11cWhxS09FUDlNX1kwUVNPVS1NSG41Q2g0QVZ5MkQzQUF3T1pCOS1oSDJxQ3p4SGZqSDFBSGIzQ0tqc1RFazZoWFlpdTJReEV6UUxWanptMnRRdm9wbUdmYnFB?oc=5",
+      "snippet": "Private Equity Can’t Own Tennessee Law Firms, But It Can Still Get A Piece Of The Business &nbsp;&nbsp; Above the Law"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiugJBVV95cUxOZ09QejFBMFhwck1aeVVmRzBxMTI4eUtXTWZlZm9jVGdjT0YtXzFlN1g0akJQdG9MYzBmRTE5aW1KSzVnWGJDOXZ5TmJiVng5YjFuQ2VqMU1uZ1Z1VlhZaE9ITzlJcGdSR3I0SFhqVGE1c3dwakJ5QUgwcllUc2haOGZSOWZzMW9kWlpfRU1saXpyMmg0LXpmWGFsLWRWMkd4T1BwTW9ScEw0VFZ6R1ppcFdTYkxNb2JWcFBGdFcxbEZFYS11b3p1dEt6VFN4UkE2Tkkxc3RoeTVjblJZakVnTElOR2F2RjhnMHZTVUZzQ0lfdktpMWxwejBldFp1Qks2WU04cmgtb2xrOGc0b01VY2E5czVMMm4yN05NWWQybHpRNU5pcHQzS29hSVE3WEpoYk80cUwxU1hKd9IBugJBVV95cUxOZ09QejFBMFhwck1aeVVmRzBxMTI4eUtXTWZlZm9jVGdjT0YtXzFlN1g0akJQdG9MYzBmRTE5aW1KSzVnWGJDOXZ5TmJiVng5YjFuQ2VqMU1uZ1Z1VlhZaE9ITzlJcGdSR3I0SFhqVGE1c3dwakJ5QUgwcllUc2haOGZSOWZzMW9kWlpfRU1saXpyMmg0LXpmWGFsLWRWMkd4T1BwTW9ScEw0VFZ6R1ppcFdTYkxNb2JWcFBGdFcxbEZFYS11b3p1dEt6VFN4UkE2Tkkxc3RoeTVjblJZakVnTElOR2F2RjhnMHZTVUZzQ0lfdktpMWxwejBldFp1Qks2WU04cmgtb2xrOGc0b01VY2E5czVMMm4yN05NWWQybHpRNU5pcHQzS29hSVE3WEpoYk80cUwxU1hKdw?oc=5",
+      "type": "article",
+      "title": "Ogborn Mihm LLP Partner Megan Matthews Named President of the Colorado Trial Lawyers Association (CTLA) - Santa Maria Times",
+      "date": "2026-10-21",
+      "source": "Santa Maria Times",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZ09QejFBMFhwck1aeVVmRzBxMTI4eUtXTWZlZm9jVGdjT0YtXzFlN1g0akJQdG9MYzBmRTE5aW1KSzVnWGJDOXZ5TmJiVng5YjFuQ2VqMU1uZ1Z1VlhZaE9ITzlJcGdSR3I0SFhqVGE1c3dwakJ5QUgwcllUc2haOGZSOWZzMW9kWlpfRU1saXpyMmg0LXpmWGFsLWRWMkd4T1BwTW9ScEw0VFZ6R1ppcFdTYkxNb2JWcFBGdFcxbEZFYS11b3p1dEt6VFN4UkE2Tkkxc3RoeTVjblJZakVnTElOR2F2RjhnMHZTVUZzQ0lfdktpMWxwejBldFp1Qks2WU04cmgtb2xrOGc0b01VY2E5czVMMm4yN05NWWQybHpRNU5pcHQzS29hSVE3WEpoYk80cUwxU1hKd9IBugJBVV95cUxOZ09QejFBMFhwck1aeVVmRzBxMTI4eUtXTWZlZm9jVGdjT0YtXzFlN1g0akJQdG9MYzBmRTE5aW1KSzVnWGJDOXZ5TmJiVng5YjFuQ2VqMU1uZ1Z1VlhZaE9ITzlJcGdSR3I0SFhqVGE1c3dwakJ5QUgwcllUc2haOGZSOWZzMW9kWlpfRU1saXpyMmg0LXpmWGFsLWRWMkd4T1BwTW9ScEw0VFZ6R1ppcFdTYkxNb2JWcFBGdFcxbEZFYS11b3p1dEt6VFN4UkE2Tkkxc3RoeTVjblJZakVnTElOR2F2RjhnMHZTVUZzQ0lfdktpMWxwejBldFp1Qks2WU04cmgtb2xrOGc0b01VY2E5czVMMm4yN05NWWQybHpRNU5pcHQzS29hSVE3WEpoYk80cUwxU1hKdw?oc=5",
+      "snippet": "Ogborn Mihm LLP Partner Megan Matthews Named President of the Colorado Trial Lawyers Association (CTLA) &nbsp;&nbsp; Santa Maria Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi2AFBVV95cUxOclpnZE9GUWFyVjVHSzlIN3B4RGpOWVZnOGZYNUhoRFk3VlRsSkNVb3duRjdjblB1aXFTZ2VweHY2cXd6XzNpNWd2ZzJSUW1ZSjM2LUIzNU5aQ2ptVGdpZlBUTkVnYlR1RV9pbUtodW5SYTBBNkxfRXR0MkhCWjFCb3VscjVPWUFROVhjVEZrVllmRDlBenVFS3gxVWtKQW1kbjZpNTY4MGVTS3ZKU0lRQ25pbVVuRk14ekZSWkFCR25ETVFJLTlYd0FZNkNtVDRfenZBdHkxZDI?oc=5",
+      "type": "article",
+      "title": "Freeman Mathis & Gary Eyeing Funding Options Amid Expected PE Cash Infusion Into Defense Firms - Law.com",
+      "date": "2026-10-21",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOclpnZE9GUWFyVjVHSzlIN3B4RGpOWVZnOGZYNUhoRFk3VlRsSkNVb3duRjdjblB1aXFTZ2VweHY2cXd6XzNpNWd2ZzJSUW1ZSjM2LUIzNU5aQ2ptVGdpZlBUTkVnYlR1RV9pbUtodW5SYTBBNkxfRXR0MkhCWjFCb3VscjVPWUFROVhjVEZrVllmRDlBenVFS3gxVWtKQW1kbjZpNTY4MGVTS3ZKU0lRQ25pbVVuRk14ekZSWkFCR25ETVFJLTlYd0FZNkNtVDRfenZBdHkxZDI?oc=5",
+      "snippet": "Freeman Mathis & Gary Eyeing Funding Options Amid Expected PE Cash Infusion Into Defense Firms &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTlVaXVnRS1aSDMtaFdobHNuTFUxVjdGWEs2U0NYSXg0Y0pwWW5ONkJUejNOUTNmXzd0cmM3cDlpT3NLRkVlM0lWeTcwVkRoNWdCODBudUJ0dzR4X3FDTHVEMWhTcXNlQVVxcUtBczdrYmJwNEF6T1RPeHozeEwwNzIyLXhCVDFQZVJOcnFXQmlaT2xhZ2t0enNURDJDNlFCM2JV?oc=5",
+      "type": "article",
+      "title": "St. Cloud Attorney Suspended Indefinitely by Minnesota Supreme Court - KNSI",
+      "date": "2026-10-21",
+      "source": "KNSI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTlVaXVnRS1aSDMtaFdobHNuTFUxVjdGWEs2U0NYSXg0Y0pwWW5ONkJUejNOUTNmXzd0cmM3cDlpT3NLRkVlM0lWeTcwVkRoNWdCODBudUJ0dzR4X3FDTHVEMWhTcXNlQVVxcUtBczdrYmJwNEF6T1RPeHozeEwwNzIyLXhCVDFQZVJOcnFXQmlaT2xhZ2t0enNURDJDNlFCM2JV?oc=5",
+      "snippet": "St. Cloud Attorney Suspended Indefinitely by Minnesota Supreme Court &nbsp;&nbsp; KNSI"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi2AFBVV95cUxNelE1UVYxLVQ4dmdtQVZXMURnc1pQS2poYzNCOVc1WUwxWlZPTVIydTJ4eVFOMnVaYzJaTzJmV3A1SkRHRW9rbW9jNldlTVZWV2UzTFVQT2pVNHhnYWFRWGV2Z2N1WlNlZjZRVjBkRVpndWRrQ09kQjc1aGV2REsyRkVJNGdCR2FlUnV1Z0JaZVdMNDE2OGJXZDRkbjNlQWd6LXVMQjlXbGRHYUlzMnFxY04xVGx2THgzWTI5U1ZiUjV4anNLd29UcjFRSXhVU3ZldGl1ZnJQbjI?oc=5",
+      "type": "article",
+      "title": "NYC’s Proposed POWER Act: A Municipal Private Right of Action With Statewide Reach - Consumer Financial Services Law Monitor",
+      "date": "2026-10-21",
+      "source": "Consumer Financial Services Law Monitor",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNelE1UVYxLVQ4dmdtQVZXMURnc1pQS2poYzNCOVc1WUwxWlZPTVIydTJ4eVFOMnVaYzJaTzJmV3A1SkRHRW9rbW9jNldlTVZWV2UzTFVQT2pVNHhnYWFRWGV2Z2N1WlNlZjZRVjBkRVpndWRrQ09kQjc1aGV2REsyRkVJNGdCR2FlUnV1Z0JaZVdMNDE2OGJXZDRkbjNlQWd6LXVMQjlXbGRHYUlzMnFxY04xVGx2THgzWTI5U1ZiUjV4anNLd29UcjFRSXhVU3ZldGl1ZnJQbjI?oc=5",
+      "snippet": "NYC’s Proposed POWER Act: A Municipal Private Right of Action With Statewide Reach &nbsp;&nbsp; Consumer Financial Services Law Monitor"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDFvRFAtNlgtckRBZWZfWG5ZdU9tS2tsUDBhTWhVMVY2TTFPcWJpT2xIS0dHSFFqZGUzZ2pneFpBZmozc0o0NFV4VWhORXhrdmNlc3hzMkNWWWJETGpwOVhlMzZFeklSVzN5UXhGX1JmdkxNemlMY2tZV2hqdHVBdXpDUWxYNkhySkdKNzJIRVFqczNySzVldE5mSTB4Qm1iWFl6Q0J4dzExM2JtYXBEYTRpazMxZS1pbkE?oc=5",
+      "type": "article",
+      "title": "The $10.2M physician autonomy fight unfolding in Texas - Becker's Physician Leadership",
+      "date": "2026-10-21",
+      "source": "Becker's Physician Leadership",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDFvRFAtNlgtckRBZWZfWG5ZdU9tS2tsUDBhTWhVMVY2TTFPcWJpT2xIS0dHSFFqZGUzZ2pneFpBZmozc0o0NFV4VWhORXhrdmNlc3hzMkNWWWJETGpwOVhlMzZFeklSVzN5UXhGX1JmdkxNemlMY2tZV2hqdHVBdXpDUWxYNkhySkdKNzJIRVFqczNySzVldE5mSTB4Qm1iWFl6Q0J4dzExM2JtYXBEYTRpazMxZS1pbkE?oc=5",
+      "snippet": "The $10.2M physician autonomy fight unfolding in Texas &nbsp;&nbsp; Becker's Physician Leadership"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTJVTVVFWHpVTGlVY0hJUTdBc0RhZE00QnRyQ2pFSDNWZGxqX3ZSZUlZOEN5eU1QclR6VnVHc3ZfV1FQckgxQmlpdEtGVlpmZFR4UWhwUzR2QW4xN3M5Ty1lTFZxSzhqNWE3MGpQb3puRGQwUWljOVZ5SlE1Qk9fQnViOGJUQjI1c05hb0VEUjA1UEl6R1J6eWdydU1ZeVd4MElraHFEYzlZdWdIdURNUGdpMjN3UQ?oc=5",
@@ -380,6 +497,15 @@
       "source": "Transnational Litigation Blog",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdXhNc2JBT0p0a0hMVS1UTUticGRQaFZ1cTNhdzFhZkF3NnNGMlpwRjdmUUVrZHhGWWhHd3N4eVBpQ3ZvYVBCYXluU2JiNWx3U1h5Q3lKYTZWbXRqcWRzRmZoNEVueDU1bFE?oc=5",
       "snippet": "A Primer on Foreign Sovereign Immunity &nbsp;&nbsp; Transnational Litigation Blog"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkJnUVFBcW1FTWVPT2htZ3pKZGZMa0U2NVIwUmVZa1VDY29nLVdhWHVhcFZnVkR5c25hdldFck1pTk5IYVBmd1BUQTNsU3JQRExVcTIwMUlKT3lveXU4a2duWFdSQU5NdVptRDFqZzItV3FXTEl6a1NaY0lURm1ObTR3NVljRDVVV3phNVkxVDA0eFNpUUc3TUZXaVlWZ2EzT3Q5V1FJZHFPN01PR19WNWV0Yy1YSlo5aEYw?oc=5",
+      "type": "article",
+      "title": "$700M private equity deal could fuel acquisitions by insurance-defense firm - Daily Journal",
+      "date": "2026-10-19",
+      "source": "Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkJnUVFBcW1FTWVPT2htZ3pKZGZMa0U2NVIwUmVZa1VDY29nLVdhWHVhcFZnVkR5c25hdldFck1pTk5IYVBmd1BUQTNsU3JQRExVcTIwMUlKT3lveXU4a2duWFdSQU5NdVptRDFqZzItV3FXTEl6a1NaY0lURm1ObTR3NVljRDVVV3phNVkxVDA0eFNpUUc3TUZXaVlWZ2EzT3Q5V1FJZHFPN01PR19WNWV0Yy1YSlo5aEYw?oc=5",
+      "snippet": "$700M private equity deal could fuel acquisitions by insurance-defense firm &nbsp;&nbsp; Daily Journal"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPd25Zd1BzS2JFWmoxU29vOXBYa2NZUmE3RFpPZ1hRUWIzeXhYVGRRMjdkaHpDbGt2M08tTjFKYms2Y1FTYUlPb0hqRVoxNUwyMWk1OS10UUQ4c1Z6MTIwdnlWN3BmeGk4QlpzbGxqNXVwMVBidS1VVzdlaTRicGdYY1VRN1NtbE1QZWpVOW1aR1lyWU5WQ1VrVA?oc=5",
@@ -1226,132 +1352,6 @@
       "source": "kpmg.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmZGVEJyZnhmcGRhXzN6UmhSRUl6cE1QQnBPOEFJR3JFYnRSU3BvMU5PNHBEalVYaUdqUUV0dHJ3VVE2MG9BZkpuNVhTaG1MQkJFZEY4NzdMZGpKQ1V5a2UtZ0VSNzkzQjg0TjIzdlpJcFdYdlAyQTRMZ3lhWlNIS3ZVdHRlckpUd0pLX0lDd2hQMk45NklJ?oc=5",
       "snippet": "New Regulations on The Law on Anti-Money Laundering (“AML”) &nbsp;&nbsp; kpmg.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE9wajlDSGt3THFvV21ZRE5KR3A1dG5LZUpGRlRCTThiSU8zSzJFZEJOWEJaNWpWVmhubDdqbC1Qam1iMWI1MTVqajBUNGJpMk5MTmRCZU1pQWtOOVpOUnlfa01IVmNELXZDdTlqXw?oc=5",
-      "type": "article",
-      "title": "Building Your Fractional C-Suite - NH Business Review",
-      "date": "2026-10-12",
-      "source": "NH Business Review",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wajlDSGt3THFvV21ZRE5KR3A1dG5LZUpGRlRCTThiSU8zSzJFZEJOWEJaNWpWVmhubDdqbC1Qam1iMWI1MTVqajBUNGJpMk5MTmRCZU1pQWtOOVpOUnlfa01IVmNELXZDdTlqXw?oc=5",
-      "snippet": "Building Your Fractional C-Suite &nbsp;&nbsp; NH Business Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZmVzNVRYbDJHT2o2MVJMckhxcHV6Rkp0YUNhUmVDY2Y3b0NNSTZfYUlQTEVJbnBWNUVLdVlaT281bHYwU1QtT2w1T2tLN1JvRVhIOVZGSDVuM3BmVGZDSjFENnVSYU5qcVFqbzliLU5ZaVQ3cnVORHVTTTlWYW9yZl82SEpvTUdpbVVpSENZdWZ3bHRVS003SUlURzJpY0NnUDVSc0FVbU9qWE5NUnYyN1YteWZmRUdzX01sYWltSmJRUzNnU3FyT2tjaWR3VTUtcWdENkpBckxEUW1TQnpZWFk4YUNHWTBhTVdYS0hsTVFEMFE?oc=5",
-      "type": "article",
-      "title": "Federal Court rules Australian privilege law applies to Japanese legal advice - Australasian Lawyer",
-      "date": "2026-10-12",
-      "source": "Australasian Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZmVzNVRYbDJHT2o2MVJMckhxcHV6Rkp0YUNhUmVDY2Y3b0NNSTZfYUlQTEVJbnBWNUVLdVlaT281bHYwU1QtT2w1T2tLN1JvRVhIOVZGSDVuM3BmVGZDSjFENnVSYU5qcVFqbzliLU5ZaVQ3cnVORHVTTTlWYW9yZl82SEpvTUdpbVVpSENZdWZ3bHRVS003SUlURzJpY0NnUDVSc0FVbU9qWE5NUnYyN1YteWZmRUdzX01sYWltSmJRUzNnU3FyT2tjaWR3VTUtcWdENkpBckxEUW1TQnpZWFk4YUNHWTBhTVdYS0hsTVFEMFE?oc=5",
-      "snippet": "Federal Court rules Australian privilege law applies to Japanese legal advice &nbsp;&nbsp; Australasian Lawyer"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWdIBS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWQ?oc=5",
-      "type": "article",
-      "title": "The Iraq-Syria oil pipeline: Who is behind the project raising conflict-of-interest concerns? - نون بوست",
-      "date": "2026-10-12",
-      "source": "نون بوست",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWdIBS0FVX3lxTE5YanlGX2dYZ0RaZFpWUjNjUlE0Z2ZUdXdlTjFuT1pfT3BmdTlCcldxU0w5MlFxYi1iOHlkcmFlUEFLN1R1aWo5N0tNWQ?oc=5",
-      "snippet": "The Iraq-Syria oil pipeline: Who is behind the project raising conflict-of-interest concerns? &nbsp;&nbsp; نون بوست"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YZzJ4YVRtRGFpQmR0SVBrZHJ0SUtFbFQ3a1ppbmwzTzhsU1Vqd1VZc0hjWjNmWmRPSklRSFdPUW9CNk9JWEtJdnR0dmZrQnp4Vy13QUJiWHQ1Mi0wVDhV?oc=5",
-      "type": "article",
-      "title": "Karnataka High Court sets aside Mukesh Bansal tax notice - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YZzJ4YVRtRGFpQmR0SVBrZHJ0SUtFbFQ3a1ppbmwzTzhsU1Vqd1VZc0hjWjNmWmRPSklRSFdPUW9CNk9JWEtJdnR0dmZrQnp4Vy13QUJiWHQ1Mi0wVDhV?oc=5",
-      "snippet": "Karnataka High Court sets aside Mukesh Bansal tax notice &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3IxTllLTGFPWjliZkJaZFVJMXhrMUhRRkZKTEtWQWUyVERkUlFDLXMtNjZBZ0FRNzUzZGx1T3pxTTBoREdOcmNENGY4dWplNHgtZWZKNlZyTkNTZWhSdjlHTUNDdzFsak1GOExtRlBrSVE4UzVPR0M2elQ5Q21HeDY5VWEyY2ZBbXc?oc=5",
-      "type": "article",
-      "title": "Why Massachusetts should adopt the UABCA - Massachusetts Lawyers Weekly",
-      "date": "2026-10-12",
-      "source": "Massachusetts Lawyers Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3IxTllLTGFPWjliZkJaZFVJMXhrMUhRRkZKTEtWQWUyVERkUlFDLXMtNjZBZ0FRNzUzZGx1T3pxTTBoREdOcmNENGY4dWplNHgtZWZKNlZyTkNTZWhSdjlHTUNDdzFsak1GOExtRlBrSVE4UzVPR0M2elQ5Q21HeDY5VWEyY2ZBbXc?oc=5",
-      "snippet": "Why Massachusetts should adopt the UABCA &nbsp;&nbsp; Massachusetts Lawyers Weekly"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTHhuaTJKMm8xb0xuNExPMnkxX05RMUhLcTVxZ0x5TFZoaGNpbTZDU0d4TDdOaklHQnVnZEJldEdscmdncGxBZWdHRm1UUXBWb3lYaEtBdU40bER2SDRuNkF5a1d1bXg1ZmhqcGtKV011QWFuRlYwdm1iYmV3Q0xoS0RGY1RMNjk5Tkc3bmc4bFA4ZWIxcjVvR0J3UHlVQmhQeFZvWGdHNmR2dHc2YkxXZU5iT2lFUGJkTjlZYXRxcGNVbEpLU2o0em4wNnc1VkxjcWFaeExzYlpONFpWY3VZWUhsMTM?oc=5",
-      "type": "article",
-      "title": "Two Hinshaw Partners Reappointed to the NYC Bar Association’s Consumer Affairs Committee - Hinshaw & Culbertson LLP",
-      "date": "2026-10-12",
-      "source": "Hinshaw & Culbertson LLP",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTHhuaTJKMm8xb0xuNExPMnkxX05RMUhLcTVxZ0x5TFZoaGNpbTZDU0d4TDdOaklHQnVnZEJldEdscmdncGxBZWdHRm1UUXBWb3lYaEtBdU40bER2SDRuNkF5a1d1bXg1ZmhqcGtKV011QWFuRlYwdm1iYmV3Q0xoS0RGY1RMNjk5Tkc3bmc4bFA4ZWIxcjVvR0J3UHlVQmhQeFZvWGdHNmR2dHc2YkxXZU5iT2lFUGJkTjlZYXRxcGNVbEpLU2o0em4wNnc1VkxjcWFaeExzYlpONFpWY3VZWUhsMTM?oc=5",
-      "snippet": "Two Hinshaw Partners Reappointed to the NYC Bar Association’s Consumer Affairs Committee &nbsp;&nbsp; Hinshaw & Culbertson LLP"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0ZwZUEzY18wNU1wS3c5SFhNdVduZXpYcGc4M0ZoWWc1N09Xd3h4dDJLZU5qT1FfNnIxZ3VHWTA2WURHMlpvNWlpQVMzZTg1ZFIwZWc5blZMOFJMRzZMOUNnelRjcF9lVWEwa0xQUVdwX2Qya3VPTlNFZExwVHFMY0pySC1yWEhpejJxb1FRV3FPemx4bFE?oc=5",
-      "type": "article",
-      "title": "Baker Donelson Recognizes 2026 Pro Bono Attorneys of the Year - Baker Donelson",
-      "date": "2026-10-12",
-      "source": "Baker Donelson",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0ZwZUEzY18wNU1wS3c5SFhNdVduZXpYcGc4M0ZoWWc1N09Xd3h4dDJLZU5qT1FfNnIxZ3VHWTA2WURHMlpvNWlpQVMzZTg1ZFIwZWc5blZMOFJMRzZMOUNnelRjcF9lVWEwa0xQUVdwX2Qya3VPTlNFZExwVHFMY0pySC1yWEhpejJxb1FRV3FPemx4bFE?oc=5",
-      "snippet": "Baker Donelson Recognizes 2026 Pro Bono Attorneys of the Year &nbsp;&nbsp; Baker Donelson"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EWWUwSEhFMTRadWQyQ0dWVTRHNzVJQUd5MV84YWFtVmVaLW5fRkt6d2Fsa1dNbjJJTEJFZUFHLXphNkJFX0puNUtLQWE3d0FYejNMWjMydXM5dw?oc=5",
-      "type": "article",
-      "title": "Law practice - Daily Tribune",
-      "date": "2026-10-12",
-      "source": "Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EWWUwSEhFMTRadWQyQ0dWVTRHNzVJQUd5MV84YWFtVmVaLW5fRkt6d2Fsa1dNbjJJTEJFZUFHLXphNkJFX0puNUtLQWE3d0FYejNMWjMydXM5dw?oc=5",
-      "snippet": "Law practice &nbsp;&nbsp; Daily Tribune"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilgJBVV95cUxNbGJKRllzbDJtbGQtMjlQQVNRZ2htU19IVkg3eFpERWpFcTZEM1prS1JOeWNBVDMtVlkyVjNsQWdENFRuWVJuN1VoNkowVzlrZzMxamprMmJzazhDd3lUY1ZKb1pMM1pUTW1WU3REc2s3Q2tPUk9qNDFNYy1xRk5IekpEWDVHTG5TZVBzMVdJSHNTZXhfb3NxenBqVzMwMzVaMWw5X2xEUnAzd3JNZ1hCV3N0NGZPQUZpczBBWU1zck83SEZMUU8yMVVBcWpzTTZWa2ttdjhHVHA0NjVVdmcxSExLQkJma0UzMUsxMjdHeUxld2wxUkFfWmNUbTBLRldTQlpzNGtXQTF4a2hhejJvTldKZGF5QQ?oc=5",
-      "type": "article",
-      "title": "ProPublica: The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official - Sierra Sun Times",
-      "date": "2026-10-12",
-      "source": "Sierra Sun Times",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbGJKRllzbDJtbGQtMjlQQVNRZ2htU19IVkg3eFpERWpFcTZEM1prS1JOeWNBVDMtVlkyVjNsQWdENFRuWVJuN1VoNkowVzlrZzMxamprMmJzazhDd3lUY1ZKb1pMM1pUTW1WU3REc2s3Q2tPUk9qNDFNYy1xRk5IekpEWDVHTG5TZVBzMVdJSHNTZXhfb3NxenBqVzMwMzVaMWw5X2xEUnAzd3JNZ1hCV3N0NGZPQUZpczBBWU1zck83SEZMUU8yMVVBcWpzTTZWa2ttdjhHVHA0NjVVdmcxSExLQkJma0UzMUsxMjdHeUxld2wxUkFfWmNUbTBLRldTQlpzNGtXQTF4a2hhejJvTldKZGF5QQ?oc=5",
-      "snippet": "ProPublica: The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official &nbsp;&nbsp; Sierra Sun Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMidEFVX3lxTE56YmlIOHRvdFkzbTFfaDQ4QlJENERsNDRsSU1Nb05sN25QX01qN1UyeDBtZzlLcFhYR0RzcGlSQlA4MnhjWFFhOXNzS0ZEUWFkSWltS0p0SWZrMjVVck5fdTN3dkxmZURkTVVzeFlxUFdvbVNC?oc=5",
-      "type": "article",
-      "title": "Democracy - Theory, Principles, Practice - Britannica",
-      "date": "2026-10-12",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56YmlIOHRvdFkzbTFfaDQ4QlJENERsNDRsSU1Nb05sN25QX01qN1UyeDBtZzlLcFhYR0RzcGlSQlA4MnhjWFFhOXNzS0ZEUWFkSWltS0p0SWZrMjVVck5fdTN3dkxmZURkTVVzeFlxUFdvbVNC?oc=5",
-      "snippet": "Democracy - Theory, Principles, Practice &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVM2SmN1MWxpVkFpUm9RLURIT3BFYnQ5Yk1QNUZrNDE1czdsNHZIeWNlWFB1SWh0aUswVjFXRl83dW9mSFlDVG5STjJQb1lnellxeDctT0pxNXd0R0Jod2MteVBvcTFIMVhPcU56N09PYWVwX0tLQ19YZVd0OGtzVHNoSG83QVUxQW0zbmt3QzhzdlJOLXZkdnhFOGY3eG5DRV9rVzVUYW4?oc=5",
-      "type": "article",
-      "title": "2026 Top Workplaces — Small Employers - San Antonio Express-News",
-      "date": "2026-10-11",
-      "source": "San Antonio Express-News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVM2SmN1MWxpVkFpUm9RLURIT3BFYnQ5Yk1QNUZrNDE1czdsNHZIeWNlWFB1SWh0aUswVjFXRl83dW9mSFlDVG5STjJQb1lnellxeDctT0pxNXd0R0Jod2MteVBvcTFIMVhPcU56N09PYWVwX0tLQ19YZVd0OGtzVHNoSG83QVUxQW0zbmt3QzhzdlJOLXZkdnhFOGY3eG5DRV9rVzVUYW4?oc=5",
-      "snippet": "2026 Top Workplaces — Small Employers &nbsp;&nbsp; San Antonio Express-News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWdhQ1BQYmp2bklSOVBjZjR6ZmVQdjVhX1NLQjJCdW9JWDRGMDJiaVNITFU0S1diRDRXY1dnaTkxN3BqQWdNcTVqTkJydG9PR2JoczBLVzcxNUJWMklPWXdXYmlDMi1iQm5MUm1PN2M0LXVpb1A5OVRwWFdyMmt4VHlQM05zd2RfdmM2cmpVR0ZlalFqbHB4eUM3VHBOS0d3TmJLSXRYYXEyeG95WjZB?oc=5",
-      "type": "article",
-      "title": "‘NBA Cares x Sands Cares Community Impact Week 2026’ Successfully Concludes - Laotian Times",
-      "date": "2026-10-11",
-      "source": "Laotian Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWdhQ1BQYmp2bklSOVBjZjR6ZmVQdjVhX1NLQjJCdW9JWDRGMDJiaVNITFU0S1diRDRXY1dnaTkxN3BqQWdNcTVqTkJydG9PR2JoczBLVzcxNUJWMklPWXdXYmlDMi1iQm5MUm1PN2M0LXVpb1A5OVRwWFdyMmt4VHlQM05zd2RfdmM2cmpVR0ZlalFqbHB4eUM3VHBOS0d3TmJLSXRYYXEyeG95WjZB?oc=5",
-      "snippet": "‘NBA Cares x Sands Cares Community Impact Week 2026’ Successfully Concludes &nbsp;&nbsp; Laotian Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxNOF9WcUNSVkFGYjVQcUxaTC1hNnEwRk9va1NkVi1CSlMzQm5kaFVibWY3QzUycDZwRkVtTzd0V2JoZXFJajR2cHdtXzV1UFRFYnRnXzlxWWh6cVVjVnVnczR5eTdLUFpHS3RoZ1p2djRlX0dDY1d2dUJHWExZZjBtWWhLcGJ0cUNhcHgtSjNGY3FsQQ?oc=5",
-      "type": "article",
-      "title": "The Envelope and the Letter: Anonymous AI Chat and the Practice of Law - New York State Bar Association",
-      "date": "2026-10-10",
-      "source": "New York State Bar Association",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOF9WcUNSVkFGYjVQcUxaTC1hNnEwRk9va1NkVi1CSlMzQm5kaFVibWY3QzUycDZwRkVtTzd0V2JoZXFJajR2cHdtXzV1UFRFYnRnXzlxWWh6cVVjVnVnczR5eTdLUFpHS3RoZ1p2djRlX0dDY1d2dUJHWExZZjBtWWhLcGJ0cUNhcHgtSjNGY3FsQQ?oc=5",
-      "snippet": "The Envelope and the Letter: Anonymous AI Chat and the Practice of Law &nbsp;&nbsp; New York State Bar Association"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXUtNWFyQVNMYm1pZkg4NURfX25laVlqeFFQNk9Fai1mUFR6WWtCeUFOR1I4TEJiRVlGMlFZSkJwT0xGNVpvQUlkVHZjOV9HSlFZRG1pZ2RnVkNuaUFkck5NWE82VkF6WTRjVkx5TlhQSkZHbm5Vb3BUUnlvSEF1QjBB0gGCAUFVX3lxTFBRdHJ3cWhObjRKd0JuQmlCVlE3a2N1emV2V3lLQmVNYXZyLWtXMGtWY0NhSmk5T3QtaUltOU9yT3NWZG5GUTNwem80Y19Yb2FkazhSZ3Vic3p6eVpWblVwZXpyQ0pDaVI2anFzaVRSNENBbm1iR0UyYUluNGtxalRIeHc?oc=5",
-      "type": "article",
-      "title": "Who are Raki and Kimberly McGregor? CMS consultant deals questioned before Hill firing - Charlotte Observer",
-      "date": "2026-10-10",
-      "source": "Charlotte Observer",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXUtNWFyQVNMYm1pZkg4NURfX25laVlqeFFQNk9Fai1mUFR6WWtCeUFOR1I4TEJiRVlGMlFZSkJwT0xGNVpvQUlkVHZjOV9HSlFZRG1pZ2RnVkNuaUFkck5NWE82VkF6WTRjVkx5TlhQSkZHbm5Vb3BUUnlvSEF1QjBB0gGCAUFVX3lxTFBRdHJ3cWhObjRKd0JuQmlCVlE3a2N1emV2V3lLQmVNYXZyLWtXMGtWY0NhSmk5T3QtaUltOU9yT3NWZG5GUTNwem80Y19Yb2FkazhSZ3Vic3p6eVpWblVwZXpyQ0pDaVI2anFzaVRSNENBbm1iR0UyYUluNGtxalRIeHc?oc=5",
-      "snippet": "Who are Raki and Kimberly McGregor? CMS consultant deals questioned before Hill firing &nbsp;&nbsp; Charlotte Observer"
     }
   ]
 }
