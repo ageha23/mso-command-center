@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-10-22T15:48:43.477096+00:00",
+  "lastRun": "2026-10-23T15:40:08.670315+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 14,
+  "addedThisRun": 6,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDNoSTctLUQ3OWhtOWxqZHl4alVPT3g1d0FZMlplaUU4d1o2WnIwRV9zQW5rcjBVY2pTanQtZ1JnSld3cmc0bGlQMDdYOERyU0NvbWx3OTU2UTdZX3ZlQWoxRVBtRmlaY2JoQlNXSVpLNUtVaXNVLXZkTWZlTVQzbjQzSDZTbFVCTFE?oc=5",
+      "type": "article",
+      "title": "Attorneys' Fees: Beyond the Billable Hour - JD Supra",
+      "date": "2026-10-23",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDNoSTctLUQ3OWhtOWxqZHl4alVPT3g1d0FZMlplaUU4d1o2WnIwRV9zQW5rcjBVY2pTanQtZ1JnSld3cmc0bGlQMDdYOERyU0NvbWx3OTU2UTdZX3ZlQWoxRVBtRmlaY2JoQlNXSVpLNUtVaXNVLXZkTWZlTVQzbjQzSDZTbFVCTFE?oc=5",
+      "snippet": "Attorneys' Fees: Beyond the Billable Hour &nbsp;&nbsp; JD Supra"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2NDTDQ3Y0VuRmdyVkpKU3ExcDc4LU52cHFPTGxuZXJOQ0lORTV2RG1WblF0MjNReUZaanEtQVJ1TTJzSndqb08tbFI3RkVzWllBZk45XzkxUFJ4anFLTVBxbW1PTUFTQzBWektQOTlpT1pRajVLbHA4Q21fNmRFNnZDTmdtWGpM?oc=5",
+      "type": "article",
+      "title": "Charlesbank Takes a Seat at the Defense Table - Private Equity Professional",
+      "date": "2026-10-23",
+      "source": "Private Equity Professional",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2NDTDQ3Y0VuRmdyVkpKU3ExcDc4LU52cHFPTGxuZXJOQ0lORTV2RG1WblF0MjNReUZaanEtQVJ1TTJzSndqb08tbFI3RkVzWllBZk45XzkxUFJ4anFLTVBxbW1PTUFTQzBWektQOTlpT1pRajVLbHA4Q21fNmRFNnZDTmdtWGpM?oc=5",
+      "snippet": "Charlesbank Takes a Seat at the Defense Table &nbsp;&nbsp; Private Equity Professional"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSldOZmJScTBBYWtUYXYzUk9ERVZQWnUxckgtV1lTb1hTUmx0cDAxUWFkemR6a0tSRXRIWFB4RHRPc2lfempjMGVaZVdVNWs5NFFyNmJ4WmNjNVVYbnFwNy1lNmdORU9tTWg1SUpYdlZ1enNCS3g2dQ?oc=5",
       "type": "article",
@@ -47,6 +65,42 @@
       "source": "Legal Desire",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FRVhfUkxPTktUT1hLUE1jLWpvekNNZDd6RGk1T1NYQ3NmblNDZzVPQmpqTW5OYjV2dHVTaFllSm5TV2M?oc=5",
       "snippet": "FCPA Explained: Anti-Bribery Rules, Penalties and 2026 Enforcement &nbsp;&nbsp; Legal Desire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZms3REQ1RnNWb3dDVXA5S1hMTHRMWUdXcERtbjlNTExfQkppS3gzTWZXTEFISEo5OUFac0tKNDkxLVBYZHBpQ3YyQ1hOd0xkTWJRRGRLY29Ia1AtSjRRT2podDloWEppQVZpa3hMcHoyaWdXMXR2X1Z5WVpaUTNDYlF3cXZvWWxRQmpyeHF3MGxQMG5rYm1NUDRzdUhqLXFpS1Q5QTk5eUc0Zw?oc=5",
+      "type": "article",
+      "title": "Exiting a Successful Professional Practice: The MSO Alternative - Law.com",
+      "date": "2026-10-22",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZms3REQ1RnNWb3dDVXA5S1hMTHRMWUdXcERtbjlNTExfQkppS3gzTWZXTEFISEo5OUFac0tKNDkxLVBYZHBpQ3YyQ1hOd0xkTWJRRGRLY29Ia1AtSjRRT2podDloWEppQVZpa3hMcHoyaWdXMXR2X1Z5WVpaUTNDYlF3cXZvWWxRQmpyeHF3MGxQMG5rYm1NUDRzdUhqLXFpS1Q5QTk5eUc0Zw?oc=5",
+      "snippet": "Exiting a Successful Professional Practice: The MSO Alternative &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTE5udUZ5c3V4Sy1nTnhPWXotdUZmY3RUMlVTVVZuTHV2YUpQZTFCQW9ldEJ0SFRZRU1WTGlvNDFsNUV4TmQ4YnRlZnZJcmc2Z0l5dy16anJwUkxYZEpXVGw4dm9Cbm1pSElGUkJlOEljd2Z3bkNCWmxlQzhVOA?oc=5",
+      "type": "article",
+      "title": "The Law Firm Merger Paradox: Why Strong Firms Are Weighing Scale Now - FTI Consulting",
+      "date": "2026-10-22",
+      "source": "FTI Consulting",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5udUZ5c3V4Sy1nTnhPWXotdUZmY3RUMlVTVVZuTHV2YUpQZTFCQW9ldEJ0SFRZRU1WTGlvNDFsNUV4TmQ4YnRlZnZJcmc2Z0l5dy16anJwUkxYZEpXVGw4dm9Cbm1pSElGUkJlOEljd2Z3bkNCWmxlQzhVOA?oc=5",
+      "snippet": "The Law Firm Merger Paradox: Why Strong Firms Are Weighing Scale Now &nbsp;&nbsp; FTI Consulting"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTE80WVppM3VuMGpURkNqNk9WSHJvRkpQY2Z2Y2Z4T3huNEJqWXhSZnM2NVBwcTV3R3NZZ1pKdFVoWUpyMWZad2Z3UEFWV2R6ZFVzNEVtODZlUGhMS2t0?oc=5",
+      "type": "article",
+      "title": "Halted bonuses - Daily Tribune",
+      "date": "2026-10-22",
+      "source": "Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80WVppM3VuMGpURkNqNk9WSHJvRkpQY2Z2Y2Z4T3huNEJqWXhSZnM2NVBwcTV3R3NZZ1pKdFVoWUpyMWZad2Z3UEFWV2R6ZFVzNEVtODZlUGhMS2t0?oc=5",
+      "snippet": "Halted bonuses &nbsp;&nbsp; Daily Tribune"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxOenhRckRuUW54U0hnTTFXWHE3aGtsLUIwLVloWTJHMmtlSFJ4VmgyQWZaNUNsRHpxQ1FNcnV5NU1keHR2WkxKVmZWcVhLaFZvMGVJaWpUbkQwUUpnRlp4ejRraHBkNkJpR1Vyd0VKdmRMdGNSMHl4T2R5Y25SSUh2cWdjT3k1MzdIcWxORjNUdXZueS1IX1A5WGNCMVc1bDctRW1NSnp5eEZkTzBiX2wycFFEcw?oc=5",
+      "type": "article",
+      "title": "From off-limits to a ‘moral imperative’? How ESG policies on defence have shifted - New Private Markets",
+      "date": "2026-10-22",
+      "source": "New Private Markets",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenhRckRuUW54U0hnTTFXWHE3aGtsLUIwLVloWTJHMmtlSFJ4VmgyQWZaNUNsRHpxQ1FNcnV5NU1keHR2WkxKVmZWcVhLaFZvMGVJaWpUbkQwUUpnRlp4ejRraHBkNkJpR1Vyd0VKdmRMdGNSMHl4T2R5Y25SSUh2cWdjT3k1MzdIcWxORjNUdXZueS1IX1A5WGNCMVc1bDctRW1NSnp5eEZkTzBiX2wycFFEcw?oc=5",
+      "snippet": "From off-limits to a ‘moral imperative’? How ESG policies on defence have shifted &nbsp;&nbsp; New Private Markets"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGdjbmNiamJYT0xHMFltc1dHUDhNbGpjRlducTloMFR1ZXFna2FCUG9LU3RNemF5cllYb29yMWp2M2QwRU9mVGhkNTBYbWRUM2Q4M0w3dlJqWFFUenI5V0hyTExSRXR0VnVwdWlOX1VxY1V3V3B5cm1ObnlrRi0zQURRU3hOLVdoaVB2b1RBMlBnM0pxVF9BaE8yenFkSGdHcHkxQ1hkNXBnZjJwUlVIV2M0ajF4bHQzbGNtY1dvMnZUaW9lZUx0WTM3SG93TGJpTEZrVE5VT21JQ3FmU25qS2RHNXl2czYyaDRxM0huWV9SN3dWS2c?oc=5",
@@ -1298,60 +1352,6 @@
       "source": "State Affairs Pro",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTVwSTRhWWl3Q1psYXlqUlNJVW9hQllkVS1tREljY2VVczJDM0U3X1htMXV5WHJFTE9va3VzbmNJcENfNGhKOEVHekcxS09UNW1EOWFrTWFGdllrdlZNNmRxXzBiSWI1T1hTRDdYYy00VG5tVVgycmwtSW9fdWt5QlNad2ViWnEzT0kw?oc=5",
       "snippet": "TN Supreme Court Keeps Non-Lawyer Law Firm Ownership Restrictions &nbsp;&nbsp; State Affairs Pro"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMibkFVX3lxTE01dzdZeEJ6Q3ZTRF9xQWtNQU1zM190MWVDdWZVMDh1VDVTVzlWa3JPMzdWbUlxamdQTkY4M2EtRHZ3aUY3d09rdjJwNE5MM2NtdlpWdVpaSWJKR3pycmJvT1ZTMko3UWR5UTdBQk9n?oc=5",
-      "type": "article",
-      "title": "Room for manoeuvre - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01dzdZeEJ6Q3ZTRF9xQWtNQU1zM190MWVDdWZVMDh1VDVTVzlWa3JPMzdWbUlxamdQTkY4M2EtRHZ3aUY3d09rdjJwNE5MM2NtdlpWdVpaSWJKR3pycmJvT1ZTMko3UWR5UTdBQk9n?oc=5",
-      "snippet": "Room for manoeuvre &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeURjWE5FRUd0aHR0YXdJaHRPczZ1WDVHbjRyRERSak5NcjVMQ0JhOWIyYW9mYWhNNnYyRVRjd2QwYTFRQWRrY05ieWpTNmpFcHhGSmppTWFLNl9lNzdMLXUxeGJFTzFQTWlWaklCa09mTk42Q3JQZkFIaURGb0FMYkcxbUp0TmVoSWhiQXprZ0tueXdfbEVtNlFPUERWRm81M1Y4QmgwaDM?oc=5",
-      "type": "article",
-      "title": "Co-op Legal Services defends use of AI to monitor client calls - Legal Futures",
-      "date": "2026-10-12",
-      "source": "Legal Futures",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeURjWE5FRUd0aHR0YXdJaHRPczZ1WDVHbjRyRERSak5NcjVMQ0JhOWIyYW9mYWhNNnYyRVRjd2QwYTFRQWRrY05ieWpTNmpFcHhGSmppTWFLNl9lNzdMLXUxeGJFTzFQTWlWaklCa09mTk42Q3JQZkFIaURGb0FMYkcxbUp0TmVoSWhiQXprZ0tueXdfbEVtNlFPUERWRm81M1Y4QmgwaDM?oc=5",
-      "snippet": "Co-op Legal Services defends use of AI to monitor client calls &nbsp;&nbsp; Legal Futures"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxQb21KREs3OEZpMGdsUmxMejZqeUVLdGlZc0FVU1RlSjFlaG52ZmlVY05LNWlvUk9xemZBWmFFcWZhbGJleXdRQk5vaVpJVmx2czM2R1hxOG9GVjdRSFlSTnhiVVptR2tXcWR6VHdyV3JZdEZvb3lfVEVDbTBEOTV2RmRKU3g2R0Q4WDY1VGk3aUNiN0FsSHhPYkdn?oc=5",
-      "type": "article",
-      "title": "New Federal Bill Takes Aim at Corporate Practice of Medicine - Medical Device and Diagnostic industry",
-      "date": "2026-10-12",
-      "source": "Medical Device and Diagnostic industry",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb21KREs3OEZpMGdsUmxMejZqeUVLdGlZc0FVU1RlSjFlaG52ZmlVY05LNWlvUk9xemZBWmFFcWZhbGJleXdRQk5vaVpJVmx2czM2R1hxOG9GVjdRSFlSTnhiVVptR2tXcWR6VHdyV3JZdEZvb3lfVEVDbTBEOTV2RmRKU3g2R0Q4WDY1VGk3aUNiN0FsSHhPYkdn?oc=5",
-      "snippet": "New Federal Bill Takes Aim at Corporate Practice of Medicine &nbsp;&nbsp; Medical Device and Diagnostic industry"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnVZa01La2hnSU1SSzJ2ak43ZGVtWEwwVDhYMDVldHVyT1kwNkh3enl4LUlUMlA5YWdmNjRobE1PaGdqWFhac0F3Z2FsV3E3VzZjLVkzSS04c21zUjdNRVJjMnhMTVhEbnFSYWZNRm54Y0tVdS1nUjVQSzhvM0JnT0dOU0dVbzc4RzBjTHozMjVTMlRMbk1UcTdTWmRfUG1qR1d4Z2NGVld6TlVsUEVpdXpydXlsR01IaWQ0cWgzb1VMWnY0U0xTNzN2TmtPU0o5Z2RN?oc=5",
-      "type": "article",
-      "title": "A New Strategic Framework in the AI Era: Law.com and Industry Leaders Come Together to Create - Law.com",
-      "date": "2026-10-12",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnVZa01La2hnSU1SSzJ2ak43ZGVtWEwwVDhYMDVldHVyT1kwNkh3enl4LUlUMlA5YWdmNjRobE1PaGdqWFhac0F3Z2FsV3E3VzZjLVkzSS04c21zUjdNRVJjMnhMTVhEbnFSYWZNRm54Y0tVdS1nUjVQSzhvM0JnT0dOU0dVbzc4RzBjTHozMjVTMlRMbk1UcTdTWmRfUG1qR1d4Z2NGVld6TlVsUEVpdXpydXlsR01IaWQ0cWgzb1VMWnY0U0xTNzN2TmtPU0o5Z2RN?oc=5",
-      "snippet": "A New Strategic Framework in the AI Era: Law.com and Industry Leaders Come Together to Create &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFlIaXJTYmF4dXlOcDR0RUVSRFZGWU9BUml1Z1BFWWtXVTRURWV1eFNrOW9IcXE5WF9oYXJTZzA3R1lFUmhFOXZybV8zamEteGFTVkFMWVkyNFZtcjBYSDFrRXhSWi10WFZzTm9vaEx5dnF6V3NkdS1FdmZ1N2Q2V0V3emRVR0FBWHo0V0tPWHFCR2Vt?oc=5",
-      "type": "article",
-      "title": "Costco isn’t the only big item before Asheville Council - 828 News Now",
-      "date": "2026-10-12",
-      "source": "828 News Now",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFlIaXJTYmF4dXlOcDR0RUVSRFZGWU9BUml1Z1BFWWtXVTRURWV1eFNrOW9IcXE5WF9oYXJTZzA3R1lFUmhFOXZybV8zamEteGFTVkFMWVkyNFZtcjBYSDFrRXhSWi10WFZzTm9vaEx5dnF6V3NkdS1FdmZ1N2Q2V0V3emRVR0FBWHo0V0tPWHFCR2Vt?oc=5",
-      "snippet": "Costco isn’t the only big item before Asheville Council &nbsp;&nbsp; 828 News Now"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmZGVEJyZnhmcGRhXzN6UmhSRUl6cE1QQnBPOEFJR3JFYnRSU3BvMU5PNHBEalVYaUdqUUV0dHJ3VVE2MG9BZkpuNVhTaG1MQkJFZEY4NzdMZGpKQ1V5a2UtZ0VSNzkzQjg0TjIzdlpJcFdYdlAyQTRMZ3lhWlNIS3ZVdHRlckpUd0pLX0lDd2hQMk45NklJ?oc=5",
-      "type": "article",
-      "title": "New Regulations on The Law on Anti-Money Laundering (“AML”) - kpmg.com",
-      "date": "2026-10-12",
-      "source": "kpmg.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmZGVEJyZnhmcGRhXzN6UmhSRUl6cE1QQnBPOEFJR3JFYnRSU3BvMU5PNHBEalVYaUdqUUV0dHJ3VVE2MG9BZkpuNVhTaG1MQkJFZEY4NzdMZGpKQ1V5a2UtZ0VSNzkzQjg0TjIzdlpJcFdYdlAyQTRMZ3lhWlNIS3ZVdHRlckpUd0pLX0lDd2hQMk45NklJ?oc=5",
-      "snippet": "New Regulations on The Law on Anti-Money Laundering (“AML”) &nbsp;&nbsp; kpmg.com"
     }
   ]
 }
