@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-10-23T15:40:08.670315+00:00",
+  "lastRun": "2026-10-24T14:19:54.363983+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 6,
+  "addedThisRun": 8,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDNoSTctLUQ3OWhtOWxqZHl4alVPT3g1d0FZMlplaUU4d1o2WnIwRV9zQW5rcjBVY2pTanQtZ1JnSld3cmc0bGlQMDdYOERyU0NvbWx3OTU2UTdZX3ZlQWoxRVBtRmlaY2JoQlNXSVpLNUtVaXNVLXZkTWZlTVQzbjQzSDZTbFVCTFE?oc=5",
@@ -20,6 +20,42 @@
       "source": "Private Equity Professional",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2NDTDQ3Y0VuRmdyVkpKU3ExcDc4LU52cHFPTGxuZXJOQ0lORTV2RG1WblF0MjNReUZaanEtQVJ1TTJzSndqb08tbFI3RkVzWllBZk45XzkxUFJ4anFLTVBxbW1PTUFTQzBWektQOTlpT1pRajVLbHA4Q21fNmRFNnZDTmdtWGpM?oc=5",
       "snippet": "Charlesbank Takes a Seat at the Defense Table &nbsp;&nbsp; Private Equity Professional"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGJnc0RuWmxFcXVkTTVvMHlTaV9aWUlJMWN4UllHU1Rfc2k5aEdCUHlSblZkajRZLUxSU1B2N3A2R0xzdVVLLWhfc0lHZUE2aFBfWFhtNG83dE12QUhIYlE3Z3ZiaG1BYVlZMEwwdVRUdnBUejZ1c3N0Rl9uemk3MWZadFBlTUJyYVJxSEh6SzhMZ0dYYk9GWWJtak00MFFnQi1zRDczeDRSVTBxSXpV0gFeQVVfeXFMUDVlOVd3azZaRFpRNjVyakVKYzZ6WW0xMXBRcXo0TE9uSDcyQkYzdDJBeUlsemUyTzFaWWNGQ1lBTzR0WWJHSEVpM19zTzZLTkJVZzAxZ0YxRDVMQUlpdw?oc=5",
+      "type": "article",
+      "title": "Holland & Knight Legal Profession Head On MSO Dealmaking - Law360",
+      "date": "2026-10-23",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGJnc0RuWmxFcXVkTTVvMHlTaV9aWUlJMWN4UllHU1Rfc2k5aEdCUHlSblZkajRZLUxSU1B2N3A2R0xzdVVLLWhfc0lHZUE2aFBfWFhtNG83dE12QUhIYlE3Z3ZiaG1BYVlZMEwwdVRUdnBUejZ1c3N0Rl9uemk3MWZadFBlTUJyYVJxSEh6SzhMZ0dYYk9GWWJtak00MFFnQi1zRDczeDRSVTBxSXpV0gFeQVVfeXFMUDVlOVd3azZaRFpRNjVyakVKYzZ6WW0xMXBRcXo0TE9uSDcyQkYzdDJBeUlsemUyTzFaWWNGQ1lBTzR0WWJHSEVpM19zTzZLTkJVZzAxZ0YxRDVMQUlpdw?oc=5",
+      "snippet": "Holland & Knight Legal Profession Head On MSO Dealmaking &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVNiZ2tKaUFIREpfTmdqRGg4dkhVbks2Yks3ZDlWNEpCR3ZWMURuOHMzZDNxdTNGTElNZWlRRkZVdWk5Qjhxa1RJLTZrLVJyVWc0a2cyOTQ4X1MzNkIydnlUeFBpN2V2UERaRWNmSWdQWDF4Y0E3Rm42alE0dm1rcGsxRGNJdW5YMHFtanFHMUhpTkwzZFlScHd6cC1jeFdycHEtWjAwVWhDbVRDUzJ3RWZMYi16UQ?oc=5",
+      "type": "article",
+      "title": "Influencer who parodies private equity guys riffs on nonlawyer ownership of firms - ABA Journal",
+      "date": "2026-10-23",
+      "source": "ABA Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVNiZ2tKaUFIREpfTmdqRGg4dkhVbks2Yks3ZDlWNEpCR3ZWMURuOHMzZDNxdTNGTElNZWlRRkZVdWk5Qjhxa1RJLTZrLVJyVWc0a2cyOTQ4X1MzNkIydnlUeFBpN2V2UERaRWNmSWdQWDF4Y0E3Rm42alE0dm1rcGsxRGNJdW5YMHFtanFHMUhpTkwzZFlScHd6cC1jeFdycHEtWjAwVWhDbVRDUzJ3RWZMYi16UQ?oc=5",
+      "snippet": "Influencer who parodies private equity guys riffs on nonlawyer ownership of firms &nbsp;&nbsp; ABA Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiZEFVX3lxTE13X0tEbHY4WnppbU9SbmVqN3hKcmtocnV3RVpmUFdHUDdVRXYyY3R2NnNFaXpROWZqc0NOWU5OZmtJQW52RmtKcTlieTJVVDNkUFRSTEJ1eU1EVEpkalhsc1VYanc?oc=5",
+      "type": "article",
+      "title": "Improving Lives - The University of Maryland, Baltimore",
+      "date": "2026-10-23",
+      "source": "The University of Maryland, Baltimore",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13X0tEbHY4WnppbU9SbmVqN3hKcmtocnV3RVpmUFdHUDdVRXYyY3R2NnNFaXpROWZqc0NOWU5OZmtJQW52RmtKcTlieTJVVDNkUFRSTEJ1eU1EVEpkalhsc1VYanc?oc=5",
+      "snippet": "Improving Lives &nbsp;&nbsp; The University of Maryland, Baltimore"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFdlNmVPSEVFNzFNMTBJeXZmUS03RVlPSnNSYk5KNTdWS0ZBMGZ4MWYzUTVQNkJVeFNMWDhfVFRzczljNU93R2J2QkVXR1dETi00djFZYWExZzJ6eVU5TzdNeThmcGotN25EOU5uSWFINk5lNmc1a3VDSVQweUhmcU1TT0piNnlsNzhQU2dkc3RWV1ZpSVpvbUFXcXZjdFE1RWFXakRHNENOSXJjNHhTOGZB0gFWQVVfeXFMT3o3c0FhQ1huNXJiUGxpRGxaSl9zN2pWekt1S1VfZm9KWlZ1OTdJd2NzNU1JY0lLV1ZwbXNfNU1uVFRYZ2h0YTV1SThmUk90b3hOYVJHRnc?oc=5",
+      "type": "article",
+      "title": "Don't Miss It: Kirkland, Latham Steer Latest Hot Deals - Law360",
+      "date": "2026-10-23",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFdlNmVPSEVFNzFNMTBJeXZmUS03RVlPSnNSYk5KNTdWS0ZBMGZ4MWYzUTVQNkJVeFNMWDhfVFRzczljNU93R2J2QkVXR1dETi00djFZYWExZzJ6eVU5TzdNeThmcGotN25EOU5uSWFINk5lNmc1a3VDSVQweUhmcU1TT0piNnlsNzhQU2dkc3RWV1ZpSVpvbUFXcXZjdFE1RWFXakRHNENOSXJjNHhTOGZB0gFWQVVfeXFMT3o3c0FhQ1huNXJiUGxpRGxaSl9zN2pWekt1S1VfZm9KWlZ1OTdJd2NzNU1JY0lLV1ZwbXNfNU1uVFRYZ2h0YTV1SThmUk90b3hOYVJHRnc?oc=5",
+      "snippet": "Don't Miss It: Kirkland, Latham Steer Latest Hot Deals &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSldOZmJScTBBYWtUYXYzUk9ERVZQWnUxckgtV1lTb1hTUmx0cDAxUWFkemR6a0tSRXRIWFB4RHRPc2lfempjMGVaZVdVNWs5NFFyNmJ4WmNjNVVYbnFwNy1lNmdORU9tTWg1SUpYdlZ1enNCS3g2dQ?oc=5",
@@ -101,6 +137,15 @@
       "source": "New Private Markets",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenhRckRuUW54U0hnTTFXWHE3aGtsLUIwLVloWTJHMmtlSFJ4VmgyQWZaNUNsRHpxQ1FNcnV5NU1keHR2WkxKVmZWcVhLaFZvMGVJaWpUbkQwUUpnRlp4ejRraHBkNkJpR1Vyd0VKdmRMdGNSMHl4T2R5Y25SSUh2cWdjT3k1MzdIcWxORjNUdXZueS1IX1A5WGNCMVc1bDctRW1NSnp5eEZkTzBiX2wycFFEcw?oc=5",
       "snippet": "From off-limits to a ‘moral imperative’? How ESG policies on defence have shifted &nbsp;&nbsp; New Private Markets"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
+      "type": "article",
+      "title": "Optum seeks to have Maryland lawsuit over 'defective' computer system dismissed - Fierce Healthcare",
+      "date": "2026-10-22",
+      "source": "Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
+      "snippet": "Optum seeks to have Maryland lawsuit over 'defective' computer system dismissed &nbsp;&nbsp; Fierce Healthcare"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGdjbmNiamJYT0xHMFltc1dHUDhNbGpjRlducTloMFR1ZXFna2FCUG9LU3RNemF5cllYb29yMWp2M2QwRU9mVGhkNTBYbWRUM2Q4M0w3dlJqWFFUenI5V0hyTExSRXR0VnVwdWlOX1VxY1V3V3B5cm1ObnlrRi0zQURRU3hOLVdoaVB2b1RBMlBnM0pxVF9BaE8yenFkSGdHcHkxQ1hkNXBnZjJwUlVIV2M0ajF4bHQzbGNtY1dvMnZUaW9lZUx0WTM3SG93TGJpTEZrVE5VT21JQ3FmU25qS2RHNXl2czYyaDRxM0huWV9SN3dWS2c?oc=5",
@@ -200,6 +245,15 @@
       "source": "Becker's Physician Leadership",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDFvRFAtNlgtckRBZWZfWG5ZdU9tS2tsUDBhTWhVMVY2TTFPcWJpT2xIS0dHSFFqZGUzZ2pneFpBZmozc0o0NFV4VWhORXhrdmNlc3hzMkNWWWJETGpwOVhlMzZFeklSVzN5UXhGX1JmdkxNemlMY2tZV2hqdHVBdXpDUWxYNkhySkdKNzJIRVFqczNySzVldE5mSTB4Qm1iWFl6Q0J4dzExM2JtYXBEYTRpazMxZS1pbkE?oc=5",
       "snippet": "The $10.2M physician autonomy fight unfolding in Texas &nbsp;&nbsp; Becker's Physician Leadership"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0V5c0drczRaMkl4eThiVl9USGU2Umd1a0Z4aXk1TDczbVM0a3BmQXkzYjAzeXozMGtaN2NqaGhORzlYaUZmaW4xTkNuNlJSUmx5ZEZlNE9WeGZRX2FWM2xDSFVnWEdhU3VKVDM3NG5zY1dNNWxFY2dlSjlYdk44NnZTc18?oc=5",
+      "type": "article",
+      "title": "Buyout firm EQT acquires German diagnostics group in €10.8bn deal - Financial Times",
+      "date": "2026-10-21",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0V5c0drczRaMkl4eThiVl9USGU2Umd1a0Z4aXk1TDczbVM0a3BmQXkzYjAzeXozMGtaN2NqaGhORzlYaUZmaW4xTkNuNlJSUmx5ZEZlNE9WeGZRX2FWM2xDSFVnWEdhU3VKVDM3NG5zY1dNNWxFY2dlSjlYdk44NnZTc18?oc=5",
+      "snippet": "Buyout firm EQT acquires German diagnostics group in €10.8bn deal &nbsp;&nbsp; Financial Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTJVTVVFWHpVTGlVY0hJUTdBc0RhZE00QnRyQ2pFSDNWZGxqX3ZSZUlZOEN5eU1QclR6VnVHc3ZfV1FQckgxQmlpdEtGVlpmZFR4UWhwUzR2QW4xN3M5Ty1lTFZxSzhqNWE3MGpQb3puRGQwUWljOVZ5SlE1Qk9fQnViOGJUQjI1c05hb0VEUjA1UEl6R1J6eWdydU1ZeVd4MElraHFEYzlZdWdIdURNUGdpMjN3UQ?oc=5",
@@ -344,6 +398,24 @@
       "source": "Legal Business",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmRlMUdmYlc4RlNzZ1BKTkVMY1Y3S0dEUkFqS2tBT3dNUmRVOGZEV3RYTk51Z3BUdGFvNG83ak92WFdWdWJoMXJkYVRvcTY1bTdyVW5kNTk5UEVSS3dmQzB3QnpKR09fQ3M3WURMTHdGZ1MyWTA1aG50SXpOclFZd041TkdHWWhJYkJOWHpVSnNUNjRzMFBmSlJwYWN4Wmkyam5WTlpKV2dtU3Va?oc=5",
       "snippet": "Kirkland and Weil advise as US insurance firm takes PE investment &nbsp;&nbsp; Legal Business"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBMVlFBOHotZkYxRVZvOC00QkppNDFlUEZZQXlXcllEYUJRakRidkVlbEtyVGd3ekhQQkd4V0sxZ3ZHYWIxRFphU3BtT3ZwbGczZ0UwcmVjUkpXaG1sMHVlYzNsYUVPWjVaWWZMU0FRNEJleEJqaHJjYkthZU81VUgwZEFyRFZlRmlpbEhHRzl2R3AxRklQVXNrcXA5ZU1kOUNZemlPR0d0elYza0hCUWZyQThzOUozeThHMUl6azV3QQ?oc=5",
+      "type": "article",
+      "title": "Cannabis contracts at risk after marijuana MSO's federal court gambit - MJBizDaily",
+      "date": "2026-10-20",
+      "source": "MJBizDaily",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBMVlFBOHotZkYxRVZvOC00QkppNDFlUEZZQXlXcllEYUJRakRidkVlbEtyVGd3ekhQQkd4V0sxZ3ZHYWIxRFphU3BtT3ZwbGczZ0UwcmVjUkpXaG1sMHVlYzNsYUVPWjVaWWZMU0FRNEJleEJqaHJjYkthZU81VUgwZEFyRFZlRmlpbEhHRzl2R3AxRklQVXNrcXA5ZU1kOUNZemlPR0d0elYza0hCUWZyQThzOUozeThHMUl6azV3QQ?oc=5",
+      "snippet": "Cannabis contracts at risk after marijuana MSO's federal court gambit &nbsp;&nbsp; MJBizDaily"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1VzSUJiZjlqdlVpeEZxcjBQWFFFZ1F6M1MtNmx3Y0psQWgtN3ZXY0x2NGRSaVVjZlFxQWtDWXhHaGdaRHltN1pKOFNuUHZURmt4UWZmZExKWjFuWlBCVk1nZjRzY2ZQa1Z2TF9JTXB1RWR6Qmt5RC1mSnMwX0szNi1HV3JWWE5vNVF4OWJJYUdpc2gtUFBKM1hsZDZueWx2TDZSMklB0gFWQVVfeXFMT1hyaHhNcGZ1MGlxVFl5SmtlQ0RWaThtQ1FPNkFYQjFlM002Y1BqVE1zMEZSbExCYXk0TWp3M2ZYRERTcWJOVlFPd2NTZ1czQlJZVnh3d1E?oc=5",
+      "type": "article",
+      "title": "NC Warehouse Owner Wins $1.94M Verdict In Insurance Fight - Law360",
+      "date": "2026-10-20",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1VzSUJiZjlqdlVpeEZxcjBQWFFFZ1F6M1MtNmx3Y0psQWgtN3ZXY0x2NGRSaVVjZlFxQWtDWXhHaGdaRHltN1pKOFNuUHZURmt4UWZmZExKWjFuWlBCVk1nZjRzY2ZQa1Z2TF9JTXB1RWR6Qmt5RC1mSnMwX0szNi1HV3JWWE5vNVF4OWJJYUdpc2gtUFBKM1hsZDZueWx2TDZSMklB0gFWQVVfeXFMT1hyaHhNcGZ1MGlxVFl5SmtlQ0RWaThtQ1FPNkFYQjFlM002Y1BqVE1zMEZSbExCYXk0TWp3M2ZYRERTcWJOVlFPd2NTZ1czQlJZVnh3d1E?oc=5",
+      "snippet": "NC Warehouse Owner Wins $1.94M Verdict In Insurance Fight &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMihgJBVV95cUxOQldYNVRGYnl1SmJUUGswUEFhV2pVb2U0emo3SjdsdzRkM1ZNdTc1ODFjMmZEQldTRHkxZV9jc2t0S1ZXeGRzWnZyNkpTeVNPSnVwMEJOQ1hPXzlaX25IZXBUemktaExmMk4wblZmMXZ0Slp2YWYwN3A1d2NndzFCN1djejhQVV9taGwyVzlRaGI0cXVfQm5XU3VPWWFndHcyYm5NTVBrUGtGSjNDQUd1OXhfVUZHakIwRFQ0UnZmNlRwNXVXYTBXdUpFSHZaNjJ1YzNyRTJIZlJESHFlLUlCaFB6ejBVUTFGUUcyM0tRMy11ZklLSlFwUmloSmdCNGJoam9jZDF3?oc=5",
@@ -1280,78 +1352,6 @@
       "source": "Britannica",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVDlZTF9yQWFEdk0xVmZQTG5NUDZFeTZESXdIYzg1R1YwNzFzMVFyc1hteXd6MUxudjBpZ205SnEyeUNyUVRUR1F6bm9lUkJUMV80ZlpR?oc=5",
       "snippet": "Kalshi | Prediction Market Exchange, History, & Regulation &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PM1QyMjBENlF1R0JDMzBjbEFKVHZtY2lUQlhvVDJXTnZwaU16ZEJ4S1JfQk85TWtEeWljcUFfSm41MDFZQlppRTE5S2xGaVRDRXRMOGw4OVJXd0pV?oc=5",
-      "type": "article",
-      "title": "Stride Legal advises P9 Farms on USD14m Panthera funding - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PM1QyMjBENlF1R0JDMzBjbEFKVHZtY2lUQlhvVDJXTnZwaU16ZEJ4S1JfQk85TWtEeWljcUFfSm41MDFZQlppRTE5S2xGaVRDRXRMOGw4OVJXd0pV?oc=5",
-      "snippet": "Stride Legal advises P9 Farms on USD14m Panthera funding &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiX0FVX3lxTE9acXpNeW5sRjRLRXN4RVN3Q0FSNktvMEJqbE9wNVpHRlE1M1pyRjlWYV9KcTdvQXlLQUo5RFNtb0pIRnJJTHpiQng1ZWkzR0xNZDUwTEVITV9nLXpRUHVF?oc=5",
-      "type": "article",
-      "title": "Japan’s Yonex secures 50% of India distributor Sunrise Sports - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9acXpNeW5sRjRLRXN4RVN3Q0FSNktvMEJqbE9wNVpHRlE1M1pyRjlWYV9KcTdvQXlLQUo5RFNtb0pIRnJJTHpiQng1ZWkzR0xNZDUwTEVITV9nLXpRUHVF?oc=5",
-      "snippet": "Japan’s Yonex secures 50% of India distributor Sunrise Sports &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDQU9YR0FrQ25UTGtiQU93UmoyMDNpQlJ0YlBTUmVXUk5Ja3hOQTN3MlZ1T3hXU0lhaXdsLVVkQ3RWRUJsaVBfVXQ0bVl6blpQZm5OMUswUGZqVlk?oc=5",
-      "type": "article",
-      "title": "Attracting capital and building investor confidence in India - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDQU9YR0FrQ25UTGtiQU93UmoyMDNpQlJ0YlBTUmVXUk5Ja3hOQTN3MlZ1T3hXU0lhaXdsLVVkQ3RWRUJsaVBfVXQ0bVl6blpQZm5OMUswUGZqVlk?oc=5",
-      "snippet": "Attracting capital and building investor confidence in India &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cG5aTFBtb1M5dXA5ME5WVTd0MlJoQ0NJQ0VKUWpNdWl2LWpRbUJCdnBiNU9nY1lDVDFGcFQyTVAwdUNDc2N1X0hTWWVBR0twOXRV?oc=5",
-      "type": "article",
-      "title": "Japan’s ‘nextgen’ global capability centre in Haryana - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cG5aTFBtb1M5dXA5ME5WVTd0MlJoQ0NJQ0VKUWpNdWl2LWpRbUJCdnBiNU9nY1lDVDFGcFQyTVAwdUNDc2N1X0hTWWVBR0twOXRV?oc=5",
-      "snippet": "Japan’s ‘nextgen’ global capability centre in Haryana &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCNlJldHFyV2JiLXUwektzMWl6U3hmRnBvcVRWempxWUplUi1wcEZ5bHM1UWZnYmdaQnFHa1ZnOHNGSHhBM0NiYWN2M2l4bUNCOUpXd1VQS1BWX2c3SlE?oc=5",
-      "type": "article",
-      "title": "Is a fast-track merger really fast? - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCNlJldHFyV2JiLXUwektzMWl6U3hmRnBvcVRWempxWUplUi1wcEZ5bHM1UWZnYmdaQnFHa1ZnOHNGSHhBM0NiYWN2M2l4bUNCOUpXd1VQS1BWX2c3SlE?oc=5",
-      "snippet": "Is a fast-track merger really fast? &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbkI0UlhlUWgzT2ZGamVWbkNERnhhNkgySDNhSXZZQkY4WnJGRDdrOEctVHpaeUhvVUhKcnFrYW1TYUlscEV1YVphd0RTM3BOWXJSQVg4UWpCRWJNaDNNeHVRNzRBVWpfSzloTQ?oc=5",
-      "type": "article",
-      "title": "Indian courts will not reprice agreed commercial bargains - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbkI0UlhlUWgzT2ZGamVWbkNERnhhNkgySDNhSXZZQkY4WnJGRDdrOEctVHpaeUhvVUhKcnFrYW1TYUlscEV1YVphd0RTM3BOWXJSQVg4UWpCRWJNaDNNeHVRNzRBVWpfSzloTQ?oc=5",
-      "snippet": "Indian courts will not reprice agreed commercial bargains &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQ2xReXhtQnVndHpPU2dKRkZqZnowQTQ1UHdLYTh1ZVprRjB2bWZYcEVtV0w0OXN0U1V5azdLN3ZmQ2pZTFIwd2xvNjI2YmN3UUJHUnVfNGVSTTRRUEpxMlYwd3U?oc=5",
-      "type": "article",
-      "title": "Andhra Pradesh High Court warns Adani’s data centre project - Law.asia",
-      "date": "2026-10-12",
-      "source": "Law.asia",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQ2xReXhtQnVndHpPU2dKRkZqZnowQTQ1UHdLYTh1ZVprRjB2bWZYcEVtV0w0OXN0U1V5azdLN3ZmQ2pZTFIwd2xvNjI2YmN3UUJHUnVfNGVSTTRRUEpxMlYwd3U?oc=5",
-      "snippet": "Andhra Pradesh High Court warns Adani’s data centre project &nbsp;&nbsp; Law.asia"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTVwSTRhWWl3Q1psYXlqUlNJVW9hQllkVS1tREljY2VVczJDM0U3X1htMXV5WHJFTE9va3VzbmNJcENfNGhKOEVHekcxS09UNW1EOWFrTWFGdllrdlZNNmRxXzBiSWI1T1hTRDdYYy00VG5tVVgycmwtSW9fdWt5QlNad2ViWnEzT0kw?oc=5",
-      "type": "article",
-      "title": "TN Supreme Court Keeps Non-Lawyer Law Firm Ownership Restrictions - State Affairs Pro",
-      "date": "2026-10-12",
-      "source": "State Affairs Pro",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTVwSTRhWWl3Q1psYXlqUlNJVW9hQllkVS1tREljY2VVczJDM0U3X1htMXV5WHJFTE9va3VzbmNJcENfNGhKOEVHekcxS09UNW1EOWFrTWFGdllrdlZNNmRxXzBiSWI1T1hTRDdYYy00VG5tVVgycmwtSW9fdWt5QlNad2ViWnEzT0kw?oc=5",
-      "snippet": "TN Supreme Court Keeps Non-Lawyer Law Firm Ownership Restrictions &nbsp;&nbsp; State Affairs Pro"
     }
   ]
 }
