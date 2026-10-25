@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-10-24T14:19:54.363983+00:00",
+  "lastRun": "2026-10-25T14:53:41.007626+00:00",
   "lastRunStatus": "ok",
-  "addedThisRun": 8,
+  "addedThisRun": 9,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDNoSTctLUQ3OWhtOWxqZHl4alVPT3g1d0FZMlplaUU4d1o2WnIwRV9zQW5rcjBVY2pTanQtZ1JnSld3cmc0bGlQMDdYOERyU0NvbWx3OTU2UTdZX3ZlQWoxRVBtRmlaY2JoQlNXSVpLNUtVaXNVLXZkTWZlTVQzbjQzSDZTbFVCTFE?oc=5",
@@ -56,6 +56,51 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFdlNmVPSEVFNzFNMTBJeXZmUS03RVlPSnNSYk5KNTdWS0ZBMGZ4MWYzUTVQNkJVeFNMWDhfVFRzczljNU93R2J2QkVXR1dETi00djFZYWExZzJ6eVU5TzdNeThmcGotN25EOU5uSWFINk5lNmc1a3VDSVQweUhmcU1TT0piNnlsNzhQU2dkc3RWV1ZpSVpvbUFXcXZjdFE1RWFXakRHNENOSXJjNHhTOGZB0gFWQVVfeXFMT3o3c0FhQ1huNXJiUGxpRGxaSl9zN2pWekt1S1VfZm9KWlZ1OTdJd2NzNU1JY0lLV1ZwbXNfNU1uVFRYZ2h0YTV1SThmUk90b3hOYVJHRnc?oc=5",
       "snippet": "Don't Miss It: Kirkland, Latham Steer Latest Hot Deals &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+      "type": "article",
+      "title": "Layoff Tracker: Tango plans 14% workforce cut, mainly of research staff - BioSpace",
+      "date": "2026-10-23",
+      "source": "BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+      "snippet": "Layoff Tracker: Tango plans 14% workforce cut, mainly of research staff &nbsp;&nbsp; BioSpace"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "type": "article",
+      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions - Just Security",
+      "date": "2026-10-23",
+      "source": "Just Security",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGx5S3owTlRQdGpsaHR6MGVmcS0yY0gxdXY3cnV3Snd5SkxmV3lLcHE1ekJjUEFxZzVycnhWRDFGWjNMV0tta1VTTS0yR0c4Q0tlS3Vpa3hOYThNaU9NQ01jeDFfU2gyb29OTnNSWGdLRTZZMnViYlNCMy1BNnhKYzIySlE0Nm5wTURWSEVNMmhGR0NBS0RvVlJnMHRZREVwRkJkZEpoM3ZzZWQyb1NzOFFWZjRLYlNWaTJ2NTVkemIzRlJtb1ZVbjhPQllZR3dTaFBmOWpILWZMTUVzODAzNk5n?oc=5",
+      "type": "article",
+      "title": "The legal fight over the public service student loan forgiveness overhaul may be over - GovExec.com",
+      "date": "2026-10-23",
+      "source": "GovExec.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGx5S3owTlRQdGpsaHR6MGVmcS0yY0gxdXY3cnV3Snd5SkxmV3lLcHE1ekJjUEFxZzVycnhWRDFGWjNMV0tta1VTTS0yR0c4Q0tlS3Vpa3hOYThNaU9NQ01jeDFfU2gyb29OTnNSWGdLRTZZMnViYlNCMy1BNnhKYzIySlE0Nm5wTURWSEVNMmhGR0NBS0RvVlJnMHRZREVwRkJkZEpoM3ZzZWQyb1NzOFFWZjRLYlNWaTJ2NTVkemIzRlJtb1ZVbjhPQllZR3dTaFBmOWpILWZMTUVzODAzNk5n?oc=5",
+      "snippet": "The legal fight over the public service student loan forgiveness overhaul may be over &nbsp;&nbsp; GovExec.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHFJdEJiUWR1UWlsS0wxZE9sRnJxajgzQS03ZTFHS05ybFBLcFJVR0xuY2I4OFEzRm56UkJBZ0kzUHVHU3phMjk3R3l5aUVwUVpVRXBFRk9iQ3dwREZwbF9oX0RvSWxGeEVZTzNzNXQyd3EtZEJ3d0RzdklzbWJYSUl5RHM0OUc0YkhDLUFMMzVFUm55WDVmWktJbUtocGhHVFNr0gFWQVVfeXFMTUpKNkp5eDBSazF6cG1Da0MtTjVYQ0Y4TXloXzZPYWhNTUJvbVd4cFZSblNHRnNQajJvZVFuM3FyYkpuTDZfQVpjQjhzelRRcHZIYXo2Vmc?oc=5",
+      "type": "article",
+      "title": "NYSE Owner's $6B MarketAxess Deal Clears US Review - Law360",
+      "date": "2026-10-23",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHFJdEJiUWR1UWlsS0wxZE9sRnJxajgzQS03ZTFHS05ybFBLcFJVR0xuY2I4OFEzRm56UkJBZ0kzUHVHU3phMjk3R3l5aUVwUVpVRXBFRk9iQ3dwREZwbF9oX0RvSWxGeEVZTzNzNXQyd3EtZEJ3d0RzdklzbWJYSUl5RHM0OUc0YkhDLUFMMzVFUm55WDVmWktJbUtocGhHVFNr0gFWQVVfeXFMTUpKNkp5eDBSazF6cG1Da0MtTjVYQ0Y4TXloXzZPYWhNTUJvbVd4cFZSblNHRnNQajJvZVFuM3FyYkpuTDZfQVpjQjhzelRRcHZIYXo2Vmc?oc=5",
+      "snippet": "NYSE Owner's $6B MarketAxess Deal Clears US Review &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiigJBVV95cUxPcG5mV1BvellXb2wyOV9BM2ZwdzJkLW1Ub0JoQnIxUzlKQlVYVEhBc1UzZU1ob3VNSG9keGU2TGJDUjFLNjhxY1RUZWExSDVTX01CVGV0cG5uQ0R1U3F5cC1VVWJiTzE1VFNDSWZYcEdrUWlET1BETFFRQ2sxR3RCZlBKaUpIbUI1ZVF1czRPSVlvRmlwVGdGZ2xKbC1mUmNTc2tfVFlHR1QwaG1GWkNkcFZ4U0JrWmt3ODJXbkpuZllCeTg4M2N1N2NjT1J2Qk9yRTJJX2dqVUFXd3ltSWVSZFNnOXhDTGQ1bk1Mbk0wQ19ONkZ6emVSWllRczgzQ1pHSm1zU3lnTl9hQQ?oc=5",
+      "type": "article",
+      "title": "Having lost their Life’s Work to US Private Equity, Biotech Pioneer Mikael Kubista and his team are back with Precision BioAnalytics - The American Reporter",
+      "date": "2026-10-23",
+      "source": "The American Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcG5mV1BvellXb2wyOV9BM2ZwdzJkLW1Ub0JoQnIxUzlKQlVYVEhBc1UzZU1ob3VNSG9keGU2TGJDUjFLNjhxY1RUZWExSDVTX01CVGV0cG5uQ0R1U3F5cC1VVWJiTzE1VFNDSWZYcEdrUWlET1BETFFRQ2sxR3RCZlBKaUpIbUI1ZVF1czRPSVlvRmlwVGdGZ2xKbC1mUmNTc2tfVFlHR1QwaG1GWkNkcFZ4U0JrWmt3ODJXbkpuZllCeTg4M2N1N2NjT1J2Qk9yRTJJX2dqVUFXd3ltSWVSZFNnOXhDTGQ1bk1Mbk0wQ19ONkZ6emVSWllRczgzQ1pHSm1zU3lnTl9hQQ?oc=5",
+      "snippet": "Having lost their Life’s Work to US Private Equity, Biotech Pioneer Mikael Kubista and his team are back with Precision BioAnalytics &nbsp;&nbsp; The American Reporter"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSldOZmJScTBBYWtUYXYzUk9ERVZQWnUxckgtV1lTb1hTUmx0cDAxUWFkemR6a0tSRXRIWFB4RHRPc2lfempjMGVaZVdVNWs5NFFyNmJ4WmNjNVVYbnFwNy1lNmdORU9tTWg1SUpYdlZ1enNCS3g2dQ?oc=5",
@@ -146,6 +191,42 @@
       "source": "Fierce Healthcare",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
       "snippet": "Optum seeks to have Maryland lawsuit over 'defective' computer system dismissed &nbsp;&nbsp; Fierce Healthcare"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1N2N2dKNUZ3U1JDT0lMMm5adlVDX2hyZVplNmI4empJbDBFclVybmRDSHlEQmkwN2dQRVBlVVF2SlNTdnRDMW81TTVJc0J4RlZQWl9hcFhrUFh2bXN2MXVhakVNNzNJU25pajFvVkxac0MzbHIxTllsOVN3TFNtMnlOUE9sbk1QUkFqWW9KQjBmdGZsbDBVckt1S01KR2p6Z2FqMEZoSWlUZWJURFJ5RGRFb0l2djE1MmJOOVUxSDh3UXhkc1E?oc=5",
+      "type": "article",
+      "title": "Lawyers at the Festival: \"To defend free speech, you have to speak freely\" - Law Society of Scotland",
+      "date": "2026-10-22",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1N2N2dKNUZ3U1JDT0lMMm5adlVDX2hyZVplNmI4empJbDBFclVybmRDSHlEQmkwN2dQRVBlVVF2SlNTdnRDMW81TTVJc0J4RlZQWl9hcFhrUFh2bXN2MXVhakVNNzNJU25pajFvVkxac0MzbHIxTllsOVN3TFNtMnlOUE9sbk1QUkFqWW9KQjBmdGZsbDBVckt1S01KR2p6Z2FqMEZoSWlUZWJURFJ5RGRFb0l2djE1MmJOOVUxSDh3UXhkc1E?oc=5",
+      "snippet": "Lawyers at the Festival: \"To defend free speech, you have to speak freely\" &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxPQW9QU2F3N0EzMjVMQS1CdmlTTFFoM1JibGRDczVXMnZKaDJnMzU4di1yX051cDdzWHlvSHRSczdXU1NaNElpOWhoM1FNQ19aMEx3czF3TTlaX0k2bTRySDJEclJURnZXR3NucUVYSno1Y2xVZnk3NmgzaUhWU1otMlpmRnoxMFNQaFRtWUJLTE41YnlvTGNxbE5HUzhxcV9ITGhSNDNBLTZOZEtzWjZQMG9Yb211OTJJWXptNlNVVXEyMGkzWVVTZFBpcW1hSlk?oc=5",
+      "type": "article",
+      "title": "SPONSORED: Why law firms should invest in a cyber incident response simulation - Law Society of Scotland",
+      "date": "2026-10-22",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQW9QU2F3N0EzMjVMQS1CdmlTTFFoM1JibGRDczVXMnZKaDJnMzU4di1yX051cDdzWHlvSHRSczdXU1NaNElpOWhoM1FNQ19aMEx3czF3TTlaX0k2bTRySDJEclJURnZXR3NucUVYSno1Y2xVZnk3NmgzaUhWU1otMlpmRnoxMFNQaFRtWUJLTE41YnlvTGNxbE5HUzhxcV9ITGhSNDNBLTZOZEtzWjZQMG9Yb211OTJJWXptNlNVVXEyMGkzWVVTZFBpcW1hSlk?oc=5",
+      "snippet": "SPONSORED: Why law firms should invest in a cyber incident response simulation &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "type": "article",
+      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
+      "date": "2026-10-22",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "snippet": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTZiU1FNZWNPQkh6aDcwZXNaaGZFTWI4S0RWa1ppUlRYVF9pTmk0TFZmbVhFX0M2RUZ3d2pObTl4X3JmTEV3OFJPV0tNQUNHMGxmY2NZeUx1bjU3Q2NfenA1bEx4cEVIbG1BS3RndU5IQmJRZXNnMUhyclhDbzlTeGpiaGo0N01HNUpVMTRodnN1c0NSX19ETXprZXYtRGgyYTZWU0JPcXFERlFyU1QyS215Y3J1QQ?oc=5",
+      "type": "article",
+      "title": "New fraud offence: what Scottish law firms need to know now - Law Society of Scotland",
+      "date": "2026-10-22",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTZiU1FNZWNPQkh6aDcwZXNaaGZFTWI4S0RWa1ppUlRYVF9pTmk0TFZmbVhFX0M2RUZ3d2pObTl4X3JmTEV3OFJPV0tNQUNHMGxmY2NZeUx1bjU3Q2NfenA1bEx4cEVIbG1BS3RndU5IQmJRZXNnMUhyclhDbzlTeGpiaGo0N01HNUpVMTRodnN1c0NSX19ETXprZXYtRGgyYTZWU0JPcXFERlFyU1QyS215Y3J1QQ?oc=5",
+      "snippet": "New fraud offence: what Scottish law firms need to know now &nbsp;&nbsp; Law Society of Scotland"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGdjbmNiamJYT0xHMFltc1dHUDhNbGpjRlducTloMFR1ZXFna2FCUG9LU3RNemF5cllYb29yMWp2M2QwRU9mVGhkNTBYbWRUM2Q4M0w3dlJqWFFUenI5V0hyTExSRXR0VnVwdWlOX1VxY1V3V3B5cm1ObnlrRi0zQURRU3hOLVdoaVB2b1RBMlBnM0pxVF9BaE8yenFkSGdHcHkxQ1hkNXBnZjJwUlVIV2M0ajF4bHQzbGNtY1dvMnZUaW9lZUx0WTM3SG93TGJpTEZrVE5VT21JQ3FmU25qS2RHNXl2czYyaDRxM0huWV9SN3dWS2c?oc=5",
@@ -1271,87 +1352,6 @@
       "source": "PR Urgent",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MeV91THR2dXRPalBxQU9ydGRNUENRMUFGZmVzTGpNYUFMTUZyb0xpYlhDYWNtX3c2WUFuQ1V5c3RtYnRQTVdva3VDbmY2SE4xc2tLcDBuWXYzOVVOOVczUHpxNXJrNHQzU3c?oc=5",
       "snippet": "LocalDMS Gives Law Firms and Small Businesses On-Premises Document Control With a Free 10-User Edition &nbsp;&nbsp; PR Urgent"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkZOaVBRandhNmVBNmE0NVloX0c1NlN3M3lCbVNLVzE3OTBOQm9vT1FrbU9ZWVQ4Tmd6TG5mRnh3cHVoc0pKRnBhMWZMRUQ3TTB4YzhDWkVBcVd0V05GN3c4akE5a2poTFNZS2V5bGszZlVaRUt3c3lzSWhxM19xYUpCdDUzSXZESmFWVUNMaGwxdDV5SkttWHZhdXE?oc=5",
-      "type": "article",
-      "title": "LSEG Considers Acquisition Bid for Octus Financial Data Group - Global Banking & Finance Review",
-      "date": "2026-10-13",
-      "source": "Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkZOaVBRandhNmVBNmE0NVloX0c1NlN3M3lCbVNLVzE3OTBOQm9vT1FrbU9ZWVQ4Tmd6TG5mRnh3cHVoc0pKRnBhMWZMRUQ3TTB4YzhDWkVBcVd0V05GN3c4akE5a2poTFNZS2V5bGszZlVaRUt3c3lzSWhxM19xYUpCdDUzSXZESmFWVUNMaGwxdDV5SkttWHZhdXE?oc=5",
-      "snippet": "LSEG Considers Acquisition Bid for Octus Financial Data Group &nbsp;&nbsp; Global Banking & Finance Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXRHd0l2alJRcDZKbXN5TzZGZEJEU0dCVU1iNGpFMDgtZU55cVNuWWYyV2puTjFlbjlrN3Rpbk5ZYTVhM2Y2TE5JaVRwUE9IeXdteUtiZ296bXVWejFoS0V5cXlkTTIyeEx6cGdGdVAxekQtdlRmeDI2N2JUT2stVEc2Z3YzaXZ2dFRTdkQ4TjdBNmowNTIzWEoyZzgzVkUyZWhHcHp0SHhsNVRYbUw2X3doUFZIVW5XYmZ2bFFrQlRUbm4zOFp0bkNB?oc=5",
-      "type": "article",
-      "title": "The Stop Corporate Takeovers of Physicians Act: Why Hospitals and Health Systems Should Pay Attention - Baker Donelson",
-      "date": "2026-10-13",
-      "source": "Baker Donelson",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXRHd0l2alJRcDZKbXN5TzZGZEJEU0dCVU1iNGpFMDgtZU55cVNuWWYyV2puTjFlbjlrN3Rpbk5ZYTVhM2Y2TE5JaVRwUE9IeXdteUtiZ296bXVWejFoS0V5cXlkTTIyeEx6cGdGdVAxekQtdlRmeDI2N2JUT2stVEc2Z3YzaXZ2dFRTdkQ4TjdBNmowNTIzWEoyZzgzVkUyZWhHcHp0SHhsNVRYbUw2X3doUFZIVW5XYmZ2bFFrQlRUbm4zOFp0bkNB?oc=5",
-      "snippet": "The Stop Corporate Takeovers of Physicians Act: Why Hospitals and Health Systems Should Pay Attention &nbsp;&nbsp; Baker Donelson"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3VxQ2xrcUh5WXdWRTNTbHpyRnhSQ2FtejhmQ2ZRWDU2anVwanpzekxjaDhxTTNFNGZfNGN5QTROaTFlQlVCTTVpMm84dHlhSHlKY1dpUTJyc2pCVDc3YzVmdUlXMlhET2lkVy1GWFd3Q0tVNkZVNHVWLVJocW4xZUk1cW5VMTdRek93MVhwbmxseDdzUXdoNG15Mkw4UUZpTzRycy1OSXZHcGVaSldESDJ1ejZTUDJX?oc=5",
-      "type": "article",
-      "title": "MintzTech Connect: All Things Technology — October 2026 - Mintz",
-      "date": "2026-10-13",
-      "source": "Mintz",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3VxQ2xrcUh5WXdWRTNTbHpyRnhSQ2FtejhmQ2ZRWDU2anVwanpzekxjaDhxTTNFNGZfNGN5QTROaTFlQlVCTTVpMm84dHlhSHlKY1dpUTJyc2pCVDc3YzVmdUlXMlhET2lkVy1GWFd3Q0tVNkZVNHVWLVJocW4xZUk1cW5VMTdRek93MVhwbmxseDdzUXdoNG15Mkw4UUZpTzRycy1OSXZHcGVaSldESDJ1ejZTUDJX?oc=5",
-      "snippet": "MintzTech Connect: All Things Technology — October 2026 &nbsp;&nbsp; Mintz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2JVeGw4dW01RmVwbVlGVGJHNzRoVzJVTWJUNU1vX3pQczcxMlo3SkM1a0pCaFFhQVlYX2hhQkM4eG1zNXNjdXRoQnliblROTjE3aXlBc2Fja3Q4aDdocll6ODZRSGhoWnhoVjNDZlplR3VpUzlxMWF4YlVVTTVOb0pCRkxWNlBHNUI1WFRyVGtMLWU4cHdkNHgxS2FHNTIxMF9aZUM1ZUNqSVEyMTRaRXVsRUNGakE4YVd1dlJiR0tsZVhkQ1o2QkdHZHlNQTdpc0MtOE5XbzJ6MzBDb2E1bWl2czB6bUU?oc=5",
-      "type": "article",
-      "title": "California’s SB 690 Removes Some CIPA Claims, But Privacy and Legal Risks Remain - Hinshaw & Culbertson LLP",
-      "date": "2026-10-13",
-      "source": "Hinshaw & Culbertson LLP",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2JVeGw4dW01RmVwbVlGVGJHNzRoVzJVTWJUNU1vX3pQczcxMlo3SkM1a0pCaFFhQVlYX2hhQkM4eG1zNXNjdXRoQnliblROTjE3aXlBc2Fja3Q4aDdocll6ODZRSGhoWnhoVjNDZlplR3VpUzlxMWF4YlVVTTVOb0pCRkxWNlBHNUI1WFRyVGtMLWU4cHdkNHgxS2FHNTIxMF9aZUM1ZUNqSVEyMTRaRXVsRUNGakE4YVd1dlJiR0tsZVhkQ1o2QkdHZHlNQTdpc0MtOE5XbzJ6MzBDb2E1bWl2czB6bUU?oc=5",
-      "snippet": "California’s SB 690 Removes Some CIPA Claims, But Privacy and Legal Risks Remain &nbsp;&nbsp; Hinshaw & Culbertson LLP"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxPVS1tUnZhMWxUdWNKaVBfeWo0bEMxcmwyMzg1a09lSDZfa01pSGhERDNsU0xPRVJicVBfWG9udXg2UnBoSEExOFdmbzF6S0dFcm9fLV85MzNRM2FhVjhhTVIzX1laMUFRU2JZUXFrUWh2RDdjaUhxdGkwZTQtOG4xczQ4cmE3aFJDemkwcmpZZU9YUHRTNmFwOFV1VQ?oc=5",
-      "type": "article",
-      "title": "SHRM loses service dog trial, owes former job applicant $400K - HR Dive",
-      "date": "2026-10-13",
-      "source": "HR Dive",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVS1tUnZhMWxUdWNKaVBfeWo0bEMxcmwyMzg1a09lSDZfa01pSGhERDNsU0xPRVJicVBfWG9udXg2UnBoSEExOFdmbzF6S0dFcm9fLV85MzNRM2FhVjhhTVIzX1laMUFRU2JZUXFrUWh2RDdjaUhxdGkwZTQtOG4xczQ4cmE3aFJDemkwcmpZZU9YUHRTNmFwOFV1VQ?oc=5",
-      "snippet": "SHRM loses service dog trial, owes former job applicant $400K &nbsp;&nbsp; HR Dive"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMif0FVX3lxTE5iOHBOaEZwWEtIZDRUZVMtNUs3VUNsZUJxRTMxa1hyWjNGajF4VnJ1Z0V0RUgtdDJGUFJIVE42bkxEMW13ZGtqYzRKeHRmRFRWY3ZILUFidkh5V3dFZVhVZWFXWHFqZm5acjdQTXlYcFhELU5wVXRMSW9walhqZnc?oc=5",
-      "type": "article",
-      "title": "INTERPOL And AI- What’s Changing - JD Supra",
-      "date": "2026-10-13",
-      "source": "JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iOHBOaEZwWEtIZDRUZVMtNUs3VUNsZUJxRTMxa1hyWjNGajF4VnJ1Z0V0RUgtdDJGUFJIVE42bkxEMW13ZGtqYzRKeHRmRFRWY3ZILUFidkh5V3dFZVhVZWFXWHFqZm5acjdQTXlYcFhELU5wVXRMSW9walhqZnc?oc=5",
-      "snippet": "INTERPOL And AI- What’s Changing &nbsp;&nbsp; JD Supra"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcm5MRklQZWVOM2NEc3RFQ0RRdGNmVGhHZkpWanNaSWNiRzJQVTc4cS1yanpsNmxEcWtuXzNtRlpFbE9ydnFsbFUyMmRLckhZckY1OFJ0YU5peHpVRS1iRnpLclRsb1NNZF9vZVBuQTRxbzVEMEN5ck5JaGpxc3RqNTZSeHlteWg3TXRlNThKMXJvenBSdjktX2NtU3hMejRQcG5XeHJYUDgwZFFOdTlaSlVDZ2ZtRGgzXzVpOE9YZFViTUFRelBkeTR3dldKOGlzWHJzRjNUSzF1VDBDbkVNc0N6R216Zjc3M0E?oc=5",
-      "type": "article",
-      "title": "The Cornell 7: Seven Takeaways on Foreseeability, Institutional Responsibility and Campus Sexual Assault - Law.com",
-      "date": "2026-10-13",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcm5MRklQZWVOM2NEc3RFQ0RRdGNmVGhHZkpWanNaSWNiRzJQVTc4cS1yanpsNmxEcWtuXzNtRlpFbE9ydnFsbFUyMmRLckhZckY1OFJ0YU5peHpVRS1iRnpLclRsb1NNZF9vZVBuQTRxbzVEMEN5ck5JaGpxc3RqNTZSeHlteWg3TXRlNThKMXJvenBSdjktX2NtU3hMejRQcG5XeHJYUDgwZFFOdTlaSlVDZ2ZtRGgzXzVpOE9YZFViTUFRelBkeTR3dldKOGlzWHJzRjNUSzF1VDBDbkVNc0N6R216Zjc3M0E?oc=5",
-      "snippet": "The Cornell 7: Seven Takeaways on Foreseeability, Institutional Responsibility and Campus Sexual Assault &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tZ2xNS0hiQ0NrR3FUNm5FZUs1al9fUUFlaTltUVBaQUlLN052SWdLZ3JLUnBMSE43UkpWSkxCakRRLWtBRVNtbmtPOFFfcWowNjhHY05ianA5bzV6aG1GTTZHWQ?oc=5",
-      "type": "article",
-      "title": "Danske Bank AM active ownership head explores not just how, but why, AI should help with engagement - AMWatch",
-      "date": "2026-10-13",
-      "source": "AMWatch",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tZ2xNS0hiQ0NrR3FUNm5FZUs1al9fUUFlaTltUVBaQUlLN052SWdLZ3JLUnBMSE43UkpWSkxCakRRLWtBRVNtbmtPOFFfcWowNjhHY05ianA5bzV6aG1GTTZHWQ?oc=5",
-      "snippet": "Danske Bank AM active ownership head explores not just how, but why, AI should help with engagement &nbsp;&nbsp; AMWatch"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVDlZTF9yQWFEdk0xVmZQTG5NUDZFeTZESXdIYzg1R1YwNzFzMVFyc1hteXd6MUxudjBpZ205SnEyeUNyUVRUR1F6bm9lUkJUMV80ZlpR?oc=5",
-      "type": "article",
-      "title": "Kalshi | Prediction Market Exchange, History, & Regulation - Britannica",
-      "date": "2026-10-13",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVDlZTF9yQWFEdk0xVmZQTG5NUDZFeTZESXdIYzg1R1YwNzFzMVFyc1hteXd6MUxudjBpZ205SnEyeUNyUVRUR1F6bm9lUkJUMV80ZlpR?oc=5",
-      "snippet": "Kalshi | Prediction Market Exchange, History, & Regulation &nbsp;&nbsp; Britannica"
     }
   ]
 }
