@@ -1,8 +1,62 @@
 {
-  "lastRun": "2026-10-29T17:20:03.308446+00:00",
+  "lastRun": "2026-10-30T16:57:24.069781+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 22,
+  "addedThisRun": 15,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVdmWi1YNFNWSmJKWGtlTFZUWkEwR3Z0eThBNkhqemIwMUdjclhzWlBnUEZXUXNRZnJDVXNsYUQtSWNuenRQSkNkTlhzdVhYYUlOcnVXdWJQYVhiMkVNYUN2VUVtaDNYMTJXaFkyUVBESERnbURReDlnaXdoUW1FLWt2WWlYSzFRdjVHcEJPQWF4WmRfT2poVUVYbm5oc2NmS2NtN3B0VFhVLXdyTzRrMEFTemdkUFR1?oc=5",
+      "type": "article",
+      "title": "Top Dog Law Wants 500 Attorneys and a Presence in the Courtroom - Law.com",
+      "date": "2026-10-30",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVdmWi1YNFNWSmJKWGtlTFZUWkEwR3Z0eThBNkhqemIwMUdjclhzWlBnUEZXUXNRZnJDVXNsYUQtSWNuenRQSkNkTlhzdVhYYUlOcnVXdWJQYVhiMkVNYUN2VUVtaDNYMTJXaFkyUVBESERnbURReDlnaXdoUW1FLWt2WWlYSzFRdjVHcEJPQWF4WmRfT2poVUVYbm5oc2NmS2NtN3B0VFhVLXdyTzRrMEFTemdkUFR1?oc=5",
+      "snippet": "Top Dog Law Wants 500 Attorneys and a Presence in the Courtroom &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHJacXFPRTA0ZTNtSnZRRkFiTzc1TkkyNHJsLTFybFVXcHprLXU4b1o0Wk5XZlIwajFrV3ItZ3NGSUVSeEs0S0F0Vk4zVWVMM2pHQlBfczRhTWpyYVF0T2hkVFVCUld1cHg3WnZ6dVFKd3FiS2tWckkxTTl4LVdsMVhIQ0JYbFk1eEVaMG9maXVpNktlM0luNENfMUVGTnYwVEpTSC13?oc=5",
+      "type": "article",
+      "title": "Federal bill targeting MSO and friendly physician structures - The Business Journals",
+      "date": "2026-10-30",
+      "source": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHJacXFPRTA0ZTNtSnZRRkFiTzc1TkkyNHJsLTFybFVXcHprLXU4b1o0Wk5XZlIwajFrV3ItZ3NGSUVSeEs0S0F0Vk4zVWVMM2pHQlBfczRhTWpyYVF0T2hkVFVCUld1cHg3WnZ6dVFKd3FiS2tWckkxTTl4LVdsMVhIQ0JYbFk1eEVaMG9maXVpNktlM0luNENfMUVGTnYwVEpTSC13?oc=5",
+      "snippet": "Federal bill targeting MSO and friendly physician structures &nbsp;&nbsp; The Business Journals"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi6AFBVV95cUxORllrOEFkaFhLSTkzQlVwMUpSNmZfVi1IbjlUNFR1VU93TUlXZ3g1QWgzTU84VzJlSEZfSGNON0w0bDY5eUVicFd0aHhOaGhIRnp2dHNGNFlTSHV1WWJIWlpBMFpWV292SHZZY1JlSmVGVjhFN0JibXRpMTh0dzhmR2kzMG56Vlc1THcxN3o1SGt1YVNkMGFmNEsyaEdON01GX2pGZzJUcWgybTdxZGtVZUNRN1FvTkFyNE5aajRVSmdXZGxXNUF2R1JBN3RLOWFZWUVGWTVBR3I0MTNERmRJX3dXYUR3VGlh?oc=5",
+      "type": "article",
+      "title": "Legal implications for AI us in event security and management at Glasgow Commonwealth Games 2026 - Law Society of Scotland",
+      "date": "2026-10-30",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORllrOEFkaFhLSTkzQlVwMUpSNmZfVi1IbjlUNFR1VU93TUlXZ3g1QWgzTU84VzJlSEZfSGNON0w0bDY5eUVicFd0aHhOaGhIRnp2dHNGNFlTSHV1WWJIWlpBMFpWV292SHZZY1JlSmVGVjhFN0JibXRpMTh0dzhmR2kzMG56Vlc1THcxN3o1SGt1YVNkMGFmNEsyaEdON01GX2pGZzJUcWgybTdxZGtVZUNRN1FvTkFyNE5aajRVSmdXZGxXNUF2R1JBN3RLOWFZWUVGWTVBR3I0MTNERmRJX3dXYUR3VGlh?oc=5",
+      "snippet": "Legal implications for AI us in event security and management at Glasgow Commonwealth Games 2026 &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVpFM0NpQzFhbVBtaGZaRkpWT3ByVnU2OGFHN0VqeWt0Z0ZwOHN4aUU4ZThraGkyaXNCY2FzcFNkWE1YMkJ6bE1TY3lzMXg0Y093Y1gwelljVk9ONDZvNTRFZHRkdWo0X1dXZjEwYndNRkFCU1VXZk9KaFktcGtJNnI2OGZnWkNzWUZleHpObDRiSl9rX0ptRDBZTnBSdlZjcGRISEFEdmNVeE1wUG1yS0RFM2VmMjdvRDl4NTkzVDBrUQ?oc=5",
+      "type": "article",
+      "title": "Summit A*R Recognized as a 2026 Best Place to Work in Collections - markets.businessinsider.com",
+      "date": "2026-10-30",
+      "source": "markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVpFM0NpQzFhbVBtaGZaRkpWT3ByVnU2OGFHN0VqeWt0Z0ZwOHN4aUU4ZThraGkyaXNCY2FzcFNkWE1YMkJ6bE1TY3lzMXg0Y093Y1gwelljVk9ONDZvNTRFZHRkdWo0X1dXZjEwYndNRkFCU1VXZk9KaFktcGtJNnI2OGZnWkNzWUZleHpObDRiSl9rX0ptRDBZTnBSdlZjcGRISEFEdmNVeE1wUG1yS0RFM2VmMjdvRDl4NTkzVDBrUQ?oc=5",
+      "snippet": "Summit A*R Recognized as a 2026 Best Place to Work in Collections &nbsp;&nbsp; markets.businessinsider.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjUi1vWkM2bXc0Qk52THROa2FaRTlDQlB3UUlraF9IWDZaVmRXcU8tR3MxTVZvZ0RhQnNoSENaZzd1WXpTbmhaMFZrOG4yTU5WWU5QYUdLNHM0UVBQUlE?oc=5",
+      "type": "article",
+      "title": "Russell C. Albanese - Long Island Business News",
+      "date": "2026-10-30",
+      "source": "Long Island Business News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjUi1vWkM2bXc0Qk52THROa2FaRTlDQlB3UUlraF9IWDZaVmRXcU8tR3MxTVZvZ0RhQnNoSENaZzd1WXpTbmhaMFZrOG4yTU5WWU5QYUdLNHM0UVBQUlE?oc=5",
+      "snippet": "Russell C. Albanese &nbsp;&nbsp; Long Island Business News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzhpdEswbGdWbGVnOVRRQWozbGRKblg1d19vOFNuUllnbFo1NFJ0M3g1akQ5NHZrUUU1b3dCT2VSZ19KV0FWV0NURG9OcGFhcDViRVhfZTlFa0NrVFF6ejdoU3FETm1mYzU2cmU2VVo3TENjTUtRU1dQM1IwNmdRSXoyaEZQdzB5X18zSFQtWlNtQTlvRWtzZXIyaExIVXJjTTgtTmpIR0xwZlJ0QUHSAVZBVV95cUxPb01zT0JLS3hHazNBZEFCZzZZaFQ0YzRkYjBQcDZobGFWVHpQcFB1bnc4Vk9rUHVDbVBNTlh5VEtuUzZGTk5acG5VUjNIMld2YV9vSEFEZw?oc=5",
+      "type": "article",
+      "title": "Judge 'Put Off' By Atty Fee Bid In $59.5M Menstrual App Deal - Law360",
+      "date": "2026-10-30",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzhpdEswbGdWbGVnOVRRQWozbGRKblg1d19vOFNuUllnbFo1NFJ0M3g1akQ5NHZrUUU1b3dCT2VSZ19KV0FWV0NURG9OcGFhcDViRVhfZTlFa0NrVFF6ejdoU3FETm1mYzU2cmU2VVo3TENjTUtRU1dQM1IwNmdRSXoyaEZQdzB5X18zSFQtWlNtQTlvRWtzZXIyaExIVXJjTTgtTmpIR0xwZlJ0QUHSAVZBVV95cUxPb01zT0JLS3hHazNBZEFCZzZZaFQ0YzRkYjBQcDZobGFWVHpQcFB1bnc4Vk9rUHVDbVBNTlh5VEtuUzZGTk5acG5VUjNIMld2YV9vSEFEZw?oc=5",
+      "snippet": "Judge 'Put Off' By Atty Fee Bid In $59.5M Menstrual App Deal &nbsp;&nbsp; Law360"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkVKWkZUa0wyT1BhNnk0TS1vTDhKZmY3V1ljY211MWJIR09uMUVJcDY1UWlKV3lDaHdONlltUFlZR2xmcnlnWG1nVmd0MHRRS1ZyaFU1Y0tUVnZ4Qzkyb1l4N1RFcXVsVnBWSnNVLXVpN1RvLW5kaEpqNEE4d2VQLW9KelpCa2dqZnNLSkdfdEszbWQ0eElmQjg5M3BTNzd5dVRheC15T0RFSm1XOEFCNDZR?oc=5",
       "type": "article",
@@ -128,6 +182,42 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDVLSnJ6X3lnd3lCV2l6NU9lQm9wRTZLNHlfVVFNWWIwNl9MWEc0LXg4RE5ONEsxS01ucHpWWElZTmtRXzNxZFRNZVdxZ2RuMTQzeW1kU2RTR2VzVHZvSnFDejNlY1FNTVV1N1ZpNzFMQ1Q4VVA2TTlrdjROUXJaWDFvaTV1ZU41c1ZGNTRPY3pxM0xrMzZwddIBVkFVX3lxTE5IN29HUkp5VEJGRndqaGlZSFo3MWhZWUF5ZlJkZWluNEdDN2R3ZXVqektQaE5LWTZKbUxHNndXZEVGTk10eXM2Vnc5YmZQR3dYckNGXzl3?oc=5",
       "snippet": "Ex-Chemical Co. Owner Fights $69.2M Trade Secrets Award &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2prVW1ONzg0S3pQcDFiQzhha1JOQmxLeDVOUHFMOTZBM3dheTgxX2dZR1JTYkU2Ynh4SmZNbi1ibUs4UjB6VzhsMlU0QjZKY010ZndWcko0cFpTMEJRdVRmNUxiRjJQRXVrRExwOERRbGc4UU55cGY5c1lrZWpDVjlHb1NBWmdoZ1ZJUTRpVEJyWDhSZC1UVGhmYWdxbmRCNXZGU0tjbFdfclBRdkdyX2tn?oc=5",
+      "type": "article",
+      "title": "Investing In Ketamine Clinics? Key Legal and Practical Considerations for Investors - Baker Donelson",
+      "date": "2026-10-29",
+      "source": "Baker Donelson",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2prVW1ONzg0S3pQcDFiQzhha1JOQmxLeDVOUHFMOTZBM3dheTgxX2dZR1JTYkU2Ynh4SmZNbi1ibUs4UjB6VzhsMlU0QjZKY010ZndWcko0cFpTMEJRdVRmNUxiRjJQRXVrRExwOERRbGc4UU55cGY5c1lrZWpDVjlHb1NBWmdoZ1ZJUTRpVEJyWDhSZC1UVGhmYWdxbmRCNXZGU0tjbFdfclBRdkdyX2tn?oc=5",
+      "snippet": "Investing In Ketamine Clinics? Key Legal and Practical Considerations for Investors &nbsp;&nbsp; Baker Donelson"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzV4aTEwX2NWUk1zNko3d3A3ZEtGTFllcUgxOUJDUmNZSEhuS3pRclpvaEtWaHFlT2Ntc2dkdmViNXpJODQ3UGxVbEVWRWtKU0dYc1hPZmFQUHpSWTdfVmY1aFBwQlpKNFJ1Um9qV3ZTQ3FoTXowWDJNT2xwNm91U0JDbm5PZGJaWUlkWGtfUndTYVlDdmE0Wnh3TQ?oc=5",
+      "type": "article",
+      "title": "USAA’s Michael Danforth Helps Veterans Navigate Life’s Legal Challenges - The Texas Lawbook",
+      "date": "2026-10-29",
+      "source": "The Texas Lawbook",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzV4aTEwX2NWUk1zNko3d3A3ZEtGTFllcUgxOUJDUmNZSEhuS3pRclpvaEtWaHFlT2Ntc2dkdmViNXpJODQ3UGxVbEVWRWtKU0dYc1hPZmFQUHpSWTdfVmY1aFBwQlpKNFJ1Um9qV3ZTQ3FoTXowWDJNT2xwNm91U0JDbm5PZGJaWUlkWGtfUndTYVlDdmE0Wnh3TQ?oc=5",
+      "snippet": "USAA’s Michael Danforth Helps Veterans Navigate Life’s Legal Challenges &nbsp;&nbsp; The Texas Lawbook"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxNYy1kR0lMQVdHY1F3ZW9OTkVyRmFGX3J5WkRMOW0wRmFPajdxalpxcjYwcHg1Z2dBN3pHMXF3Nk1OcVVLSmJaZ0FoRV9GWmpVeFZSdTNnLXpiMkVBZC1MWG1xZmdocmkwaVQ1dG05OFFTeGM2c1pId1Z0UXo0LVI3VUpmMzdjY0hhZF9kSG5XNE5Uc1pGZnJWOTlmeWJEV01IMFE4X2phNV9SZkpSVloyWDlZONIBVkFVX3lxTE5CRmV4cDBqcHUzWmp2NWJpeWIxQnRYb29uNjFTMTdjR1dGQTczS0t1Y0NMWWY1TXNET3dlMkQ3Z1ZyZHI0TFljRWZaRlZ4eXpZa3AzTFVB?oc=5",
+      "type": "article",
+      "title": "NJ Justices Uphold Atty's Privacy Expectation In Email Advice - Law360",
+      "date": "2026-10-29",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYy1kR0lMQVdHY1F3ZW9OTkVyRmFGX3J5WkRMOW0wRmFPajdxalpxcjYwcHg1Z2dBN3pHMXF3Nk1OcVVLSmJaZ0FoRV9GWmpVeFZSdTNnLXpiMkVBZC1MWG1xZmdocmkwaVQ1dG05OFFTeGM2c1pId1Z0UXo0LVI3VUpmMzdjY0hhZF9kSG5XNE5Uc1pGZnJWOTlmeWJEV01IMFE4X2phNV9SZkpSVloyWDlZONIBVkFVX3lxTE5CRmV4cDBqcHUzWmp2NWJpeWIxQnRYb29uNjFTMTdjR1dGQTczS0t1Y0NMWWY1TXNET3dlMkQ3Z1ZyZHI0TFljRWZaRlZ4eXpZa3AzTFVB?oc=5",
+      "snippet": "NJ Justices Uphold Atty's Privacy Expectation In Email Advice &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2k1eWtUZzktOVpKVks5a2lrVlpMeUFBd2xGc2JUVlNGc3VDZlBpN3Z2eWJ2VHRubjdjR2tPcDF2LVNPUGlrdldaT1FwWFlyTi1GNFE1MEVuRldwNzJIdmJwY1lBQlFOcElIME9iR2NpRkdqeXo2UC1YV2RhbTBEcS1YOEJJdzJ2QkZQUDA0QmpSa19HZTU4TExhRGptUEF4SEc00gFWQVVfeXFMUFJfZEVuWVM4dElVemRGaDhGSVVQS280YWpOQ1N0VVVZclJPbnlaN24tQkZMY3QyV3Z1V3BMRjlHWWMzUUhWUEVBclJmMkxaWm0zeUx5NXc?oc=5",
+      "type": "article",
+      "title": "Cooley-Led Kalshi Hits $40B Valuation With $1B Series G - Law360",
+      "date": "2026-10-29",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2k1eWtUZzktOVpKVks5a2lrVlpMeUFBd2xGc2JUVlNGc3VDZlBpN3Z2eWJ2VHRubjdjR2tPcDF2LVNPUGlrdldaT1FwWFlyTi1GNFE1MEVuRldwNzJIdmJwY1lBQlFOcElIME9iR2NpRkdqeXo2UC1YV2RhbTBEcS1YOEJJdzJ2QkZQUDA0QmpSa19HZTU4TExhRGptUEF4SEc00gFWQVVfeXFMUFJfZEVuWVM4dElVemRGaDhGSVVQS280YWpOQ1N0VVVZclJPbnlaN24tQkZMY3QyV3Z1V3BMRjlHWWMzUUhWUEVBclJmMkxaWm0zeUx5NXc?oc=5",
+      "snippet": "Cooley-Led Kalshi Hits $40B Valuation With $1B Series G &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm5XMm9odFpmQk5UeTEycHBXLWYxNVNPZ2JyUThFRDEyZDNuX096eEsySWFqVnVJandGNmFMR3dRQmhtcktmMmRKVm9kcDNxWW9aSkpkUEQxV1haY3lyaHliZW9XeFpCN1hMNnN1Qkw3ajcyM2NOcGhqbjRYbDh5LWRDWUlNb2tvTVRzekY5OERYdy1BS21jYVBmbmtKMUI4R3RPdQ?oc=5",
@@ -274,6 +364,24 @@
       "snippet": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach &nbsp;&nbsp; Law360"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmpUa2RwTGNfaFNpdkJnUTJsdjZhWTlxSDRQTUFlUHhJSzVOVGxqY3pqWloxME9yNWU3SG5kVFFpVllBVmJJcGtVclMtcUpha24wQUFhd3haYzZaV1ZjOEdhSXAtWGlORWZBeGVNbUVRRWdCNFc3aHZmdlNGaVdBS0NjMmtWTDZTYy1nQU4yMER6cWhfMFdrRjlvSDgySklnRERBLWNrbEx2V0NuSXF0QXdWWnUzVHJfaTk5alJKTlg?oc=5",
+      "type": "article",
+      "title": "Smarter Controversy: What Tax Directors Wish They Knew Before Entering a UK Tax Dispute - McDermott Will & Schulte",
+      "date": "2026-10-28",
+      "source": "McDermott Will & Schulte",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmpUa2RwTGNfaFNpdkJnUTJsdjZhWTlxSDRQTUFlUHhJSzVOVGxqY3pqWloxME9yNWU3SG5kVFFpVllBVmJJcGtVclMtcUpha24wQUFhd3haYzZaV1ZjOEdhSXAtWGlORWZBeGVNbUVRRWdCNFc3aHZmdlNGaVdBS0NjMmtWTDZTYy1nQU4yMER6cWhfMFdrRjlvSDgySklnRERBLWNrbEx2V0NuSXF0QXdWWnUzVHJfaTk5alJKTlg?oc=5",
+      "snippet": "Smarter Controversy: What Tax Directors Wish They Knew Before Entering a UK Tax Dispute &nbsp;&nbsp; McDermott Will & Schulte"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmVyNWt1UFItOTZiUFd2T1RiMUFYYXpCWkdzc1hMTlI3cGtoSXI3c2hOMnpOTHQyd0dpTldvbFZWMzZjRHR5amtfQldnSjFsOWVLa1gxMnpKOVoyYjVrQlFidm9TSENmOU9Bb3JxNXQyRlRNM3VYNTFtaUxHcmtJRkNYb3VFaENxeVJpRnVtZjVYMFBLMDJkQU1XSlRManRoeUMtWNIBVkFVX3lxTE81WnpRdmtDLUQ3bEFZU3ppWVhsaFE5UU1ra1Y0MlVMVWN1TDJSZXhreGpjazBsQUFYYUxKbDNGb3dIMUN2T0pzQkVVdEF4Q2M3UVhzS3RB?oc=5",
+      "type": "article",
+      "title": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach - Law360",
+      "date": "2026-10-28",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmVyNWt1UFItOTZiUFd2T1RiMUFYYXpCWkdzc1hMTlI3cGtoSXI3c2hOMnpOTHQyd0dpTldvbFZWMzZjRHR5amtfQldnSjFsOWVLa1gxMnpKOVoyYjVrQlFidm9TSENmOU9Bb3JxNXQyRlRNM3VYNTFtaUxHcmtJRkNYb3VFaENxeVJpRnVtZjVYMFBLMDJkQU1XSlRManRoeUMtWNIBVkFVX3lxTE81WnpRdmtDLUQ3bEFZU3ppWVhsaFE5UU1ra1Y0MlVMVWN1TDJSZXhreGpjazBsQUFYYUxKbDNGb3dIMUN2T0pzQkVVdEF4Q2M3UVhzS3RB?oc=5",
+      "snippet": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach &nbsp;&nbsp; Law360"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISjdMckpNTHpnNW51b0ZvNHNLM0tHVWpyOFpiekY2NDN1UjR2dWl0MTBuZjJEbDhpeFhzcDhaT1RNRWpHWk1LakJXSmpKR0d1QmQ3Ui1jcTNncHFicWlUVHdIb0VvRG9ZQTlUSA?oc=5",
       "type": "article",
       "title": "Ropes & Gray Names 26 New Partners - ABF Journal",
@@ -362,6 +470,15 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkFfS3lwU2wzcWk5R3RLdFRhUC1JTTJ1MEVwcnRoc1VZejZzMGgtUkpFcHI3SjMwOE5kSlNOaG94ZFNDTktfZXZGdzk5OXJsMzNJV25vY0RXWld3NTZ5WkRwdEh1emZLSUxIQllsc3Iza19kTEltRHFnUVJXNGVmaGY0UzNYQnZmZ2tYQkxEbnBqbkswR2Q4aFluTzHSAVZBVV95cUxNNnl0SG1qS29VUlk0TF84ZDZ4aXVNU0VuQnU5bUVUSE1lMm5FZXhOYy1QdW02UGVmMlh6TVpvUndiOXdPNEo2RjFyZ2pHU2hVNHphTzBBQQ?oc=5",
       "snippet": "IRS Asks 1st Circ. To Toss Shuttered Bank Owner's Claims &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1pkdXIxUU9pZjlsa1Ywc1FZR0ZfS3BkRHdRUXFrdl9FN2EzUkNES3NLemk1eXMyNHY0MC02WlJHOWR0YjM2dGRoeDFyZUZNYXBGVDNyV1ZxM1pCMXNJT2RONEgyZlJGWDhKYklXcmFHdndxQ29BRHpwT0puVngtei1IOV9GUlBEN0VRbEQ0YnVXbXp3eGl2VjRrb1lNQnRuQ3BwUGI0WHZELXBkY2M5bV83TmVyeHdkNTVfd0xzYUROMW1XZ1BCQ0kyYXp3MHhzOUNsbVpWRWFyTENvd0dDX2lXZjBYMUM2QU42NlNJMVNVRFFvT0pmMXZTdU8ycEQ1MEF3OXZvaTltU1lJ0gGSAkFVX3lxTE5Ea19uUlBvbDdmdWQwMW83YXh2OFNnTTMzc2kxX2wtZ21iTkZyQW9yZUhpYzlIYzlNN2l3clZqa2xwWFVkU2lhUTNjZGVJRnowRlAtQS1lTjQ5S3NhcnhfOTNFdjZRd0VMelNPcDd6OVdNY19lSHFKcGFHTjUtWjFoQlZKNm85dkJZQ2NhQWlMWkJzZVY5NmNuU3ZibWttaGkyMkJSNVc2N1MzRXVUbzBLZVJDWFFSY0FIUmQwZWhPNGR6ZDVHWUtvM2x5dHJfbHRYOF9KNDY1T3JNVEsyUUh4M1pob2xYd3lXRm5PanBYcERJS21Gc0ZDVk50MFNnZzRNUFVIR216T0xFWlNKMG1QNnc?oc=5",
+      "type": "article",
+      "title": "TVS Motor’s Venu Srinivasan and daughter Lakshmi file caveats against each other over inheritance - The Economic Times",
+      "date": "2026-10-27",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1pkdXIxUU9pZjlsa1Ywc1FZR0ZfS3BkRHdRUXFrdl9FN2EzUkNES3NLemk1eXMyNHY0MC02WlJHOWR0YjM2dGRoeDFyZUZNYXBGVDNyV1ZxM1pCMXNJT2RONEgyZlJGWDhKYklXcmFHdndxQ29BRHpwT0puVngtei1IOV9GUlBEN0VRbEQ0YnVXbXp3eGl2VjRrb1lNQnRuQ3BwUGI0WHZELXBkY2M5bV83TmVyeHdkNTVfd0xzYUROMW1XZ1BCQ0kyYXp3MHhzOUNsbVpWRWFyTENvd0dDX2lXZjBYMUM2QU42NlNJMVNVRFFvT0pmMXZTdU8ycEQ1MEF3OXZvaTltU1lJ0gGSAkFVX3lxTE5Ea19uUlBvbDdmdWQwMW83YXh2OFNnTTMzc2kxX2wtZ21iTkZyQW9yZUhpYzlIYzlNN2l3clZqa2xwWFVkU2lhUTNjZGVJRnowRlAtQS1lTjQ5S3NhcnhfOTNFdjZRd0VMelNPcDd6OVdNY19lSHFKcGFHTjUtWjFoQlZKNm85dkJZQ2NhQWlMWkJzZVY5NmNuU3ZibWttaGkyMkJSNVc2N1MzRXVUbzBLZVJDWFFSY0FIUmQwZWhPNGR6ZDVHWUtvM2x5dHJfbHRYOF9KNDY1T3JNVEsyUUh4M1pob2xYd3lXRm5PanBYcERJS21Gc0ZDVk50MFNnZzRNUFVIR216T0xFWlNKMG1QNnc?oc=5",
+      "snippet": "TVS Motor’s Venu Srinivasan and daughter Lakshmi file caveats against each other over inheritance &nbsp;&nbsp; The Economic Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSWlMcFlvUlV3akdjZkI1R2hTZXdQOThrdVNxLXFGTWJwV1VJTWZKbFpfd1FIbllkaFVPWXQ1VjVDaUpfU1dyU1ppT1lLUGF0Z2lPX2hqMjJacXh0RnYzb0ljRE5kUHhMMThuQ1Fn?oc=5",
@@ -569,6 +686,24 @@
       "source": "Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUMzMFZWZmY5UHBHMFA1cktIZm9yQUM3aUdTdUtDcTZ6aVFtbkRNZGx5eTRsVmZtQzFMQ3R6MHdLMGd1Z1RnUDJIcklCUVAxX3NYcUlLTjhtTEhJbEdDNnRSUmJwWVFqc3VwcGtjNHBQSjc5ZDhnN1VjTDJEb01vMTFYU214WmZfSlZmUVV4ajYtWHJ0Y090VVlpb2xFUTdhYWZsTVNuM2pEUnBubFBwU1hPdmthZk1tNEp1X05CaFhDM3hxeXd2bkZCQlM4N1VwS2dxVUV6ZHo3Y1FW?oc=5",
       "snippet": "The end of the affair: Are partnerships no longer lawyers’ chosen corporate relationships? &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFNSOC04ZFJtU1NoRndoUGlGUDZWMG1IRXNWLUl6WWtiSGlOOGNTWGlTWnNNb1I1MUREUWpnbjJTd0MyZDVCUGhUelo0YnpQSEpadHRuc3hLek5GRGpZX3RFaEFXeGo1X2tGWlh6NGR1a0Raa1Y5dUo2bDZFcWlDTFI2WmxYdUx0LUg4RGZpWExwZzBiV01FVS1sbi1XTC0tWHJpLS1PYWxlZ9IBVkFVX3lxTFBJTXNidjk4V3dZd2g4VTdxclc1UGIydm5YOTdQMk9vNDN6T2FmOGFkRlRMOHJVTTZRM2hBZzF3bDRKaTU0LXVtcVZsbnY1Qmp1eGtlMjN3?oc=5",
+      "type": "article",
+      "title": "Owner Of Pa. Firm Accused Of Stealing $156K From Clients - Law360",
+      "date": "2026-10-26",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFNSOC04ZFJtU1NoRndoUGlGUDZWMG1IRXNWLUl6WWtiSGlOOGNTWGlTWnNNb1I1MUREUWpnbjJTd0MyZDVCUGhUelo0YnpQSEpadHRuc3hLek5GRGpZX3RFaEFXeGo1X2tGWlh6NGR1a0Raa1Y5dUo2bDZFcWlDTFI2WmxYdUx0LUg4RGZpWExwZzBiV01FVS1sbi1XTC0tWHJpLS1PYWxlZ9IBVkFVX3lxTFBJTXNidjk4V3dZd2g4VTdxclc1UGIydm5YOTdQMk9vNDN6T2FmOGFkRlRMOHJVTTZRM2hBZzF3bDRKaTU0LXVtcVZsbnY1Qmp1eGtlMjN3?oc=5",
+      "snippet": "Owner Of Pa. Firm Accused Of Stealing $156K From Clients &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxQcGRoYTNZekRhX29HdEUwbURuQlNoSW0tTHcyVHBxVFVHV3NSMUdEcEFIQzdRRUl1Y3NrWlFWUTJSTl9ReG9ySjhJbHF2dzBxREQ5NmJwMGxaU3RlZTFCSlNvT21DT0ZWTXBiLXo3cWh5YUpkMW1DNlBrUW1fc0x1MkJCbURTdlBoWnI4cnFSdmJ5Rl9wcDB1RnpWamZObHlxSXUxNmFFUy05LUJLZ0M00gFWQVVfeXFMUHo5X0RkVmhVUUFYU3dwb0g4UXJneFY5SFc2b0ZaeEY2RUZHUDJfODlEMzd5NFZ2TGNfeGI3ekFXNS03Wjh6a3AtQTdvcEZUN3RIc1JGOVE?oc=5",
+      "type": "article",
+      "title": "QBE Beats Roofing Co.'s Indemnity Claim After School Fire - Law360",
+      "date": "2026-10-26",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcGRoYTNZekRhX29HdEUwbURuQlNoSW0tTHcyVHBxVFVHV3NSMUdEcEFIQzdRRUl1Y3NrWlFWUTJSTl9ReG9ySjhJbHF2dzBxREQ5NmJwMGxaU3RlZTFCSlNvT21DT0ZWTXBiLXo3cWh5YUpkMW1DNlBrUW1fc0x1MkJCbURTdlBoWnI4cnFSdmJ5Rl9wcDB1RnpWamZObHlxSXUxNmFFUy05LUJLZ0M00gFWQVVfeXFMUHo5X0RkVmhVUUFYU3dwb0g4UXJneFY5SFc2b0ZaeEY2RUZHUDJfODlEMzd5NFZ2TGNfeGI3ekFXNS03Wjh6a3AtQTdvcEZUN3RIc1JGOVE?oc=5",
+      "snippet": "QBE Beats Roofing Co.'s Indemnity Claim After School Fire &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMihwJBVV95cUxORXBJYWhlRUJrRFlEVFVaT045T1ZJM09ia2Z1ckt3S2l1bzBxWjMwOW1LUUFGTTFnaWdjLWxKcUhYQmNNOEZLdnY3azRxVmlpZGd4LWNxUTFXekJJVjhvMU91U281UlNDaWx0d0F5TEZxdFVmaVBJWHN6UGI3amt3RF9qaVdoQ0ZGMnZFb1Y2WUtiQWNuRlhubEk4UnhZWFo3VERxeGdjdm5iaDk4WWJyRzZBQUpuZExRaGFUWmNvd1RUSXF1U2RsajgwSzlqUmtlV3U2QXdtSklRRVFnYThoVHNCdVNuRUZBb3RMTWs5VXN0V3hIdGRtRHhPaDRZYUp6cFhhQUZPSQ?oc=5",
@@ -1217,141 +1352,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNndOUldoR2szRGxNYmI4MjVFLTJQRXVpR1ZZZkVfM3o1TUZuV1ZxUzlDRXVzZXZwUmpHRnYxSkk3RnlNWl9NZW9zQWlTeG5pVlBqQTBwOTIyYUZ0ZU5qRzdYTk9DS2hNZUJ4dHRLNncwcjBqOE10QWZDcVNtSGY2NF9NdGdDM3VWaXFuOGNkOGtEOWRXd0xwZFhOVFo0bDlMTWRvcDdlUG5POUdUcHV0V1JtMDVJNURldTU0Z253?oc=5",
       "snippet": "Private equity firm Charlesbank bets on US law firm in back office deal &nbsp;&nbsp; Reuters"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivwFBVV95cUxPcDBEMXJJOHZ4T0FSODdSSmoxUWFtTkpUeVJ1U3NfS0RjY19MdGZ2ekVmUG1JNjV5R3M3MEY0Y1dYajltdlZYenB4V3BKV0dNLUt4UzRtM2pBNE5RQUlFWkVtc1VLYUhOM0ZZaHp3YzFhY1JnNDZHQUYwRTVQOWxWeXlOQzFkRWowNUVFSl9oSW5oSmdxdWpnS3lYT0M3THdiU3V4THd2RWRBS25RVUtZTjlVSWtGekFfX3BSN2E3NA?oc=5",
-      "type": "article",
-      "title": "Insurance Defense Firm Wood Smith Henning & Berman Inks Private Equity Deal - Law.com",
-      "date": "2026-10-19",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcDBEMXJJOHZ4T0FSODdSSmoxUWFtTkpUeVJ1U3NfS0RjY19MdGZ2ekVmUG1JNjV5R3M3MEY0Y1dYajltdlZYenB4V3BKV0dNLUt4UzRtM2pBNE5RQUlFWkVtc1VLYUhOM0ZZaHp3YzFhY1JnNDZHQUYwRTVQOWxWeXlOQzFkRWowNUVFSl9oSW5oSmdxdWpnS3lYT0M3THdiU3V4THd2RWRBS25RVUtZTjlVSWtGekFfX3BSN2E3NA?oc=5",
-      "snippet": "Insurance Defense Firm Wood Smith Henning & Berman Inks Private Equity Deal &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE9vd1pNYVluMU1JcXhNNW1aN2Q2ckdvMTVwd1lZWWJNTmx6amRkcmhpUVk2d1VCWGppVjQxNjlfb2Q4M3NNUmFpS0VRS2ZRNFQzRUxiLURsS1NBRHJybjJKaVc5cnhBdE9CWHRNUEdZNFdQSFpuZFgtUA?oc=5",
-      "type": "article",
-      "title": "Charlesbank Backs US Law Firm in Private Equity Deal - JDJournal.com",
-      "date": "2026-10-19",
-      "source": "JDJournal.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vd1pNYVluMU1JcXhNNW1aN2Q2ckdvMTVwd1lZWWJNTmx6amRkcmhpUVk2d1VCWGppVjQxNjlfb2Q4M3NNUmFpS0VRS2ZRNFQzRUxiLURsS1NBRHJybjJKaVc5cnhBdE9CWHRNUEdZNFdQSFpuZFgtUA?oc=5",
-      "snippet": "Charlesbank Backs US Law Firm in Private Equity Deal &nbsp;&nbsp; JDJournal.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2ZxeDZ4U0tWNkVGZGtIMFljaE93TlZwdDRQN0I4eUkteHViVWxKN2dKS2dqUkpQOXFmcmowTGtNOUFFY1AxWC14U09SQkw1ci1SaUNPNFQzRHhJWG1GcG9BeHd5YUFXSUI0VXg2c3pEcDByNVdzRXE0Tmx5R2hQUmlR?oc=5",
-      "type": "article",
-      "title": "Fifteen years on: Lessons from ABS reform - Legal Futures",
-      "date": "2026-10-19",
-      "source": "Legal Futures",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2ZxeDZ4U0tWNkVGZGtIMFljaE93TlZwdDRQN0I4eUkteHViVWxKN2dKS2dqUkpQOXFmcmowTGtNOUFFY1AxWC14U09SQkw1ci1SaUNPNFQzRHhJWG1GcG9BeHd5YUFXSUI0VXg2c3pEcDByNVdzRXE0Tmx5R2hQUmlR?oc=5",
-      "snippet": "Fifteen years on: Lessons from ABS reform &nbsp;&nbsp; Legal Futures"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnQwOVV4aG9nRU9VTVAwSUlqVlFzdHduajYzSjRYOWRXSm9NMGFlTGlEVDY1cmNIc1B0bmhDWG1zSnZadHJDMVllWE9iSUMtdURkemRCMzgwaHVJNTRCcVc3RDlGbTY1TG1UVDdXa0x0c25uLXA4RktiTWttWGpPYlZ6cjRzUzhmdXVRNTh3LTVTN3BybG1Tb0I5SmNMbThEbXlGeWZCRnpCVXdzNkFSOW4yamstUTJyM2V6eTJTUnN4ak5td2xEUGFhcHN3bUdHYzg3VFpoa0JZRWlzdENqZnducW0yREFnN3NCOG9Rdw?oc=5",
-      "type": "article",
-      "title": "Alternative Business Structures: Part 1 — How private equity is reshaping law firms in England and Wales - Law Society of Scotland",
-      "date": "2026-10-19",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnQwOVV4aG9nRU9VTVAwSUlqVlFzdHduajYzSjRYOWRXSm9NMGFlTGlEVDY1cmNIc1B0bmhDWG1zSnZadHJDMVllWE9iSUMtdURkemRCMzgwaHVJNTRCcVc3RDlGbTY1TG1UVDdXa0x0c25uLXA4RktiTWttWGpPYlZ6cjRzUzhmdXVRNTh3LTVTN3BybG1Tb0I5SmNMbThEbXlGeWZCRnpCVXdzNkFSOW4yamstUTJyM2V6eTJTUnN4ak5td2xEUGFhcHN3bUdHYzg3VFpoa0JZRWlzdENqZnducW0yREFnN3NCOG9Rdw?oc=5",
-      "snippet": "Alternative Business Structures: Part 1 — How private equity is reshaping law firms in England and Wales &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa1BvZV84YW1rT2hPcVF2cHhKUk4xbVZhSGxya2MzSGxKWmxGeWx2eW1aWGMwYXI4Vi15cnBXUG1ZcnY0VllRa3RJeDVKWmFuOW5ZMXFyeEczelU0cTQ0ZWxwUkQxVEU2RU5BdU5KQXNYdHgwYmo3WE5oRk82NWNrMlp4dXMxRDgwcXdCYkZsbTQyNUZzRGZjbEpDWmJqMTJqZktlclRES0tNVDFWTF91SDNnQ3haZlRQQ0Z2X0RLVklQcVlNNVR1dGExTlo4TlYteDBkaDN5NA?oc=5",
-      "type": "article",
-      "title": "Leonor Abad Martín, from Repsol: “AI doesn’t mean we need less talent. It allows the talent we have to go much further.” - Líder Legal",
-      "date": "2026-10-19",
-      "source": "Líder Legal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa1BvZV84YW1rT2hPcVF2cHhKUk4xbVZhSGxya2MzSGxKWmxGeWx2eW1aWGMwYXI4Vi15cnBXUG1ZcnY0VllRa3RJeDVKWmFuOW5ZMXFyeEczelU0cTQ0ZWxwUkQxVEU2RU5BdU5KQXNYdHgwYmo3WE5oRk82NWNrMlp4dXMxRDgwcXdCYkZsbTQyNUZzRGZjbEpDWmJqMTJqZktlclRES0tNVDFWTF91SDNnQ3haZlRQQ0Z2X0RLVklQcVlNNVR1dGExTlo4TlYteDBkaDN5NA?oc=5",
-      "snippet": "Leonor Abad Martín, from Repsol: “AI doesn’t mean we need less talent. It allows the talent we have to go much further.” &nbsp;&nbsp; Líder Legal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE9zeENFQ2FYNDdzc1gwVE12d3BGbHVqWklON242VmFoNkEzZm16MDExa1hGYzJYY21hZTF1NTJCcGhMUWhSdDRfMlg2VjVuYi05SllWdjNKTnlTQUdMME9aU2g5UmVFbmphRnk3bDljXzl3dXllVTB4dGUwMGFGOXlzMzJndVZzVnZJNEY4TU5uaV90ZDJmRlhCMFJuNEN3NDJrbVZ3cUJ4WkE?oc=5",
-      "type": "article",
-      "title": "$700M private equity deal could fuel acquisitions by LA law firm - Daily Journal",
-      "date": "2026-10-19",
-      "source": "Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE9zeENFQ2FYNDdzc1gwVE12d3BGbHVqWklON242VmFoNkEzZm16MDExa1hGYzJYY21hZTF1NTJCcGhMUWhSdDRfMlg2VjVuYi05SllWdjNKTnlTQUdMME9aU2g5UmVFbmphRnk3bDljXzl3dXllVTB4dGUwMGFGOXlzMzJndVZzVnZJNEY4TU5uaV90ZDJmRlhCMFJuNEN3NDJrbVZ3cUJ4WkE?oc=5",
-      "snippet": "$700M private equity deal could fuel acquisitions by LA law firm &nbsp;&nbsp; Daily Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb0czbENfQzctZExRSWpkR0Y2ajQtaHMzYlNHSVdRV3RZbHFPb2UwQjJfQ2hjYTd4ay1OWEZsdFNOY2pwNEZZZXY0X0F1NElIZFFJZF8tSGZNUUVsNVlEZ091dk5uRUJ4NmFqRFpzOWd2VTJraHZPNUc2MFBhVkVjX1dNeDRmZlVxZGpFZXkxQjRRUnNqbldja2pBMk9odjhEQlRybnZPd0RWeE1sNTQ0V3lzUS1nVEhVbzR1MlZCT0lUazU2a25TekN3WnBiQnUwTHFqcTNWVWpEdkFkTko2Z9IB4AFBVV95cUxQb0czbENfQzctZExRSWpkR0Y2ajQtaHMzYlNHSVdRV3RZbHFPb2UwQjJfQ2hjYTd4ay1OWEZsdFNOY2pwNEZZZXY0X0F1NElIZFFJZF8tSGZNUUVsNVlEZ091dk5uRUJ4NmFqRFpzOWd2VTJraHZPNUc2MFBhVkVjX1dNeDRmZlVxZGpFZXkxQjRRUnNqbldja2pBMk9odjhEQlRybnZPd0RWeE1sNTQ0V3lzUS1nVEhVbzR1MlZCT0lUazU2a25TekN3WnBiQnUwTHFqcTNWVWpEdkFkTko2Zw?oc=5",
-      "type": "article",
-      "title": "NLIU Bhopal Invites Registrations For Advanced Certificate Programme On Commercial Arbitration - Live Law",
-      "date": "2026-10-19",
-      "source": "Live Law",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb0czbENfQzctZExRSWpkR0Y2ajQtaHMzYlNHSVdRV3RZbHFPb2UwQjJfQ2hjYTd4ay1OWEZsdFNOY2pwNEZZZXY0X0F1NElIZFFJZF8tSGZNUUVsNVlEZ091dk5uRUJ4NmFqRFpzOWd2VTJraHZPNUc2MFBhVkVjX1dNeDRmZlVxZGpFZXkxQjRRUnNqbldja2pBMk9odjhEQlRybnZPd0RWeE1sNTQ0V3lzUS1nVEhVbzR1MlZCT0lUazU2a25TekN3WnBiQnUwTHFqcTNWVWpEdkFkTko2Z9IB4AFBVV95cUxQb0czbENfQzctZExRSWpkR0Y2ajQtaHMzYlNHSVdRV3RZbHFPb2UwQjJfQ2hjYTd4ay1OWEZsdFNOY2pwNEZZZXY0X0F1NElIZFFJZF8tSGZNUUVsNVlEZ091dk5uRUJ4NmFqRFpzOWd2VTJraHZPNUc2MFBhVkVjX1dNeDRmZlVxZGpFZXkxQjRRUnNqbldja2pBMk9odjhEQlRybnZPd0RWeE1sNTQ0V3lzUS1nVEhVbzR1MlZCT0lUazU2a25TekN3WnBiQnUwTHFqcTNWVWpEdkFkTko2Zw?oc=5",
-      "snippet": "NLIU Bhopal Invites Registrations For Advanced Certificate Programme On Commercial Arbitration &nbsp;&nbsp; Live Law"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT28xNWJNSUVNS0RaOUdDeDlITENyeHlGODdKZWlaRVhoVVpfbmlvV0dGWDUxdzc1ZF9tc1dKVlVtbm5aWWV6NERHRk41aldlMjNXbUdVODRTN3JYZlpfM2VuMVdDT0NwWm15NUxuWk5haTNueE0xbWFhQS05eF9qWWZVUFNnWE1TNG9JVlpPWmRmbzFfandwbDdLR3RaZThCVGJsLW5iWVTSAVZBVV95cUxQR3FNUFUwcUNwaWt6RG5VMmdJLVVyTHIxU1FpVHNnWi1OeHNCVTR3aTBRdXlSSk1hZG9ldE5GLXAtdGd3NzllY2pVQkd1WVhXTHlVcTFVZw?oc=5",
-      "type": "article",
-      "title": "BDO $1.3B ESOP Fight Dismissed On Standing Grounds - Law360",
-      "date": "2026-10-19",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT28xNWJNSUVNS0RaOUdDeDlITENyeHlGODdKZWlaRVhoVVpfbmlvV0dGWDUxdzc1ZF9tc1dKVlVtbm5aWWV6NERHRk41aldlMjNXbUdVODRTN3JYZlpfM2VuMVdDT0NwWm15NUxuWk5haTNueE0xbWFhQS05eF9qWWZVUFNnWE1TNG9JVlpPWmRmbzFfandwbDdLR3RaZThCVGJsLW5iWVTSAVZBVV95cUxQR3FNUFUwcUNwaWt6RG5VMmdJLVVyTHIxU1FpVHNnWi1OeHNCVTR3aTBRdXlSSk1hZG9ldE5GLXAtdGd3NzllY2pVQkd1WVhXTHlVcTFVZw?oc=5",
-      "snippet": "BDO $1.3B ESOP Fight Dismissed On Standing Grounds &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdXhNc2JBT0p0a0hMVS1UTUticGRQaFZ1cTNhdzFhZkF3NnNGMlpwRjdmUUVrZHhGWWhHd3N4eVBpQ3ZvYVBCYXluU2JiNWx3U1h5Q3lKYTZWbXRqcWRzRmZoNEVueDU1bFE?oc=5",
-      "type": "article",
-      "title": "A Primer on Foreign Sovereign Immunity - Transnational Litigation Blog",
-      "date": "2026-10-19",
-      "source": "Transnational Litigation Blog",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdXhNc2JBT0p0a0hMVS1UTUticGRQaFZ1cTNhdzFhZkF3NnNGMlpwRjdmUUVrZHhGWWhHd3N4eVBpQ3ZvYVBCYXluU2JiNWx3U1h5Q3lKYTZWbXRqcWRzRmZoNEVueDU1bFE?oc=5",
-      "snippet": "A Primer on Foreign Sovereign Immunity &nbsp;&nbsp; Transnational Litigation Blog"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkJnUVFBcW1FTWVPT2htZ3pKZGZMa0U2NVIwUmVZa1VDY29nLVdhWHVhcFZnVkR5c25hdldFck1pTk5IYVBmd1BUQTNsU3JQRExVcTIwMUlKT3lveXU4a2duWFdSQU5NdVptRDFqZzItV3FXTEl6a1NaY0lURm1ObTR3NVljRDVVV3phNVkxVDA0eFNpUUc3TUZXaVlWZ2EzT3Q5V1FJZHFPN01PR19WNWV0Yy1YSlo5aEYw?oc=5",
-      "type": "article",
-      "title": "$700M private equity deal could fuel acquisitions by insurance-defense firm - Daily Journal",
-      "date": "2026-10-19",
-      "source": "Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkJnUVFBcW1FTWVPT2htZ3pKZGZMa0U2NVIwUmVZa1VDY29nLVdhWHVhcFZnVkR5c25hdldFck1pTk5IYVBmd1BUQTNsU3JQRExVcTIwMUlKT3lveXU4a2duWFdSQU5NdVptRDFqZzItV3FXTEl6a1NaY0lURm1ObTR3NVljRDVVV3phNVkxVDA0eFNpUUc3TUZXaVlWZ2EzT3Q5V1FJZHFPN01PR19WNWV0Yy1YSlo5aEYw?oc=5",
-      "snippet": "$700M private equity deal could fuel acquisitions by insurance-defense firm &nbsp;&nbsp; Daily Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPd25Zd1BzS2JFWmoxU29vOXBYa2NZUmE3RFpPZ1hRUWIzeXhYVGRRMjdkaHpDbGt2M08tTjFKYms2Y1FTYUlPb0hqRVoxNUwyMWk1OS10UUQ4c1Z6MTIwdnlWN3BmeGk4QlpzbGxqNXVwMVBidS1VVzdlaTRicGdYY1VRN1NtbE1QZWpVOW1aR1lyWU5WQ1VrVA?oc=5",
-      "type": "article",
-      "title": "Palatine buys into football's lawyers with Centrefield deal - Dealroom",
-      "date": "2026-10-18",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd25Zd1BzS2JFWmoxU29vOXBYa2NZUmE3RFpPZ1hRUWIzeXhYVGRRMjdkaHpDbGt2M08tTjFKYms2Y1FTYUlPb0hqRVoxNUwyMWk1OS10UUQ4c1Z6MTIwdnlWN3BmeGk4QlpzbGxqNXVwMVBidS1VVzdlaTRicGdYY1VRN1NtbE1QZWpVOW1aR1lyWU5WQ1VrVA?oc=5",
-      "snippet": "Palatine buys into football's lawyers with Centrefield deal &nbsp;&nbsp; Dealroom"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjluTi1kQjFIYmVDcUNrWEt1TlptTTU4VUFDbDV1ajB3QldtTGRQVk8yNTFlMWh0ZXZzSEl2WHpYRko0ZDB4Mk5ZM3NRNjVwc0R6T1o2Y1pidXFGR0JwVUFwSnRycFBQMEFSbHVYRFc2VGtrRjlFNkxlLXFELUhjdi1qZ0E0VWxjRXRyS3BHTF9WWmtIOWlWNUhQZzlGc0FyaVFSZ3owdlBBSFV5MXotTV9jYXRPWFdq?oc=5",
-      "type": "article",
-      "title": "Becoming a lawyer could get cheaper and faster under looming Trump admin shakeup - WFIN",
-      "date": "2026-10-18",
-      "source": "WFIN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjluTi1kQjFIYmVDcUNrWEt1TlptTTU4VUFDbDV1ajB3QldtTGRQVk8yNTFlMWh0ZXZzSEl2WHpYRko0ZDB4Mk5ZM3NRNjVwc0R6T1o2Y1pidXFGR0JwVUFwSnRycFBQMEFSbHVYRFc2VGtrRjlFNkxlLXFELUhjdi1qZ0E0VWxjRXRyS3BHTF9WWmtIOWlWNUhQZzlGc0FyaVFSZ3owdlBBSFV5MXotTV9jYXRPWFdq?oc=5",
-      "snippet": "Becoming a lawyer could get cheaper and faster under looming Trump admin shakeup &nbsp;&nbsp; WFIN"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMif0FVX3lxTE5sZU5VUFV4SDNFVkwtVC0xUGpTVnItdkdMN0tXdmEtV3FYbEV4ZDQ1eWtua1cwVDl5SnR3ODdDRVJXNm54X01TNl9RQ0ZHcTkzTDdBdmlVdlNoMkdHNUdmODhqWFdmVjkyMjQ0ZWtQNzlQWi1SYmtVUEVTTHBhOXM?oc=5",
-      "type": "article",
-      "title": "KOREA REPORT: From discount to premium - | Asian Legal Business",
-      "date": "2026-10-18",
-      "source": "| Asian Legal Business",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sZU5VUFV4SDNFVkwtVC0xUGpTVnItdkdMN0tXdmEtV3FYbEV4ZDQ1eWtua1cwVDl5SnR3ODdDRVJXNm54X01TNl9RQ0ZHcTkzTDdBdmlVdlNoMkdHNUdmODhqWFdmVjkyMjQ0ZWtQNzlQWi1SYmtVUEVTTHBhOXM?oc=5",
-      "snippet": "KOREA REPORT: From discount to premium &nbsp;&nbsp; | Asian Legal Business"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFZVRlJIVW9MYnFkREFxbDJuaTZMdmN0anEwSGI3Ylh2QW5DZURwelhPQi1mbkxHdDZ4SGZnVEFoRG1qZnRFVllOZ2hOejVDYTVwTUZVbnF2N2N1S1FETEljRFNqRzhkM3dqZGlRUWhoUzhqUlJWSFJ5S21FOEZ3cW44WWVHSzIzalJ4enpjZldqaGVMc2phdGEwTFlTVlJWWkpTVjZhSUJwRGJqdmRfX3dPMEVJSFFtZXc1c3h4aHI5dw?oc=5",
-      "type": "article",
-      "title": "Lawdragon names Winston Taylor lawyers to 2027 “500 Leading Dealmakers in America” list - Winston Taylor",
-      "date": "2026-10-17",
-      "source": "Winston Taylor",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFZVRlJIVW9MYnFkREFxbDJuaTZMdmN0anEwSGI3Ylh2QW5DZURwelhPQi1mbkxHdDZ4SGZnVEFoRG1qZnRFVllOZ2hOejVDYTVwTUZVbnF2N2N1S1FETEljRFNqRzhkM3dqZGlRUWhoUzhqUlJWSFJ5S21FOEZ3cW44WWVHSzIzalJ4enpjZldqaGVMc2phdGEwTFlTVlJWWkpTVjZhSUJwRGJqdmRfX3dPMEVJSFFtZXc1c3h4aHI5dw?oc=5",
-      "snippet": "Lawdragon names Winston Taylor lawyers to 2027 “500 Leading Dealmakers in America” list &nbsp;&nbsp; Winston Taylor"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHEzN3NGcU9wZU1GZUxLWWNsTk5iTVlIc1JRVXFVTGJUZy1xZ1RWZEhGVTJCblMtcGVyQy0yT2ZlR1g2TXA4RXQzX29Ed0UwTVJYSXJLNjhmcjJjcTBoTG9uRXZNQW9aLUp5NWtzbGlucFFISUcyV0tGeU9OMmFxczhGX21IeXFZTEw0dFJ1VXBJWjhQaHZIdzZvQ3VzN3NGSW1sUw?oc=5",
-      "type": "article",
-      "title": "Private Equity has bought the Football Clubs And Now it’s buying their Lawyers - LawFuel.com",
-      "date": "2026-10-17",
-      "source": "LawFuel.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHEzN3NGcU9wZU1GZUxLWWNsTk5iTVlIc1JRVXFVTGJUZy1xZ1RWZEhGVTJCblMtcGVyQy0yT2ZlR1g2TXA4RXQzX29Ed0UwTVJYSXJLNjhmcjJjcTBoTG9uRXZNQW9aLUp5NWtzbGlucFFISUcyV0tGeU9OMmFxczhGX21IeXFZTEw0dFJ1VXBJWjhQaHZIdzZvQ3VzN3NGSW1sUw?oc=5",
-      "snippet": "Private Equity has bought the Football Clubs And Now it’s buying their Lawyers &nbsp;&nbsp; LawFuel.com"
     }
   ]
 }
