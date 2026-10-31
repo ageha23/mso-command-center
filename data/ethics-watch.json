@@ -1,8 +1,17 @@
 {
-  "lastRun": "2026-10-30T16:57:24.069781+00:00",
+  "lastRun": "2026-10-31T15:58:09.567568+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 15,
+  "addedThisRun": 14,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
+      "type": "article",
+      "title": "Bay Street Law Firm Data Breach: 4 Firms Hit [2026] - tech-insider.org",
+      "date": "2026-10-31",
+      "source": "tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
+      "snippet": "Bay Street Law Firm Data Breach: 4 Firms Hit [2026] &nbsp;&nbsp; tech-insider.org"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVdmWi1YNFNWSmJKWGtlTFZUWkEwR3Z0eThBNkhqemIwMUdjclhzWlBnUEZXUXNRZnJDVXNsYUQtSWNuenRQSkNkTlhzdVhYYUlOcnVXdWJQYVhiMkVNYUN2VUVtaDNYMTJXaFkyUVBESERnbURReDlnaXdoUW1FLWt2WWlYSzFRdjVHcEJPQWF4WmRfT2poVUVYbm5oc2NmS2NtN3B0VFhVLXdyTzRrMEFTemdkUFR1?oc=5",
       "type": "article",
@@ -56,6 +65,51 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzhpdEswbGdWbGVnOVRRQWozbGRKblg1d19vOFNuUllnbFo1NFJ0M3g1akQ5NHZrUUU1b3dCT2VSZ19KV0FWV0NURG9OcGFhcDViRVhfZTlFa0NrVFF6ejdoU3FETm1mYzU2cmU2VVo3TENjTUtRU1dQM1IwNmdRSXoyaEZQdzB5X18zSFQtWlNtQTlvRWtzZXIyaExIVXJjTTgtTmpIR0xwZlJ0QUHSAVZBVV95cUxPb01zT0JLS3hHazNBZEFCZzZZaFQ0YzRkYjBQcDZobGFWVHpQcFB1bnc4Vk9rUHVDbVBNTlh5VEtuUzZGTk5acG5VUjNIMld2YV9vSEFEZw?oc=5",
       "snippet": "Judge 'Put Off' By Atty Fee Bid In $59.5M Menstrual App Deal &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxNV09tazd4Z0NSVG9va1J4Y2JlSGJfTHFaS3dnQjF5YkV2TzA0dUNVUFBZUzhNSDBkMTJRQTc2dWlDd0tMRDZxWlB0YjhENG9HQ1R5VmxwaW1JMS1fcVlmbFlSeGhXSm45M0JLVm9CNDNhVmU4UnZGNWFCRG4tUklwc2pNQWszZDgtSldJWFN0M1Y3V1NwdHUzcjVB?oc=5",
+      "type": "article",
+      "title": "TopDog Law Wants 500 Attorneys and a Presence in the Courtroom - Law.com",
+      "date": "2026-10-30",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV09tazd4Z0NSVG9va1J4Y2JlSGJfTHFaS3dnQjF5YkV2TzA0dUNVUFBZUzhNSDBkMTJRQTc2dWlDd0tMRDZxWlB0YjhENG9HQ1R5VmxwaW1JMS1fcVlmbFlSeGhXSm45M0JLVm9CNDNhVmU4UnZGNWFCRG4tUklwc2pNQWszZDgtSldJWFN0M1Y3V1NwdHUzcjVB?oc=5",
+      "snippet": "TopDog Law Wants 500 Attorneys and a Presence in the Courtroom &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWJSU1lGTTJwc1JFRmRyZmtLMndjWmQyQy1Mb3pWQUt3ZS1QQWQtVUlvZVFWRXlmQTZLUGE3WWlBSlU0Y2pobllCaUI4TU9xRkNtQ1N4Yk52Znc1STJub2UzdHRibVlidi1MVi03TVNlTkhYdnlYQjhId29fRkhHdDl0U2Zwcnk1U011LXU2SjJFVFl4dm5XNXlSY1ZwLVIxT2pF?oc=5",
+      "type": "article",
+      "title": "DLA Piper Matches Milbank Salary Scale, Special Bonuses - Law.com",
+      "date": "2026-10-30",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWJSU1lGTTJwc1JFRmRyZmtLMndjWmQyQy1Mb3pWQUt3ZS1QQWQtVUlvZVFWRXlmQTZLUGE3WWlBSlU0Y2pobllCaUI4TU9xRkNtQ1N4Yk52Znc1STJub2UzdHRibVlidi1MVi03TVNlTkhYdnlYQjhId29fRkhHdDl0U2Zwcnk1U011LXU2SjJFVFl4dm5XNXlSY1ZwLVIxT2pF?oc=5",
+      "snippet": "DLA Piper Matches Milbank Salary Scale, Special Bonuses &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVENQVF82eXJSampHdDNNN25jNHJ3TWlBMC1jZ2lKazNvbDl4TWxNTkFnWHZNSjVvcXhGaGZJWVR1VmlmOEZLY0I3aGVjdFBEYVdfbEV6UjFXYU1nRDc3Rm9Ebm52ajgzbnpabHZpVzI5V2NRWmoyb1FyOFFWWTg2Z1d3MC0wVHBjMmVxbi1LYUpXZjJCNDd1TE45UDRSUGRUTVdqVWRkX0ZhV0E?oc=5",
+      "type": "article",
+      "title": "The shocking closure of law firm Weil Gotshal proves one thing: It can happen to anybody. - The Business Journals",
+      "date": "2026-10-30",
+      "source": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVENQVF82eXJSampHdDNNN25jNHJ3TWlBMC1jZ2lKazNvbDl4TWxNTkFnWHZNSjVvcXhGaGZJWVR1VmlmOEZLY0I3aGVjdFBEYVdfbEV6UjFXYU1nRDc3Rm9Ebm52ajgzbnpabHZpVzI5V2NRWmoyb1FyOFFWWTg2Z1d3MC0wVHBjMmVxbi1LYUpXZjJCNDd1TE45UDRSUGRUTVdqVWRkX0ZhV0E?oc=5",
+      "snippet": "The shocking closure of law firm Weil Gotshal proves one thing: It can happen to anybody. &nbsp;&nbsp; The Business Journals"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHY0WUY1c2dCYmQxWk1yMW5ZcjQwSHlyNHVOU2Z1Wmt6Z1N5cFlSR1VTSUJOYmxKWjZVX2N5MGpRZkNsVDRBT3RMaXgteVVUdDNtYUFsT0tQWDFIMUJraXkteUg4OUtxaGJ6aTRneFdLSE9XWFc4UXBzLWVEVDAxQjdvZUVGOURMYlkzUmM0eTJWUHlvdm5CVWgzX19YdVRwZDY0?oc=5",
+      "type": "article",
+      "title": "A prominent law firm is unraveling—but Palantir has an intriguing offer - Fortune",
+      "date": "2026-10-30",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHY0WUY1c2dCYmQxWk1yMW5ZcjQwSHlyNHVOU2Z1Wmt6Z1N5cFlSR1VTSUJOYmxKWjZVX2N5MGpRZkNsVDRBT3RMaXgteVVUdDNtYUFsT0tQWDFIMUJraXkteUg4OUtxaGJ6aTRneFdLSE9XWFc4UXBzLWVEVDAxQjdvZUVGOURMYlkzUmM0eTJWUHlvdm5CVWgzX19YdVRwZDY0?oc=5",
+      "snippet": "A prominent law firm is unraveling—but Palantir has an intriguing offer &nbsp;&nbsp; Fortune"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmFLZGx0aWE2VWdJRW40ZjMzS0N0U1Z5RHBjNlU2R0dIaVBFS3VRbXJlS09hX3dBem93MjgweDlHby1VaGduMGFmdHVnMk55ek9QbUxuejF2OXJ3Y2MzZjh4OU1OZEUtM09CcGc5UmNFTWx4ckxDR2duNF9SNE5aTG9iN3BwT3hkMk1NSzdsME9jRzRHNTNQYTAwRDVwRHd4MDgzOGpHLXhJY0VTV2tNWW03bnFjNUNPTmdfOHdJbktFb3dTYk9xeVRTWDI3T0R5dWZJNkgzM05NTFlzZHlpdzZSXzNnOHpq?oc=5",
+      "type": "article",
+      "title": "Romania: EU reforms drive corporate accountability - Global Investigations Review",
+      "date": "2026-10-30",
+      "source": "Global Investigations Review",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmFLZGx0aWE2VWdJRW40ZjMzS0N0U1Z5RHBjNlU2R0dIaVBFS3VRbXJlS09hX3dBem93MjgweDlHby1VaGduMGFmdHVnMk55ek9QbUxuejF2OXJ3Y2MzZjh4OU1OZEUtM09CcGc5UmNFTWx4ckxDR2duNF9SNE5aTG9iN3BwT3hkMk1NSzdsME9jRzRHNTNQYTAwRDVwRHd4MDgzOGpHLXhJY0VTV2tNWW03bnFjNUNPTmdfOHdJbktFb3dTYk9xeVRTWDI3T0R5dWZJNkgzM05NTFlzZHlpdzZSXzNnOHpq?oc=5",
+      "snippet": "Romania: EU reforms drive corporate accountability &nbsp;&nbsp; Global Investigations Review"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkVKWkZUa0wyT1BhNnk0TS1vTDhKZmY3V1ljY211MWJIR09uMUVJcDY1UWlKV3lDaHdONlltUFlZR2xmcnlnWG1nVmd0MHRRS1ZyaFU1Y0tUVnZ4Qzkyb1l4N1RFcXVsVnBWSnNVLXVpN1RvLW5kaEpqNEE4d2VQLW9KelpCa2dqZnNLSkdfdEszbWQ0eElmQjg5M3BTNzd5dVRheC15T0RFSm1XOEFCNDZR?oc=5",
@@ -220,6 +274,60 @@
       "snippet": "Cooley-Led Kalshi Hits $40B Valuation With $1B Series G &nbsp;&nbsp; Law360"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXo2ckFuS0pabGtoQmVuUzdBSUp1dTdDWnpucUpvTTNyWE1sc2dmZjVaejloZkpLS0hGdlBRZG1YaFU4M1VDXzFFSUZGRUdMTTk5RzBDNmFhRXl4U3M5a2I1blhxWVBBS0FrdnpERmEtYXhUMUpwb0g0dU8wT0FmV3JyaVhMRjJaeFNPWG5YYWtJUHBBckdFcXNuX1d5SVU5cTBmVEZzMGVFeXljRGtmaWJn?oc=5",
+      "type": "article",
+      "title": "OHCA finalizes regulations expanding oversight of PE and MSO transactions - McDermott Will & Schulte",
+      "date": "2026-10-29",
+      "source": "McDermott Will & Schulte",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXo2ckFuS0pabGtoQmVuUzdBSUp1dTdDWnpucUpvTTNyWE1sc2dmZjVaejloZkpLS0hGdlBRZG1YaFU4M1VDXzFFSUZGRUdMTTk5RzBDNmFhRXl4U3M5a2I1blhxWVBBS0FrdnpERmEtYXhUMUpwb0g0dU8wT0FmV3JyaVhMRjJaeFNPWG5YYWtJUHBBckdFcXNuX1d5SVU5cTBmVEZzMGVFeXljRGtmaWJn?oc=5",
+      "snippet": "OHCA finalizes regulations expanding oversight of PE and MSO transactions &nbsp;&nbsp; McDermott Will & Schulte"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxPcE13U0V6ekZsZGtDNUtKaXg5X0EwOEU3MTIwWVNLVlZZUHdjRVRHWFlMZXVBZzg4b3FoeVd3Y01zYUhoZkdHckxkZHl0YXFkeDMydVhTaDFvbGlXVURhS3pXR01vQ3VyZ2NUM1VQdXBCRE5YZ1dMbXZDeWhPejU3WHVpUHVJeGxIRVpPSlhaYk5KWnRTc05zSkVMSi1QVzdTRDZLeDhqbFA5ZkRPMkVBcnllOFp1NE9hSGZxMjEwTk8yT3Q3WHAw?oc=5",
+      "type": "article",
+      "title": "Widening access to the legal profession in Scotland through Court Brief - Law Society of Scotland",
+      "date": "2026-10-29",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcE13U0V6ekZsZGtDNUtKaXg5X0EwOEU3MTIwWVNLVlZZUHdjRVRHWFlMZXVBZzg4b3FoeVd3Y01zYUhoZkdHckxkZHl0YXFkeDMydVhTaDFvbGlXVURhS3pXR01vQ3VyZ2NUM1VQdXBCRE5YZ1dMbXZDeWhPejU3WHVpUHVJeGxIRVpPSlhaYk5KWnRTc05zSkVMSi1QVzdTRDZLeDhqbFA5ZkRPMkVBcnllOFp1NE9hSGZxMjEwTk8yT3Q3WHAw?oc=5",
+      "snippet": "Widening access to the legal profession in Scotland through Court Brief &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktSVEp3d2R4YS1WNnZCVFRMdU5lSkRPY3hOSDlYOHI2clNSX2tqYjl1S082YTRwVTNKZWFBMnU0NnJLdjYyY3VZSC1Ha05EdDhiUWFRMUVxN1gwWVpQOXE4ekh5RGhxcWt2bk92MkxxcVQzZml0ZTNUaHNuYkRCa2EydUlSc0FsMWVGZUZBRk9QNV9NVGJmMFNvamNhY09UQ1Yxem1vbzFncW5ZNFVPbGFXREp1YW1WWGdr?oc=5",
+      "type": "article",
+      "title": "How to get involved in the Creativity in the Law Showcase 2027 - Law Society of Scotland",
+      "date": "2026-10-29",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktSVEp3d2R4YS1WNnZCVFRMdU5lSkRPY3hOSDlYOHI2clNSX2tqYjl1S082YTRwVTNKZWFBMnU0NnJLdjYyY3VZSC1Ha05EdDhiUWFRMUVxN1gwWVpQOXE4ekh5RGhxcWt2bk92MkxxcVQzZml0ZTNUaHNuYkRCa2EydUlSc0FsMWVGZUZBRk9QNV9NVGJmMFNvamNhY09UQ1Yxem1vbzFncW5ZNFVPbGFXREp1YW1WWGdr?oc=5",
+      "snippet": "How to get involved in the Creativity in the Law Showcase 2027 &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxObndqNjl1cVZnc2I1ZGlxM25kMmN3elJRMW03QnBLdnNqNk95cUprZTdFcFoxN0hsdWRlMzZjbDlqVDd5bDJhY05DaVdyTXdka0FIXzFfYzVxY1RCdDZGaVRnUlltTHV4WXFuMGZmSXc0VkUyTjM2Z3huRzdpdVdXUkNvZVJnaTdvZEp6cjFCZy1jRFZBb0Zn?oc=5",
+      "type": "article",
+      "title": "[UPDATED] 5 Takeaways From Weil Gotshal’s Collapse - Original Jurisdiction | David Lat",
+      "date": "2026-10-29",
+      "source": "Original Jurisdiction | David Lat",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObndqNjl1cVZnc2I1ZGlxM25kMmN3elJRMW03QnBLdnNqNk95cUprZTdFcFoxN0hsdWRlMzZjbDlqVDd5bDJhY05DaVdyTXdka0FIXzFfYzVxY1RCdDZGaVRnUlltTHV4WXFuMGZmSXc0VkUyTjM2Z3huRzdpdVdXUkNvZVJnaTdvZEp6cjFCZy1jRFZBb0Zn?oc=5",
+      "snippet": "[UPDATED] 5 Takeaways From Weil Gotshal’s Collapse &nbsp;&nbsp; Original Jurisdiction | David Lat"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXk5dGdXNVd5MkJBcEljMjJhbmtTVFowMEV6TWVxbmN5X0VqZFJqdDJMczQ1RGt2YjlCcy10UFoyaWRSbjRQVC10LVFPeUFTdnNNWkJ0a3kyd2tFMEk5NWsybzQ2ZjNfd1VMbTVUZ2ZpMHVjQXRyUmpDU2sySWlDWDhJbXE?oc=5",
+      "type": "article",
+      "title": "Jacob Weisberg’s ‘Profiles in Cowardice’ looks at who capitulates to power, and why - The Boston Globe",
+      "date": "2026-10-29",
+      "source": "The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXk5dGdXNVd5MkJBcEljMjJhbmtTVFowMEV6TWVxbmN5X0VqZFJqdDJMczQ1RGt2YjlCcy10UFoyaWRSbjRQVC10LVFPeUFTdnNNWkJ0a3kyd2tFMEk5NWsybzQ2ZjNfd1VMbTVUZ2ZpMHVjQXRyUmpDU2sySWlDWDhJbXE?oc=5",
+      "snippet": "Jacob Weisberg’s ‘Profiles in Cowardice’ looks at who capitulates to power, and why &nbsp;&nbsp; The Boston Globe"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2tvZE1ETEcxWTUta2tDaUhxRmhjbWhyZV9NWDY0Z24wMkJodTNhR181aGlKanVHWFdRYUI5VUZRVFFtV3hxUDVMOHdzTTFZNTlxZkNwcmhTQlFjZjhid2FGaVNZanNoTC1Ha1d2YXlxQ1ppMERBVlF2YjNEeG04QWhIN0g0eDAtZ1JFRUlMQTIwZDBpQXZyclBzVjNpQ1YxY3fSAVZBVV95cUxQbFR5bDJkLTR0MEVjaHQyYk1zcjhILUtaSWFLaGdJc3dxZXpaclUtazdNR3VoMldlc2RpM2Yzb0tQMFRNbXN5TXFHQnJhNEhKZXljeWpPUQ?oc=5",
+      "type": "article",
+      "title": "McCarter Can Keep ABA Report Quotes In Loan Suit Brief - Law360",
+      "date": "2026-10-29",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2tvZE1ETEcxWTUta2tDaUhxRmhjbWhyZV9NWDY0Z24wMkJodTNhR181aGlKanVHWFdRYUI5VUZRVFFtV3hxUDVMOHdzTTFZNTlxZkNwcmhTQlFjZjhid2FGaVNZanNoTC1Ha1d2YXlxQ1ppMERBVlF2YjNEeG04QWhIN0g0eDAtZ1JFRUlMQTIwZDBpQXZyclBzVjNpQ1YxY3fSAVZBVV95cUxQbFR5bDJkLTR0MEVjaHQyYk1zcjhILUtaSWFLaGdJc3dxZXpaclUtazdNR3VoMldlc2RpM2Yzb0tQMFRNbXN5TXFHQnJhNEhKZXljeWpPUQ?oc=5",
+      "snippet": "McCarter Can Keep ABA Report Quotes In Loan Suit Brief &nbsp;&nbsp; Law360"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm5XMm9odFpmQk5UeTEycHBXLWYxNVNPZ2JyUThFRDEyZDNuX096eEsySWFqVnVJandGNmFMR3dRQmhtcktmMmRKVm9kcDNxWW9aSkpkUEQxV1haY3lyaHliZW9XeFpCN1hMNnN1Qkw3ajcyM2NOcGhqbjRYbDh5LWRDWUlNb2tvTVRzekY5OERYdy1BS21jYVBmbmtKMUI4R3RPdQ?oc=5",
       "type": "article",
       "title": "South African subscription-based legal service launches ABS - Legal Futures",
@@ -380,6 +488,24 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmVyNWt1UFItOTZiUFd2T1RiMUFYYXpCWkdzc1hMTlI3cGtoSXI3c2hOMnpOTHQyd0dpTldvbFZWMzZjRHR5amtfQldnSjFsOWVLa1gxMnpKOVoyYjVrQlFidm9TSENmOU9Bb3JxNXQyRlRNM3VYNTFtaUxHcmtJRkNYb3VFaENxeVJpRnVtZjVYMFBLMDJkQU1XSlRManRoeUMtWNIBVkFVX3lxTE81WnpRdmtDLUQ3bEFZU3ppWVhsaFE5UU1ra1Y0MlVMVWN1TDJSZXhreGpjazBsQUFYYUxKbDNGb3dIMUN2T0pzQkVVdEF4Q2M3UVhzS3RB?oc=5",
       "snippet": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2tEZkpJRGRSNjZsaGxHVlNyVS1lRVVtdmlyMUowY2NEVEloSUwwTlhwRDFuTFJGTEJuZUtkRXhUY1NCUUpzczZtdklmMTQzN0JoRWdEV2dRVFMtby1CNW1QS25FaDB5eWd3YmhJZncxU2d4Q2RCSFFJX1VRb3k4enN6TWtZWUJpNmstMFBGcjRtQllvWnJReQ?oc=5",
+      "type": "article",
+      "title": "Notice: Covidien LP Group Proceedings - Law Society of Scotland",
+      "date": "2026-10-28",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2tEZkpJRGRSNjZsaGxHVlNyVS1lRVVtdmlyMUowY2NEVEloSUwwTlhwRDFuTFJGTEJuZUtkRXhUY1NCUUpzczZtdklmMTQzN0JoRWdEV2dRVFMtby1CNW1QS25FaDB5eWd3YmhJZncxU2d4Q2RCSFFJX1VRb3k4enN6TWtZWUJpNmstMFBGcjRtQllvWnJReQ?oc=5",
+      "snippet": "Notice: Covidien LP Group Proceedings &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWN4Z0ZWR2xjN1JmcVhZZVBhbDV5emN0d3F6SU9EVGYxWHRCT093bUljRWhVeVJqLTYwQXctTjVCdGZyRkVobEtDY1dadTY3NHI0ZHFOek1DeV9KRlpIMm5XT3lHc09HN0lmaDRhRjltMFFWYnBlZWE3V1ZMT1AxY25PU18?oc=5",
+      "type": "article",
+      "title": "The secretive quant titan - Financial Times",
+      "date": "2026-10-28",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWN4Z0ZWR2xjN1JmcVhZZVBhbDV5emN0d3F6SU9EVGYxWHRCT093bUljRWhVeVJqLTYwQXctTjVCdGZyRkVobEtDY1dadTY3NHI0ZHFOek1DeV9KRlpIMm5XT3lHc09HN0lmaDRhRjltMFFWYnBlZWE3V1ZMT1AxY25PU18?oc=5",
+      "snippet": "The secretive quant titan &nbsp;&nbsp; Financial Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISjdMckpNTHpnNW51b0ZvNHNLM0tHVWpyOFpiekY2NDN1UjR2dWl0MTBuZjJEbDhpeFhzcDhaT1RNRWpHWk1LakJXSmpKR0d1QmQ3Ui1jcTNncHFicWlUVHdIb0VvRG9ZQTlUSA?oc=5",
@@ -1226,132 +1352,6 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1VzSUJiZjlqdlVpeEZxcjBQWFFFZ1F6M1MtNmx3Y0psQWgtN3ZXY0x2NGRSaVVjZlFxQWtDWXhHaGdaRHltN1pKOFNuUHZURmt4UWZmZExKWjFuWlBCVk1nZjRzY2ZQa1Z2TF9JTXB1RWR6Qmt5RC1mSnMwX0szNi1HV3JWWE5vNVF4OWJJYUdpc2gtUFBKM1hsZDZueWx2TDZSMklB0gFWQVVfeXFMT1hyaHhNcGZ1MGlxVFl5SmtlQ0RWaThtQ1FPNkFYQjFlM002Y1BqVE1zMEZSbExCYXk0TWp3M2ZYRERTcWJOVlFPd2NTZ1czQlJZVnh3d1E?oc=5",
       "snippet": "NC Warehouse Owner Wins $1.94M Verdict In Insurance Fight &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihgJBVV95cUxOQldYNVRGYnl1SmJUUGswUEFhV2pVb2U0emo3SjdsdzRkM1ZNdTc1ODFjMmZEQldTRHkxZV9jc2t0S1ZXeGRzWnZyNkpTeVNPSnVwMEJOQ1hPXzlaX25IZXBUemktaExmMk4wblZmMXZ0Slp2YWYwN3A1d2NndzFCN1djejhQVV9taGwyVzlRaGI0cXVfQm5XU3VPWWFndHcyYm5NTVBrUGtGSjNDQUd1OXhfVUZHakIwRFQ0UnZmNlRwNXVXYTBXdUpFSHZaNjJ1YzNyRTJIZlJESHFlLUlCaFB6ejBVUTFGUUcyM0tRMy11ZklLSlFwUmloSmdCNGJoam9jZDF3?oc=5",
-      "type": "article",
-      "title": "Wood Smith Henning & Berman Announces Formation of MSO and Strategic Growth Investment from Charlesbank Capital Partners - Business Wire",
-      "date": "2026-10-19",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQldYNVRGYnl1SmJUUGswUEFhV2pVb2U0emo3SjdsdzRkM1ZNdTc1ODFjMmZEQldTRHkxZV9jc2t0S1ZXeGRzWnZyNkpTeVNPSnVwMEJOQ1hPXzlaX25IZXBUemktaExmMk4wblZmMXZ0Slp2YWYwN3A1d2NndzFCN1djejhQVV9taGwyVzlRaGI0cXVfQm5XU3VPWWFndHcyYm5NTVBrUGtGSjNDQUd1OXhfVUZHakIwRFQ0UnZmNlRwNXVXYTBXdUpFSHZaNjJ1YzNyRTJIZlJESHFlLUlCaFB6ejBVUTFGUUcyM0tRMy11ZklLSlFwUmloSmdCNGJoam9jZDF3?oc=5",
-      "snippet": "Wood Smith Henning & Berman Announces Formation of MSO and Strategic Growth Investment from Charlesbank Capital Partners &nbsp;&nbsp; Business Wire"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFE2YzVXTWM5ZEhkX0Q2OGh2Qzh2LVhiR2ZFWXVrUXBqQm1DaWxuX1RQOXJtX2thbHBTRm90bnZPdWlGTzcwcy04cHVveEZyX2tNR1N2X0Q4YkNHbEtvcVloSTF6My1iSkczWkJaSzlCcHB0UnVqUUpSQ2hUNEpjcGVzYmg?oc=5",
-      "type": "article",
-      "title": "Private equity group Charlesbank closes one of the biggest law firm deals - Financial Times",
-      "date": "2026-10-19",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFE2YzVXTWM5ZEhkX0Q2OGh2Qzh2LVhiR2ZFWXVrUXBqQm1DaWxuX1RQOXJtX2thbHBTRm90bnZPdWlGTzcwcy04cHVveEZyX2tNR1N2X0Q4YkNHbEtvcVloSTF6My1iSkczWkJaSzlCcHB0UnVqUUpSQ2hUNEpjcGVzYmg?oc=5",
-      "snippet": "Private equity group Charlesbank closes one of the biggest law firm deals &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVhONnBaeC1BS0pyN3I1VGdMb3pUZENFcGhBSzFIV1ZXcC1jSnRWQUJUY0hMLUo3S0FnWUhIN1VFMkRUMlgwS01IZFdwRjVaRVJOVVFnUlZLM2Q5RDZBYUU5Sjd4ZmlLOXpJQmMtS2dwVXdpQWZmM0tKNG1veUlyUEtuS1JuZ0EzdVRQc3FaYWl2VjdXdXRWajNMZFZMMXZxZGVMWTFYLXB0V2Q3VEROYWRzTnBIZw?oc=5",
-      "type": "article",
-      "title": "Wood Smith Henning & Berman Forms MSO With Strategic Investment From Charlesbank Capital Partners - Pulse 2.0",
-      "date": "2026-10-19",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVhONnBaeC1BS0pyN3I1VGdMb3pUZENFcGhBSzFIV1ZXcC1jSnRWQUJUY0hMLUo3S0FnWUhIN1VFMkRUMlgwS01IZFdwRjVaRVJOVVFnUlZLM2Q5RDZBYUU5Sjd4ZmlLOXpJQmMtS2dwVXdpQWZmM0tKNG1veUlyUEtuS1JuZ0EzdVRQc3FaYWl2VjdXdXRWajNMZFZMMXZxZGVMWTFYLXB0V2Q3VEROYWRzTnBIZw?oc=5",
-      "snippet": "Wood Smith Henning & Berman Forms MSO With Strategic Investment From Charlesbank Capital Partners &nbsp;&nbsp; Pulse 2.0"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkZ2bG85alNVdE1KRjJlaFAxLU1Bd0tNQy1nZXZNc2p1eWZKdTdyanhpMWhHZGRGcmU0aVIwcWVwUC1IXzlYTXNFWkhiV05tY1BiOXZabWlsS2lHM09Rek10TUVXUmphcHdRREZOdVZac1VyVkpWVGl0N1pnWXNtZDFpcnRoQzY2N2pObGtJUEVNSTlvV3JaTVJNN21pa1QySW5LRFI4YmplaUJkVWRV?oc=5",
-      "type": "article",
-      "title": "Boston PE Firm Buys Into A 550-Attorney California Law Firm - Forbes",
-      "date": "2026-10-19",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkZ2bG85alNVdE1KRjJlaFAxLU1Bd0tNQy1nZXZNc2p1eWZKdTdyanhpMWhHZGRGcmU0aVIwcWVwUC1IXzlYTXNFWkhiV05tY1BiOXZabWlsS2lHM09Rek10TUVXUmphcHdRREZOdVZac1VyVkpWVGl0N1pnWXNtZDFpcnRoQzY2N2pObGtJUEVNSTlvV3JaTVJNN21pa1QySW5LRFI4YmplaUJkVWRV?oc=5",
-      "snippet": "Boston PE Firm Buys Into A 550-Attorney California Law Firm &nbsp;&nbsp; Forbes"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkVjSE5odjhZMUs4RENiSmItQ29kTVFOdDl5dHhYUndhTmpuZm1OYlpBSm43ZElHcFFfTGJoay0zbzNrSnROamNVMk9PandNcUFyaUR1bUhDM0NTbHQ1bW5zSS01azRjTG1NdkU0TGs1SHpiQ1pWQkd2WnY2UnBlSDgxc3JTX0ltQ0NJZzB1NWU?oc=5",
-      "type": "article",
-      "title": "Charlesbank backs WSHB in major U.S. law firm investment - Traders Union",
-      "date": "2026-10-19",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkVjSE5odjhZMUs4RENiSmItQ29kTVFOdDl5dHhYUndhTmpuZm1OYlpBSm43ZElHcFFfTGJoay0zbzNrSnROamNVMk9PandNcUFyaUR1bUhDM0NTbHQ1bW5zSS01azRjTG1NdkU0TGs1SHpiQ1pWQkd2WnY2UnBlSDgxc3JTX0ltQ0NJZzB1NWU?oc=5",
-      "snippet": "Charlesbank backs WSHB in major U.S. law firm investment &nbsp;&nbsp; Traders Union"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMizAFBVV95cUxQZU9kb2thTHBpYTNMcW5XRE9ObFM2b2RaaUFTVlZYUmxzbFFjckdLYjRyRkxUcVFXR21OWnJxMlM4MWJiM3ZtR19PVGRLVVJINjROT194LWkwbkpyWDhHbjd4aG82ZzFUSEwxdnkyTTMwQ0UyS2U0amp3UjVWUkRuM2tOb2xxZ093c2FLZF9pZVJUWjlrcHA2RG9xWVVUWGJ5S0dSNEpjUWRRSW9jcnZSaDJsbC13VkYyNGJyRUFGSlZJNERNQTBjRC1fT3g?oc=5",
-      "type": "article",
-      "title": "Proskauer confirmed as sponsor of inaugural Alternative Credit Investor conference - Alternative Credit Investor",
-      "date": "2026-10-19",
-      "source": "Alternative Credit Investor",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZU9kb2thTHBpYTNMcW5XRE9ObFM2b2RaaUFTVlZYUmxzbFFjckdLYjRyRkxUcVFXR21OWnJxMlM4MWJiM3ZtR19PVGRLVVJINjROT194LWkwbkpyWDhHbjd4aG82ZzFUSEwxdnkyTTMwQ0UyS2U0amp3UjVWUkRuM2tOb2xxZ093c2FLZF9pZVJUWjlrcHA2RG9xWVVUWGJ5S0dSNEpjUWRRSW9jcnZSaDJsbC13VkYyNGJyRUFGSlZJNERNQTBjRC1fT3g?oc=5",
-      "snippet": "Proskauer confirmed as sponsor of inaugural Alternative Credit Investor conference &nbsp;&nbsp; Alternative Credit Investor"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHVzNUtEaVktQ2YzZWNBaEJ0dXBHMXdoaDNxbktQdHFxWGZiYllKV2lEdmI0NjMzMm5CWDVWMlU3UkdfOE1MRDVpQTdKakQ1R3NmSjMxVmp6Z2dSVFhtMWRfUzJkMWVsY1A1M0pmLTMwUVhEcE1jVmpwVkxaRTdqR0JYZ2U3dw?oc=5",
-      "type": "article",
-      "title": "10 Best Florida Registered Agent Services Of 2026 - Forbes",
-      "date": "2026-10-19",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHVzNUtEaVktQ2YzZWNBaEJ0dXBHMXdoaDNxbktQdHFxWGZiYllKV2lEdmI0NjMzMm5CWDVWMlU3UkdfOE1MRDVpQTdKakQ1R3NmSjMxVmp6Z2dSVFhtMWRfUzJkMWVsY1A1M0pmLTMwUVhEcE1jVmpwVkxaRTdqR0JYZ2U3dw?oc=5",
-      "snippet": "10 Best Florida Registered Agent Services Of 2026 &nbsp;&nbsp; Forbes"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHdZNThfcTNKdVFwNGNzTFIyQ2UzNlotejN5MVByZW85UjhBUmpyNmRpWG9CeUlEaXdMZXVfbWpCWDBnMlNMcG14cThIckpqOG5SblFfVkRrMWxGS21qcE5hQm5TTnFjcVNrV0VyR2UzS3kwY2ZJc2VSdTUzcjFhelhwMFF5M2VuTVU3YUtfYzIyRl9INnVRbWUtRUFoSXM2WjE3TExYOA?oc=5",
-      "type": "article",
-      "title": "Hidden Cost of Raising $10 Million: Traditional Equity Financing vs. Tokenized Equity - DataDrivenInvestor",
-      "date": "2026-10-19",
-      "source": "DataDrivenInvestor",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHdZNThfcTNKdVFwNGNzTFIyQ2UzNlotejN5MVByZW85UjhBUmpyNmRpWG9CeUlEaXdMZXVfbWpCWDBnMlNMcG14cThIckpqOG5SblFfVkRrMWxGS21qcE5hQm5TTnFjcVNrV0VyR2UzS3kwY2ZJc2VSdTUzcjFhelhwMFF5M2VuTVU3YUtfYzIyRl9INnVRbWUtRUFoSXM2WjE3TExYOA?oc=5",
-      "snippet": "Hidden Cost of Raising $10 Million: Traditional Equity Financing vs. Tokenized Equity &nbsp;&nbsp; DataDrivenInvestor"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjJEQ0xfazJ6SGRRZ3M4WkFKLUJlYWZHQ0xibmItSlVHSTUtNl9oMWhYUklZcnYxd09OTnBHc1RCVlpVLVJCUV9zSjRlWFBXMk9OejNBazFRUDFwZkNqMVlnWEpCUzBnUENtMHFRVEczV1FHdk1KbHUwb1J2Z1B6ckltWENFckFGNlhqdmw5M3NQRmRTSmtlYmF6TnRxelVyWkdMQ0hmYzQ1LVBRTjlDWlAzeGpldVJFcmVRT1dFOWJ4VlQyMWV2clJUWXFFRDVvSWRrYw?oc=5",
-      "type": "article",
-      "title": "Wood Smith Henning & Berman Secures Charlesbank Investment to Support Expansion and Technology Growth - citybiz",
-      "date": "2026-10-19",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjJEQ0xfazJ6SGRRZ3M4WkFKLUJlYWZHQ0xibmItSlVHSTUtNl9oMWhYUklZcnYxd09OTnBHc1RCVlpVLVJCUV9zSjRlWFBXMk9OejNBazFRUDFwZkNqMVlnWEpCUzBnUENtMHFRVEczV1FHdk1KbHUwb1J2Z1B6ckltWENFckFGNlhqdmw5M3NQRmRTSmtlYmF6TnRxelVyWkdMQ0hmYzQ1LVBRTjlDWlAzeGpldVJFcmVRT1dFOWJ4VlQyMWV2clJUWXFFRDVvSWRrYw?oc=5",
-      "snippet": "Wood Smith Henning & Berman Secures Charlesbank Investment to Support Expansion and Technology Growth &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHRLRk52RkZzd0ptZk11WUwyeHJvZVVnenBWY1FPVnhfbGtMRTNDOVVuUWtvLU5FVS15dGJhMWhuVjNoNjRJNVdYeVRpczROalFHSUl4dEF3ZVpoejRraXdJWEduRjhCMHBQbGxqckUtYjRCcHJpVkV5cENXWVNvTUhBQnh4b1JCRE5HNjFxc2hweUNLOUJSWg?oc=5",
-      "type": "article",
-      "title": "Judicial Notice (10.18.26): Forced Out - Original Jurisdiction | David Lat",
-      "date": "2026-10-19",
-      "source": "Original Jurisdiction | David Lat",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHRLRk52RkZzd0ptZk11WUwyeHJvZVVnenBWY1FPVnhfbGtMRTNDOVVuUWtvLU5FVS15dGJhMWhuVjNoNjRJNVdYeVRpczROalFHSUl4dEF3ZVpoejRraXdJWEduRjhCMHBQbGxqckUtYjRCcHJpVkV5cENXWVNvTUhBQnh4b1JCRE5HNjFxc2hweUNLOUJSWg?oc=5",
-      "snippet": "Judicial Notice (10.18.26): Forced Out &nbsp;&nbsp; Original Jurisdiction | David Lat"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWlNLUdIZE5RSnhITE1kSHNCUEpIMS1ha0JVWTByQkZFbDEwUWhENy16S3M0NlNDdFo2Tm9UbnlaSWhoMV9GQ1FLWDJpdzRqdmY1TW1UUWZpS0pYbS1lZEg4cDR4eExpY1BsM1BDbkk2b2p1TUxPT0pLLTRnZzFfdFJpZ0V2WkZoMTZQUDNqak5VV3QwM245eVFDOVc2YXlsRHJPM3dfQzdSUTIxMVpwNXpDdmlVdUhoV3RSSHQtRmxVU05pWWE1RDhSUHdMUEdVZFR0R1VDOURZaUtsSVUydHRnQUo?oc=5",
-      "type": "article",
-      "title": "Cyber October 2026 – Professional Service Firm Cyber Exposure in an Increasingly Connected World - www.aon.com",
-      "date": "2026-10-19",
-      "source": "www.aon.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWlNLUdIZE5RSnhITE1kSHNCUEpIMS1ha0JVWTByQkZFbDEwUWhENy16S3M0NlNDdFo2Tm9UbnlaSWhoMV9GQ1FLWDJpdzRqdmY1TW1UUWZpS0pYbS1lZEg4cDR4eExpY1BsM1BDbkk2b2p1TUxPT0pLLTRnZzFfdFJpZ0V2WkZoMTZQUDNqak5VV3QwM245eVFDOVc2YXlsRHJPM3dfQzdSUTIxMVpwNXpDdmlVdUhoV3RSSHQtRmxVU05pWWE1RDhSUHdMUEdVZFR0R1VDOURZaUtsSVUydHRnQUo?oc=5",
-      "snippet": "Cyber October 2026 – Professional Service Firm Cyber Exposure in an Increasingly Connected World &nbsp;&nbsp; www.aon.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDFCWE1qVXBPVHg1N3loc282UEtCTXpBQ0ZtRGJySGFERC1oYWlrOHNZbjJ0bUtubThjOXRVdzFaNGxVelNadmhhNkVpV2duTHl4a0J4RGlON2Jua0V3bVd6b0ZjWEdNZ2RpNGVIeGxBUWJsVWM4bE5idjJfUlI5c2tlTGo5RTI5NElDNWlDVGdOUUF6ZkJ0MC1LVzg?oc=5",
-      "type": "article",
-      "title": "ConnectWise suspends Cloud Backup service after attackers abuse its Microsoft 365 access - Help Net Security",
-      "date": "2026-10-19",
-      "source": "Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDFCWE1qVXBPVHg1N3loc282UEtCTXpBQ0ZtRGJySGFERC1oYWlrOHNZbjJ0bUtubThjOXRVdzFaNGxVelNadmhhNkVpV2duTHl4a0J4RGlON2Jua0V3bVd6b0ZjWEdNZ2RpNGVIeGxBUWJsVWM4bE5idjJfUlI5c2tlTGo5RTI5NElDNWlDVGdOUUF6ZkJ0MC1LVzg?oc=5",
-      "snippet": "ConnectWise suspends Cloud Backup service after attackers abuse its Microsoft 365 access &nbsp;&nbsp; Help Net Security"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxPTlR5MExjbkNac2xYNTRudjdKOXZ6Y0RhaExybjBRTU5Yby1nLTFJbG9FVm1ZWkUxM1g2Wl96a2pwdkZsOFZmUXZ4TDg1a0J6a3hNa1JlVm1GM3BWdGF4cElPemRubmFpU1c3Qll1UkJJUmJ6cVRDaHNPdDhwRkc0TTF6cDlLbVlPQUF6eUVqZzZQdw?oc=5",
-      "type": "article",
-      "title": "Sponsored Article: Private Equity and Law Firm MSOs: Managing the Risks - New York State Bar Association",
-      "date": "2026-10-19",
-      "source": "New York State Bar Association",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTlR5MExjbkNac2xYNTRudjdKOXZ6Y0RhaExybjBRTU5Yby1nLTFJbG9FVm1ZWkUxM1g2Wl96a2pwdkZsOFZmUXZ4TDg1a0J6a3hNa1JlVm1GM3BWdGF4cElPemRubmFpU1c3Qll1UkJJUmJ6cVRDaHNPdDhwRkc0TTF6cDlLbVlPQUF6eUVqZzZQdw?oc=5",
-      "snippet": "Sponsored Article: Private Equity and Law Firm MSOs: Managing the Risks &nbsp;&nbsp; New York State Bar Association"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivgFBVV95cUxPNndOUldoR2szRGxNYmI4MjVFLTJQRXVpR1ZZZkVfM3o1TUZuV1ZxUzlDRXVzZXZwUmpHRnYxSkk3RnlNWl9NZW9zQWlTeG5pVlBqQTBwOTIyYUZ0ZU5qRzdYTk9DS2hNZUJ4dHRLNncwcjBqOE10QWZDcVNtSGY2NF9NdGdDM3VWaXFuOGNkOGtEOWRXd0xwZFhOVFo0bDlMTWRvcDdlUG5POUdUcHV0V1JtMDVJNURldTU0Z253?oc=5",
-      "type": "article",
-      "title": "Private equity firm Charlesbank bets on US law firm in back office deal - Reuters",
-      "date": "2026-10-19",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNndOUldoR2szRGxNYmI4MjVFLTJQRXVpR1ZZZkVfM3o1TUZuV1ZxUzlDRXVzZXZwUmpHRnYxSkk3RnlNWl9NZW9zQWlTeG5pVlBqQTBwOTIyYUZ0ZU5qRzdYTk9DS2hNZUJ4dHRLNncwcjBqOE10QWZDcVNtSGY2NF9NdGdDM3VWaXFuOGNkOGtEOWRXd0xwZFhOVFo0bDlMTWRvcDdlUG5POUdUcHV0V1JtMDVJNURldTU0Z253?oc=5",
-      "snippet": "Private equity firm Charlesbank bets on US law firm in back office deal &nbsp;&nbsp; Reuters"
     }
   ]
 }
