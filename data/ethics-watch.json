@@ -1,8 +1,53 @@
 {
-  "lastRun": "2026-10-31T15:58:09.567568+00:00",
+  "lastRun": "2026-11-01T17:01:28.603267+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 14,
+  "addedThisRun": 8,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzUyVHkyOXlvcGI4UWtDeTZ3TTdQYXFXVzhEZFowd2Jlam8tVXJ6Ni12bEZBMXFJbmdyenFHR0lTc0Iyb2pBeW41dVNYOWhJQXJ0VkdBRXBLUllEakoxcUxSSEFqSVFzNTBkbS1DMWc1Vmcxa0lxRVdlOEhTODJPSEhvUU1PRGRYWmpxYlRDdUtGZ3pkTXdNbmJJQzBlaVlOVjRWNXg3RHFiRXVxWklVdEZfSkpMS2JUWUJlMjBRU1g2a2RUeW1VNg?oc=5",
+      "type": "article",
+      "title": "Understanding Cyberattack Targeting, Defenses, and Response - Reuters",
+      "date": "2026-11-01",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzUyVHkyOXlvcGI4UWtDeTZ3TTdQYXFXVzhEZFowd2Jlam8tVXJ6Ni12bEZBMXFJbmdyenFHR0lTc0Iyb2pBeW41dVNYOWhJQXJ0VkdBRXBLUllEakoxcUxSSEFqSVFzNTBkbS1DMWc1Vmcxa0lxRVdlOEhTODJPSEhvUU1PRGRYWmpxYlRDdUtGZ3pkTXdNbmJJQzBlaVlOVjRWNXg3RHFiRXVxWklVdEZfSkpMS2JUWUJlMjBRU1g2a2RUeW1VNg?oc=5",
+      "snippet": "Understanding Cyberattack Targeting, Defenses, and Response &nbsp;&nbsp; Reuters"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxaNG5oUGVOOXdmV2VKYW9mdGROVDZ3NHI2NndOX0U2aVA4VXEweWJmczlOYTFPV2tEODNza3hPYlBYNnB3UjhSWExYXzRZLVJWT2lDa2hIWkk4Y3J1ZFo3OUVLUXg1eGx4bnYxMWFIN0dtQ2pLSEh0eWVnOEt4Wmp0aERYQUhJU2c?oc=5",
+      "type": "article",
+      "title": "US attorneys are freeing children from Trump’s ‘deportation machine’ with a new strategy - The Guardian",
+      "date": "2026-11-01",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxaNG5oUGVOOXdmV2VKYW9mdGROVDZ3NHI2NndOX0U2aVA4VXEweWJmczlOYTFPV2tEODNza3hPYlBYNnB3UjhSWExYXzRZLVJWT2lDa2hIWkk4Y3J1ZFo3OUVLUXg1eGx4bnYxMWFIN0dtQ2pLSEh0eWVnOEt4Wmp0aERYQUhJU2c?oc=5",
+      "snippet": "US attorneys are freeing children from Trump’s ‘deportation machine’ with a new strategy &nbsp;&nbsp; The Guardian"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHpXZXhKV2hmR3JyZXZSV2RZVzdNTXlzTmYtTzcwbksxc3IzVGZsY1dTR0pPdWE2OE5HUGRvRWtuNklSTVhsaFNZdWhpREE2VnlFOTlmeHlJaDFoMjhaajZ2TG4telVPcEhvRkZndDZ0WHEwQ0ZfZWVZa2hEbV9USFNBTmxkeUkyUmd2SkFOdzI?oc=5",
+      "type": "article",
+      "title": "Careers in Law - Reuters",
+      "date": "2026-11-01",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHpXZXhKV2hmR3JyZXZSV2RZVzdNTXlzTmYtTzcwbksxc3IzVGZsY1dTR0pPdWE2OE5HUGRvRWtuNklSTVhsaFNZdWhpREE2VnlFOTlmeHlJaDFoMjhaajZ2TG4telVPcEhvRkZndDZ0WHEwQ0ZfZWVZa2hEbV9USFNBTmxkeUkyUmd2SkFOdzI?oc=5",
+      "snippet": "Careers in Law &nbsp;&nbsp; Reuters"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxNVmU3b1RqOW5tUEZ3X3dIU2VPZ2x2LXF6eEdfTFBVcm9NbnVJYkluQkVYTmY3cTZPVjA5NE1VU2RfekFtdURoREh6WkRraVFEcFJSWXNVYTBxM0ZUMU9SNC05N29xS3djekpoQWhWWnNtMGN3aUdMZllKbzZpVGxTeGw2M2F3Rmt0MmctNDBFQ01XNVpkYXkxM0NuTk05UQ?oc=5",
+      "type": "article",
+      "title": "In-House Counsel File - Reuters",
+      "date": "2026-11-01",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmU3b1RqOW5tUEZ3X3dIU2VPZ2x2LXF6eEdfTFBVcm9NbnVJYkluQkVYTmY3cTZPVjA5NE1VU2RfekFtdURoREh6WkRraVFEcFJSWXNVYTBxM0ZUMU9SNC05N29xS3djekpoQWhWWnNtMGN3aUdMZllKbzZpVGxTeGw2M2F3Rmt0MmctNDBFQ01XNVpkYXkxM0NuTk05UQ?oc=5",
+      "snippet": "In-House Counsel File &nbsp;&nbsp; Reuters"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXVDcUMyR25wSWN6ak5RZnl0QVBwQUpBWDhmVE5wbTF4M3prRk1HWXpNSDQxNkRoc1EwbEdRd3gtRWpyWGxzT3AyU3FOam43R284WnZCdVBMb1h3U2RTdnFhSjlvZlQzaXFnQTNrUFg1YkhzXzBkNllnMmpRcVdrZkdjQWxLOHVXemlwWA?oc=5",
+      "type": "article",
+      "title": "Checking In - Reuters",
+      "date": "2026-11-01",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXVDcUMyR25wSWN6ak5RZnl0QVBwQUpBWDhmVE5wbTF4M3prRk1HWXpNSDQxNkRoc1EwbEdRd3gtRWpyWGxzT3AyU3FOam43R284WnZCdVBMb1h3U2RTdnFhSjlvZlQzaXFnQTNrUFg1YkhzXzBkNllnMmpRcVdrZkdjQWxLOHVXemlwWA?oc=5",
+      "snippet": "Checking In &nbsp;&nbsp; Reuters"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
       "type": "article",
@@ -11,6 +56,24 @@
       "source": "tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
       "snippet": "Bay Street Law Firm Data Breach: 4 Firms Hit [2026] &nbsp;&nbsp; tech-insider.org"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb1dLeDZIYVdzTVRlczNwUXZQSlZXVGtEM0REQzRQVVNZaWZ4LWdrdXRrV1ZLcmxTT21jN3BvUm5FR0toeWx4aGFsN0NwX0lqR2d3N0FTTnhHbUJib3hJdWVYSzROQnBWUDRHbzRicUJlQ1F6dHE3b2JrdVhPVW5tVUltUFYtT1RnSHFnQ1NJeTVwYkcyczRfMF9KYWh6SE5RR3NHZWVXbGRhM2ZoYlZjSndRYlZYUmNaMmRXRllvREIxS3kwZnhLMGZwNlRfWnh2bDZ1a0k3VWVVamxxTGJUSDBEckowRUVTOTVzYW9XYzRQZDUyV2RlSTJ3?oc=5",
+      "type": "article",
+      "title": "“Find The Right Lawyer” — Paralex App’s Star Ratings, Client Solicitation And Payment Wallet Raise Questions Under Nigeria’s Legal Ethics Rules - TheNigeriaLawyer",
+      "date": "2026-10-31",
+      "source": "TheNigeriaLawyer",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb1dLeDZIYVdzTVRlczNwUXZQSlZXVGtEM0REQzRQVVNZaWZ4LWdrdXRrV1ZLcmxTT21jN3BvUm5FR0toeWx4aGFsN0NwX0lqR2d3N0FTTnhHbUJib3hJdWVYSzROQnBWUDRHbzRicUJlQ1F6dHE3b2JrdVhPVW5tVUltUFYtT1RnSHFnQ1NJeTVwYkcyczRfMF9KYWh6SE5RR3NHZWVXbGRhM2ZoYlZjSndRYlZYUmNaMmRXRllvREIxS3kwZnhLMGZwNlRfWnh2bDZ1a0k3VWVVamxxTGJUSDBEckowRUVTOTVzYW9XYzRQZDUyV2RlSTJ3?oc=5",
+      "snippet": "“Find The Right Lawyer” — Paralex App’s Star Ratings, Client Solicitation And Payment Wallet Raise Questions Under Nigeria’s Legal Ethics Rules &nbsp;&nbsp; TheNigeriaLawyer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHNRdEFGSVotcEtvYWk2elJLME81ODVrWUVqbFotR2tZeDA1cjhUSjFyWFAtYjNoZ1UzS29DXy1RdnFpWWFKSHFQZ2tHa3YyRVdHTDktNU14SFFnRzV2MWJUX0QzdDBWZDcwZjJ6UUd2aEZHdjVfTGhQR0xsa2pDazdTYmpaUXdxbWh4Z0NjbHBiUzRiZHNfUVpn?oc=5",
+      "type": "article",
+      "title": "AI risks to the Sec. 7525 practitioner privilege - The Tax Adviser",
+      "date": "2026-10-31",
+      "source": "The Tax Adviser",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHNRdEFGSVotcEtvYWk2elJLME81ODVrWUVqbFotR2tZeDA1cjhUSjFyWFAtYjNoZ1UzS29DXy1RdnFpWWFKSHFQZ2tHa3YyRVdHTDktNU14SFFnRzV2MWJUX0QzdDBWZDcwZjJ6UUd2aEZHdjVfTGhQR0xsa2pDazdTYmpaUXdxbWh4Z0NjbHBiUzRiZHNfUVpn?oc=5",
+      "snippet": "AI risks to the Sec. 7525 practitioner privilege &nbsp;&nbsp; The Tax Adviser"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVdmWi1YNFNWSmJKWGtlTFZUWkEwR3Z0eThBNkhqemIwMUdjclhzWlBnUEZXUXNRZnJDVXNsYUQtSWNuenRQSkNkTlhzdVhYYUlOcnVXdWJQYVhiMkVNYUN2VUVtaDNYMTJXaFkyUVBESERnbURReDlnaXdoUW1FLWt2WWlYSzFRdjVHcEJPQWF4WmRfT2poVUVYbm5oc2NmS2NtN3B0VFhVLXdyTzRrMEFTemdkUFR1?oc=5",
@@ -326,6 +389,15 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2tvZE1ETEcxWTUta2tDaUhxRmhjbWhyZV9NWDY0Z24wMkJodTNhR181aGlKanVHWFdRYUI5VUZRVFFtV3hxUDVMOHdzTTFZNTlxZkNwcmhTQlFjZjhid2FGaVNZanNoTC1Ha1d2YXlxQ1ppMERBVlF2YjNEeG04QWhIN0g0eDAtZ1JFRUlMQTIwZDBpQXZyclBzVjNpQ1YxY3fSAVZBVV95cUxQbFR5bDJkLTR0MEVjaHQyYk1zcjhILUtaSWFLaGdJc3dxZXpaclUtazdNR3VoMldlc2RpM2Yzb0tQMFRNbXN5TXFHQnJhNEhKZXljeWpPUQ?oc=5",
       "snippet": "McCarter Can Keep ABA Report Quotes In Loan Suit Brief &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgJBVV95cUxPM1VYQVhkLTVycEhXNE9MME9FSHlHRWQ4R3RSQlpFRDFaaEN1SFN2UmlVS1hwTk04bjZwZm5ha0d3VHdJZFFvWTFOelg1dzlJXzc2VFRXRGhMaXRkT0RUOWtZQkpMaENzQWtxeXJkRnBzcHlhY1lCdW1DTm5hUjVpc0ZxaXhteG1yNEhwT2hIT1JpRDBVMlN4VWc0X0VMQzVpcTB4X05yQlZmci1ubURSVEpzYVROalVWQ1I2SHB3VF8xekc4NnBBWU9NWS0wLVFiRkl1aUdRY3JDSHpzb09xal9CSElaWTZZenk1Z1BFMWRFVU1Xc3NzWnQzN3JPWnNNNTlCa3FZenB2dExiNHFRWW9EY3Z3ZTNITXducjZlVmNTVVlaVGFRNWNzNGFkdw?oc=5",
+      "type": "article",
+      "title": "Reimagining corporate governance in the AI era: Law, legitimacy and algorithmic power - Cambridge University Press & Assessment",
+      "date": "2026-10-29",
+      "source": "Cambridge University Press & Assessment",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPM1VYQVhkLTVycEhXNE9MME9FSHlHRWQ4R3RSQlpFRDFaaEN1SFN2UmlVS1hwTk04bjZwZm5ha0d3VHdJZFFvWTFOelg1dzlJXzc2VFRXRGhMaXRkT0RUOWtZQkpMaENzQWtxeXJkRnBzcHlhY1lCdW1DTm5hUjVpc0ZxaXhteG1yNEhwT2hIT1JpRDBVMlN4VWc0X0VMQzVpcTB4X05yQlZmci1ubURSVEpzYVROalVWQ1I2SHB3VF8xekc4NnBBWU9NWS0wLVFiRkl1aUdRY3JDSHpzb09xal9CSElaWTZZenk1Z1BFMWRFVU1Xc3NzWnQzN3JPWnNNNTlCa3FZenB2dExiNHFRWW9EY3Z3ZTNITXducjZlVmNTVVlaVGFRNWNzNGFkdw?oc=5",
+      "snippet": "Reimagining corporate governance in the AI era: Law, legitimacy and algorithmic power &nbsp;&nbsp; Cambridge University Press & Assessment"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm5XMm9odFpmQk5UeTEycHBXLWYxNVNPZ2JyUThFRDEyZDNuX096eEsySWFqVnVJandGNmFMR3dRQmhtcktmMmRKVm9kcDNxWW9aSkpkUEQxV1haY3lyaHliZW9XeFpCN1hMNnN1Qkw3ajcyM2NOcGhqbjRYbDh5LWRDWUlNb2tvTVRzekY5OERYdy1BS21jYVBmbmtKMUI4R3RPdQ?oc=5",
@@ -1280,78 +1352,6 @@
       "source": "Nashville Post",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMExQdkZHeVpaaGkxaFlPYTJqUWtFTUNWdWY0cnJ5cVpqcFZHNjlWUTdpckdKRktldWxsQ3NGWUVWdU15WVk0S0d0VHJzYnR0MjhYd0xBZzNISHlTZ0Rsb2gtT0QtMk83OHZGTXdoYjRyYXdNLW9xT1NlMm9MQVdKSkNEemRHUndTdmJaa29UeXVyMmkyS2dYN2V0eE9yUHRZR2ZRWGxkMlJNUEh0SWF4eTNjVkxBSlBNcE9VUGJDbVliVGFGUVVIMmF5aG1sNTVCcmpPUlNuZldfWXdaVFJjOGs0VElWbXhpZFBVS2hn?oc=5",
       "snippet": "Tennessee Supreme Court denies private equity ownership of law firms &nbsp;&nbsp; Nashville Post"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxPalBFY0JyaWNzRkxxRlJOaTM5cnVZUmxqVTRjV3poeUIzbGFrbzllNmRmSkx5VWUzdjFiWHJrVU1OS2tqaHdWOWxoTVg2cEVwM3ZPY2pHbjFiNG0xaGxHY2hIUjRSdXJXdXFzV3g4d1dtMHBOUm1iUElBWTJXVnZWSGNzYjhUT1loQVJ2eHdEQl8tcTVYZjNPYVZvdWVrbkpBcDRqLUN5YW4tc29CVXpfcHBqaTM4U0VTaWc?oc=5",
-      "type": "article",
-      "title": "Accounting Firms Are Learning The Legal Business. Lawyers Need To Learn The Accounting. - Above the Law",
-      "date": "2026-10-20",
-      "source": "Above the Law",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalBFY0JyaWNzRkxxRlJOaTM5cnVZUmxqVTRjV3poeUIzbGFrbzllNmRmSkx5VWUzdjFiWHJrVU1OS2tqaHdWOWxoTVg2cEVwM3ZPY2pHbjFiNG0xaGxHY2hIUjRSdXJXdXFzV3g4d1dtMHBOUm1iUElBWTJXVnZWSGNzYjhUT1loQVJ2eHdEQl8tcTVYZjNPYVZvdWVrbkpBcDRqLUN5YW4tc29CVXpfcHBqaTM4U0VTaWc?oc=5",
-      "snippet": "Accounting Firms Are Learning The Legal Business. Lawyers Need To Learn The Accounting. &nbsp;&nbsp; Above the Law"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxPd0VXbVVzR3hXYnR1LVNiX0pNcm91bVBMdENwZy1kenBwM3RnV2dFT016aVdyN2NLbzVLc0VjcE11VVUzTHU5SFNIRmlSYjRvWlBaWi1tSGVzdmh5d2Rjc0Y0eFQ3Y21yZEpqNjE3ejNGLVhUTWNuR1Q3YTVxbFZVMDEzaUktb2o2RnlSckhpVVNRX2l0MlctbmRCbGo?oc=5",
-      "type": "article",
-      "title": "EU Inc. offers ‘meaningful alternatives’ to Spain’s corporate regime - Pinsent Masons",
-      "date": "2026-10-20",
-      "source": "Pinsent Masons",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd0VXbVVzR3hXYnR1LVNiX0pNcm91bVBMdENwZy1kenBwM3RnV2dFT016aVdyN2NLbzVLc0VjcE11VVUzTHU5SFNIRmlSYjRvWlBaWi1tSGVzdmh5d2Rjc0Y0eFQ3Y21yZEpqNjE3ejNGLVhUTWNuR1Q3YTVxbFZVMDEzaUktb2o2RnlSckhpVVNRX2l0MlctbmRCbGo?oc=5",
-      "snippet": "EU Inc. offers ‘meaningful alternatives’ to Spain’s corporate regime &nbsp;&nbsp; Pinsent Masons"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3hVdUJpOFp0anNYTUpyS1FMSFhxaTdaQ2poU09rUW8yVW9Ra3BtMGRKY2R2UmdGYmpBNThmOWtIOGdhbFFreXV1bWdUQlZZaHY1cFU1ak9oTHpramNfMVlDVGNfa1lBa1g2TGpDRWROWHlpM05IaGxrOHpBcV96Mi1XYlRiTUlFdUt2Z0VROA?oc=5",
-      "type": "article",
-      "title": "How a law firm works as a business — with Lewis Silkin - Legal Cheek",
-      "date": "2026-10-20",
-      "source": "Legal Cheek",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3hVdUJpOFp0anNYTUpyS1FMSFhxaTdaQ2poU09rUW8yVW9Ra3BtMGRKY2R2UmdGYmpBNThmOWtIOGdhbFFreXV1bWdUQlZZaHY1cFU1ak9oTHpramNfMVlDVGNfa1lBa1g2TGpDRWROWHlpM05IaGxrOHpBcV96Mi1XYlRiTUlFdUt2Z0VROA?oc=5",
-      "snippet": "How a law firm works as a business — with Lewis Silkin &nbsp;&nbsp; Legal Cheek"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxQUThHODdlWEExVDcydFdKSldSZV9IZlQwWnB3TDRFNWY3blhiUjduRXkzQ2VyM1ZTM2d6Zjk2OUt6MlRLRjUtZVNSX1k4V3hkLXAzcWxTR19PY2VLcTFBMnR0TXJRVXN6U3V3d2hmbU9XQXVrMXhmUzR1eVJkSm03Y3dtc3M1Wl9rT0ZEakE2Uk5EckVPUV9HMUxzWUM?oc=5",
-      "type": "article",
-      "title": "Maine enacts parallel health care transaction oversight laws - Hogan Lovells Cadwalader",
-      "date": "2026-10-20",
-      "source": "Hogan Lovells Cadwalader",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUThHODdlWEExVDcydFdKSldSZV9IZlQwWnB3TDRFNWY3blhiUjduRXkzQ2VyM1ZTM2d6Zjk2OUt6MlRLRjUtZVNSX1k4V3hkLXAzcWxTR19PY2VLcTFBMnR0TXJRVXN6U3V3d2hmbU9XQXVrMXhmUzR1eVJkSm03Y3dtc3M1Wl9rT0ZEakE2Uk5EckVPUV9HMUxzWUM?oc=5",
-      "snippet": "Maine enacts parallel health care transaction oversight laws &nbsp;&nbsp; Hogan Lovells Cadwalader"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYk9HWGw2SjdCbkR1and1R3Y0SlByUVhUQUNnbWN1YmNmYUtLQWgzTER4ZWd1RG9HV1ktb3Qwa0NKc0tHbTJocmNVUzJ4MHZYb0hmYTgyZHpHM3I4QjF3R2lyNXVDcEdTRHQ3aktkWjhVYVp5RzZYdHZzdlhCeGpBZXRUMVA3STBGdHFWLW1VWF9IcTJwcFZJbmdPc1pWdEZPT2tVVmpkV3JyR3PSAVZBVV95cUxPWnZuOE9YbDN5ZkZPTDdRMEJzdHB3SlptbU8xQTV3Nk1XYnZrSDVnc0lDcXBQTGpPYi1jY0kwWmh4S2hlbU81eHJHMGpCY2pIX3dybjZmdw?oc=5",
-      "type": "article",
-      "title": "Ill. Lab Owner Charged Over $66M COVID-19 Test Fraud - Law360",
-      "date": "2026-10-20",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYk9HWGw2SjdCbkR1and1R3Y0SlByUVhUQUNnbWN1YmNmYUtLQWgzTER4ZWd1RG9HV1ktb3Qwa0NKc0tHbTJocmNVUzJ4MHZYb0hmYTgyZHpHM3I4QjF3R2lyNXVDcEdTRHQ3aktkWjhVYVp5RzZYdHZzdlhCeGpBZXRUMVA3STBGdHFWLW1VWF9IcTJwcFZJbmdPc1pWdEZPT2tVVmpkV3JyR3PSAVZBVV95cUxPWnZuOE9YbDN5ZkZPTDdRMEJzdHB3SlptbU8xQTV3Nk1XYnZrSDVnc0lDcXBQTGpPYi1jY0kwWmh4S2hlbU81eHJHMGpCY2pIX3dybjZmdw?oc=5",
-      "snippet": "Ill. Lab Owner Charged Over $66M COVID-19 Test Fraud &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmRlMUdmYlc4RlNzZ1BKTkVMY1Y3S0dEUkFqS2tBT3dNUmRVOGZEV3RYTk51Z3BUdGFvNG83ak92WFdWdWJoMXJkYVRvcTY1bTdyVW5kNTk5UEVSS3dmQzB3QnpKR09fQ3M3WURMTHdGZ1MyWTA1aG50SXpOclFZd041TkdHWWhJYkJOWHpVSnNUNjRzMFBmSlJwYWN4Wmkyam5WTlpKV2dtU3Va?oc=5",
-      "type": "article",
-      "title": "Kirkland and Weil advise as US insurance firm takes PE investment - Legal Business",
-      "date": "2026-10-20",
-      "source": "Legal Business",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmRlMUdmYlc4RlNzZ1BKTkVMY1Y3S0dEUkFqS2tBT3dNUmRVOGZEV3RYTk51Z3BUdGFvNG83ak92WFdWdWJoMXJkYVRvcTY1bTdyVW5kNTk5UEVSS3dmQzB3QnpKR09fQ3M3WURMTHdGZ1MyWTA1aG50SXpOclFZd041TkdHWWhJYkJOWHpVSnNUNjRzMFBmSlJwYWN4Wmkyam5WTlpKV2dtU3Va?oc=5",
-      "snippet": "Kirkland and Weil advise as US insurance firm takes PE investment &nbsp;&nbsp; Legal Business"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBMVlFBOHotZkYxRVZvOC00QkppNDFlUEZZQXlXcllEYUJRakRidkVlbEtyVGd3ekhQQkd4V0sxZ3ZHYWIxRFphU3BtT3ZwbGczZ0UwcmVjUkpXaG1sMHVlYzNsYUVPWjVaWWZMU0FRNEJleEJqaHJjYkthZU81VUgwZEFyRFZlRmlpbEhHRzl2R3AxRklQVXNrcXA5ZU1kOUNZemlPR0d0elYza0hCUWZyQThzOUozeThHMUl6azV3QQ?oc=5",
-      "type": "article",
-      "title": "Cannabis contracts at risk after marijuana MSO's federal court gambit - MJBizDaily",
-      "date": "2026-10-20",
-      "source": "MJBizDaily",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBMVlFBOHotZkYxRVZvOC00QkppNDFlUEZZQXlXcllEYUJRakRidkVlbEtyVGd3ekhQQkd4V0sxZ3ZHYWIxRFphU3BtT3ZwbGczZ0UwcmVjUkpXaG1sMHVlYzNsYUVPWjVaWWZMU0FRNEJleEJqaHJjYkthZU81VUgwZEFyRFZlRmlpbEhHRzl2R3AxRklQVXNrcXA5ZU1kOUNZemlPR0d0elYza0hCUWZyQThzOUozeThHMUl6azV3QQ?oc=5",
-      "snippet": "Cannabis contracts at risk after marijuana MSO's federal court gambit &nbsp;&nbsp; MJBizDaily"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1VzSUJiZjlqdlVpeEZxcjBQWFFFZ1F6M1MtNmx3Y0psQWgtN3ZXY0x2NGRSaVVjZlFxQWtDWXhHaGdaRHltN1pKOFNuUHZURmt4UWZmZExKWjFuWlBCVk1nZjRzY2ZQa1Z2TF9JTXB1RWR6Qmt5RC1mSnMwX0szNi1HV3JWWE5vNVF4OWJJYUdpc2gtUFBKM1hsZDZueWx2TDZSMklB0gFWQVVfeXFMT1hyaHhNcGZ1MGlxVFl5SmtlQ0RWaThtQ1FPNkFYQjFlM002Y1BqVE1zMEZSbExCYXk0TWp3M2ZYRERTcWJOVlFPd2NTZ1czQlJZVnh3d1E?oc=5",
-      "type": "article",
-      "title": "NC Warehouse Owner Wins $1.94M Verdict In Insurance Fight - Law360",
-      "date": "2026-10-20",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1VzSUJiZjlqdlVpeEZxcjBQWFFFZ1F6M1MtNmx3Y0psQWgtN3ZXY0x2NGRSaVVjZlFxQWtDWXhHaGdaRHltN1pKOFNuUHZURmt4UWZmZExKWjFuWlBCVk1nZjRzY2ZQa1Z2TF9JTXB1RWR6Qmt5RC1mSnMwX0szNi1HV3JWWE5vNVF4OWJJYUdpc2gtUFBKM1hsZDZueWx2TDZSMklB0gFWQVVfeXFMT1hyaHhNcGZ1MGlxVFl5SmtlQ0RWaThtQ1FPNkFYQjFlM002Y1BqVE1zMEZSbExCYXk0TWp3M2ZYRERTcWJOVlFPd2NTZ1czQlJZVnh3d1E?oc=5",
-      "snippet": "NC Warehouse Owner Wins $1.94M Verdict In Insurance Fight &nbsp;&nbsp; Law360"
     }
   ]
 }
