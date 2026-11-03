@@ -1,8 +1,53 @@
 {
-  "lastRun": "2026-11-02T20:39:05.290379+00:00",
+  "lastRun": "2026-11-03T18:15:26.909779+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 17,
+  "addedThisRun": 12,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFhMOGFyWm5KOHJWWDZORWo0NlEteHpPazVabXdLd2kwYmZscHRGVHFhMGxsOTVpb2dFVy11aDl1R19nX24ySGNyQ2F6aHozTndHYnRLbVdLUlBLMGN2bmhidFNiZkx1aTRpcVpBZndCekw5aUp0RWdiRkx3VWVvQnc1cDJ1T041cWp5SmNmWWZfSG1JbHc?oc=5",
+      "type": "article",
+      "title": "Ex-Legorans Bag $2.4m For Real Estate AI Native - Artificial Lawyer",
+      "date": "2026-11-03",
+      "source": "Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFhMOGFyWm5KOHJWWDZORWo0NlEteHpPazVabXdLd2kwYmZscHRGVHFhMGxsOTVpb2dFVy11aDl1R19nX24ySGNyQ2F6aHozTndHYnRLbVdLUlBLMGN2bmhidFNiZkx1aTRpcVpBZndCekw5aUp0RWdiRkx3VWVvQnc1cDJ1T041cWp5SmNmWWZfSG1JbHc?oc=5",
+      "snippet": "Ex-Legorans Bag $2.4m For Real Estate AI Native &nbsp;&nbsp; Artificial Lawyer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMidEFVX3lxTE15cEs4d3pjLWRkbk1xZjNaWThBYnpyaUNRVElURXNNek1CRURqd2x2Q2hCVmZhSzBQUE16TXctOUJqZkVTZG92R2NsMjhxUEc0UzZZSUZzV2FPTEM0VXEtX3FZc3hDVXNCR0cyc1U5YWFNRG9s?oc=5",
+      "type": "article",
+      "title": "AI law firms circle Weil’s assets and lawyers as it winds down - Non-Billable",
+      "date": "2026-11-03",
+      "source": "Non-Billable",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15cEs4d3pjLWRkbk1xZjNaWThBYnpyaUNRVElURXNNek1CRURqd2x2Q2hCVmZhSzBQUE16TXctOUJqZkVTZG92R2NsMjhxUEc0UzZZSUZzV2FPTEM0VXEtX3FZc3hDVXNCR0cyc1U5YWFNRG9s?oc=5",
+      "snippet": "AI law firms circle Weil’s assets and lawyers as it winds down &nbsp;&nbsp; Non-Billable"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGFWZEk5bER3dWx2VUwyNk5pNDMxSzF0S1p3MGlOMmFGNnAzclROMmZ2WnpqXzVUbE4xX0lnaGtwWmFYVnhpZllmdEhGQlI4QXBDX1pvZlRjbmpFZnZDOW01YlRQdTVFUUFCUmxKZTd6R2hNZk43RVFkT1U0TFh4T2dR?oc=5",
+      "type": "article",
+      "title": "L Squared Completes the Acquisition of Edko - The National Law Review",
+      "date": "2026-11-03",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGFWZEk5bER3dWx2VUwyNk5pNDMxSzF0S1p3MGlOMmFGNnAzclROMmZ2WnpqXzVUbE4xX0lnaGtwWmFYVnhpZllmdEhGQlI4QXBDX1pvZlRjbmpFZnZDOW01YlRQdTVFUUFCUmxKZTd6R2hNZk43RVFkT1U0TFh4T2dR?oc=5",
+      "snippet": "L Squared Completes the Acquisition of Edko &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFlSNzAyMUVBVHZYRjJWdDVsUjFnbjRvcWQ1b2F5SWpKLWxjME4zelZMd2NvaGF6MkpvNWxCZnVsbWowTllKbXVvTTAtblJvdVc5RUpzWU84R2NCakpaMURoNW5vSDVseTZoeU9qbEtlY0hXdE9WRjkwVFFGTFhSMEFNb2NteDE4X3ZUWGU0ZmlvRVQzX0hacGk5bFdEUFNtOTI4WWtucDF6YjZQbkxqLVBqbFBpTHN0UXc?oc=5",
+      "type": "article",
+      "title": "Fortress Launches PR and Reputation Services for Law Firms - The Courier-Journal",
+      "date": "2026-11-03",
+      "source": "The Courier-Journal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFlSNzAyMUVBVHZYRjJWdDVsUjFnbjRvcWQ1b2F5SWpKLWxjME4zelZMd2NvaGF6MkpvNWxCZnVsbWowTllKbXVvTTAtblJvdVc5RUpzWU84R2NCakpaMURoNW5vSDVseTZoeU9qbEtlY0hXdE9WRjkwVFFGTFhSMEFNb2NteDE4X3ZUWGU0ZmlvRVQzX0hacGk5bFdEUFNtOTI4WWtucDF6YjZQbkxqLVBqbFBpTHN0UXc?oc=5",
+      "snippet": "Fortress Launches PR and Reputation Services for Law Firms &nbsp;&nbsp; The Courier-Journal"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFlyZElxai1IUXFBc0dVX0pQek5NRW5JVWxHdkNqN1RZWFl4d0RxODJWWGh1bEtqZWpOMHNJN3ExU1lFcjU1bUgxZUdaTk5mam5ZVjdMcTVPSkhYTWM0MTJKX2swMWFIN3FVeXY5T1IzVlRjRnc1WlNlZEVtOFFzT09ZdmpUYW1lLWFkNmc5bGlRVm5UMHlMY3p3U1FNMk55UFotbEFhUFlrblY5ako5WG84Mlc3aUpMdHB0cGhabkJEUQ?oc=5",
+      "type": "article",
+      "title": "Legal Marketing Community Vows Support as Weil Staffers Face Uncertain Future - Law.com",
+      "date": "2026-11-03",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFlyZElxai1IUXFBc0dVX0pQek5NRW5JVWxHdkNqN1RZWFl4d0RxODJWWGh1bEtqZWpOMHNJN3ExU1lFcjU1bUgxZUdaTk5mam5ZVjdMcTVPSkhYTWM0MTJKX2swMWFIN3FVeXY5T1IzVlRjRnc1WlNlZEVtOFFzT09ZdmpUYW1lLWFkNmc5bGlRVm5UMHlMY3p3U1FNMk55UFotbEFhUFlrblY5ako5WG84Mlc3aUpMdHB0cGhabkJEUQ?oc=5",
+      "snippet": "Legal Marketing Community Vows Support as Weil Staffers Face Uncertain Future &nbsp;&nbsp; Law.com"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHZuWU9vSmw0VHEzWTRZNzVrSjhfSnlwaUdlUFRqbkdxcVBVcnpmbVpoT2JscWxuNjlWdkFzb1l1bUl1R3paekZlaFdBRk5NOU5nVGNPLVVTbm91OFZ6QmRYYXBxZlBneGxMelBndllBU084M3J3cmd6dWM1T1g1dEIzRmcwZVJyYmVnQ3c3OTRJTmtOY1VCQkxyZDBacnM0cHR4S0dZbkJ1cmN5YUI3VllvZjBFb19tcGtrMjYwX2lTZTZ4eXRn?oc=5",
       "type": "article",
@@ -130,6 +175,60 @@
       "snippet": "Mitigating Climate Risk in Construction Projects &nbsp;&nbsp; Reuters"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMifEFVX3lxTFAzdWF5S25Edi14VEw4d1l5aUhRWWczSFo3eHhnc1RtQ014d3QycGc3M1o1RjBhSFZpbDRUZm5ZYTRQZWVyZHgxajlDSlM4LTMtNng1VHBMWFJEUDFlYkkwUkQtazJ5UEZPblE3cnJ2b20wMUo5SV9ja0tlWWg?oc=5",
+      "type": "article",
+      "title": "Charting the Future of the Law Firm - Stanford Law School",
+      "date": "2026-11-02",
+      "source": "Stanford Law School",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzdWF5S25Edi14VEw4d1l5aUhRWWczSFo3eHhnc1RtQ014d3QycGc3M1o1RjBhSFZpbDRUZm5ZYTRQZWVyZHgxajlDSlM4LTMtNng1VHBMWFJEUDFlYkkwUkQtazJ5UEZPblE3cnJ2b20wMUo5SV9ja0tlWWg?oc=5",
+      "snippet": "Charting the Future of the Law Firm &nbsp;&nbsp; Stanford Law School"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkxoZmkyTjFtWWVNdGlJZlNrTDR2bWZDWElBSUVIOFB0eFVFclZkdXgzT0lHQ2E3VG01dW5OQWxIVTVoSmdRSTBMLUZqZEs2MjNTdExsZXNkRnhTbnY0UW95NUUxckc5d0VmdnFJTWlLSG41V2t6bVZVTmNhSk1qckZQZTRKRkE5eU5XZkU0NA?oc=5",
+      "type": "article",
+      "title": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’ - WSJ",
+      "date": "2026-11-02",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkxoZmkyTjFtWWVNdGlJZlNrTDR2bWZDWElBSUVIOFB0eFVFclZkdXgzT0lHQ2E3VG01dW5OQWxIVTVoSmdRSTBMLUZqZEs2MjNTdExsZXNkRnhTbnY0UW95NUUxckc5d0VmdnFJTWlLSG41V2t6bVZVTmNhSk1qckZQZTRKRkE5eU5XZkU0NA?oc=5",
+      "snippet": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’ &nbsp;&nbsp; WSJ"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnQwOVV4aG9nRU9VTVAwSUlqVlFzdHduajYzSjRYOWRXSm9NMGFlTGlEVDY1cmNIc1B0bmhDWG1zSnZadHJDMVllWE9iSUMtdURkemRCMzgwaHVJNTRCcVc3RDlGbTY1TG1UVDdXa0x0c25uLXA4RktiTWttWGpPYlZ6cjRzUzhmdXVRNTh3LTVTN3BybG1Tb0I5SmNMbThEbXlGeWZCRnpCVXdzNkFSOW4yamstUTJyM2V6eTJTUnN4ak5td2xEUGFhcHN3bUdHYzg3VFpoa0JZRWlzdENqZnducW0yREFnN3NCOG9Rdw?oc=5",
+      "type": "article",
+      "title": "Alternative Business Structures: Part 1 — How private equity is reshaping law firms in England and Wales - Law Society of Scotland",
+      "date": "2026-11-02",
+      "source": "Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnQwOVV4aG9nRU9VTVAwSUlqVlFzdHduajYzSjRYOWRXSm9NMGFlTGlEVDY1cmNIc1B0bmhDWG1zSnZadHJDMVllWE9iSUMtdURkemRCMzgwaHVJNTRCcVc3RDlGbTY1TG1UVDdXa0x0c25uLXA4RktiTWttWGpPYlZ6cjRzUzhmdXVRNTh3LTVTN3BybG1Tb0I5SmNMbThEbXlGeWZCRnpCVXdzNkFSOW4yamstUTJyM2V6eTJTUnN4ak5td2xEUGFhcHN3bUdHYzg3VFpoa0JZRWlzdENqZnducW0yREFnN3NCOG9Rdw?oc=5",
+      "snippet": "Alternative Business Structures: Part 1 — How private equity is reshaping law firms in England and Wales &nbsp;&nbsp; Law Society of Scotland"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMifEFVX3lxTE0zS1NDZ1BONmxYdVJfMHpKS1lqUTNZWDJ4OGNfOXF0dUJwWk9TZU5iamlGRWZZY3AzdENxaHpmYlRKTnlJOTZsRlNNcXFzUlIzVmRPRDFLNmFRUDAtLUFrMElHbHhmM0l6NWZVd1FxcU92Qzc0NmlQZ3VBNnc?oc=5",
+      "type": "article",
+      "title": "Law School Student, Fellowship Program Honored - Newsroom | University of St. Thomas",
+      "date": "2026-11-02",
+      "source": "Newsroom | University of St. Thomas",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zS1NDZ1BONmxYdVJfMHpKS1lqUTNZWDJ4OGNfOXF0dUJwWk9TZU5iamlGRWZZY3AzdENxaHpmYlRKTnlJOTZsRlNNcXFzUlIzVmRPRDFLNmFRUDAtLUFrMElHbHhmM0l6NWZVd1FxcU92Qzc0NmlQZ3VBNnc?oc=5",
+      "snippet": "Law School Student, Fellowship Program Honored &nbsp;&nbsp; Newsroom | University of St. Thomas"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1BuQ1hwWHRtNXFzRU9TbWFrODZqRDRoLTNmOTlRVzh5ZnZpVkQ3R19BSzMxTHMxRFR5X21QWU9PQ1pmbHBBZ0V0ZS01QjBCWGhfb0JaUXF6Q2NscTU5LWpBQTdScTh2Qkhia1BfY3pkWEkxMUlGN2YyTkQyVmdqNVIzY3BHU1dyM28tMzRpbUhETEMzQWV5cURWdzFLbndKWmI5YlcwSkFITFNTRjlsS1NNeHFrX3M2SF9kQnNYeTZVdjZkSzZkTnhsZUhlLW5SMml2TW5zNEVNelVUQ0VWWWtjejhaWk9qTUM2MXF1MXM?oc=5",
+      "type": "article",
+      "title": "A U.S. giant just collapsed spectacularly. What that teaches employers about succession planning - Human Resources Director",
+      "date": "2026-11-02",
+      "source": "Human Resources Director",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1BuQ1hwWHRtNXFzRU9TbWFrODZqRDRoLTNmOTlRVzh5ZnZpVkQ3R19BSzMxTHMxRFR5X21QWU9PQ1pmbHBBZ0V0ZS01QjBCWGhfb0JaUXF6Q2NscTU5LWpBQTdScTh2Qkhia1BfY3pkWEkxMUlGN2YyTkQyVmdqNVIzY3BHU1dyM28tMzRpbUhETEMzQWV5cURWdzFLbndKWmI5YlcwSkFITFNTRjlsS1NNeHFrX3M2SF9kQnNYeTZVdjZkSzZkTnhsZUhlLW5SMml2TW5zNEVNelVUQ0VWWWtjejhaWk9qTUM2MXF1MXM?oc=5",
+      "snippet": "A U.S. giant just collapsed spectacularly. What that teaches employers about succession planning &nbsp;&nbsp; Human Resources Director"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhmMnB3TERwb0dCekRxbmtmWktVakN4Qjc5NVBCSnltazFzaGZOT2NjaUFDcU5HRHJNM3NvTWhsdWw5UWt3Q0wtSHVRbmRMU2pwREhYYzZqcVpKM0luWTZtdVlXeklLaTRyVGktVlVKM19xQWxIUG8zM1YzMHhBTUt1V0dOcWk3aXg4aWlGbmtENmhwQTBJMGNYUXA5MHJvY0p6ZNIBVkFVX3lxTE1kaGwxUVRlb01rb2Y3OUU5R3pQcUxJcHBpanRaVmh3aFM4RWNkOUpYVWlvc3VZTGZITGxCWkEteXdJNThDQVV5MVZNbWdGc2dGN3FKWVhB?oc=5",
+      "type": "article",
+      "title": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm - Law360",
+      "date": "2026-11-02",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhmMnB3TERwb0dCekRxbmtmWktVakN4Qjc5NVBCSnltazFzaGZOT2NjaUFDcU5HRHJNM3NvTWhsdWw5UWt3Q0wtSHVRbmRMU2pwREhYYzZqcVpKM0luWTZtdVlXeklLaTRyVGktVlVKM19xQWxIUG8zM1YzMHhBTUt1V0dOcWk3aXg4aWlGbmtENmhwQTBJMGNYUXA5MHJvY0p6ZNIBVkFVX3lxTE1kaGwxUVRlb01rb2Y3OUU5R3pQcUxJcHBpanRaVmh3aFM4RWNkOUpYVWlvc3VZTGZITGxCWkEteXdJNThDQVV5MVZNbWdGc2dGN3FKWVhB?oc=5",
+      "snippet": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm &nbsp;&nbsp; Law360"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzUyVHkyOXlvcGI4UWtDeTZ3TTdQYXFXVzhEZFowd2Jlam8tVXJ6Ni12bEZBMXFJbmdyenFHR0lTc0Iyb2pBeW41dVNYOWhJQXJ0VkdBRXBLUllEakoxcUxSSEFqSVFzNTBkbS1DMWc1Vmcxa0lxRVdlOEhTODJPSEhvUU1PRGRYWmpxYlRDdUtGZ3pkTXdNbmJJQzBlaVlOVjRWNXg3RHFiRXVxWklVdEZfSkpMS2JUWUJlMjBRU1g2a2RUeW1VNg?oc=5",
       "type": "article",
       "title": "Understanding Cyberattack Targeting, Defenses, and Response - Reuters",
@@ -182,6 +281,15 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUhEMU9CT1NZQWx0TV9kQWw5OU9IYVF1Y0NNbnhERXIzcGNJVGZZSHNRZ1NKcXpxRVZMWVY1TllPV0JSREJxRE5SUndNSWVFaFhYVHpKY2FtcTFoTWloYTBIZnAwM0V3dUdrb1dyVzFtTGwwbTFBM3RoYzYyVzhfSU9hbVZDejVHSmYybWF5WjRVWTBUUjFlcVpjNWhBVkYxRGVYWFlycHB0ZzR6UE8tb0JB?oc=5",
       "snippet": "Attorneys’ Fees in Class Action Settlements &nbsp;&nbsp; Reuters"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Sk0zNS1BZ0pubGZFZDlINWxUYkoxWTdaODl6NTdnalJ2YjFkeWFCM3VoaE1mTFIxODNWRzJYZUFJNnQtQ3J3cjZjZW82aWhvUzFHTjRoNV85MExRWlhfY1JlR2ZhVXlW?oc=5",
+      "type": "article",
+      "title": "International law - Treaties, Jurisdiction, Disputes - Britannica",
+      "date": "2026-11-01",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Sk0zNS1BZ0pubGZFZDlINWxUYkoxWTdaODl6NTdnalJ2YjFkeWFCM3VoaE1mTFIxODNWRzJYZUFJNnQtQ3J3cjZjZW82aWhvUzFHTjRoNV85MExRWlhfY1JlR2ZhVXlW?oc=5",
+      "snippet": "International law - Treaties, Jurisdiction, Disputes &nbsp;&nbsp; Britannica"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
@@ -1244,114 +1352,6 @@
       "source": "FTI Consulting",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5udUZ5c3V4Sy1nTnhPWXotdUZmY3RUMlVTVVZuTHV2YUpQZTFCQW9ldEJ0SFRZRU1WTGlvNDFsNUV4TmQ4YnRlZnZJcmc2Z0l5dy16anJwUkxYZEpXVGw4dm9Cbm1pSElGUkJlOEljd2Z3bkNCWmxlQzhVOA?oc=5",
       "snippet": "The Law Firm Merger Paradox: Why Strong Firms Are Weighing Scale Now &nbsp;&nbsp; FTI Consulting"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiXEFVX3lxTE80WVppM3VuMGpURkNqNk9WSHJvRkpQY2Z2Y2Z4T3huNEJqWXhSZnM2NVBwcTV3R3NZZ1pKdFVoWUpyMWZad2Z3UEFWV2R6ZFVzNEVtODZlUGhMS2t0?oc=5",
-      "type": "article",
-      "title": "Halted bonuses - Daily Tribune",
-      "date": "2026-10-22",
-      "source": "Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80WVppM3VuMGpURkNqNk9WSHJvRkpQY2Z2Y2Z4T3huNEJqWXhSZnM2NVBwcTV3R3NZZ1pKdFVoWUpyMWZad2Z3UEFWV2R6ZFVzNEVtODZlUGhMS2t0?oc=5",
-      "snippet": "Halted bonuses &nbsp;&nbsp; Daily Tribune"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxOenhRckRuUW54U0hnTTFXWHE3aGtsLUIwLVloWTJHMmtlSFJ4VmgyQWZaNUNsRHpxQ1FNcnV5NU1keHR2WkxKVmZWcVhLaFZvMGVJaWpUbkQwUUpnRlp4ejRraHBkNkJpR1Vyd0VKdmRMdGNSMHl4T2R5Y25SSUh2cWdjT3k1MzdIcWxORjNUdXZueS1IX1A5WGNCMVc1bDctRW1NSnp5eEZkTzBiX2wycFFEcw?oc=5",
-      "type": "article",
-      "title": "From off-limits to a ‘moral imperative’? How ESG policies on defence have shifted - New Private Markets",
-      "date": "2026-10-22",
-      "source": "New Private Markets",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenhRckRuUW54U0hnTTFXWHE3aGtsLUIwLVloWTJHMmtlSFJ4VmgyQWZaNUNsRHpxQ1FNcnV5NU1keHR2WkxKVmZWcVhLaFZvMGVJaWpUbkQwUUpnRlp4ejRraHBkNkJpR1Vyd0VKdmRMdGNSMHl4T2R5Y25SSUh2cWdjT3k1MzdIcWxORjNUdXZueS1IX1A5WGNCMVc1bDctRW1NSnp5eEZkTzBiX2wycFFEcw?oc=5",
-      "snippet": "From off-limits to a ‘moral imperative’? How ESG policies on defence have shifted &nbsp;&nbsp; New Private Markets"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
-      "type": "article",
-      "title": "Optum seeks to have Maryland lawsuit over 'defective' computer system dismissed - Fierce Healthcare",
-      "date": "2026-10-22",
-      "source": "Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ZHcUJOZTN0dlcwYW4wSlRYdjZvRk1QelZZemNLQ3V4QWRNQmF2SHpCOGJqbXdpQUN2cHBTMWNPQmdDRzJneDVqMVJxVlpyMDdMN3hBOGNETGpydUtPR09sY3lSUldYNWZpX3NPRW02dFlId0xVcGNCZDVnejhVaTV4MmFMUWwxWXFrVUc5TnRyQURG?oc=5",
-      "snippet": "Optum seeks to have Maryland lawsuit over 'defective' computer system dismissed &nbsp;&nbsp; Fierce Healthcare"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1N2N2dKNUZ3U1JDT0lMMm5adlVDX2hyZVplNmI4empJbDBFclVybmRDSHlEQmkwN2dQRVBlVVF2SlNTdnRDMW81TTVJc0J4RlZQWl9hcFhrUFh2bXN2MXVhakVNNzNJU25pajFvVkxac0MzbHIxTllsOVN3TFNtMnlOUE9sbk1QUkFqWW9KQjBmdGZsbDBVckt1S01KR2p6Z2FqMEZoSWlUZWJURFJ5RGRFb0l2djE1MmJOOVUxSDh3UXhkc1E?oc=5",
-      "type": "article",
-      "title": "Lawyers at the Festival: \"To defend free speech, you have to speak freely\" - Law Society of Scotland",
-      "date": "2026-10-22",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1N2N2dKNUZ3U1JDT0lMMm5adlVDX2hyZVplNmI4empJbDBFclVybmRDSHlEQmkwN2dQRVBlVVF2SlNTdnRDMW81TTVJc0J4RlZQWl9hcFhrUFh2bXN2MXVhakVNNzNJU25pajFvVkxac0MzbHIxTllsOVN3TFNtMnlOUE9sbk1QUkFqWW9KQjBmdGZsbDBVckt1S01KR2p6Z2FqMEZoSWlUZWJURFJ5RGRFb0l2djE1MmJOOVUxSDh3UXhkc1E?oc=5",
-      "snippet": "Lawyers at the Festival: \"To defend free speech, you have to speak freely\" &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxPQW9QU2F3N0EzMjVMQS1CdmlTTFFoM1JibGRDczVXMnZKaDJnMzU4di1yX051cDdzWHlvSHRSczdXU1NaNElpOWhoM1FNQ19aMEx3czF3TTlaX0k2bTRySDJEclJURnZXR3NucUVYSno1Y2xVZnk3NmgzaUhWU1otMlpmRnoxMFNQaFRtWUJLTE41YnlvTGNxbE5HUzhxcV9ITGhSNDNBLTZOZEtzWjZQMG9Yb211OTJJWXptNlNVVXEyMGkzWVVTZFBpcW1hSlk?oc=5",
-      "type": "article",
-      "title": "SPONSORED: Why law firms should invest in a cyber incident response simulation - Law Society of Scotland",
-      "date": "2026-10-22",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQW9QU2F3N0EzMjVMQS1CdmlTTFFoM1JibGRDczVXMnZKaDJnMzU4di1yX051cDdzWHlvSHRSczdXU1NaNElpOWhoM1FNQ19aMEx3czF3TTlaX0k2bTRySDJEclJURnZXR3NucUVYSno1Y2xVZnk3NmgzaUhWU1otMlpmRnoxMFNQaFRtWUJLTE41YnlvTGNxbE5HUzhxcV9ITGhSNDNBLTZOZEtzWjZQMG9Yb211OTJJWXptNlNVVXEyMGkzWVVTZFBpcW1hSlk?oc=5",
-      "snippet": "SPONSORED: Why law firms should invest in a cyber incident response simulation &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "type": "article",
-      "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning - Law Society of Scotland",
-      "date": "2026-10-22",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "snippet": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTZiU1FNZWNPQkh6aDcwZXNaaGZFTWI4S0RWa1ppUlRYVF9pTmk0TFZmbVhFX0M2RUZ3d2pObTl4X3JmTEV3OFJPV0tNQUNHMGxmY2NZeUx1bjU3Q2NfenA1bEx4cEVIbG1BS3RndU5IQmJRZXNnMUhyclhDbzlTeGpiaGo0N01HNUpVMTRodnN1c0NSX19ETXprZXYtRGgyYTZWU0JPcXFERlFyU1QyS215Y3J1QQ?oc=5",
-      "type": "article",
-      "title": "New fraud offence: what Scottish law firms need to know now - Law Society of Scotland",
-      "date": "2026-10-22",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTZiU1FNZWNPQkh6aDcwZXNaaGZFTWI4S0RWa1ppUlRYVF9pTmk0TFZmbVhFX0M2RUZ3d2pObTl4X3JmTEV3OFJPV0tNQUNHMGxmY2NZeUx1bjU3Q2NfenA1bEx4cEVIbG1BS3RndU5IQmJRZXNnMUhyclhDbzlTeGpiaGo0N01HNUpVMTRodnN1c0NSX19ETXprZXYtRGgyYTZWU0JPcXFERlFyU1QyS215Y3J1QQ?oc=5",
-      "snippet": "New fraud offence: what Scottish law firms need to know now &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGdjbmNiamJYT0xHMFltc1dHUDhNbGpjRlducTloMFR1ZXFna2FCUG9LU3RNemF5cllYb29yMWp2M2QwRU9mVGhkNTBYbWRUM2Q4M0w3dlJqWFFUenI5V0hyTExSRXR0VnVwdWlOX1VxY1V3V3B5cm1ObnlrRi0zQURRU3hOLVdoaVB2b1RBMlBnM0pxVF9BaE8yenFkSGdHcHkxQ1hkNXBnZjJwUlVIV2M0ajF4bHQzbGNtY1dvMnZUaW9lZUx0WTM3SG93TGJpTEZrVE5VT21JQ3FmU25qS2RHNXl2czYyaDRxM0huWV9SN3dWS2c?oc=5",
-      "type": "article",
-      "title": "Latham Advises on Financing for Charlesbank Capital Partners’ Strategic Growth Investment in Wood Smith Henning & Berman for Formation of MSO - Legal Desire",
-      "date": "2026-10-21",
-      "source": "Legal Desire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGdjbmNiamJYT0xHMFltc1dHUDhNbGpjRlducTloMFR1ZXFna2FCUG9LU3RNemF5cllYb29yMWp2M2QwRU9mVGhkNTBYbWRUM2Q4M0w3dlJqWFFUenI5V0hyTExSRXR0VnVwdWlOX1VxY1V3V3B5cm1ObnlrRi0zQURRU3hOLVdoaVB2b1RBMlBnM0pxVF9BaE8yenFkSGdHcHkxQ1hkNXBnZjJwUlVIV2M0ajF4bHQzbGNtY1dvMnZUaW9lZUx0WTM3SG93TGJpTEZrVE5VT21JQ3FmU25qS2RHNXl2czYyaDRxM0huWV9SN3dWS2c?oc=5",
-      "snippet": "Latham Advises on Financing for Charlesbank Capital Partners’ Strategic Growth Investment in Wood Smith Henning & Berman for Formation of MSO &nbsp;&nbsp; Legal Desire"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHlOSnBSUlFZbFBwcHFBNDliTVVzRjZaTnk0bG93VlR4bHVpZ0hkOFRwb3JDSUlmWUxWckp1MW1qQkRUa2t6NVVQdndpWVdWd2lBcnVkWTFBQzdnZUZDUG1XTzNQdmhiUktSZzJhZUhJVHFSampvSXJteUpMUGQxZUowUHN6V0xueTBFM3RKdkV3eE1ldlZGa3dndVR0NTAydjRhUDN6LVBqTVpwdnY5THVaeW15ckFsQTQzZjVESDNBNWw5Z1E?oc=5",
-      "type": "article",
-      "title": "Why embracing the lazy lawyer myth could create a healthier profession - Law Society of Scotland",
-      "date": "2026-10-21",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHlOSnBSUlFZbFBwcHFBNDliTVVzRjZaTnk0bG93VlR4bHVpZ0hkOFRwb3JDSUlmWUxWckp1MW1qQkRUa2t6NVVQdndpWVdWd2lBcnVkWTFBQzdnZUZDUG1XTzNQdmhiUktSZzJhZUhJVHFSampvSXJteUpMUGQxZUowUHN6V0xueTBFM3RKdkV3eE1ldlZGa3dndVR0NTAydjRhUDN6LVBqTVpwdnY5THVaeW15ckFsQTQzZjVESDNBNWw5Z1E?oc=5",
-      "snippet": "Why embracing the lazy lawyer myth could create a healthier profession &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NTGdUd2JlUlhxWHpuNkJTT0RXUjR3UTVfZDhQdFpHbmJrZjhsNHVjQUg4SEpCZDg5MWtEaVdubWF5ZWozdEZoZGFuME9iNUhRRE50c2dNblF0OVFhekhlSXo5T3N3ZzQ?oc=5",
-      "type": "article",
-      "title": "In Potential Landmark Corporate Practice of Medicine Case, TMA Backs Physician Autonomy - Texas Medical Association",
-      "date": "2026-10-21",
-      "source": "Texas Medical Association",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NTGdUd2JlUlhxWHpuNkJTT0RXUjR3UTVfZDhQdFpHbmJrZjhsNHVjQUg4SEpCZDg5MWtEaVdubWF5ZWozdEZoZGFuME9iNUhRRE50c2dNblF0OVFhekhlSXo5T3N3ZzQ?oc=5",
-      "snippet": "In Potential Landmark Corporate Practice of Medicine Case, TMA Backs Physician Autonomy &nbsp;&nbsp; Texas Medical Association"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjFiRlJKN3l4UkhOSzlVVnVERnFYUEM0c0RxV3NrTE9nTU9wZWcxVS1UT3Rpc25QcUs5RmN2LTd1MnVBZTdjNXh3Nmd2djRJLWJvb2VVcVF1NVhWYmNCMWtvZ2t2Ui1DSVd4R2RVbUpQZVdnYWZ4aWtQNXZNRjlQNWVJcTJncTF5YkpQdEdEcURvSnU2X09fWUt3?oc=5",
-      "type": "article",
-      "title": "Parody Video Describes Private Equity Rolling Up On Law Firms - Above the Law",
-      "date": "2026-10-21",
-      "source": "Above the Law",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjFiRlJKN3l4UkhOSzlVVnVERnFYUEM0c0RxV3NrTE9nTU9wZWcxVS1UT3Rpc25QcUs5RmN2LTd1MnVBZTdjNXh3Nmd2djRJLWJvb2VVcVF1NVhWYmNCMWtvZ2t2Ui1DSVd4R2RVbUpQZVdnYWZ4aWtQNXZNRjlQNWVJcTJncTF5YkpQdEdEcURvSnU2X09fWUt3?oc=5",
-      "snippet": "Parody Video Describes Private Equity Rolling Up On Law Firms &nbsp;&nbsp; Above the Law"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxOSld0Yk5UbnVibkxLamVaX0VtSVRZSHJGcERnNGdsY1N4OF9Semx1T04wclhWemw1aVdkUjU4S1cyQlI4NHJGeEdLb0MyZVE4em5qaTNBbWtHTjZzWExtUGt0NjBlOFRuTy1aRWFiQmFuREFzUmY3eWRIZFZhQm1IaGhETmpNaC0xdGxXa2w1ZGRUZGtXNlNXVGg5Sjc1TGpRUTlXQlJra3paalVQb2NSWXFYNmJZMkpkNXBiYWQtdlVURWFqRUxv?oc=5",
-      "type": "article",
-      "title": "Tennessee high court maintains ban on nonlawyer ownership of law firms, fee splitting - ABA Journal",
-      "date": "2026-10-21",
-      "source": "ABA Journal",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSld0Yk5UbnVibkxLamVaX0VtSVRZSHJGcERnNGdsY1N4OF9Semx1T04wclhWemw1aVdkUjU4S1cyQlI4NHJGeEdLb0MyZVE4em5qaTNBbWtHTjZzWExtUGt0NjBlOFRuTy1aRWFiQmFuREFzUmY3eWRIZFZhQm1IaGhETmpNaC0xdGxXa2w1ZGRUZGtXNlNXVGg5Sjc1TGpRUTlXQlJra3paalVQb2NSWXFYNmJZMkpkNXBiYWQtdlVURWFqRUxv?oc=5",
-      "snippet": "Tennessee high court maintains ban on nonlawyer ownership of law firms, fee splitting &nbsp;&nbsp; ABA Journal"
     }
   ]
 }
