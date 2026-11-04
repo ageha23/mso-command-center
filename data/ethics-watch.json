@@ -1,8 +1,71 @@
 {
-  "lastRun": "2026-11-03T18:15:26.909779+00:00",
+  "lastRun": "2026-11-04T18:30:09.887040+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
   "addedThisRun": 12,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzlzc3ZUTWRTMWlTM2tSZTVLSzBub3RfeTEzQnNOa3lWQU9VeUdhS3ZwN3RPQ25aaG1PZ09VYnMyN2JOZHZaeTROUGhOeG5ydFVYSHFwMm51aWQySlE5UklKWXdoa095RDVsQ3NUVU41TXBaR0xFZ3dyZFlIUVJCMk00dFg4dw?oc=5",
+      "type": "article",
+      "title": "Weil Gotshal is a canary in the legal coal mine - Fortune",
+      "date": "2026-11-04",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzlzc3ZUTWRTMWlTM2tSZTVLSzBub3RfeTEzQnNOa3lWQU9VeUdhS3ZwN3RPQ25aaG1PZ09VYnMyN2JOZHZaeTROUGhOeG5ydFVYSHFwMm51aWQySlE5UklKWXdoa095RDVsQ3NUVU41TXBaR0xFZ3dyZFlIUVJCMk00dFg4dw?oc=5",
+      "snippet": "Weil Gotshal is a canary in the legal coal mine &nbsp;&nbsp; Fortune"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAJBVV95cUxQMXlLbEQ2TFpUOE5YZVVOY3JWLXJLVDYtQWd6ZXB3QXBvMm1aOWZIdkF4YmQ5d05wUmFmZ0tBVEJTOUFJU3l6alhZTEkxOEE2QmR2U3Y4NGsyR3VHX3lqc2hpUDBTcENrVThXLUduWHdDdHIwSzdmbmsxemJ5UVphSkE5cWxFY2RoRVE1MmcxLXNRZkM0aVdoOGFvN1JoNTZBYWlYTHNMdWlyR2xVUFpDSEJPNjM2ekRQSkVHaDQ3MlZDRXcyMnhDdzVVZ0VSTS1zYzhjOVNaNU1iTnc1WXlGbm1RY0V5eEtyRTA1Ujg1eG1JSnRhTHJvdkJDX1VzTXBIMG5OV1I2b0NMZldw?oc=5",
+      "type": "article",
+      "title": "Our The Art (and Law) of Pursuing Alternative Revenue Generating Business Opportunities – A Primer for Post-Secondary Institutions Part 2 – Choosing Your Vehicle - Clark Wilson LLP",
+      "date": "2026-11-04",
+      "source": "Clark Wilson LLP",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMXlLbEQ2TFpUOE5YZVVOY3JWLXJLVDYtQWd6ZXB3QXBvMm1aOWZIdkF4YmQ5d05wUmFmZ0tBVEJTOUFJU3l6alhZTEkxOEE2QmR2U3Y4NGsyR3VHX3lqc2hpUDBTcENrVThXLUduWHdDdHIwSzdmbmsxemJ5UVphSkE5cWxFY2RoRVE1MmcxLXNRZkM0aVdoOGFvN1JoNTZBYWlYTHNMdWlyR2xVUFpDSEJPNjM2ekRQSkVHaDQ3MlZDRXcyMnhDdzVVZ0VSTS1zYzhjOVNaNU1iTnc1WXlGbm1RY0V5eEtyRTA1Ujg1eG1JSnRhTHJvdkJDX1VzTXBIMG5OV1I2b0NMZldw?oc=5",
+      "snippet": "Our The Art (and Law) of Pursuing Alternative Revenue Generating Business Opportunities – A Primer for Post-Secondary Institutions Part 2 – Choosing Your Vehicle &nbsp;&nbsp; Clark Wilson LLP"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcm5LWkNZaEJVa3VjbVdQc00xUTN4TWJHNHlxZXgxRzBCZVltYXN3RjhPVE1Fc0JqU0JDV3RWcGpYdWFrVndvVEVKa3E4eUVQdDlrWGFRLU1hREJuZFluOHFDXy1IQnVDWmZYOHdCUV9Db0QxLXhuUGlucUl0dUM3T0xHcS1kMVQyOVJqV2J6WXdNRW1zR05NTHZ1VXFqZzZEaUczX1RhdHZOdw?oc=5",
+      "type": "article",
+      "title": "AI-native US firm opening in London as part of global expansion - Legal Futures",
+      "date": "2026-11-04",
+      "source": "Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcm5LWkNZaEJVa3VjbVdQc00xUTN4TWJHNHlxZXgxRzBCZVltYXN3RjhPVE1Fc0JqU0JDV3RWcGpYdWFrVndvVEVKa3E4eUVQdDlrWGFRLU1hREJuZFluOHFDXy1IQnVDWmZYOHdCUV9Db0QxLXhuUGlucUl0dUM3T0xHcS1kMVQyOVJqV2J6WXdNRW1zR05NTHZ1VXFqZzZEaUczX1RhdHZOdw?oc=5",
+      "snippet": "AI-native US firm opening in London as part of global expansion &nbsp;&nbsp; Legal Futures"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWxfUHdvQU9zWDJ2ajRTNVNNX3ZSWG9YaE9EQW5RbGRvUjQ3THFFcXhLUE02YzBydWliUm95ZHktZ2RMSGFsLU5WUzZxNlVEekJvd08xSUxuSjhNS2pra2prRkF6d3V4QzJ2OG9vZTBTaW9UYk9aRXlobEFXMmUwbkFNdHRCbmpNOC1qalJkanluclBpeWZPT01hOEpYb0IyWWtWdDIxQ001NGw4bzZISmp2Zmc?oc=5",
+      "type": "article",
+      "title": "CLG Powers Africa’s Energy and Investment Ambitions Through Legal Excellence - pan african visions",
+      "date": "2026-11-04",
+      "source": "pan african visions",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWxfUHdvQU9zWDJ2ajRTNVNNX3ZSWG9YaE9EQW5RbGRvUjQ3THFFcXhLUE02YzBydWliUm95ZHktZ2RMSGFsLU5WUzZxNlVEekJvd08xSUxuSjhNS2pra2prRkF6d3V4QzJ2OG9vZTBTaW9UYk9aRXlobEFXMmUwbkFNdHRCbmpNOC1qalJkanluclBpeWZPT01hOEpYb0IyWWtWdDIxQ001NGw4bzZISmp2Zmc?oc=5",
+      "snippet": "CLG Powers Africa’s Energy and Investment Ambitions Through Legal Excellence &nbsp;&nbsp; pan african visions"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2JrbjV6cll2V3hid1dqaVowdXc2alRzQVR4cUZYNUNtNlJ5Y1lrLWpOWWZVelRXSFlLUVJqa3dHaS1qZDhNT3IxMm5qZzktZDUybEVpUm9CR2I4S0lzaEpqYXBFS0Z0SVNsMFhPMnhYU0VJT2FuZDdaVDR5OFFSZlEzcEtYWEkza0RMS0dMT1Fxa1JIQ0x6OEc2bkZkTkJnRUhMTVM4bTlDSVRt?oc=5",
+      "type": "article",
+      "title": "Ringler Appoints Ramtin Ghaneeian Settlement Consultant in California - citybiz",
+      "date": "2026-11-04",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2JrbjV6cll2V3hid1dqaVowdXc2alRzQVR4cUZYNUNtNlJ5Y1lrLWpOWWZVelRXSFlLUVJqa3dHaS1qZDhNT3IxMm5qZzktZDUybEVpUm9CR2I4S0lzaEpqYXBFS0Z0SVNsMFhPMnhYU0VJT2FuZDdaVDR5OFFSZlEzcEtYWEkza0RMS0dMT1Fxa1JIQ0x6OEc2bkZkTkJnRUhMTVM4bTlDSVRt?oc=5",
+      "snippet": "Ringler Appoints Ramtin Ghaneeian Settlement Consultant in California &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHVlQ1c2M2JwTTBUbUlfQ3Q4VDlocFExTnFkdXdzZFdpX3U4N3ZHbUVnYVhmYzhjcTB6dUNMYW5CMDBqbWVYNEhBdTgycEc4YVU3NFlVMVExR3B3enhoRmpTeGdJXzJ1ZTFZZXBDUHI1LTVfOUNBbElBREE1UmktQVVZRUxpMDF0SG9vYk5XZ19KWWNHRE50Z0ZySlkyNzg1M1NOdGZ1ZTl0SHpHdWtyQ2NwMHZVTDdsdDc0bWJmUmg0LWxmdkZGd0V3UEdGMnNkXzE3c0JJTm8?oc=5",
+      "type": "article",
+      "title": "JR Wealth Management Publishes Plain-Language Guide to Family Office Value, Costs, and Structure - EIN Presswire",
+      "date": "2026-11-04",
+      "source": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHVlQ1c2M2JwTTBUbUlfQ3Q4VDlocFExTnFkdXdzZFdpX3U4N3ZHbUVnYVhmYzhjcTB6dUNMYW5CMDBqbWVYNEhBdTgycEc4YVU3NFlVMVExR3B3enhoRmpTeGdJXzJ1ZTFZZXBDUHI1LTVfOUNBbElBREE1UmktQVVZRUxpMDF0SG9vYk5XZ19KWWNHRE50Z0ZySlkyNzg1M1NOdGZ1ZTl0SHpHdWtyQ2NwMHZVTDdsdDc0bWJmUmg0LWxmdkZGd0V3UEdGMnNkXzE3c0JJTm8?oc=5",
+      "snippet": "JR Wealth Management Publishes Plain-Language Guide to Family Office Value, Costs, and Structure &nbsp;&nbsp; EIN Presswire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHZrMmU2UDJ6MTZWQlJfOVpETkUwUmRiN2NqTVg4bENtV3pscWtzcWg0bndqLWYxVnBscEZXY0hxRTAwX2o5cGFmeG8xdFVKeWx5X05hX0UyQUdhUnF3Sy1wcjBmTmZQLXpmYjNCRjBseWdBMTFDdEFQRTg0NHRwUjZrbkRmYkxvMEdZ?oc=5",
+      "type": "article",
+      "title": "AICPA to seek feedback on revised ethics rules for alternative structures - The Accountant Online",
+      "date": "2026-11-04",
+      "source": "The Accountant Online",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHZrMmU2UDJ6MTZWQlJfOVpETkUwUmRiN2NqTVg4bENtV3pscWtzcWg0bndqLWYxVnBscEZXY0hxRTAwX2o5cGFmeG8xdFVKeWx5X05hX0UyQUdhUnF3Sy1wcjBmTmZQLXpmYjNCRjBseWdBMTFDdEFQRTg0NHRwUjZrbkRmYkxvMEdZ?oc=5",
+      "snippet": "AICPA to seek feedback on revised ethics rules for alternative structures &nbsp;&nbsp; The Accountant Online"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFhMOGFyWm5KOHJWWDZORWo0NlEteHpPazVabXdLd2kwYmZscHRGVHFhMGxsOTVpb2dFVy11aDl1R19nX24ySGNyQ2F6aHozTndHYnRLbVdLUlBLMGN2bmhidFNiZkx1aTRpcVpBZndCekw5aUp0RWdiRkx3VWVvQnc1cDJ1T041cWp5SmNmWWZfSG1JbHc?oc=5",
       "type": "article",
@@ -47,6 +110,33 @@
       "source": "Law.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFlyZElxai1IUXFBc0dVX0pQek5NRW5JVWxHdkNqN1RZWFl4d0RxODJWWGh1bEtqZWpOMHNJN3ExU1lFcjU1bUgxZUdaTk5mam5ZVjdMcTVPSkhYTWM0MTJKX2swMWFIN3FVeXY5T1IzVlRjRnc1WlNlZEVtOFFzT09ZdmpUYW1lLWFkNmc5bGlRVm5UMHlMY3p3U1FNMk55UFotbEFhUFlrblY5ako5WG84Mlc3aUpMdHB0cGhabkJEUQ?oc=5",
       "snippet": "Legal Marketing Community Vows Support as Weil Staffers Face Uncertain Future &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihAJBVV95cUxNaUJnSFJzdEtmWmhKWVZJTXBNbFFxSWVMdDJ1anFfblNPMDRnM19GMkxYMEpBbDZFNEJKWlVrTmFZQVZUTk0yemlBSW1ocEF3VDRjaXRkOVFrWThReTRSU0xVRnRfdFdLdVhVYlhQLVNpMktKYnJrejBORDh1UnlpUnBaNi1TUGxqN2QtNS1ZeU1EMGdYbi1jNkh6QkxnLU9LaEZYTjRnYUc3V3QwSG1wNXB5N090ajRsY0hQampXaEJXaTZ0Nks5SjVzTDNNZzFtREFfa0tXNk1aR29hY3RPdGlRUnl4NklCZHIzWVZoUzNaUnktUEZjZHZCa1hQbE1LQ3hoYQ?oc=5",
+      "type": "article",
+      "title": "California’s New Healthcare Transaction Regulations Clarify Filing Requirements for PE Funds, Hedge Funds and MSOs - McGuireWoods",
+      "date": "2026-11-03",
+      "source": "McGuireWoods",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaUJnSFJzdEtmWmhKWVZJTXBNbFFxSWVMdDJ1anFfblNPMDRnM19GMkxYMEpBbDZFNEJKWlVrTmFZQVZUTk0yemlBSW1ocEF3VDRjaXRkOVFrWThReTRSU0xVRnRfdFdLdVhVYlhQLVNpMktKYnJrejBORDh1UnlpUnBaNi1TUGxqN2QtNS1ZeU1EMGdYbi1jNkh6QkxnLU9LaEZYTjRnYUc3V3QwSG1wNXB5N090ajRsY0hQampXaEJXaTZ0Nks5SjVzTDNNZzFtREFfa0tXNk1aR29hY3RPdGlRUnl4NklCZHIzWVZoUzNaUnktUEZjZHZCa1hQbE1LQ3hoYQ?oc=5",
+      "snippet": "California’s New Healthcare Transaction Regulations Clarify Filing Requirements for PE Funds, Hedge Funds and MSOs &nbsp;&nbsp; McGuireWoods"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzUxN255UWhDSm9wOGdFWVYxQnNpd1RZLVhpVmlIRXNieC1qWF9MdFBmSTY3djdiYzloTl9KMkJFRDdBSUZyZ3I5dEZtZlR2ZXdrLW45MHRNS01hNzE5VUhyMXB5R29DUHRHTDVUeGZIbWlreFQ0bnRLdzFnNjRVdFZfb2Rzd1R3VVR2NXdVaTFGelNmZjQ1dW9NUVZRY2Y4Q0oyY29wTmR0R0V2?oc=5",
+      "type": "article",
+      "title": "Trenk Isabel Siddiqi & Shahdanian law firm adds three industry veterans - ROI-NJ",
+      "date": "2026-11-03",
+      "source": "ROI-NJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzUxN255UWhDSm9wOGdFWVYxQnNpd1RZLVhpVmlIRXNieC1qWF9MdFBmSTY3djdiYzloTl9KMkJFRDdBSUZyZ3I5dEZtZlR2ZXdrLW45MHRNS01hNzE5VUhyMXB5R29DUHRHTDVUeGZIbWlreFQ0bnRLdzFnNjRVdFZfb2Rzd1R3VVR2NXdVaTFGelNmZjQ1dW9NUVZRY2Y4Q0oyY29wTmR0R0V2?oc=5",
+      "snippet": "Trenk Isabel Siddiqi & Shahdanian law firm adds three industry veterans &nbsp;&nbsp; ROI-NJ"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk8wbkZJMzV1dEVSNWFZMUp5eXE4VWdJcmtwZERMMXk1NGIzN1UzQ0hEMkRzLTJUOU9nR084elNVRUkzZTVsUHJZTl9DTUhaSmJ5c2lRUmFkRmJoRElUM3JZUlk2T3o4SWpma0F0aW1SUmVUM1ktZ1ZwOEJqbVpBQ2c2dnhVcXA4QzA1dG13MlZ0aXIycTQyQmxyMFpsazM1VE02Y2RteHY2S3d4VnQtRjJzMnJEMFZseFE?oc=5",
+      "type": "article",
+      "title": "AICPA proposes ethics guidance for alternative practice structures - Journal of Accountancy",
+      "date": "2026-11-03",
+      "source": "Journal of Accountancy",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk8wbkZJMzV1dEVSNWFZMUp5eXE4VWdJcmtwZERMMXk1NGIzN1UzQ0hEMkRzLTJUOU9nR084elNVRUkzZTVsUHJZTl9DTUhaSmJ5c2lRUmFkRmJoRElUM3JZUlk2T3o4SWpma0F0aW1SUmVUM1ktZ1ZwOEJqbVpBQ2c2dnhVcXA4QzA1dG13MlZ0aXIycTQyQmxyMFpsazM1VE02Y2RteHY2S3d4VnQtRjJzMnJEMFZseFE?oc=5",
+      "snippet": "AICPA proposes ethics guidance for alternative practice structures &nbsp;&nbsp; Journal of Accountancy"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHZuWU9vSmw0VHEzWTRZNzVrSjhfSnlwaUdlUFRqbkdxcVBVcnpmbVpoT2JscWxuNjlWdkFzb1l1bUl1R3paekZlaFdBRk5NOU5nVGNPLVVTbm91OFZ6QmRYYXBxZlBneGxMelBndllBU084M3J3cmd6dWM1T1g1dEIzRmcwZVJyYmVnQ3c3OTRJTmtOY1VCQkxyZDBacnM0cHR4S0dZbkJ1cmN5YUI3VllvZjBFb19tcGtrMjYwX2lTZTZ4eXRn?oc=5",
@@ -229,6 +319,15 @@
       "snippet": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm &nbsp;&nbsp; Law360"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxPaW53N0M5T2lzcTdyeXFoZ1V6SjFvOGljRFcyaDNhSVlmWDU4ZF9nY1MzM01vbFh2LVBJVTZBdWhGTmpVLTRTeXBMWW90blg5ZDhySGdmV0Q4R0x5UW1tWW1PTlFPU0RLTGJ6RHBab20wcjgzUFJmckRjLS1VdkoxdEptdlVrNFM3UXZkNGRENUtiTjIxb1c3bzJTUkJOVDczRWfSAV5BVV95cUxOVTJIZU1PQ3BSSEJmRkxvN1RKMXFUVjdINjZ5MlRuMnBzdFozR3dTRHpXRkkyR0xfTHFKcnkxXzllbUJpMjZuaHNGV1FJYUladWpBdnMtRi1tcmFBZ3NB?oc=5",
+      "type": "article",
+      "title": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm - Law360",
+      "date": "2026-11-02",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaW53N0M5T2lzcTdyeXFoZ1V6SjFvOGljRFcyaDNhSVlmWDU4ZF9nY1MzM01vbFh2LVBJVTZBdWhGTmpVLTRTeXBMWW90blg5ZDhySGdmV0Q4R0x5UW1tWW1PTlFPU0RLTGJ6RHBab20wcjgzUFJmckRjLS1VdkoxdEptdlVrNFM3UXZkNGRENUtiTjIxb1c3bzJTUkJOVDczRWfSAV5BVV95cUxOVTJIZU1PQ3BSSEJmRkxvN1RKMXFUVjdINjZ5MlRuMnBzdFozR3dTRHpXRkkyR0xfTHFKcnkxXzllbUJpMjZuaHNGV1FJYUladWpBdnMtRi1tcmFBZ3NB?oc=5",
+      "snippet": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm &nbsp;&nbsp; Law360"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzUyVHkyOXlvcGI4UWtDeTZ3TTdQYXFXVzhEZFowd2Jlam8tVXJ6Ni12bEZBMXFJbmdyenFHR0lTc0Iyb2pBeW41dVNYOWhJQXJ0VkdBRXBLUllEakoxcUxSSEFqSVFzNTBkbS1DMWc1Vmcxa0lxRVdlOEhTODJPSEhvUU1PRGRYWmpxYlRDdUtGZ3pkTXdNbmJJQzBlaVlOVjRWNXg3RHFiRXVxWklVdEZfSkpMS2JUWUJlMjBRU1g2a2RUeW1VNg?oc=5",
       "type": "article",
       "title": "Understanding Cyberattack Targeting, Defenses, and Response - Reuters",
@@ -290,6 +389,15 @@
       "source": "Britannica",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Sk0zNS1BZ0pubGZFZDlINWxUYkoxWTdaODl6NTdnalJ2YjFkeWFCM3VoaE1mTFIxODNWRzJYZUFJNnQtQ3J3cjZjZW82aWhvUzFHTjRoNV85MExRWlhfY1JlR2ZhVXlW?oc=5",
       "snippet": "International law - Treaties, Jurisdiction, Disputes &nbsp;&nbsp; Britannica"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiekFVX3lxTE5zWkFDaVAxczRwYjBhM3BZa2hPczREZGpDdjJNZk5CV2ctdTNfV1NZRE5VRTRGVHpVQ2lWb0daUlphSGxLWFhLOGMxcXFQWTI4SXZTX2d2Y2xNRFhEbTl2eS1CcFVsaDJpUTFqemkwQ0cydGtLWlZNRDFn?oc=5",
+      "type": "article",
+      "title": "Legal profession - Autonomy, Control, Regulation - Britannica",
+      "date": "2026-11-01",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zWkFDaVAxczRwYjBhM3BZa2hPczREZGpDdjJNZk5CV2ctdTNfV1NZRE5VRTRGVHpVQ2lWb0daUlphSGxLWFhLOGMxcXFQWTI4SXZTX2d2Y2xNRFhEbTl2eS1CcFVsaDJpUTFqemkwQ0cydGtLWlZNRDFn?oc=5",
+      "snippet": "Legal profession - Autonomy, Control, Regulation &nbsp;&nbsp; Britannica"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
@@ -1244,114 +1352,6 @@
       "source": "BioSpace",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
       "snippet": "Layoff Tracker: Tango plans 14% workforce cut, mainly of research staff &nbsp;&nbsp; BioSpace"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
-      "type": "article",
-      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions - Just Security",
-      "date": "2026-10-23",
-      "source": "Just Security",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
-      "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGx5S3owTlRQdGpsaHR6MGVmcS0yY0gxdXY3cnV3Snd5SkxmV3lLcHE1ekJjUEFxZzVycnhWRDFGWjNMV0tta1VTTS0yR0c4Q0tlS3Vpa3hOYThNaU9NQ01jeDFfU2gyb29OTnNSWGdLRTZZMnViYlNCMy1BNnhKYzIySlE0Nm5wTURWSEVNMmhGR0NBS0RvVlJnMHRZREVwRkJkZEpoM3ZzZWQyb1NzOFFWZjRLYlNWaTJ2NTVkemIzRlJtb1ZVbjhPQllZR3dTaFBmOWpILWZMTUVzODAzNk5n?oc=5",
-      "type": "article",
-      "title": "The legal fight over the public service student loan forgiveness overhaul may be over - GovExec.com",
-      "date": "2026-10-23",
-      "source": "GovExec.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGx5S3owTlRQdGpsaHR6MGVmcS0yY0gxdXY3cnV3Snd5SkxmV3lLcHE1ekJjUEFxZzVycnhWRDFGWjNMV0tta1VTTS0yR0c4Q0tlS3Vpa3hOYThNaU9NQ01jeDFfU2gyb29OTnNSWGdLRTZZMnViYlNCMy1BNnhKYzIySlE0Nm5wTURWSEVNMmhGR0NBS0RvVlJnMHRZREVwRkJkZEpoM3ZzZWQyb1NzOFFWZjRLYlNWaTJ2NTVkemIzRlJtb1ZVbjhPQllZR3dTaFBmOWpILWZMTUVzODAzNk5n?oc=5",
-      "snippet": "The legal fight over the public service student loan forgiveness overhaul may be over &nbsp;&nbsp; GovExec.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHFJdEJiUWR1UWlsS0wxZE9sRnJxajgzQS03ZTFHS05ybFBLcFJVR0xuY2I4OFEzRm56UkJBZ0kzUHVHU3phMjk3R3l5aUVwUVpVRXBFRk9iQ3dwREZwbF9oX0RvSWxGeEVZTzNzNXQyd3EtZEJ3d0RzdklzbWJYSUl5RHM0OUc0YkhDLUFMMzVFUm55WDVmWktJbUtocGhHVFNr0gFWQVVfeXFMTUpKNkp5eDBSazF6cG1Da0MtTjVYQ0Y4TXloXzZPYWhNTUJvbVd4cFZSblNHRnNQajJvZVFuM3FyYkpuTDZfQVpjQjhzelRRcHZIYXo2Vmc?oc=5",
-      "type": "article",
-      "title": "NYSE Owner's $6B MarketAxess Deal Clears US Review - Law360",
-      "date": "2026-10-23",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHFJdEJiUWR1UWlsS0wxZE9sRnJxajgzQS03ZTFHS05ybFBLcFJVR0xuY2I4OFEzRm56UkJBZ0kzUHVHU3phMjk3R3l5aUVwUVpVRXBFRk9iQ3dwREZwbF9oX0RvSWxGeEVZTzNzNXQyd3EtZEJ3d0RzdklzbWJYSUl5RHM0OUc0YkhDLUFMMzVFUm55WDVmWktJbUtocGhHVFNr0gFWQVVfeXFMTUpKNkp5eDBSazF6cG1Da0MtTjVYQ0Y4TXloXzZPYWhNTUJvbVd4cFZSblNHRnNQajJvZVFuM3FyYkpuTDZfQVpjQjhzelRRcHZIYXo2Vmc?oc=5",
-      "snippet": "NYSE Owner's $6B MarketAxess Deal Clears US Review &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiigJBVV95cUxPcG5mV1BvellXb2wyOV9BM2ZwdzJkLW1Ub0JoQnIxUzlKQlVYVEhBc1UzZU1ob3VNSG9keGU2TGJDUjFLNjhxY1RUZWExSDVTX01CVGV0cG5uQ0R1U3F5cC1VVWJiTzE1VFNDSWZYcEdrUWlET1BETFFRQ2sxR3RCZlBKaUpIbUI1ZVF1czRPSVlvRmlwVGdGZ2xKbC1mUmNTc2tfVFlHR1QwaG1GWkNkcFZ4U0JrWmt3ODJXbkpuZllCeTg4M2N1N2NjT1J2Qk9yRTJJX2dqVUFXd3ltSWVSZFNnOXhDTGQ1bk1Mbk0wQ19ONkZ6emVSWllRczgzQ1pHSm1zU3lnTl9hQQ?oc=5",
-      "type": "article",
-      "title": "Having lost their Life’s Work to US Private Equity, Biotech Pioneer Mikael Kubista and his team are back with Precision BioAnalytics - The American Reporter",
-      "date": "2026-10-23",
-      "source": "The American Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcG5mV1BvellXb2wyOV9BM2ZwdzJkLW1Ub0JoQnIxUzlKQlVYVEhBc1UzZU1ob3VNSG9keGU2TGJDUjFLNjhxY1RUZWExSDVTX01CVGV0cG5uQ0R1U3F5cC1VVWJiTzE1VFNDSWZYcEdrUWlET1BETFFRQ2sxR3RCZlBKaUpIbUI1ZVF1czRPSVlvRmlwVGdGZ2xKbC1mUmNTc2tfVFlHR1QwaG1GWkNkcFZ4U0JrWmt3ODJXbkpuZllCeTg4M2N1N2NjT1J2Qk9yRTJJX2dqVUFXd3ltSWVSZFNnOXhDTGQ1bk1Mbk0wQ19ONkZ6emVSWllRczgzQ1pHSm1zU3lnTl9hQQ?oc=5",
-      "snippet": "Having lost their Life’s Work to US Private Equity, Biotech Pioneer Mikael Kubista and his team are back with Precision BioAnalytics &nbsp;&nbsp; The American Reporter"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMif0FVX3lxTE52OEVhUUJUVEhzWFNVTXVCX2dTdEU1V2NiVDh2a3FfX29LRDkyT1VXSXhDdU56SWJ6RkdLVFl3REVWTE9SZDlkRXVXemhLMnlIaEdoeWJLVlZobC1rUzQ1dWVGTWNxNGN2bS1lVEo0OC1pblpnekxfNmZJUnpadkU?oc=5",
-      "type": "article",
-      "title": "Switzerland - Aviation Laws and Regulations 2026 - ICLG",
-      "date": "2026-10-23",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52OEVhUUJUVEhzWFNVTXVCX2dTdEU1V2NiVDh2a3FfX29LRDkyT1VXSXhDdU56SWJ6RkdLVFl3REVWTE9SZDlkRXVXemhLMnlIaEdoeWJLVlZobC1rUzQ1dWVGTWNxNGN2bS1lVEo0OC1pblpnekxfNmZJUnpadkU?oc=5",
-      "snippet": "Switzerland - Aviation Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSldOZmJScTBBYWtUYXYzUk9ERVZQWnUxckgtV1lTb1hTUmx0cDAxUWFkemR6a0tSRXRIWFB4RHRPc2lfempjMGVaZVdVNWs5NFFyNmJ4WmNjNVVYbnFwNy1lNmdORU9tTWg1SUpYdlZ1enNCS3g2dQ?oc=5",
-      "type": "article",
-      "title": "TN High Court Says ‘No’ to PE Ownership of Law Firms But Other Options Open - Insurance Journal",
-      "date": "2026-10-22",
-      "source": "Insurance Journal",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSldOZmJScTBBYWtUYXYzUk9ERVZQWnUxckgtV1lTb1hTUmx0cDAxUWFkemR6a0tSRXRIWFB4RHRPc2lfempjMGVaZVdVNWs5NFFyNmJ4WmNjNVVYbnFwNy1lNmdORU9tTWg1SUpYdlZ1enNCS3g2dQ?oc=5",
-      "snippet": "TN High Court Says ‘No’ to PE Ownership of Law Firms But Other Options Open &nbsp;&nbsp; Insurance Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEdqOXBJYTZIX0M0YlJqaWxnWEpwN2dTaWk3aW9FNW4wdU94Z3QzMHFXbERwTUYzMmJ0MWQwS1F2N29UUG1WZkg4amRGZGU2OXNpcUcxZnVHWFowVUJYajMwcWp6eGNDWHpDVFk0UTFjUXd2SmFOSWxOSnpwMEtkQy12MEFkY0s1MkVKRlJId0E5b3J1RVBMWEtNRHFwSjZUbkpzZXF0QQ?oc=5",
-      "type": "article",
-      "title": "Vermont restricts private equity control of clinical decision making and introduces ownership reporting for health care facilities and MSOs - Hogan Lovells Cadwalader",
-      "date": "2026-10-22",
-      "source": "Hogan Lovells Cadwalader",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEdqOXBJYTZIX0M0YlJqaWxnWEpwN2dTaWk3aW9FNW4wdU94Z3QzMHFXbERwTUYzMmJ0MWQwS1F2N29UUG1WZkg4amRGZGU2OXNpcUcxZnVHWFowVUJYajMwcWp6eGNDWHpDVFk0UTFjUXd2SmFOSWxOSnpwMEtkQy12MEFkY0s1MkVKRlJId0E5b3J1RVBMWEtNRHFwSjZUbkpzZXF0QQ?oc=5",
-      "snippet": "Vermont restricts private equity control of clinical decision making and introduces ownership reporting for health care facilities and MSOs &nbsp;&nbsp; Hogan Lovells Cadwalader"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVJhb3R3bldYQmwzVUI4MnRIV0otRXBfeHgwUzN4S01GTjYzdld3YU5CaE5JNGFvcE5RaWZjYUlXWHVnTmV1azhRcGJvNFJpUkRQSXNPUlViOTVCV1B2YU9icTFETnA3eU1CdWFMR2pIMGwtUGVFTTJqcVNWdEh1SlBCMF9yVnU4OU9ScHFPU25VdmNjVHBGaHd5YUc3cjM5eVJHR0NLbzNna3Z2YmFDeHFGS0RpSExwZ1lwVzl1RmxhNjF2YnRsUk9kYjJCQkhMZFZwTUVR?oc=5",
-      "type": "article",
-      "title": "FTI Consulting Appoints Katie Norris Senior Managing Director in Healthcare Risk Management Practice - citybiz",
-      "date": "2026-10-22",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVJhb3R3bldYQmwzVUI4MnRIV0otRXBfeHgwUzN4S01GTjYzdld3YU5CaE5JNGFvcE5RaWZjYUlXWHVnTmV1azhRcGJvNFJpUkRQSXNPUlViOTVCV1B2YU9icTFETnA3eU1CdWFMR2pIMGwtUGVFTTJqcVNWdEh1SlBCMF9yVnU4OU9ScHFPU25VdmNjVHBGaHd5YUc3cjM5eVJHR0NLbzNna3Z2YmFDeHFGS0RpSExwZ1lwVzl1RmxhNjF2YnRsUk9kYjJCQkhMZFZwTUVR?oc=5",
-      "snippet": "FTI Consulting Appoints Katie Norris Senior Managing Director in Healthcare Risk Management Practice &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi7wFBVV95cUxQby1jQmRveVIzeTQzcjBEUUJ2Sk1tSWU5V2dOWm1obi14RUc0RXFHbE5fS3d6VlpnYmZHcXJYdG9JM29NZllBTlBqWm81UlVmY0lMMHJMd005cFZIdkVfN3padmJXREJIdlJkSWZoTUhfUnBaWkJrTk8xaVdKUHlTVWlEdERmcFI3VFkxNjZxNkIzdmZoLVpPUnl0UWRmTW4yMFBjZ3dhUDFoNk9Jb2hfa29ZTWplZndYdXNpZjhFOWpwVDNndF92VHQtSG81OXJMRnVXQng3MjVKd1FMVVIxR1Q0bVN0QTlVNUN5M3FCTQ?oc=5",
-      "type": "article",
-      "title": "Judge Must Recuse From Former Firm’s Cases for 2 Years After Financial Ties End: Judicial Ethics Opinion 26-45 - Law.com",
-      "date": "2026-10-22",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQby1jQmRveVIzeTQzcjBEUUJ2Sk1tSWU5V2dOWm1obi14RUc0RXFHbE5fS3d6VlpnYmZHcXJYdG9JM29NZllBTlBqWm81UlVmY0lMMHJMd005cFZIdkVfN3padmJXREJIdlJkSWZoTUhfUnBaWkJrTk8xaVdKUHlTVWlEdERmcFI3VFkxNjZxNkIzdmZoLVpPUnl0UWRmTW4yMFBjZ3dhUDFoNk9Jb2hfa29ZTWplZndYdXNpZjhFOWpwVDNndF92VHQtSG81OXJMRnVXQng3MjVKd1FMVVIxR1Q0bVN0QTlVNUN5M3FCTQ?oc=5",
-      "snippet": "Judge Must Recuse From Former Firm’s Cases for 2 Years After Financial Ties End: Judicial Ethics Opinion 26-45 &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FRVhfUkxPTktUT1hLUE1jLWpvekNNZDd6RGk1T1NYQ3NmblNDZzVPQmpqTW5OYjV2dHVTaFllSm5TV2M?oc=5",
-      "type": "article",
-      "title": "FCPA Explained: Anti-Bribery Rules, Penalties and 2026 Enforcement - Legal Desire",
-      "date": "2026-10-22",
-      "source": "Legal Desire",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FRVhfUkxPTktUT1hLUE1jLWpvekNNZDd6RGk1T1NYQ3NmblNDZzVPQmpqTW5OYjV2dHVTaFllSm5TV2M?oc=5",
-      "snippet": "FCPA Explained: Anti-Bribery Rules, Penalties and 2026 Enforcement &nbsp;&nbsp; Legal Desire"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZms3REQ1RnNWb3dDVXA5S1hMTHRMWUdXcERtbjlNTExfQkppS3gzTWZXTEFISEo5OUFac0tKNDkxLVBYZHBpQ3YyQ1hOd0xkTWJRRGRLY29Ia1AtSjRRT2podDloWEppQVZpa3hMcHoyaWdXMXR2X1Z5WVpaUTNDYlF3cXZvWWxRQmpyeHF3MGxQMG5rYm1NUDRzdUhqLXFpS1Q5QTk5eUc0Zw?oc=5",
-      "type": "article",
-      "title": "Exiting a Successful Professional Practice: The MSO Alternative - Law.com",
-      "date": "2026-10-22",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZms3REQ1RnNWb3dDVXA5S1hMTHRMWUdXcERtbjlNTExfQkppS3gzTWZXTEFISEo5OUFac0tKNDkxLVBYZHBpQ3YyQ1hOd0xkTWJRRGRLY29Ia1AtSjRRT2podDloWEppQVZpa3hMcHoyaWdXMXR2X1Z5WVpaUTNDYlF3cXZvWWxRQmpyeHF3MGxQMG5rYm1NUDRzdUhqLXFpS1Q5QTk5eUc0Zw?oc=5",
-      "snippet": "Exiting a Successful Professional Practice: The MSO Alternative &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMie0FVX3lxTE5udUZ5c3V4Sy1nTnhPWXotdUZmY3RUMlVTVVZuTHV2YUpQZTFCQW9ldEJ0SFRZRU1WTGlvNDFsNUV4TmQ4YnRlZnZJcmc2Z0l5dy16anJwUkxYZEpXVGw4dm9Cbm1pSElGUkJlOEljd2Z3bkNCWmxlQzhVOA?oc=5",
-      "type": "article",
-      "title": "The Law Firm Merger Paradox: Why Strong Firms Are Weighing Scale Now - FTI Consulting",
-      "date": "2026-10-22",
-      "source": "FTI Consulting",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5udUZ5c3V4Sy1nTnhPWXotdUZmY3RUMlVTVVZuTHV2YUpQZTFCQW9ldEJ0SFRZRU1WTGlvNDFsNUV4TmQ4YnRlZnZJcmc2Z0l5dy16anJwUkxYZEpXVGw4dm9Cbm1pSElGUkJlOEljd2Z3bkNCWmxlQzhVOA?oc=5",
-      "snippet": "The Law Firm Merger Paradox: Why Strong Firms Are Weighing Scale Now &nbsp;&nbsp; FTI Consulting"
     }
   ]
 }
