@@ -1,8 +1,35 @@
 {
-  "lastRun": "2026-11-05T18:33:51.921247+00:00",
+  "lastRun": "2026-11-06T17:50:41.226010+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 15,
+  "addedThisRun": 5,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWJpT2pWTXNhbkhzSkVSWlJ1TldjQ3pCT0JTYS10ZC13VXhUWWhoMlNIaDZVQ2xVRkkycUk0bzJLUFpnZW5hTzZzXzFkcXl6ZlNIdUJYUXNIVnQ3d1h4dEpuTF9MUW02NXlKdVFzckI2a1luSk9JODhVMkhWc3N2MFdhbjZPVVpYcnlJdTRhZTBFVElIc3RZY3RseWNDcXpaSHc?oc=5",
+      "type": "article",
+      "title": "PE-backed personal injury deal leads trio of acquisitions - Legal Futures",
+      "date": "2026-11-06",
+      "source": "Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWJpT2pWTXNhbkhzSkVSWlJ1TldjQ3pCT0JTYS10ZC13VXhUWWhoMlNIaDZVQ2xVRkkycUk0bzJLUFpnZW5hTzZzXzFkcXl6ZlNIdUJYUXNIVnQ3d1h4dEpuTF9MUW02NXlKdVFzckI2a1luSk9JODhVMkhWc3N2MFdhbjZPVVpYcnlJdTRhZTBFVElIc3RZY3RseWNDcXpaSHc?oc=5",
+      "snippet": "PE-backed personal injury deal leads trio of acquisitions &nbsp;&nbsp; Legal Futures"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXdjbGNnM1VXUER2cXQ4ZVd0RE9kRm91c2pvV2NsQWVOeS1ZczZabHF1M19TeXVMNDBSbm02ZEJ0VlNXYm5ZWFhSRVYyV2hUZ2J6TF92c2tlX09SSElRTVZfYnZGNC1IN1lJQUVmTlNDdmhLYVRQU0tDUW5wUVJFWFlSUTQ5TUVaUzJXc0lsMGlycWxUQmNvdlQ5bFB0Z2RzZFFKbkxWaFRWaG13RloxanZTZDdPSjZEOV9McnFB?oc=5",
+      "type": "article",
+      "title": "Ethics Opinion 1309: Termination of representation by governmentally funded legal services organization - New York State Bar Association",
+      "date": "2026-11-06",
+      "source": "New York State Bar Association",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXdjbGNnM1VXUER2cXQ4ZVd0RE9kRm91c2pvV2NsQWVOeS1ZczZabHF1M19TeXVMNDBSbm02ZEJ0VlNXYm5ZWFhSRVYyV2hUZ2J6TF92c2tlX09SSElRTVZfYnZGNC1IN1lJQUVmTlNDdmhLYVRQU0tDUW5wUVJFWFlSUTQ5TUVaUzJXc0lsMGlycWxUQmNvdlQ5bFB0Z2RzZFFKbkxWaFRWaG13RloxanZTZDdPSjZEOV9McnFB?oc=5",
+      "snippet": "Ethics Opinion 1309: Termination of representation by governmentally funded legal services organization &nbsp;&nbsp; New York State Bar Association"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaVZRYTNkc08wbXFWLW84VG1pX2tFa3FkSDR0ZDhaaGVRVzMta1l4enZJY1hfdzI2ZU5yblEzYkdIWGJVV1l0NE9VMlFSTzkwc09SUXZFbFpBbEhobWNlSmRPa1ZMWWF2M0hiSElNTk1xM3FnX09QYllfVFkxZHcydnE2SlhPRFByWThRVkEzYXB5Rkw0TGg2VEI3OXJNX1U3a0R6d2NvYktZVEHSAbABQVVfeXFMTVBDOEU1NXdiZzZTV0tEaFAwbmxhWjdfNFNPaEZQelFkbmZNVFg3RV9hWFJTSk1ncnF5ZlFaZ3pSMXU4blE2VFVHXzBScE8zb1ZLX3dDN2xEWWd6YU1saThLamQtblg0Y3FiQTJlUGZ5cjR3ek5Ta05NOHJDMTZXNWlSMXZodzNuRWR6RTNPS2Y0YnoxcGRWaVF6TzBsQUZmTHlQTXloa0wxaFA2RjB4ZTM?oc=5",
+      "type": "article",
+      "title": "CMS Finalizes Remote Monitoring Guardrails for 2027, Delays Outsourced Staffing Restriction to 2029 - The National Law Review",
+      "date": "2026-11-06",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaVZRYTNkc08wbXFWLW84VG1pX2tFa3FkSDR0ZDhaaGVRVzMta1l4enZJY1hfdzI2ZU5yblEzYkdIWGJVV1l0NE9VMlFSTzkwc09SUXZFbFpBbEhobWNlSmRPa1ZMWWF2M0hiSElNTk1xM3FnX09QYllfVFkxZHcydnE2SlhPRFByWThRVkEzYXB5Rkw0TGg2VEI3OXJNX1U3a0R6d2NvYktZVEHSAbABQVVfeXFMTVBDOEU1NXdiZzZTV0tEaFAwbmxhWjdfNFNPaEZQelFkbmZNVFg3RV9hWFJTSk1ncnF5ZlFaZ3pSMXU4blE2VFVHXzBScE8zb1ZLX3dDN2xEWWd6YU1saThLamQtblg0Y3FiQTJlUGZ5cjR3ek5Ta05NOHJDMTZXNWlSMXZodzNuRWR6RTNPS2Y0YnoxcGRWaVF6TzBsQUZmTHlQTXloa0wxaFA2RjB4ZTM?oc=5",
+      "snippet": "CMS Finalizes Remote Monitoring Guardrails for 2027, Delays Outsourced Staffing Restriction to 2029 &nbsp;&nbsp; The National Law Review"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxObVVmNGNBUEtjb3E3c20xYm1iVTBXRllWbFB2RDlyUWtNekVrcVlYV1FuX2NXNzczejcweVZJdXpIelFlUUhJQ3lOLS1SZGFCR1lMZkM0SnRwc0lPWjVUUndMYWthZHp2Vng2VS13Q2xQRXdZSmhhS21NZ2lfRkZlS0p2eWZaRzZkT205Qi1maE40b3ROSzVTcHpJNy1keDFjRlRWOHB1UDdTZUowLXkwb1VzcGVaNDBOeFNYOGtNT0lKdGp1R2c?oc=5",
       "type": "article",
@@ -92,6 +119,15 @@
       "source": "ImpactAlpha",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzFkTy1iY2lsbkxiZ0lSOWVGNDd6M3ZaSVdhaXFxckRyWXY4b3BTVEd5TXQzR05USU5DVlFLbXFLVm5pNThxT2ktc29VdmprUFkta2VXcUlIUDVxT0ZLc3NvVV9URUFYdlVKTW8xYnFWcUlnVW56TkJXSVF1TmRXd1lKWW9ZS0haZzF2Z0FiNmJmbFJyQU5GTElGY01JQWtoS0t6d242dFVnSkpGWU9n?oc=5",
       "snippet": "Steward Market builds a values-first marketplace for ethical mergers and acquisitions &nbsp;&nbsp; ImpactAlpha"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxQYl9hN1gtd3JTSGRVU1RhV1NGZHpLalJIUWNnYzNVaGxrTlQ1RC1JLVdSMWNTM0s5Y2sxNWxUOUgzMW1fcElqNEhDblhLV2RQMkx2bGRfSU1FcnZ0aEpDLTB0ZUtybEoyV0ltUHB1X3hTeWlEcUlLQVFLSHlZbFJUNUQ3V1JvTmo0VjZ2d1drbl9OY1JSQW5TcmZCbGQwcmF1MGo2SHRYc0dCelJnT2hF0gFWQVVfeXFMTUxINlVUenFJajVPeFJDZVhwaXQ4S1FVTXIzVm05WE5kaF9FeThtVThSSVpqblFqczJyS0pfZmRWT3lVbWMzOXFpZWcwZlVreFZpamdvTFE?oc=5",
+      "type": "article",
+      "title": "No Early Win For Atty In $450K Malpractice Suit - Law360",
+      "date": "2026-11-05",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYl9hN1gtd3JTSGRVU1RhV1NGZHpLalJIUWNnYzNVaGxrTlQ1RC1JLVdSMWNTM0s5Y2sxNWxUOUgzMW1fcElqNEhDblhLV2RQMkx2bGRfSU1FcnZ0aEpDLTB0ZUtybEoyV0ltUHB1X3hTeWlEcUlLQVFLSHlZbFJUNUQ3V1JvTmo0VjZ2d1drbl9OY1JSQW5TcmZCbGQwcmF1MGo2SHRYc0dCelJnT2hF0gFWQVVfeXFMTUxINlVUenFJajVPeFJDZVhwaXQ4S1FVTXIzVm05WE5kaF9FeThtVThSSVpqblFqczJyS0pfZmRWT3lVbWMzOXFpZWcwZlVreFZpamdvTFE?oc=5",
+      "snippet": "No Early Win For Atty In $450K Malpractice Suit &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzlzc3ZUTWRTMWlTM2tSZTVLSzBub3RfeTEzQnNOa3lWQU9VeUdhS3ZwN3RPQ25aaG1PZ09VYnMyN2JOZHZaeTROUGhOeG5ydFVYSHFwMm51aWQySlE5UklKWXdoa095RDVsQ3NUVU41TXBaR0xFZ3dyZFlIUVJCMk00dFg4dw?oc=5",
@@ -461,6 +497,15 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbF9fLTFmLUQxV05nSjNRMVdlRUp0bmFpTHROVHhxNTZ5YVVhcnBrQ1VxWDVMbEUzNjJRTFgydDdSRGo2S2k0UFhTbHktLUhMOWQ5Ry1mY3pYaEdWWnZMZWRVdzVQNEFmaERkVDFQOXJYa0t5MXdUM1l0OTByZjJHT0x4ZXVGNHB1WHg0MUxFVW1OQ0RRTFFURUN30gFWQVVfeXFMTWRobDFRVGVvTWtvZjc5RTlHelBxTElwcGlqdFpWaHdoUzhFY2Q5SlhVaW9zdVlMZkhMbEJaQS15d0k1OENBVXkxVk1tZ0ZzZ0Y3cUpZWEE?oc=5",
       "snippet": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAJBVV95cUxQLWt0bUI2VVNkTk9aeWZMT3lTcjlYYmxLQm9jQjJBZlY4YzZvMjh4Q0JET2xEVjA3M3J6RnRyeUFCbGk5ekljYWFaOXZ6M0dvTzM1TlZ4by1XOUQtcTdIdEt4WVo1bGNWb2RVZkd5Vzd1T0VDcndpVGxWazJSWXhRWkhIdVJuVWNqSjdLZy1lUG8xRWRFbzMtMExYU1F6LWpKM0RkN1N2UExXSWtjZkNKTmp0aTlyWEhHdXRyTGlOSzdjcGhqOXNOdUo2bEFidTFYQkRMLXU4bWZBWHgxUE0welVFSDBZWWRGc3J0dWVueGhNWVJiRUtvSmVNZjcxNWlkSUo1clZueHYyM1JyM2oyNHd3RlRtalhq?oc=5",
+      "type": "article",
+      "title": "Arguing Class Actions: The Law Firm Ownership Myth—Why a Legal Giant's Unraveling Should Prompt the Profession to Reconsider Whom Its Ownership Rules Really Protect - DiCello Levitt",
+      "date": "2026-11-02",
+      "source": "DiCello Levitt",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQLWt0bUI2VVNkTk9aeWZMT3lTcjlYYmxLQm9jQjJBZlY4YzZvMjh4Q0JET2xEVjA3M3J6RnRyeUFCbGk5ekljYWFaOXZ6M0dvTzM1TlZ4by1XOUQtcTdIdEt4WVo1bGNWb2RVZkd5Vzd1T0VDcndpVGxWazJSWXhRWkhIdVJuVWNqSjdLZy1lUG8xRWRFbzMtMExYU1F6LWpKM0RkN1N2UExXSWtjZkNKTmp0aTlyWEhHdXRyTGlOSzdjcGhqOXNOdUo2bEFidTFYQkRMLXU4bWZBWHgxUE0welVFSDBZWWRGc3J0dWVueGhNWVJiRUtvSmVNZjcxNWlkSUo1clZueHYyM1JyM2oyNHd3RlRtalhq?oc=5",
+      "snippet": "Arguing Class Actions: The Law Firm Ownership Myth—Why a Legal Giant's Unraveling Should Prompt the Profession to Reconsider Whom Its Ownership Rules Really Protect &nbsp;&nbsp; DiCello Levitt"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzUyVHkyOXlvcGI4UWtDeTZ3TTdQYXFXVzhEZFowd2Jlam8tVXJ6Ni12bEZBMXFJbmdyenFHR0lTc0Iyb2pBeW41dVNYOWhJQXJ0VkdBRXBLUllEakoxcUxSSEFqSVFzNTBkbS1DMWc1Vmcxa0lxRVdlOEhTODJPSEhvUU1PRGRYWmpxYlRDdUtGZ3pkTXdNbmJJQzBlaVlOVjRWNXg3RHFiRXVxWklVdEZfSkpMS2JUWUJlMjBRU1g2a2RUeW1VNg?oc=5",
@@ -1307,51 +1352,6 @@
       "source": "African Business",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGI3SmtKMGVMelRpck5sSmpEVFZXQ1pycnRjbENyWmlzRG9NaEJMclRtWGxrSGlJRVc2TjZ5ZDhGb1ZJUjVhRWFaczY3TzE2cmxzb0RodldRdUR4TkEtTWpkZFBjVjlWMC1oQU0zQVVYMWl4WU1XNHdzRE4xS2l5TGszaW1lOHgtWkdlOGkydkN4NWhEV1o2bGZoTVh4MC1Zb2NzMVpYV3Q4RlprQmw0QnhfVVJOX0luUHA2OA?oc=5",
       "snippet": "How to bypass ‘geographic bias’ and plug into trillion dollar finance pool &nbsp;&nbsp; African Business"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ19FMkt3WmlzS1hGdWxwRVhOdEJFZGtKc0gxb04wakstZ3JLX0JESFRDRHoyTlBNR0RTTFRaYkk1SkNYWlZZSWhMMHh1VktxV2FURVlhVUswR2JOeDk4TzVtUzN1Tm5pUDJfQ2diOGd2Y092LTJ6YnRSQUQyZ0oxVUQxWFVyYWc1NWRRU19ZWHp4UWNYeWdvQjRlaGtGWHo4S0JtR2FOMA?oc=5",
-      "type": "article",
-      "title": "Unsung Heroes Award Winner: Rebecca Frino, Mandelbaum Barrett - Law.com",
-      "date": "2026-10-26",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ19FMkt3WmlzS1hGdWxwRVhOdEJFZGtKc0gxb04wakstZ3JLX0JESFRDRHoyTlBNR0RTTFRaYkk1SkNYWlZZSWhMMHh1VktxV2FURVlhVUswR2JOeDk4TzVtUzN1Tm5pUDJfQ2diOGd2Y092LTJ6YnRSQUQyZ0oxVUQxWFVyYWc1NWRRU19ZWHp4UWNYeWdvQjRlaGtGWHo4S0JtR2FOMA?oc=5",
-      "snippet": "Unsung Heroes Award Winner: Rebecca Frino, Mandelbaum Barrett &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUNXTzlKT2V1S3pObFhsRnkwTGdPb1JHWXBic2N2SHFMazlsTHZPNE9MQ2hua1NiVjVJUWlMQWV4VTFFYmVSMmlzd3d1TWtmQTJMcTlUTmNhRV9fVThHTG9SaE9UeE9Ic1FnUHphZi02d3JwejFTbUwxUmdLOXRKZ2ZqcmFpZTBJR0RISFlkSi0yVThJM0t6R19uMmo3TWFDQWxN?oc=5",
-      "type": "article",
-      "title": "Republicans look to unseat state house Democrats in District 10 - HeraldNet.com",
-      "date": "2026-10-26",
-      "source": "HeraldNet.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUNXTzlKT2V1S3pObFhsRnkwTGdPb1JHWXBic2N2SHFMazlsTHZPNE9MQ2hua1NiVjVJUWlMQWV4VTFFYmVSMmlzd3d1TWtmQTJMcTlUTmNhRV9fVThHTG9SaE9UeE9Ic1FnUHphZi02d3JwejFTbUwxUmdLOXRKZ2ZqcmFpZTBJR0RISFlkSi0yVThJM0t6R19uMmo3TWFDQWxN?oc=5",
-      "snippet": "Republicans look to unseat state house Democrats in District 10 &nbsp;&nbsp; HeraldNet.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjhUQno0Rkh3b3JiNkxTVm1oSkd5Q183YXMtRVZOQ0wxdmszTEJQUlE0S1VfZHZUaTNVWW10bF9jcTkxcE1JUGtNbTZQN0tDMUxsNUp4VDkxWjI1bGxfNkxHekJCOTdJYUZlNDdwYnl6Y0hvS3RmN1MxTlItMEpiVGFRWGlNRWkwSnl3OFg4ZVA5SFhIb2lwelctZ2xpRW12UjQtc3hHLXlyb01WNXc?oc=5",
-      "type": "article",
-      "title": "School trustee held on $1 million bail in embezzlement charges - The Record Courier",
-      "date": "2026-10-26",
-      "source": "The Record Courier",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjhUQno0Rkh3b3JiNkxTVm1oSkd5Q183YXMtRVZOQ0wxdmszTEJQUlE0S1VfZHZUaTNVWW10bF9jcTkxcE1JUGtNbTZQN0tDMUxsNUp4VDkxWjI1bGxfNkxHekJCOTdJYUZlNDdwYnl6Y0hvS3RmN1MxTlItMEpiVGFRWGlNRWkwSnl3OFg4ZVA5SFhIb2lwelctZ2xpRW12UjQtc3hHLXlyb01WNXc?oc=5",
-      "snippet": "School trustee held on $1 million bail in embezzlement charges &nbsp;&nbsp; The Record Courier"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk96dmJvUGE4ak1pSFdXV2Z4aWg3WEQwXzBtQTBNNTZtZk40c05SS0N0NEFkWmRycXQwRkp2eU9LVlJ3S0pLbDVheVNvc1lGeG05bm4tZmJYM016VmpvZVBWS3NDRnFuNFBTaWZjclFwMng1SFZyR3UwYVFxdE5WM3IxZzVnUm10WWVMc0U4alRGTU1vSUpVRE1yRmd3VWtxX2RvRl91aWIwcS1MN0ZV0gFWQVVfeXFMTjl4VVBoWFQzbVRLeURfcGNRbUNhdWFudG1xaGg1RzJoN2RNZENjQ09SS1dFdWllcTkwaTJMSFZzZWZWS0QxTDBob3pxTGQ3bUtXRVNhcGc?oc=5",
-      "type": "article",
-      "title": "Colo. Real Estate Co. Says Investor Misread PE Priority Deal - Law360",
-      "date": "2026-10-26",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk96dmJvUGE4ak1pSFdXV2Z4aWg3WEQwXzBtQTBNNTZtZk40c05SS0N0NEFkWmRycXQwRkp2eU9LVlJ3S0pLbDVheVNvc1lGeG05bm4tZmJYM016VmpvZVBWS3NDRnFuNFBTaWZjclFwMng1SFZyR3UwYVFxdE5WM3IxZzVnUm10WWVMc0U4alRGTU1vSUpVRE1yRmd3VWtxX2RvRl91aWIwcS1MN0ZV0gFWQVVfeXFMTjl4VVBoWFQzbVRLeURfcGNRbUNhdWFudG1xaGg1RzJoN2RNZENjQ09SS1dFdWllcTkwaTJMSFZzZWZWS0QxTDBob3pxTGQ3bUtXRVNhcGc?oc=5",
-      "snippet": "Colo. Real Estate Co. Says Investor Misread PE Priority Deal &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1p4SUZBMlJ4R2JrenR6aHAya0lwcGVHdjNzYVFpdHplUWhTaTNuVlZKNlN1MXRCQWN0RjdSamFnOTVOWU00S0lUX2tPdUlVckdPTGZTMFZBOHFraGdGU3U1RFdQQXk4LTFOMFB5YkhZb0c5T1JGUDNvcTVKMGt1SzQxOGZNWDVhMzEycGxtRmVSM1pxaEt0TVlKUzVTdzZtQ3ljZ2xEUThJV1RtMEdsU3lOR3hsZ9IBuwFBVV95cUxQUWxLSXg1YjFNeXJoS2FCR2dvUTVjS04yOVlrcmNTNVFUUXZtbDZfN0lXZ0tWdUJkYVhLWDJYelNmU1JjdTlHQkl1eHZhVE9VZGNRRy11c05oSmdzWVlaZEtsSUxpMVdIbk11TnBiVlJaSkNlRXFkb1lmQWpDR0ZSNEpjV1RTOUM3SXU1XzNhTFlqYVdHWjRoS1doUktiTWVGNjZkazRyMGpaTnRLRmF5QkdkNjZUY1BNZnBJ?oc=5",
-      "type": "article",
-      "title": "Government Contractor M&A in 2026 and Beyond: Key Trends, Legal Risks, and Forecasts for 2027 - The National Law Review",
-      "date": "2026-10-26",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1p4SUZBMlJ4R2JrenR6aHAya0lwcGVHdjNzYVFpdHplUWhTaTNuVlZKNlN1MXRCQWN0RjdSamFnOTVOWU00S0lUX2tPdUlVckdPTGZTMFZBOHFraGdGU3U1RFdQQXk4LTFOMFB5YkhZb0c5T1JGUDNvcTVKMGt1SzQxOGZNWDVhMzEycGxtRmVSM1pxaEt0TVlKUzVTdzZtQ3ljZ2xEUThJV1RtMEdsU3lOR3hsZ9IBuwFBVV95cUxQUWxLSXg1YjFNeXJoS2FCR2dvUTVjS04yOVlrcmNTNVFUUXZtbDZfN0lXZ0tWdUJkYVhLWDJYelNmU1JjdTlHQkl1eHZhVE9VZGNRRy11c05oSmdzWVlaZEtsSUxpMVdIbk11TnBiVlJaSkNlRXFkb1lmQWpDR0ZSNEpjV1RTOUM3SXU1XzNhTFlqYVdHWjRoS1doUktiTWVGNjZkazRyMGpaTnRLRmF5QkdkNjZUY1BNZnBJ?oc=5",
-      "snippet": "Government Contractor M&A in 2026 and Beyond: Key Trends, Legal Risks, and Forecasts for 2027 &nbsp;&nbsp; The National Law Review"
     }
   ]
 }
