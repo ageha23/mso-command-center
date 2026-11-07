@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-11-06T17:50:41.226010+00:00",
+  "lastRun": "2026-11-07T16:45:53.266009+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 5,
+  "addedThisRun": 11,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWJpT2pWTXNhbkhzSkVSWlJ1TldjQ3pCT0JTYS10ZC13VXhUWWhoMlNIaDZVQ2xVRkkycUk0bzJLUFpnZW5hTzZzXzFkcXl6ZlNIdUJYUXNIVnQ3d1h4dEpuTF9MUW02NXlKdVFzckI2a1luSk9JODhVMkhWc3N2MFdhbjZPVVpYcnlJdTRhZTBFVElIc3RZY3RseWNDcXpaSHc?oc=5",
@@ -29,6 +29,87 @@
       "source": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaVZRYTNkc08wbXFWLW84VG1pX2tFa3FkSDR0ZDhaaGVRVzMta1l4enZJY1hfdzI2ZU5yblEzYkdIWGJVV1l0NE9VMlFSTzkwc09SUXZFbFpBbEhobWNlSmRPa1ZMWWF2M0hiSElNTk1xM3FnX09QYllfVFkxZHcydnE2SlhPRFByWThRVkEzYXB5Rkw0TGg2VEI3OXJNX1U3a0R6d2NvYktZVEHSAbABQVVfeXFMTVBDOEU1NXdiZzZTV0tEaFAwbmxhWjdfNFNPaEZQelFkbmZNVFg3RV9hWFJTSk1ncnF5ZlFaZ3pSMXU4blE2VFVHXzBScE8zb1ZLX3dDN2xEWWd6YU1saThLamQtblg0Y3FiQTJlUGZ5cjR3ek5Ta05NOHJDMTZXNWlSMXZodzNuRWR6RTNPS2Y0YnoxcGRWaVF6TzBsQUZmTHlQTXloa0wxaFA2RjB4ZTM?oc=5",
       "snippet": "CMS Finalizes Remote Monitoring Guardrails for 2027, Delays Outsourced Staffing Restriction to 2029 &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxPckNvNVdaQ3NzR3RwMG0yU3JaRklNbmM3MjdqMWw3ZDhVSVRoTEl3clZrNTZFYldQbzNxdjlCQ1NIVFM4WXpoWTJUeTBEZ2MtYmJMTi01by1JVXpZYWNMUTZHUU5FZGZrckNPWGlla0V5aExqNTNfYkw1VHphcWZtNHFuMHRmZDJaYkhwTjBHMzdCY0x5UlRiTXc1a9IBXkFVX3lxTE05VEtWelpDby1Ba21jWHRTSFVkZXJXRXUyS1kzbjdOZUNjZ1hHSFRvZDMxMjM5TlpOSjhhb0Nhc1JBd2l5OTJxWXN2MFU2ZWJUZVByZFdVX1dVRTZhUEE?oc=5",
+      "type": "article",
+      "title": "What Investors Actually Buy In Law Firm MSO Deals - Law360",
+      "date": "2026-11-06",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckNvNVdaQ3NzR3RwMG0yU3JaRklNbmM3MjdqMWw3ZDhVSVRoTEl3clZrNTZFYldQbzNxdjlCQ1NIVFM4WXpoWTJUeTBEZ2MtYmJMTi01by1JVXpZYWNMUTZHUU5FZGZrckNPWGlla0V5aExqNTNfYkw1VHphcWZtNHFuMHRmZDJaYkhwTjBHMzdCY0x5UlRiTXc1a9IBXkFVX3lxTE05VEtWelpDby1Ba21jWHRTSFVkZXJXRXUyS1kzbjdOZUNjZ1hHSFRvZDMxMjM5TlpOSjhhb0Nhc1JBd2l5OTJxWXN2MFU2ZWJUZVByZFdVX1dVRTZhUEE?oc=5",
+      "snippet": "What Investors Actually Buy In Law Firm MSO Deals &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxOS3RVSnJ1bzNCSXlwbUZOWmVZTzFHb3JSV3BXZWstMXEwYTFucEVxdTVFSENfZE1sY0hlQjNuTlk1OW4yZUJwOS1LcUJfRUxaSmdhRWp3cHlCQTI5QWtXRWk3UzFCcU0weU0wdEJNSHh0M1BWbnpPSFpuUUxmUE5nSG9KVjZVdmk3ek4xc1czYjNmTkhQdHY2YlNVdGRKUQ?oc=5",
+      "type": "article",
+      "title": "Democrat Wins Ease Regulation Threats: Litigation Finance - Bloomberg Government News",
+      "date": "2026-11-06",
+      "source": "Bloomberg Government News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS3RVSnJ1bzNCSXlwbUZOWmVZTzFHb3JSV3BXZWstMXEwYTFucEVxdTVFSENfZE1sY0hlQjNuTlk1OW4yZUJwOS1LcUJfRUxaSmdhRWp3cHlCQTI5QWtXRWk3UzFCcU0weU0wdEJNSHh0M1BWbnpPSFpuUUxmUE5nSG9KVjZVdmk3ek4xc1czYjNmTkhQdHY2YlNVdGRKUQ?oc=5",
+      "snippet": "Democrat Wins Ease Regulation Threats: Litigation Finance &nbsp;&nbsp; Bloomberg Government News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjNfVkpXV1QxVDg5MERtZ0h6U2JnaU1yOUdrWkNYR0NRRlpRaTNZZi0yMDl0dGhRdjhQX2w0b3pXQ2JYeFZ0RlFGMUQ2OWxoS2VVX2FJVHhxU0ZlUzh4SXpvSVR6ajA3RWRWNHV6Ym94cmNLYnRNS1R0VGhId19SWmRnZkd0UFZXaEVWa05WbGJiOTlfQ01wLUNpUk16TDZqNlNiMjJ2S2ZDd0xxREEyOFY5d1VHTEJheU5DQlFBXzFET28?oc=5",
+      "type": "article",
+      "title": "Kirkland & Ellis: Alex Kaplan Joins As Litigation Partner With More Than $1.5 Billion In Plaintiff Recoveries - Pulse 2.0",
+      "date": "2026-11-06",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjNfVkpXV1QxVDg5MERtZ0h6U2JnaU1yOUdrWkNYR0NRRlpRaTNZZi0yMDl0dGhRdjhQX2w0b3pXQ2JYeFZ0RlFGMUQ2OWxoS2VVX2FJVHhxU0ZlUzh4SXpvSVR6ajA3RWRWNHV6Ym94cmNLYnRNS1R0VGhId19SWmRnZkd0UFZXaEVWa05WbGJiOTlfQ01wLUNpUk16TDZqNlNiMjJ2S2ZDd0xxREEyOFY5d1VHTEJheU5DQlFBXzFET28?oc=5",
+      "snippet": "Kirkland & Ellis: Alex Kaplan Joins As Litigation Partner With More Than $1.5 Billion In Plaintiff Recoveries &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2lTdndzanoydlJ2Q1NwdVBBRTl5RlNCQU1VY0xrWWhqZC1rVWNZZU1JX2NCaUUtUjVXb2FxMjJwMkdVdW10TVA4NUpWRjZ2T3hMVWd1SXR2SGZQel8zLXRmaEFuMERsYVFyMXdkN05EbU9ScTVnaGlqS29Od1BBbm80MEhyMDR3VTdSVWZBQWlMMnQzUEhJYlRidU5JWjlZc0Vua2tXV0NHdlUyTm42TXc2MDZoQ0xsNktVXzBvZzh5SmxIU1drSlB3?oc=5",
+      "type": "article",
+      "title": "Grant Thornton LLP Acquires CBIZ CPAs, Expanding $5 Billion Professional Services Combination - citybiz",
+      "date": "2026-11-06",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2lTdndzanoydlJ2Q1NwdVBBRTl5RlNCQU1VY0xrWWhqZC1rVWNZZU1JX2NCaUUtUjVXb2FxMjJwMkdVdW10TVA4NUpWRjZ2T3hMVWd1SXR2SGZQel8zLXRmaEFuMERsYVFyMXdkN05EbU9ScTVnaGlqS29Od1BBbm80MEhyMDR3VTdSVWZBQWlMMnQzUEhJYlRidU5JWjlZc0Vua2tXV0NHdlUyTm42TXc2MDZoQ0xsNktVXzBvZzh5SmxIU1drSlB3?oc=5",
+      "snippet": "Grant Thornton LLP Acquires CBIZ CPAs, Expanding $5 Billion Professional Services Combination &nbsp;&nbsp; citybiz"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigAFBVV95cUxQVW9Id2lwY19jZkpxYkhKZkM4NGMtQlJLLTNlMDJoUF9kZXJOUVIwdHpoY0NsTlBWdUVIY1lBUEYxZ0VROXFhcXNqcHdMZ2dCcGRpdVpVZXRUSXhJSWdrWVNTeWo2T0VUallKTDk4SXBjdV82c2tlQTBISFJTSk11ZA?oc=5",
+      "type": "article",
+      "title": "When Everyone Announces the Same Innovation, Nobody Stands Out: The Echo Chamber - JD Supra",
+      "date": "2026-11-06",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVW9Id2lwY19jZkpxYkhKZkM4NGMtQlJLLTNlMDJoUF9kZXJOUVIwdHpoY0NsTlBWdUVIY1lBUEYxZ0VROXFhcXNqcHdMZ2dCcGRpdVpVZXRUSXhJSWdrWVNTeWo2T0VUallKTDk4SXBjdV82c2tlQTBISFJTSk11ZA?oc=5",
+      "snippet": "When Everyone Announces the Same Innovation, Nobody Stands Out: The Echo Chamber &nbsp;&nbsp; JD Supra"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdG04WEc2Q1BBXzZDN1RTUjBJNkZBdUQxdm02UEhpTUJVeDRmQjVCWFNGOWlsMkstYnQ5VFpMNHZzbkxoaUFnTndXMjNFUkc3TXlhdzZqc1h1Y3dMOVRQV0F5b2ZHT1NwRmpGZlpZV1Z6dkNEME92aGZsZm94LVk5N2xNWDVYVnFMUTZpRHFLUEowN0kzWDd5bVVRNVQ5UThzTHNSbDg3dHFzVG13ZURZS1Z5UnJoUFRxUm9CTzk5T2d6SEFZZnNYVWdJNkpEdG81bjlzQXFtNlNjbjZMb05DSHdNSnl0UnY0S3lMUENsR195VlZhLV9JMQ?oc=5",
+      "type": "article",
+      "title": "Hinshaw Recognized by the LCLD as a 2026 Compass Award Winner and Top Performer - Hinshaw & Culbertson LLP",
+      "date": "2026-11-06",
+      "source": "Hinshaw & Culbertson LLP",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdG04WEc2Q1BBXzZDN1RTUjBJNkZBdUQxdm02UEhpTUJVeDRmQjVCWFNGOWlsMkstYnQ5VFpMNHZzbkxoaUFnTndXMjNFUkc3TXlhdzZqc1h1Y3dMOVRQV0F5b2ZHT1NwRmpGZlpZV1Z6dkNEME92aGZsZm94LVk5N2xNWDVYVnFMUTZpRHFLUEowN0kzWDd5bVVRNVQ5UThzTHNSbDg3dHFzVG13ZURZS1Z5UnJoUFRxUm9CTzk5T2d6SEFZZnNYVWdJNkpEdG81bjlzQXFtNlNjbjZMb05DSHdNSnl0UnY0S3lMUENsR195VlZhLV9JMQ?oc=5",
+      "snippet": "Hinshaw Recognized by the LCLD as a 2026 Compass Award Winner and Top Performer &nbsp;&nbsp; Hinshaw & Culbertson LLP"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMickFVX3lxTE9hR05KbUpPdVFLSnlzS05PMHNiblZtWmNUcmFnMkt0bHFhSmdmZnV2QkRTZHlEUUZoYnA3TWx3RkNPVUNSR0tsSEc5MlB1MURZTEY3RWhQeW9IbGpSRmtqaElkWWF0V01ONzNwZ2gzYlotdw?oc=5",
+      "type": "article",
+      "title": "‘Rough sledding’ for ABC for Health - Isthmus | Madison, Wisconsin",
+      "date": "2026-11-06",
+      "source": "Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hR05KbUpPdVFLSnlzS05PMHNiblZtWmNUcmFnMkt0bHFhSmdmZnV2QkRTZHlEUUZoYnA3TWx3RkNPVUNSR0tsSEc5MlB1MURZTEY3RWhQeW9IbGpSRmtqaElkWWF0V01ONzNwZ2gzYlotdw?oc=5",
+      "snippet": "‘Rough sledding’ for ABC for Health &nbsp;&nbsp; Isthmus | Madison, Wisconsin"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVRnYTgzdmozc2RMYVVCTV9fd3hiU01xbEdOT2RYOEtxalRKT2JjbzA1M202MnJ6Ry15MlJselhJTmtYbnJBbWpoVjB2U1I2WmVJYlBPX2dnTkI4OGxYa0FtQjQtZUlPbEpSaDdjbklvQ2ZpNm5wcDVJeUo3czMwZWk4WWVGeDhiTnRKVUNoRHFPbU95WG1DRkFyQ1RwUDVxd09lSm9tR19IVk3SAVZBVV95cUxOQVJudWg4SE1oNXZVNzNVN3R1TmFIcWsweGM0Ukg5cG1sUXExaTZKSTFVM2Y5SWtsOElYa1kyR2RhTnlVZzkzUDZmRVZYUFROUC1lSXpQUQ?oc=5",
+      "type": "article",
+      "title": "Lack Of Representation Dooms Calif. Biz Owner's RICO Suit - Law360",
+      "date": "2026-11-06",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVRnYTgzdmozc2RMYVVCTV9fd3hiU01xbEdOT2RYOEtxalRKT2JjbzA1M202MnJ6Ry15MlJselhJTmtYbnJBbWpoVjB2U1I2WmVJYlBPX2dnTkI4OGxYa0FtQjQtZUlPbEpSaDdjbklvQ2ZpNm5wcDVJeUo3czMwZWk4WWVGeDhiTnRKVUNoRHFPbU95WG1DRkFyQ1RwUDVxd09lSm9tR19IVk3SAVZBVV95cUxOQVJudWg4SE1oNXZVNzNVN3R1TmFIcWsweGM0Ukg5cG1sUXExaTZKSTFVM2Y5SWtsOElYa1kyR2RhTnlVZzkzUDZmRVZYUFROUC1lSXpQUQ?oc=5",
+      "snippet": "Lack Of Representation Dooms Calif. Biz Owner's RICO Suit &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSFBSNEpIUjNIOFFmWTlQTHptakNIMU9WYzdVdlpXRXRIb0ZiamR5dkQ2aWpWbnE0Vlc4WEFNV2ZXQVFoa1p1aVpEWG9ZM3QtVUtHVXNlb3FCWm9BSGkzTEpnOWx1ODFiVFhObkJyYklkYlRTcEsyd3lpQnh1TWZCNzRHSDlLeWlXaWdoUC15TTJMZ185c3YyVEpjSHNKZllwTGhNWkIxa0Q2SEh4aVktLW5sX2NEc3hhY0lEQ25pNWhhQQ?oc=5",
+      "type": "article",
+      "title": "Dechert Appoints Adnan Bekdur As Dubai Partner To Expand Private Equity, M&A And Sovereign Wealth Practice - Pulse 2.0",
+      "date": "2026-11-06",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSFBSNEpIUjNIOFFmWTlQTHptakNIMU9WYzdVdlpXRXRIb0ZiamR5dkQ2aWpWbnE0Vlc4WEFNV2ZXQVFoa1p1aVpEWG9ZM3QtVUtHVXNlb3FCWm9BSGkzTEpnOWx1ODFiVFhObkJyYklkYlRTcEsyd3lpQnh1TWZCNzRHSDlLeWlXaWdoUC15TTJMZ185c3YyVEpjSHNKZllwTGhNWkIxa0Q2SEh4aVktLW5sX2NEc3hhY0lEQ25pNWhhQQ?oc=5",
+      "snippet": "Dechert Appoints Adnan Bekdur As Dubai Partner To Expand Private Equity, M&A And Sovereign Wealth Practice &nbsp;&nbsp; Pulse 2.0"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxObVVmNGNBUEtjb3E3c20xYm1iVTBXRllWbFB2RDlyUWtNekVrcVlYV1FuX2NXNzczejcweVZJdXpIelFlUUhJQ3lOLS1SZGFCR1lMZkM0SnRwc0lPWjVUUndMYWthZHp2Vng2VS13Q2xQRXdZSmhhS21NZ2lfRkZlS0p2eWZaRzZkT205Qi1maE40b3ROSzVTcHpJNy1keDFjRlRWOHB1UDdTZUowLXkwb1VzcGVaNDBOeFNYOGtNT0lKdGp1R2c?oc=5",
@@ -130,6 +211,15 @@
       "snippet": "No Early Win For Atty In $450K Malpractice Suit &nbsp;&nbsp; Law360"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxOSy1QU0MyMDBCM3Q4LVVRbWtCd1JCcUJTWTU1OERhazhFTWQ3WHI2YVNXdTMycFZIb1BUQjRBSG5DWklOYXlWMXdtdmxLNF8xbGZOMHA5dktRNldIaHk2ekJud2lIa2stTWJONk90ZWd5dFJ5dmJNb2VOTEFBOVNVdUlVaHpzX1pzSzhpV2dMQ00?oc=5",
+      "type": "article",
+      "title": "John Flannery Named to Board of WSHB Support Services - The National Law Review",
+      "date": "2026-11-05",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSy1QU0MyMDBCM3Q4LVVRbWtCd1JCcUJTWTU1OERhazhFTWQ3WHI2YVNXdTMycFZIb1BUQjRBSG5DWklOYXlWMXdtdmxLNF8xbGZOMHA5dktRNldIaHk2ekJud2lIa2stTWJONk90ZWd5dFJ5dmJNb2VOTEFBOVNVdUlVaHpzX1pzSzhpV2dMQ00?oc=5",
+      "snippet": "John Flannery Named to Board of WSHB Support Services &nbsp;&nbsp; The National Law Review"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzlzc3ZUTWRTMWlTM2tSZTVLSzBub3RfeTEzQnNOa3lWQU9VeUdhS3ZwN3RPQ25aaG1PZ09VYnMyN2JOZHZaeTROUGhOeG5ydFVYSHFwMm51aWQySlE5UklKWXdoa095RDVsQ3NUVU41TXBaR0xFZ3dyZFlIUVJCMk00dFg4dw?oc=5",
       "type": "article",
       "title": "Weil Gotshal is a canary in the legal coal mine - Fortune",
@@ -227,6 +317,15 @@
       "source": "Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWRIazV2Q1g2WURvNFh3bldFcWpvQU9GdkZwOXJQaTVXY2ZFbHNiaGltUG9xdlY1MUNrbmpKMVNWb19IU01YXy1GSmdYWnFYWExJcC1Lb190NG9XeFQwWXF3cXJMVG4zMXNNQlRneDQ4TUl4Vlh5cG42bVR2cEdBOXBNLXRtMkZOLUh0dWZOX1lPeERqdjZBX2ozaW1DUQ?oc=5",
       "snippet": "Montana Dark Money Ban Sets Up Challenge to Citizens United (1) &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zZm0tZEt3NE44ZTJ4TlNYRlVNNFVVcTc2MjZVd2ZIZjFjZnVIQ0RSZXhQRmhtdWJjTHdjVmV4eEY3UUdFM01ydkVuLVhWMEdHa0NzUlB3ZEEtQQ?oc=5",
+      "type": "article",
+      "title": "Stare decisis - Britannica",
+      "date": "2026-11-04",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zZm0tZEt3NE44ZTJ4TlNYRlVNNFVVcTc2MjZVd2ZIZjFjZnVIQ0RSZXhQRmhtdWJjTHdjVmV4eEY3UUdFM01ydkVuLVhWMEdHa0NzUlB3ZEEtQQ?oc=5",
+      "snippet": "Stare decisis &nbsp;&nbsp; Britannica"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFhMOGFyWm5KOHJWWDZORWo0NlEteHpPazVabXdLd2kwYmZscHRGVHFhMGxsOTVpb2dFVy11aDl1R19nX24ySGNyQ2F6aHozTndHYnRLbVdLUlBLMGN2bmhidFNiZkx1aTRpcVpBZndCekw5aUp0RWdiRkx3VWVvQnc1cDJ1T041cWp5SmNmWWZfSG1JbHc?oc=5",
@@ -1253,105 +1352,6 @@
       "source": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX20xczFxTEpWSjRvaGtJTmdWRTNpdjF1Y1BsWk1YaHpYcXZmZXNzQTZPTTkyUTZaZWFlVmdtM2ZsQ3p6RUlBNmJiNjNLZl91RHhFMXVJOUtPR3JkY0NGUWxQcU9sOUtGVjJHYndxNVlrRnpvdU1FMzVxMzM5VUtqUC1xOG5rYmlSdmRCeFBkenQxSFJzSUwzLXBn?oc=5",
       "snippet": "Mubadala Capital Announces Strategic Investment from Apollo &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUYtZTJEMU5NVDREMENGZXkxanppUUIyXzZfdGRVSF9XdG9peDJVMFB4bFo2dWp5QU04S1ByWVA5bUFtS1lsR2gzVEYxYndwTnJ2M3c3WlN3V0lnZGhhMW11SDZaeUtUTnFRVEpYTlBaUzlnUzN4N2dWcEJCRlBEd2VYYkcwbW9KTDNsbFVUenZNZDZXWHJRRG93TzJXb3RSdWVUUWoxbmNBOElTRnNJV0czdkpYR2dPUHRPLVhOOXZ6NW9mZmlEMTV4SUlwbjBa?oc=5",
-      "type": "article",
-      "title": "Apollo to Acquire Minority Stake in Mubadala Capital, Backing $5 Billion in Investment Commitments - citybiz",
-      "date": "2026-10-26",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUYtZTJEMU5NVDREMENGZXkxanppUUIyXzZfdGRVSF9XdG9peDJVMFB4bFo2dWp5QU04S1ByWVA5bUFtS1lsR2gzVEYxYndwTnJ2M3c3WlN3V0lnZGhhMW11SDZaeUtUTnFRVEpYTlBaUzlnUzN4N2dWcEJCRlBEd2VYYkcwbW9KTDNsbFVUenZNZDZXWHJRRG93TzJXb3RSdWVUUWoxbmNBOElTRnNJV0czdkpYR2dPUHRPLVhOOXZ6NW9mZmlEMTV4SUlwbjBa?oc=5",
-      "snippet": "Apollo to Acquire Minority Stake in Mubadala Capital, Backing $5 Billion in Investment Commitments &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiggJBVV95cUxOUVowUTVWWlFCRzdnRC1NQkFLaXZ1cDBnN0pBcDN2SzRSX25DWkliWk5TNHFaVGNHdUh2aFlWMm9GLWQtZmFlMTBReFJxTjNMLUdKWmVobHhYWU5lRWlMRXliSVItRXRlUXNhb1Vwb0k1T1RtdWIxU3M2XzhpU295WXJGcVhTWHl2OHY5SEl0a0VENmF1dGRvcUJjamZUdXg4LTZuNUF3Qy1GanhWMlQ0ckpIN3RTckZJUWxXLXRoSFZCWnhuZGN0Qm50UXA0Nm5TaVJqR2FxSVFOckh0aVplT1R3NjhoRGVRSEYtcmMwUkh5QndSdDk0WlRQMzIybHRzeXfSAYcCQVVfeXFMTUl1OFg0ckZCeVNRQ3FhWGpsbWlubFhDLXNnbkpxb256UGVQNUVGeUtvSmhRTXVLNnY2ZTRiSXVCT0NkbG0wdXNMSGptRndJZUNHMndMbzN4STMxYlB0QjhpMllaUHVpMm9lX3VfazNvT2pTUG4yVDluSEl4aFRrbGpqLVFHWGVlVTA0OXBtRGc1SWdRczd5bVYtVGxacXlHRlNiT2NGaUtoSGRjUHF5WmVzWDBON19YV1Rfcnd6UTV4bVVNRWpSNzJhRWZ0aHd0NmNodHYwQU11dndPZktBSWtwZk5hT0NaSHhrdUUxNkJzT1l2Vld2WTN3UjJ1V09rejZsWXJ3ejg?oc=5",
-      "type": "article",
-      "title": "SEDA Strengthens Its Alternative Asset Classes & Investments Practice with the Addition of Peter Ahl - The Manila Times",
-      "date": "2026-10-26",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUVowUTVWWlFCRzdnRC1NQkFLaXZ1cDBnN0pBcDN2SzRSX25DWkliWk5TNHFaVGNHdUh2aFlWMm9GLWQtZmFlMTBReFJxTjNMLUdKWmVobHhYWU5lRWlMRXliSVItRXRlUXNhb1Vwb0k1T1RtdWIxU3M2XzhpU295WXJGcVhTWHl2OHY5SEl0a0VENmF1dGRvcUJjamZUdXg4LTZuNUF3Qy1GanhWMlQ0ckpIN3RTckZJUWxXLXRoSFZCWnhuZGN0Qm50UXA0Nm5TaVJqR2FxSVFOckh0aVplT1R3NjhoRGVRSEYtcmMwUkh5QndSdDk0WlRQMzIybHRzeXfSAYcCQVVfeXFMTUl1OFg0ckZCeVNRQ3FhWGpsbWlubFhDLXNnbkpxb256UGVQNUVGeUtvSmhRTXVLNnY2ZTRiSXVCT0NkbG0wdXNMSGptRndJZUNHMndMbzN4STMxYlB0QjhpMllaUHVpMm9lX3VfazNvT2pTUG4yVDluSEl4aFRrbGpqLVFHWGVlVTA0OXBtRGc1SWdRczd5bVYtVGxacXlHRlNiT2NGaUtoSGRjUHF5WmVzWDBON19YV1Rfcnd6UTV4bVVNRWpSNzJhRWZ0aHd0NmNodHYwQU11dndPZktBSWtwZk5hT0NaSHhrdUUxNkJzT1l2Vld2WTN3UjJ1V09rejZsWXJ3ejg?oc=5",
-      "snippet": "SEDA Strengthens Its Alternative Asset Classes & Investments Practice with the Addition of Peter Ahl &nbsp;&nbsp; The Manila Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxQNTFWRWFvcXRGSHQyYmlVTGhaRW4tVnBsaEU5N3FDVlhSVFQ2ZEJWajF0bWY5cEZqY1RZR09kc2Fpa25JSWFudmZBamh1eXZnNXROUm9DcEJCeVlfNUNOTHNmVUpkTmJFU21qUUZfOWRVdXhhR0NOdXF4TUh2dUpZSFBBWXlySXpnWVEzV2tMdldaMlZ4NEI0U0I1cFZHUFJpdVdRdks3eWZ2cDQ0UV9nVEJCMGR5QlZkdXdEbWZTcWd3UmczMDNz?oc=5",
-      "type": "article",
-      "title": "The 2026 Who’s Who in Professional & Advisory Services - City & State New York",
-      "date": "2026-10-26",
-      "source": "City & State New York",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNTFWRWFvcXRGSHQyYmlVTGhaRW4tVnBsaEU5N3FDVlhSVFQ2ZEJWajF0bWY5cEZqY1RZR09kc2Fpa25JSWFudmZBamh1eXZnNXROUm9DcEJCeVlfNUNOTHNmVUpkTmJFU21qUUZfOWRVdXhhR0NOdXF4TUh2dUpZSFBBWXlySXpnWVEzV2tMdldaMlZ4NEI0U0I1cFZHUFJpdVdRdks3eWZ2cDQ0UV9nVEJCMGR5QlZkdXdEbWZTcWd3UmczMDNz?oc=5",
-      "snippet": "The 2026 Who’s Who in Professional & Advisory Services &nbsp;&nbsp; City & State New York"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0szRXB2ZUx5Sm91VkdtZVZYWkE0UGJHeEJiVjJrdHpfM3FnQmVCbVkzTDZzdm53bEpxdHF2VWZLQl9MQjk2NnJtc29BbGZNa182cFhqejZhMWhXS0FOYTZ1Q2hTWGNydDFwY2xnQXZpX2UtREdxZVdJS0otUWV4WDZKZF96NXFLaEFyQmx4UnV2RW9scVVsQklRM2ZvSnIwV2dMeGx0Wk1PeVk?oc=5",
-      "type": "article",
-      "title": "Judicial Notice (10.25.26): ‘A Botch Job’ - Original Jurisdiction | David Lat",
-      "date": "2026-10-26",
-      "source": "Original Jurisdiction | David Lat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0szRXB2ZUx5Sm91VkdtZVZYWkE0UGJHeEJiVjJrdHpfM3FnQmVCbVkzTDZzdm53bEpxdHF2VWZLQl9MQjk2NnJtc29BbGZNa182cFhqejZhMWhXS0FOYTZ1Q2hTWGNydDFwY2xnQXZpX2UtREdxZVdJS0otUWV4WDZKZF96NXFLaEFyQmx4UnV2RW9scVVsQklRM2ZvSnIwV2dMeGx0Wk1PeVk?oc=5",
-      "snippet": "Judicial Notice (10.25.26): ‘A Botch Job’ &nbsp;&nbsp; Original Jurisdiction | David Lat"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkowam1aUDNmejBEa1Q4NURRS1AtWldyUmVnTnhVcEtnRGJ3bWhtaG5ibTlaQ1NaTEhfN0xzQUFxVGJleGROXzFKZnRsTWYtWGdURU5udC1vYm1fOVhkRW50Z1hwektCcHlOOWYzdDJKR1otYk5kbW9QY095TnJxSnZNUXg2alVUWkdqZURjTG1DNV9ONlNIVG42ZEpobkJQYmxzZFFycE9xSjQ0eGhxODBQSDF3QVU?oc=5",
-      "type": "article",
-      "title": "Panther Pest Control Announces Expanded Residential Pest Management Services in Oviedo, Florida - The National Law Review",
-      "date": "2026-10-26",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkowam1aUDNmejBEa1Q4NURRS1AtWldyUmVnTnhVcEtnRGJ3bWhtaG5ibTlaQ1NaTEhfN0xzQUFxVGJleGROXzFKZnRsTWYtWGdURU5udC1vYm1fOVhkRW50Z1hwektCcHlOOWYzdDJKR1otYk5kbW9QY095TnJxSnZNUXg2alVUWkdqZURjTG1DNV9ONlNIVG42ZEpobkJQYmxzZFFycE9xSjQ0eGhxODBQSDF3QVU?oc=5",
-      "snippet": "Panther Pest Control Announces Expanded Residential Pest Management Services in Oviedo, Florida &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVBTSkYza2QwT1FQMHBrVFB6anF5TkYzeGVQNDFxR2ZZbm02d21nRDlqZi1pODZrS3p0cTJPUDNRWUt4a3Q2VWVVVUFxbGUwbnF6UjlfMmI4RUNwSWtIa0tBc3RNSnRUQjJsWU1Nalh6amd0cnVfTWFCVXV5aTNJbXlhQk94UURTMFBVR3JRWERFYWkyYU5VYXpaaDg?oc=5",
-      "type": "article",
-      "title": "MN 10th Judicial District: Ben Lacy, Rebecca Waxse on ballot for rare open seat - Pioneer Press",
-      "date": "2026-10-26",
-      "source": "Pioneer Press",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVBTSkYza2QwT1FQMHBrVFB6anF5TkYzeGVQNDFxR2ZZbm02d21nRDlqZi1pODZrS3p0cTJPUDNRWUt4a3Q2VWVVVUFxbGUwbnF6UjlfMmI4RUNwSWtIa0tBc3RNSnRUQjJsWU1Nalh6amd0cnVfTWFCVXV5aTNJbXlhQk94UURTMFBVR3JRWERFYWkyYU5VYXpaaDg?oc=5",
-      "snippet": "MN 10th Judicial District: Ben Lacy, Rebecca Waxse on ballot for rare open seat &nbsp;&nbsp; Pioneer Press"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxQdktFejJxc3F0aEdxNkZkMl9IS3ZZM3VKTktQYUZSV21UY2lGTDVqaXQxMThaNnMxdTBJRmRSV09PdzcwNW5UaGd6YUs5OURJZlduUEMxUUVWaHRFOWxZVUxwSzI0Z2E4N2w5TWxqTDRkVnM5SUlMSmE0N1JJSGxTclU2TFVSNy1LME5xd0pYVlJVRWo0N1F4ZVdCOEIzS2M3?oc=5",
-      "type": "article",
-      "title": "From client zero to value: Frontier Firm transformation with EY and Microsoft - EY",
-      "date": "2026-10-26",
-      "source": "EY",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdktFejJxc3F0aEdxNkZkMl9IS3ZZM3VKTktQYUZSV21UY2lGTDVqaXQxMThaNnMxdTBJRmRSV09PdzcwNW5UaGd6YUs5OURJZlduUEMxUUVWaHRFOWxZVUxwSzI0Z2E4N2w5TWxqTDRkVnM5SUlMSmE0N1JJSGxTclU2TFVSNy1LME5xd0pYVlJVRWo0N1F4ZVdCOEIzS2M3?oc=5",
-      "snippet": "From client zero to value: Frontier Firm transformation with EY and Microsoft &nbsp;&nbsp; EY"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivAFBVV95cUxNREZJb0d1RElFeVNybUpwWjVkZ3d1SnNndmZQZWhRME1QZnd6T0N2dW5FUk53MjJ3R2UwN3RmSDNLUHVtTmh6T2FVTW84Q2ZJcTdvbDJYd1BWekJ2c1oyTEptMzlyVkNKU0RBQWx6MWgycWM5ZldrSGw5YmJsangyakFyeEsxdk9JUGpaX2U4X250M3ZIV1dGVWV3UWRRVzV4VHd3VFdHNGtyZzI3bWJ0RXQ3ZEM3YjRPSVVhYQ?oc=5",
-      "type": "article",
-      "title": "Katalyst Acquires Bluetowne to Expand Cybersecurity, Cloud and Managed IT Services - citybiz",
-      "date": "2026-10-26",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREZJb0d1RElFeVNybUpwWjVkZ3d1SnNndmZQZWhRME1QZnd6T0N2dW5FUk53MjJ3R2UwN3RmSDNLUHVtTmh6T2FVTW84Q2ZJcTdvbDJYd1BWekJ2c1oyTEptMzlyVkNKU0RBQWx6MWgycWM5ZldrSGw5YmJsangyakFyeEsxdk9JUGpaX2U4X250M3ZIV1dGVWV3UWRRVzV4VHd3VFdHNGtyZzI3bWJ0RXQ3ZEM3YjRPSVVhYQ?oc=5",
-      "snippet": "Katalyst Acquires Bluetowne to Expand Cybersecurity, Cloud and Managed IT Services &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxQSE1icnFGSmx0MWRGQ0JLT09yc2lfN3JwY1ZsTHBEeU5WZWQ5TnRKS2dKOUt2amkxanpkazlhcGN2dk5hYjIwekRpci1GMWo5ZFJBQk53Z3p0QjBfaXdXYXhYdlg5S1VSdDRsUlVZZTc4QnlXX3VkeDFLWksxQ2JNcnRuWkRGdzVzMEVybWUxLUtjVHhQVnJnNmk2S0psSGJETGxEZlZjV1Z3NUpOaHfSAVZBVV95cUxQX3MtNGJrdDlVZ3lTWGZOR1Bqb1A4dG51SHJKbnlGY24zQm9TajV0Z2ZkRW1sNEhRMnE3bnZQdkNEODk2SGpzMnZVLUpjQmZPbE5oYUZSZw?oc=5",
-      "type": "article",
-      "title": "Maurene Comey Illegally Fired, Entitled To Pay, Judge Holds - Law360",
-      "date": "2026-10-26",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSE1icnFGSmx0MWRGQ0JLT09yc2lfN3JwY1ZsTHBEeU5WZWQ5TnRKS2dKOUt2amkxanpkazlhcGN2dk5hYjIwekRpci1GMWo5ZFJBQk53Z3p0QjBfaXdXYXhYdlg5S1VSdDRsUlVZZTc4QnlXX3VkeDFLWksxQ2JNcnRuWkRGdzVzMEVybWUxLUtjVHhQVnJnNmk2S0psSGJETGxEZlZjV1Z3NUpOaHfSAVZBVV95cUxQX3MtNGJrdDlVZ3lTWGZOR1Bqb1A4dG51SHJKbnlGY24zQm9TajV0Z2ZkRW1sNEhRMnE3bnZQdkNEODk2SGpzMnZVLUpjQmZPbE5oYUZSZw?oc=5",
-      "snippet": "Maurene Comey Illegally Fired, Entitled To Pay, Judge Holds &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmFGZlJ4Zm04alEydnFlQjBqelRySUV0UnRRRFlXeVByWW1Rei15dlZwSFdIdXU2Z3hpUk1KckxkMFNjaVJxbnZody0zTGJNZ19sMURNZHV6eXRVd0dmSkptZUNES3N4TmVYTXhlY0Y5OFA2SVFNUTRJbHhoMGluMTV4b2hoOTJlekNxOUl2RzNSUQ?oc=5",
-      "type": "article",
-      "title": "Delaware’s AI-Run Company Proposal Draws the Eye of Congress (2) - Bloomberg Government News",
-      "date": "2026-10-26",
-      "source": "Bloomberg Government News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmFGZlJ4Zm04alEydnFlQjBqelRySUV0UnRRRFlXeVByWW1Rei15dlZwSFdIdXU2Z3hpUk1KckxkMFNjaVJxbnZody0zTGJNZ19sMURNZHV6eXRVd0dmSkptZUNES3N4TmVYTXhlY0Y5OFA2SVFNUTRJbHhoMGluMTV4b2hoOTJlekNxOUl2RzNSUQ?oc=5",
-      "snippet": "Delaware’s AI-Run Company Proposal Draws the Eye of Congress (2) &nbsp;&nbsp; Bloomberg Government News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGI3SmtKMGVMelRpck5sSmpEVFZXQ1pycnRjbENyWmlzRG9NaEJMclRtWGxrSGlJRVc2TjZ5ZDhGb1ZJUjVhRWFaczY3TzE2cmxzb0RodldRdUR4TkEtTWpkZFBjVjlWMC1oQU0zQVVYMWl4WU1XNHdzRE4xS2l5TGszaW1lOHgtWkdlOGkydkN4NWhEV1o2bGZoTVh4MC1Zb2NzMVpYV3Q4RlprQmw0QnhfVVJOX0luUHA2OA?oc=5",
-      "type": "article",
-      "title": "How to bypass ‘geographic bias’ and plug into trillion dollar finance pool - African Business",
-      "date": "2026-10-26",
-      "source": "African Business",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGI3SmtKMGVMelRpck5sSmpEVFZXQ1pycnRjbENyWmlzRG9NaEJMclRtWGxrSGlJRVc2TjZ5ZDhGb1ZJUjVhRWFaczY3TzE2cmxzb0RodldRdUR4TkEtTWpkZFBjVjlWMC1oQU0zQVVYMWl4WU1XNHdzRE4xS2l5TGszaW1lOHgtWkdlOGkydkN4NWhEV1o2bGZoTVh4MC1Zb2NzMVpYV3Q4RlprQmw0QnhfVVJOX0luUHA2OA?oc=5",
-      "snippet": "How to bypass ‘geographic bias’ and plug into trillion dollar finance pool &nbsp;&nbsp; African Business"
     }
   ]
 }
