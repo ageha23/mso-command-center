@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-11-07T16:45:53.266009+00:00",
+  "lastRun": "2026-11-08T16:56:35.541721+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 11,
+  "addedThisRun": 7,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiZEFVX3lxTE13X0tEbHY4WnppbU9SbmVqN3hKcmtocnV3RVpmUFdHUDdVRXYyY3R2NnNFaXpROWZqc0NOWU5OZmtJQW52RmtKcTlieTJVVDNkUFRSTEJ1eU1EVEpkalhsc1VYanc?oc=5",
+      "type": "article",
+      "title": "Improving Lives - The University of Maryland, Baltimore",
+      "date": "2026-11-07",
+      "source": "The University of Maryland, Baltimore",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13X0tEbHY4WnppbU9SbmVqN3hKcmtocnV3RVpmUFdHUDdVRXYyY3R2NnNFaXpROWZqc0NOWU5OZmtJQW52RmtKcTlieTJVVDNkUFRSTEJ1eU1EVEpkalhsc1VYanc?oc=5",
+      "snippet": "Improving Lives &nbsp;&nbsp; The University of Maryland, Baltimore"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2RwemhMMTdRUm5xZFByUnVnMl92QmlZT0ItV0pPdWx0NTFubmxVQTV2Q21wbEVjS2RxSEs1a0VxVzBTQ1J3R0xYRTRLNEVhME9DcmI0WmR2a19vVmwwUUUxQWJ1cmFEaU85Qm96MjFadGw3UXYzYXZoRXp5NVUyUExSMTI1TWY0SDNBQ3hud1dHRW0tWVE2S0dER3BET01iQ25nMF9zczB5cW8waVAxZXR3?oc=5",
+      "type": "article",
+      "title": "EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - Global - EY",
+      "date": "2026-11-07",
+      "source": "EY",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2RwemhMMTdRUm5xZFByUnVnMl92QmlZT0ItV0pPdWx0NTFubmxVQTV2Q21wbEVjS2RxSEs1a0VxVzBTQ1J3R0xYRTRLNEVhME9DcmI0WmR2a19vVmwwUUUxQWJ1cmFEaU85Qm96MjFadGw3UXYzYXZoRXp5NVUyUExSMTI1TWY0SDNBQ3hud1dHRW0tWVE2S0dER3BET01iQ25nMF9zczB5cW8waVAxZXR3?oc=5",
+      "snippet": "EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - Global &nbsp;&nbsp; EY"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWJpT2pWTXNhbkhzSkVSWlJ1TldjQ3pCT0JTYS10ZC13VXhUWWhoMlNIaDZVQ2xVRkkycUk0bzJLUFpnZW5hTzZzXzFkcXl6ZlNIdUJYUXNIVnQ3d1h4dEpuTF9MUW02NXlKdVFzckI2a1luSk9JODhVMkhWc3N2MFdhbjZPVVpYcnlJdTRhZTBFVElIc3RZY3RseWNDcXpaSHc?oc=5",
       "type": "article",
@@ -112,6 +130,42 @@
       "snippet": "Dechert Appoints Adnan Bekdur As Dubai Partner To Expand Private Equity, M&A And Sovereign Wealth Practice &nbsp;&nbsp; Pulse 2.0"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm9KTWtnQ2J2ejNKdlZNWGh3UmZJV1RmNmZiUUFJOW95TmhGaTd2MHZIOGE1RHNEaktyZFZxNTZ3cWJVR3JzUFdhMUo3Mm56OUlDb0Z3bk94SVJEem43d3NNUkI2cWhORGU3ZWdKZ3docVpEVFd2YV9PbjhqUkVvWl9mWWVMN3JUb0wzanVmc1UyTkYyRHFvelBlVUJMS2llMW0yY1lPOFU?oc=5",
+      "type": "article",
+      "title": "Democrat Wins Ease Regulation Threats: Litigation Finance - Bloomberg Law News",
+      "date": "2026-11-06",
+      "source": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm9KTWtnQ2J2ejNKdlZNWGh3UmZJV1RmNmZiUUFJOW95TmhGaTd2MHZIOGE1RHNEaktyZFZxNTZ3cWJVR3JzUFdhMUo3Mm56OUlDb0Z3bk94SVJEem43d3NNUkI2cWhORGU3ZWdKZ3docVpEVFd2YV9PbjhqUkVvWl9mWWVMN3JUb0wzanVmc1UyTkYyRHFvelBlVUJMS2llMW0yY1lPOFU?oc=5",
+      "snippet": "Democrat Wins Ease Regulation Threats: Litigation Finance &nbsp;&nbsp; Bloomberg Law News"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JaXJrNHVYYUIxTm56emswaVB5SHFHU2FxRDc5dkx5Qnp1WHl0ZEtPUkhqNzExRUpFZ3l6bGpTcVI1LVdqdWV1NDh3a05oYzlOS09mRHF3?oc=5",
+      "type": "article",
+      "title": "Diageo | History, Products, & Global Strategy - Britannica",
+      "date": "2026-11-06",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JaXJrNHVYYUIxTm56emswaVB5SHFHU2FxRDc5dkx5Qnp1WHl0ZEtPUkhqNzExRUpFZ3l6bGpTcVI1LVdqdWV1NDh3a05oYzlOS09mRHF3?oc=5",
+      "snippet": "Diageo | History, Products, & Global Strategy &nbsp;&nbsp; Britannica"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUVOSE9tOWg1aExNd0N2MFdQZmlMWXdZUzh0R25oM0daYW1yMWlrQ2cwRUVqazJLVDEyMzFLS0F5RFEwb0tOaWFqUUFVZWNzRmFfTl9XaUJCTHdILWtMUWdCbVd6dWJxUzlWY29wNmkwS3p3b3pMbjhWUjRWaVNBMlRqUWk4cDdKMk8xUHNEbTFwc0hpWi1meEdQVXowVjIzNEHSAacBQVVfeXFMTkVDVDBjSml1M3pSMnU0LXE5SHY2Zkphc0daZW16Nm1tWDZZREk0TzB4aURoSGN1Q2hEUEJTUWpvR1h2S0xKeXBwUGpFRVczOVBkTVZLZmh4X0tKT3ZzUkZlSlJLQjlWcmVyOW82RERLUURYeWlrSXFWcDhocllwcUFURFV3eHJ0LUx6MEp6bXRQbWRCaW5HWFRCVllxYkpXbWZ0Y0dfSUU?oc=5",
+      "type": "article",
+      "title": "Mark Wasserman joins FTI Consulting as senior managing director - Consulting.us",
+      "date": "2026-11-06",
+      "source": "Consulting.us",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUVOSE9tOWg1aExNd0N2MFdQZmlMWXdZUzh0R25oM0daYW1yMWlrQ2cwRUVqazJLVDEyMzFLS0F5RFEwb0tOaWFqUUFVZWNzRmFfTl9XaUJCTHdILWtMUWdCbVd6dWJxUzlWY29wNmkwS3p3b3pMbjhWUjRWaVNBMlRqUWk4cDdKMk8xUHNEbTFwc0hpWi1meEdQVXowVjIzNEHSAacBQVVfeXFMTkVDVDBjSml1M3pSMnU0LXE5SHY2Zkphc0daZW16Nm1tWDZZREk0TzB4aURoSGN1Q2hEUEJTUWpvR1h2S0xKeXBwUGpFRVczOVBkTVZLZmh4X0tKT3ZzUkZlSlJLQjlWcmVyOW82RERLUURYeWlrSXFWcDhocllwcUFURFV3eHJ0LUx6MEp6bXRQbWRCaW5HWFRCVllxYkpXbWZ0Y0dfSUU?oc=5",
+      "snippet": "Mark Wasserman joins FTI Consulting as senior managing director &nbsp;&nbsp; Consulting.us"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "type": "article",
+      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions - Just Security",
+      "date": "2026-11-06",
+      "source": "Just Security",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllENnFPcEptNWUyMk5PRGdhVWVsWjhxMDFOQ0twUEl6LU5ZVEMxWUpSdzBqandqNDdBRVVqdFJRdEtFZkpfd1dKY2ZEZ1hLQ0Nfb0xWMXVLMnNCYjZSVURwbTlCdFFwWTVGbmhMR2xieUFsNnZ5Tms5b0t1SWRpTTNSQ2xTdWo4ZkpPbmZQTUFZYkp1OWY0RA?oc=5",
+      "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxObVVmNGNBUEtjb3E3c20xYm1iVTBXRllWbFB2RDlyUWtNekVrcVlYV1FuX2NXNzczejcweVZJdXpIelFlUUhJQ3lOLS1SZGFCR1lMZkM0SnRwc0lPWjVUUndMYWthZHp2Vng2VS13Q2xQRXdZSmhhS21NZ2lfRkZlS0p2eWZaRzZkT205Qi1maE40b3ROSzVTcHpJNy1keDFjRlRWOHB1UDdTZUowLXkwb1VzcGVaNDBOeFNYOGtNT0lKdGp1R2c?oc=5",
       "type": "article",
       "title": "Congressional Cage Match 2026: Private Equity Squares Off Against Patient Care - Law.com",
@@ -218,6 +272,15 @@
       "source": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSy1QU0MyMDBCM3Q4LVVRbWtCd1JCcUJTWTU1OERhazhFTWQ3WHI2YVNXdTMycFZIb1BUQjRBSG5DWklOYXlWMXdtdmxLNF8xbGZOMHA5dktRNldIaHk2ekJud2lIa2stTWJONk90ZWd5dFJ5dmJNb2VOTEFBOVNVdUlVaHpzX1pzSzhpV2dMQ00?oc=5",
       "snippet": "John Flannery Named to Board of WSHB Support Services &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNvME5kVXNhclNlcEVVYUZyNk1MZWhMb29rM0NTWVB5UHQ5UldCUmthX3paU0VEM3U0c05DMldZUDlWN0VhZGlHb2ZXaVgyMFl3SkdNNkJEUEVfSlRkVjlGZW02VWxmWjAwU2FHdVU2NWJmVHhCaENsaExFNjBLdGk5Nzl4Zk5TWUd2aDdvdzQydTg0Rkl4Y0VHM3V5YW9RRUR5NlR2cWRBWW9aWUZuNUJablNRUUpSX2lwMmFiUi0wNkZLY0NoLW1NbUHSAdIBQVVfeXFMTWpSMDBESFpXYjZNZ2NlM3VIc3RIMzI0SUg5UXR2V01DZ2Jia0dLZWxVTEZrV0d4YWs4UXczZ2FDMzJGMVJxcmJ4VVBLdHY1UGw2Vk1ySnVveFh6cXRJcFhEbnJ1NzhJV2l3cU5fNXRvVnpRMEhnZ2lGQldQTllobExIX3FFSDBaWmNDSGR4bjBoRlNIR0tPSDFDRk53WWxpQzZDaGdSaFVidHFBOE1DNDd5SHpWRzVwWjM5cnZYdV81V3BzeG1ERXhSckdqc1M4QmxB?oc=5",
+      "type": "article",
+      "title": "Innovative, Affordable Law Firm Arrives in Washington State - The Manila Times",
+      "date": "2026-11-05",
+      "source": "The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNvME5kVXNhclNlcEVVYUZyNk1MZWhMb29rM0NTWVB5UHQ5UldCUmthX3paU0VEM3U0c05DMldZUDlWN0VhZGlHb2ZXaVgyMFl3SkdNNkJEUEVfSlRkVjlGZW02VWxmWjAwU2FHdVU2NWJmVHhCaENsaExFNjBLdGk5Nzl4Zk5TWUd2aDdvdzQydTg0Rkl4Y0VHM3V5YW9RRUR5NlR2cWRBWW9aWUZuNUJablNRUUpSX2lwMmFiUi0wNkZLY0NoLW1NbUHSAdIBQVVfeXFMTWpSMDBESFpXYjZNZ2NlM3VIc3RIMzI0SUg5UXR2V01DZ2Jia0dLZWxVTEZrV0d4YWs4UXczZ2FDMzJGMVJxcmJ4VVBLdHY1UGw2Vk1ySnVveFh6cXRJcFhEbnJ1NzhJV2l3cU5fNXRvVnpRMEhnZ2lGQldQTllobExIX3FFSDBaWmNDSGR4bjBoRlNIR0tPSDFDRk53WWxpQzZDaGdSaFVidHFBOE1DNDd5SHpWRzVwWjM5cnZYdV81V3BzeG1ERXhSckdqc1M4QmxB?oc=5",
+      "snippet": "Innovative, Affordable Law Firm Arrives in Washington State &nbsp;&nbsp; The Manila Times"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzlzc3ZUTWRTMWlTM2tSZTVLSzBub3RfeTEzQnNOa3lWQU9VeUdhS3ZwN3RPQ25aaG1PZ09VYnMyN2JOZHZaeTROUGhOeG5ydFVYSHFwMm51aWQySlE5UklKWXdoa095RDVsQ3NUVU41TXBaR0xFZ3dyZFlIUVJCMk00dFg4dw?oc=5",
@@ -1289,69 +1352,6 @@
       "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeXlXRXBocUJOWnRNbFJQWW1CSVVHM3NWRzA3RGNkYndJRENQdHVlb1NXMGw4VlFDV29JUDNOR1ZwbzZha2VjWXJBcWVONGxCWFhSazlIVEszamNaQ1haVnBfRHl5RVpUZGItR1A4TWxEY25hRkdRMTFjMy1iZnJoaFdIV25yVWxpNzlrbUNvQ2xuNWFSTThrYmZ2cjFleFVKOFRRRXNhX0RtdlNpaml3azB0dTdCSlU1bFJSVnc4OG9WWVNyX3VfNktid1hYV1Q1NGwxNXMyWGlIZGJCTHhYX2U0LVJ3em1hTXF4aFdGQUVvQ2U2WkprNTdWTnE0Y2RERnhR?oc=5",
       "snippet": "Q&A with Harvey E. Bines, Attorney at Sullivan & Worcester: Insights on the Wolters Kluwer Treatise Investment Management Law and Regulation &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmkzZmJob1JSb1l5M2FFRlE5eWphalpSUjRyRVdwajRkNmFIcXREbkh0RWxPVlhoZTUwaWVDRVZDYU5qcHFLeDRDUkVaSzgyTEhsY0N5ZmprMmJLLWVIZVVSd1cweFR6S1dTbm83Z2dpVk5uTjRFbnc5UXIwY3RfeXRuQW5qamRVRnFoSFNvWktfY0JDYms1el90d3N2RmFPOXZEeHFhT3dIVDdpNEwtbFZtWklkMjhTSUJ6RdIBvAFBVV95cUxPdmkzZmJob1JSb1l5M2FFRlE5eWphalpSUjRyRVdwajRkNmFIcXREbkh0RWxPVlhoZTUwaWVDRVZDYU5qcHFLeDRDUkVaSzgyTEhsY0N5ZmprMmJLLWVIZVVSd1cweFR6S1dTbm83Z2dpVk5uTjRFbnc5UXIwY3RfeXRuQW5qamRVRnFoSFNvWktfY0JDYms1el90d3N2RmFPOXZEeHFhT3dIVDdpNEwtbFZtWklkMjhTSUJ6RQ?oc=5",
-      "type": "article",
-      "title": "The Bear Hug of Artificial Intelligence: Risks and Responsibilities in Patent Practice—The Israeli Perspective - The National Law Review",
-      "date": "2026-10-27",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmkzZmJob1JSb1l5M2FFRlE5eWphalpSUjRyRVdwajRkNmFIcXREbkh0RWxPVlhoZTUwaWVDRVZDYU5qcHFLeDRDUkVaSzgyTEhsY0N5ZmprMmJLLWVIZVVSd1cweFR6S1dTbm83Z2dpVk5uTjRFbnc5UXIwY3RfeXRuQW5qamRVRnFoSFNvWktfY0JDYms1el90d3N2RmFPOXZEeHFhT3dIVDdpNEwtbFZtWklkMjhTSUJ6RdIBvAFBVV95cUxPdmkzZmJob1JSb1l5M2FFRlE5eWphalpSUjRyRVdwajRkNmFIcXREbkh0RWxPVlhoZTUwaWVDRVZDYU5qcHFLeDRDUkVaSzgyTEhsY0N5ZmprMmJLLWVIZVVSd1cweFR6S1dTbm83Z2dpVk5uTjRFbnc5UXIwY3RfeXRuQW5qamRVRnFoSFNvWktfY0JDYms1el90d3N2RmFPOXZEeHFhT3dIVDdpNEwtbFZtWklkMjhTSUJ6RQ?oc=5",
-      "snippet": "The Bear Hug of Artificial Intelligence: Risks and Responsibilities in Patent Practice—The Israeli Perspective &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGtUeGpHd1VQa0JrZllscEJ0VnpKYzVBVGs0dloxdE1SekQ4QVZuVV81RlZwbGZDNHhNdnFrTmZ4OTZ0RVdwM0dheS05bFBUZG5GTTVYa0l3VjdHbzZKUFFkOEtOMm1jWjhDUjBOUDZmVGZPNFlnWmRYcUk4LW5wa0VERE9YalN2WXdOUG43UzFDUWhHbGp5RTh1cXVneDgza0FF0gFWQVVfeXFMT3Q4a2FrUm1TaTlRc1EyU0Q0cXUyZUxWSjdnX1E1bWpjT1prazVOQzZmZFpLN0l6ZjlBMkZIZ1dZSmFBME51bkpxZHdrNzR4TmtzTTJ2OFE?oc=5",
-      "type": "article",
-      "title": "Ex-Fla. Bar Prez Accused Of Botching $350M Estate Claim - Law360",
-      "date": "2026-10-27",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGtUeGpHd1VQa0JrZllscEJ0VnpKYzVBVGs0dloxdE1SekQ4QVZuVV81RlZwbGZDNHhNdnFrTmZ4OTZ0RVdwM0dheS05bFBUZG5GTTVYa0l3VjdHbzZKUFFkOEtOMm1jWjhDUjBOUDZmVGZPNFlnWmRYcUk4LW5wa0VERE9YalN2WXdOUG43UzFDUWhHbGp5RTh1cXVneDgza0FF0gFWQVVfeXFMT3Q4a2FrUm1TaTlRc1EyU0Q0cXUyZUxWSjdnX1E1bWpjT1prazVOQzZmZFpLN0l6ZjlBMkZIZ1dZSmFBME51bkpxZHdrNzR4TmtzTTJ2OFE?oc=5",
-      "snippet": "Ex-Fla. Bar Prez Accused Of Botching $350M Estate Claim &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkFfS3lwU2wzcWk5R3RLdFRhUC1JTTJ1MEVwcnRoc1VZejZzMGgtUkpFcHI3SjMwOE5kSlNOaG94ZFNDTktfZXZGdzk5OXJsMzNJV25vY0RXWld3NTZ5WkRwdEh1emZLSUxIQllsc3Iza19kTEltRHFnUVJXNGVmaGY0UzNYQnZmZ2tYQkxEbnBqbkswR2Q4aFluTzHSAVZBVV95cUxNNnl0SG1qS29VUlk0TF84ZDZ4aXVNU0VuQnU5bUVUSE1lMm5FZXhOYy1QdW02UGVmMlh6TVpvUndiOXdPNEo2RjFyZ2pHU2hVNHphTzBBQQ?oc=5",
-      "type": "article",
-      "title": "IRS Asks 1st Circ. To Toss Shuttered Bank Owner's Claims - Law360",
-      "date": "2026-10-27",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkFfS3lwU2wzcWk5R3RLdFRhUC1JTTJ1MEVwcnRoc1VZejZzMGgtUkpFcHI3SjMwOE5kSlNOaG94ZFNDTktfZXZGdzk5OXJsMzNJV25vY0RXWld3NTZ5WkRwdEh1emZLSUxIQllsc3Iza19kTEltRHFnUVJXNGVmaGY0UzNYQnZmZ2tYQkxEbnBqbkswR2Q4aFluTzHSAVZBVV95cUxNNnl0SG1qS29VUlk0TF84ZDZ4aXVNU0VuQnU5bUVUSE1lMm5FZXhOYy1QdW02UGVmMlh6TVpvUndiOXdPNEo2RjFyZ2pHU2hVNHphTzBBQQ?oc=5",
-      "snippet": "IRS Asks 1st Circ. To Toss Shuttered Bank Owner's Claims &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1pkdXIxUU9pZjlsa1Ywc1FZR0ZfS3BkRHdRUXFrdl9FN2EzUkNES3NLemk1eXMyNHY0MC02WlJHOWR0YjM2dGRoeDFyZUZNYXBGVDNyV1ZxM1pCMXNJT2RONEgyZlJGWDhKYklXcmFHdndxQ29BRHpwT0puVngtei1IOV9GUlBEN0VRbEQ0YnVXbXp3eGl2VjRrb1lNQnRuQ3BwUGI0WHZELXBkY2M5bV83TmVyeHdkNTVfd0xzYUROMW1XZ1BCQ0kyYXp3MHhzOUNsbVpWRWFyTENvd0dDX2lXZjBYMUM2QU42NlNJMVNVRFFvT0pmMXZTdU8ycEQ1MEF3OXZvaTltU1lJ0gGSAkFVX3lxTE5Ea19uUlBvbDdmdWQwMW83YXh2OFNnTTMzc2kxX2wtZ21iTkZyQW9yZUhpYzlIYzlNN2l3clZqa2xwWFVkU2lhUTNjZGVJRnowRlAtQS1lTjQ5S3NhcnhfOTNFdjZRd0VMelNPcDd6OVdNY19lSHFKcGFHTjUtWjFoQlZKNm85dkJZQ2NhQWlMWkJzZVY5NmNuU3ZibWttaGkyMkJSNVc2N1MzRXVUbzBLZVJDWFFSY0FIUmQwZWhPNGR6ZDVHWUtvM2x5dHJfbHRYOF9KNDY1T3JNVEsyUUh4M1pob2xYd3lXRm5PanBYcERJS21Gc0ZDVk50MFNnZzRNUFVIR216T0xFWlNKMG1QNnc?oc=5",
-      "type": "article",
-      "title": "TVS Motor’s Venu Srinivasan and daughter Lakshmi file caveats against each other over inheritance - The Economic Times",
-      "date": "2026-10-27",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1pkdXIxUU9pZjlsa1Ywc1FZR0ZfS3BkRHdRUXFrdl9FN2EzUkNES3NLemk1eXMyNHY0MC02WlJHOWR0YjM2dGRoeDFyZUZNYXBGVDNyV1ZxM1pCMXNJT2RONEgyZlJGWDhKYklXcmFHdndxQ29BRHpwT0puVngtei1IOV9GUlBEN0VRbEQ0YnVXbXp3eGl2VjRrb1lNQnRuQ3BwUGI0WHZELXBkY2M5bV83TmVyeHdkNTVfd0xzYUROMW1XZ1BCQ0kyYXp3MHhzOUNsbVpWRWFyTENvd0dDX2lXZjBYMUM2QU42NlNJMVNVRFFvT0pmMXZTdU8ycEQ1MEF3OXZvaTltU1lJ0gGSAkFVX3lxTE5Ea19uUlBvbDdmdWQwMW83YXh2OFNnTTMzc2kxX2wtZ21iTkZyQW9yZUhpYzlIYzlNN2l3clZqa2xwWFVkU2lhUTNjZGVJRnowRlAtQS1lTjQ5S3NhcnhfOTNFdjZRd0VMelNPcDd6OVdNY19lSHFKcGFHTjUtWjFoQlZKNm85dkJZQ2NhQWlMWkJzZVY5NmNuU3ZibWttaGkyMkJSNVc2N1MzRXVUbzBLZVJDWFFSY0FIUmQwZWhPNGR6ZDVHWUtvM2x5dHJfbHRYOF9KNDY1T3JNVEsyUUh4M1pob2xYd3lXRm5PanBYcERJS21Gc0ZDVk50MFNnZzRNUFVIR216T0xFWlNKMG1QNnc?oc=5",
-      "snippet": "TVS Motor’s Venu Srinivasan and daughter Lakshmi file caveats against each other over inheritance &nbsp;&nbsp; The Economic Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSWlMcFlvUlV3akdjZkI1R2hTZXdQOThrdVNxLXFGTWJwV1VJTWZKbFpfd1FIbllkaFVPWXQ1VjVDaUpfU1dyU1ppT1lLUGF0Z2lPX2hqMjJacXh0RnYzb0ljRE5kUHhMMThuQ1Fn?oc=5",
-      "type": "article",
-      "title": "OPINION: Private equity in law firms raises fee-sharing questions - NJBIZ",
-      "date": "2026-10-26",
-      "source": "NJBIZ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSWlMcFlvUlV3akdjZkI1R2hTZXdQOThrdVNxLXFGTWJwV1VJTWZKbFpfd1FIbllkaFVPWXQ1VjVDaUpfU1dyU1ppT1lLUGF0Z2lPX2hqMjJacXh0RnYzb0ljRE5kUHhMMThuQ1Fn?oc=5",
-      "snippet": "OPINION: Private equity in law firms raises fee-sharing questions &nbsp;&nbsp; NJBIZ"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkRiR0pXZ0lxV0dFQ2tIYU5JcUZnZlFGWi1wSHpHU29pemYxSEtNVU5ocU1ZYS02YWx3MXhrdDEwTnhja3pKOGx1dllyY3F1MEh3R1BBX2lJcWRjYzNwQnU0OUk3VXBaeThPUmwwenJjQkgxamxLR3VvMGpuT2pIY3pBcVRFOEd1WW9KWkdzcFBOWkdxc2hWM1oyNlRWVHltUG53?oc=5",
-      "type": "article",
-      "title": "At Your Service: Oct. 26 edition - Alternatives Watch",
-      "date": "2026-10-26",
-      "source": "Alternatives Watch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkRiR0pXZ0lxV0dFQ2tIYU5JcUZnZlFGWi1wSHpHU29pemYxSEtNVU5ocU1ZYS02YWx3MXhrdDEwTnhja3pKOGx1dllyY3F1MEh3R1BBX2lJcWRjYzNwQnU0OUk3VXBaeThPUmwwenJjQkgxamxLR3VvMGpuT2pIY3pBcVRFOEd1WW9KWkdzcFBOWkdxc2hWM1oyNlRWVHltUG53?oc=5",
-      "snippet": "At Your Service: Oct. 26 edition &nbsp;&nbsp; Alternatives Watch"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxPX20xczFxTEpWSjRvaGtJTmdWRTNpdjF1Y1BsWk1YaHpYcXZmZXNzQTZPTTkyUTZaZWFlVmdtM2ZsQ3p6RUlBNmJiNjNLZl91RHhFMXVJOUtPR3JkY0NGUWxQcU9sOUtGVjJHYndxNVlrRnpvdU1FMzVxMzM5VUtqUC1xOG5rYmlSdmRCeFBkenQxSFJzSUwzLXBn?oc=5",
-      "type": "article",
-      "title": "Mubadala Capital Announces Strategic Investment from Apollo - The National Law Review",
-      "date": "2026-10-26",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX20xczFxTEpWSjRvaGtJTmdWRTNpdjF1Y1BsWk1YaHpYcXZmZXNzQTZPTTkyUTZaZWFlVmdtM2ZsQ3p6RUlBNmJiNjNLZl91RHhFMXVJOUtPR3JkY0NGUWxQcU9sOUtGVjJHYndxNVlrRnpvdU1FMzVxMzM5VUtqUC1xOG5rYmlSdmRCeFBkenQxSFJzSUwzLXBn?oc=5",
-      "snippet": "Mubadala Capital Announces Strategic Investment from Apollo &nbsp;&nbsp; The National Law Review"
     }
   ]
 }
