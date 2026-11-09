@@ -1,8 +1,134 @@
 {
-  "lastRun": "2026-11-08T16:56:35.541721+00:00",
+  "lastRun": "2026-11-09T21:19:58.995980+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 7,
+  "addedThisRun": 16,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxPckVBXzA1NWtfVHJQS2VJc2l6QVR4NkNoT1dfNUFnS1UtTUZxWEg1NGd3TTdjVU41dmdjeE9KS2FYMGFFZ2hGWTZFSHBYbHNsUlJ6Sk9zTHpnbDVnOEw5WTZET1g1V2Uta1BEY2NxVnJTVlZ0RXRlR2ZlM2NuRUJSZDlvcW5LdTNfVldaWnJNWmxIczIx?oc=5",
+      "type": "article",
+      "title": "Blackletter Bags $6m for Transactional New Mod - Artificial Lawyer",
+      "date": "2026-11-09",
+      "source": "Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckVBXzA1NWtfVHJQS2VJc2l6QVR4NkNoT1dfNUFnS1UtTUZxWEg1NGd3TTdjVU41dmdjeE9KS2FYMGFFZ2hGWTZFSHBYbHNsUlJ6Sk9zTHpnbDVnOEw5WTZET1g1V2Uta1BEY2NxVnJTVlZ0RXRlR2ZlM2NuRUJSZDlvcW5LdTNfVldaWnJNWmxIczIx?oc=5",
+      "snippet": "Blackletter Bags $6m for Transactional New Mod &nbsp;&nbsp; Artificial Lawyer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzVMajJYQ0Z4RkRKcHJtMWtEck51d0I4Y1VhODdqamxVSTlwWGZxZDdCSmhZUmM5dWpJd0RvXzRWOTI2cFlKaFFxQzhLVnRCQlNKanY0a1VrMW9vMURjZlMxSUZKNVZsQmJKOU9qT3RoSV8tUnh0YWxPUFdsd09naE4wb0lmTmJRc1haUXV1QXVOZDgxS1JGTUR2eXNGSFpkek1TTk5zM3c2N3BhZUZRZ1Rfc3VjQXczaFNj?oc=5",
+      "type": "article",
+      "title": "Private Equity Promised Better Healthcare. What Should Lawyers Learn From What Happened? - Above the Law",
+      "date": "2026-11-09",
+      "source": "Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzVMajJYQ0Z4RkRKcHJtMWtEck51d0I4Y1VhODdqamxVSTlwWGZxZDdCSmhZUmM5dWpJd0RvXzRWOTI2cFlKaFFxQzhLVnRCQlNKanY0a1VrMW9vMURjZlMxSUZKNVZsQmJKOU9qT3RoSV8tUnh0YWxPUFdsd09naE4wb0lmTmJRc1haUXV1QXVOZDgxS1JGTUR2eXNGSFpkek1TTk5zM3c2N3BhZUZRZ1Rfc3VjQXczaFNj?oc=5",
+      "snippet": "Private Equity Promised Better Healthcare. What Should Lawyers Learn From What Happened? &nbsp;&nbsp; Above the Law"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilgFBVV95cUxORnliWWk4WnA5c2tQaTZ3azlfXy1lY2ZzNm5ndURtLUlUUDNkWGZXdkRMSEdkakdRamk1TUtpNS1oUnFHd2xkcXFHSDVqYTF4bkFPaHJBR3FOeFJZaVpqSzZtQm1LYnpwOEdWNnRKcEpOWlVpbVJiYUtIUk5rUWZPb0VYYS1wbFAyQ3M5SEFjUVJMSlVDYlHSAV5BVV95cUxOd0lBWHkzRFRiOTIxNUUtak9iTFlUOGJqTTkyVjE2TXZ5QXdCVHBKQWE3VXRLYmFZTGhlTlBLUURjb0VqaVZmZVg1SFg1M3lZRkZqUXk4RGxINlRtX3J3?oc=5",
+      "type": "article",
+      "title": "How Law Firms Can Respond To A Crisis Of Confidence - Law360",
+      "date": "2026-11-09",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnliWWk4WnA5c2tQaTZ3azlfXy1lY2ZzNm5ndURtLUlUUDNkWGZXdkRMSEdkakdRamk1TUtpNS1oUnFHd2xkcXFHSDVqYTF4bkFPaHJBR3FOeFJZaVpqSzZtQm1LYnpwOEdWNnRKcEpOWlVpbVJiYUtIUk5rUWZPb0VYYS1wbFAyQ3M5SEFjUVJMSlVDYlHSAV5BVV95cUxOd0lBWHkzRFRiOTIxNUUtak9iTFlUOGJqTTkyVjE2TXZ5QXdCVHBKQWE3VXRLYmFZTGhlTlBLUURjb0VqaVZmZVg1SFg1M3lZRkZqUXk4RGxINlRtX3J3?oc=5",
+      "snippet": "How Law Firms Can Respond To A Crisis Of Confidence &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxNVWlsLVRKZW1XY0Z5X1JCcmRjTmRJR1JXYS1jNWctaGRsbjJXTjMxLVkxbXE2Z05RSE43V2ZTUWRtaE9Tcm41VEdpLVJPeWwxekdCYUFFS1g0WTdhVk5tMjh3X1R4eEFXTDRYSWVMMHBza1B0ak5NdF9XOG1ZOUw1SHk0TzBLeGdfRXNJbERfSVNoNlN5N09RcVZmWmFqQdIBXkFVX3lxTE8xaDhRdlRWSENnaXFEWWpHR01icEo2cTBYd1hGQzhaYjJlRmFuZDdUUFRFTUZEUGpHY0dPZ01PQTVpTThpTUdKWW9acDhFcmNNMExwS052ODFvQ2NXTFE?oc=5",
+      "type": "article",
+      "title": "KPMG Atty Joins Ward And Smith To Lead White Collar Group - Law360",
+      "date": "2026-11-09",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWlsLVRKZW1XY0Z5X1JCcmRjTmRJR1JXYS1jNWctaGRsbjJXTjMxLVkxbXE2Z05RSE43V2ZTUWRtaE9Tcm41VEdpLVJPeWwxekdCYUFFS1g0WTdhVk5tMjh3X1R4eEFXTDRYSWVMMHBza1B0ak5NdF9XOG1ZOUw1SHk0TzBLeGdfRXNJbERfSVNoNlN5N09RcVZmWmFqQdIBXkFVX3lxTE8xaDhRdlRWSENnaXFEWWpHR01icEo2cTBYd1hGQzhaYjJlRmFuZDdUUFRFTUZEUGpHY0dPZ01PQTVpTThpTUdKWW9acDhFcmNNMExwS052ODFvQ2NXTFE?oc=5",
+      "snippet": "KPMG Atty Joins Ward And Smith To Lead White Collar Group &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMizwFBVV95cUxNck5xWG9hU0ltaXFBNEJoNnRWS2Z6SnNfQkR3dW51MDJESWswWkh4SWwyNHYwc2JOR0VlZTdWTVp5ekFHRFFRRjU3bGwwR1lSb09SNDhRalF4QWE1OFkzVEZuNzhWdkNfOTItS1AzNzhOTG9qbEpvbDFQWVNPSC1WNWFwUk03clRiSGVFZGJzbGxRMVhaSkZUVXN5cm1BeE9BRzNjN21KTWxZeHgwMXJ6UjNFQ0p4dDVPcG9Wa3RKaE5oTTA0RHg5Zjhtc3dCQjg?oc=5",
+      "type": "article",
+      "title": "Why the simplest alternative risk transfer programs often win - Insurance Business",
+      "date": "2026-11-09",
+      "source": "Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNck5xWG9hU0ltaXFBNEJoNnRWS2Z6SnNfQkR3dW51MDJESWswWkh4SWwyNHYwc2JOR0VlZTdWTVp5ekFHRFFRRjU3bGwwR1lSb09SNDhRalF4QWE1OFkzVEZuNzhWdkNfOTItS1AzNzhOTG9qbEpvbDFQWVNPSC1WNWFwUk03clRiSGVFZGJzbGxRMVhaSkZUVXN5cm1BeE9BRzNjN21KTWxZeHgwMXJ6UjNFQ0p4dDVPcG9Wa3RKaE5oTTA0RHg5Zjhtc3dCQjg?oc=5",
+      "snippet": "Why the simplest alternative risk transfer programs often win &nbsp;&nbsp; Insurance Business"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanR3TzlYd3BqekNYYnk0NFVyVlZwMDhhRnM3Sk1rcXU2OFE3aU5QNGY0amNrYzhUbGhpSXE4bWlfRkc4VVl0SG05cFFXSnUxN016d1JFZG9POC1LYU5hcTZvQXREdW9pLXZzR243RHYwV3paUmxxXzdMV2ZBbEVjWXZjcDFfaldmcEN6Z29CdmlsUnQ0aGVXTEVsVXJwa1hJZlN6d0tEaUk?oc=5",
+      "type": "article",
+      "title": "Blackletter: $6 Million Seed Funding Led By Lerer Hippeau To Expand AI-Powered Law Firm - Pulse 2.0",
+      "date": "2026-11-09",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanR3TzlYd3BqekNYYnk0NFVyVlZwMDhhRnM3Sk1rcXU2OFE3aU5QNGY0amNrYzhUbGhpSXE4bWlfRkc4VVl0SG05cFFXSnUxN016d1JFZG9POC1LYU5hcTZvQXREdW9pLXZzR243RHYwV3paUmxxXzdMV2ZBbEVjWXZjcDFfaldmcEN6Z29CdmlsUnQ0aGVXTEVsVXJwa1hJZlN6d0tEaUk?oc=5",
+      "snippet": "Blackletter: $6 Million Seed Funding Led By Lerer Hippeau To Expand AI-Powered Law Firm &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxOdUdjMnZyYWR6UF9oMnBWUmZEV1hETlM1VHlXQS1zc3l4ekFOMjNORFFlSHh6a3I3ZHpsbGpWRXpNSjJudGxhdkFGTEctcnlFa1g2clVoYldpMUJHcGNKOS01c25BTTVwQWJ2dkhSQjNaNU55dzJmMTBRVDN1ZU15UWhac0tqaV9FTlNvTmRncWs?oc=5",
+      "type": "article",
+      "title": "The 2027 Executives to Watch: The Hartford’s Stephen Screen - Risk & Insurance",
+      "date": "2026-11-09",
+      "source": "Risk & Insurance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdUdjMnZyYWR6UF9oMnBWUmZEV1hETlM1VHlXQS1zc3l4ekFOMjNORFFlSHh6a3I3ZHpsbGpWRXpNSjJudGxhdkFGTEctcnlFa1g2clVoYldpMUJHcGNKOS01c25BTTVwQWJ2dkhSQjNaNU55dzJmMTBRVDN1ZU15UWhac0tqaV9FTlNvTmRncWs?oc=5",
+      "snippet": "The 2027 Executives to Watch: The Hartford’s Stephen Screen &nbsp;&nbsp; Risk & Insurance"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVI0SXBHS0FVb0haekVfSEpiTnVXeFBqYmtUYWlEMmN5ZGNORUFJbl92UnZsR2RXeFpSRXdsRjEtSTUyYWtWbW5IRFBWVjRDMVVtV0F1elNySVV1TW10S1N6YUJUNHRDc1ZNSm9YRExRQVZUT3R6RG40WGdRcWM0WDdNcGZsVzA1VWVr?oc=5",
+      "type": "article",
+      "title": "Some thoughts on next-gen law firm management - NY Daily Record",
+      "date": "2026-11-09",
+      "source": "NY Daily Record",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVI0SXBHS0FVb0haekVfSEpiTnVXeFBqYmtUYWlEMmN5ZGNORUFJbl92UnZsR2RXeFpSRXdsRjEtSTUyYWtWbW5IRFBWVjRDMVVtV0F1elNySVV1TW10S1N6YUJUNHRDc1ZNSm9YRExRQVZUT3R6RG40WGdRcWM0WDdNcGZsVzA1VWVr?oc=5",
+      "snippet": "Some thoughts on next-gen law firm management &nbsp;&nbsp; NY Daily Record"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTlFNYjZaLVdKQmh0SDBhZ2VBanM5RjFvZU9tclk4RjQ3WmQxWS1BVnhVVlBOZlZvaDFNNmdLTTZkVUYza0RJOWx1R1ZlYU9RWDJzNk9MRjhHam5zOW9YTEJ1Y0J2Wkk5ZHA2bE4tSW1kcG5TV19jVENJc2RmUE82OHZHM2FsT2JCSEVEeXd3MkR0cHd3dlo1eXFoM3B4aFZpWlVLLUJwaWREN2Jia0VnRms2QmU2MWdnZlZzdUt0Q0R6Z1VhR2JNWUNTSGdLVVZ1OVFzQ2h4eXRtZFhmN0x1N3RmamlSd0VGN2w0S0t1QjlveFFGakVSVVdXd3dTdw?oc=5",
+      "type": "article",
+      "title": "Massumi + Consoli Expands to Silicon Valley with Former Weil Private Equity and M&A Partner Matt Stewart - StreetInsider",
+      "date": "2026-11-09",
+      "source": "StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTlFNYjZaLVdKQmh0SDBhZ2VBanM5RjFvZU9tclk4RjQ3WmQxWS1BVnhVVlBOZlZvaDFNNmdLTTZkVUYza0RJOWx1R1ZlYU9RWDJzNk9MRjhHam5zOW9YTEJ1Y0J2Wkk5ZHA2bE4tSW1kcG5TV19jVENJc2RmUE82OHZHM2FsT2JCSEVEeXd3MkR0cHd3dlo1eXFoM3B4aFZpWlVLLUJwaWREN2Jia0VnRms2QmU2MWdnZlZzdUt0Q0R6Z1VhR2JNWUNTSGdLVVZ1OVFzQ2h4eXRtZFhmN0x1N3RmamlSd0VGN2w0S0t1QjlveFFGakVSVVdXd3dTdw?oc=5",
+      "snippet": "Massumi + Consoli Expands to Silicon Valley with Former Weil Private Equity and M&A Partner Matt Stewart &nbsp;&nbsp; StreetInsider"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1hqMGVJdUYxSnhVUWFXNHBRdDRSZ2dsZHd6RFM1OFFjdlNtcUowVldlQ1ZhQ1k0VXZrOWRjMm4tdy1FV21LQWZxS09McURvZGNMNzVTbXRkRV9meXZKT1A1N1hwcHA5VnlVSEtZcnhOV0RIRmZRWTh2NG5KNnJBRFVUeVZ2MFJfUzVOcHdSeDNEMWJob19VMVlQdFMtZHNLaVFBNA?oc=5",
+      "type": "article",
+      "title": "Aderant Achieves SOC 2 Type 2 Examination for Expert Sierra, vi, iTimekeep, Onyx and BillBlast - Quantisnow",
+      "date": "2026-11-09",
+      "source": "Quantisnow",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1hqMGVJdUYxSnhVUWFXNHBRdDRSZ2dsZHd6RFM1OFFjdlNtcUowVldlQ1ZhQ1k0VXZrOWRjMm4tdy1FV21LQWZxS09McURvZGNMNzVTbXRkRV9meXZKT1A1N1hwcHA5VnlVSEtZcnhOV0RIRmZRWTh2NG5KNnJBRFVUeVZ2MFJfUzVOcHdSeDNEMWJob19VMVlQdFMtZHNLaVFBNA?oc=5",
+      "snippet": "Aderant Achieves SOC 2 Type 2 Examination for Expert Sierra, vi, iTimekeep, Onyx and BillBlast &nbsp;&nbsp; Quantisnow"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDJZZkFXci0zQWVjakUxbDhPNmpFRlAxSEl5dF8xYWdidndnTEQ0VTdDVlJzODdhR3Y5TGpGRkgxQlJCUmtDTk5iQ0pjZFVQWmFIMEZJajgtbjFyRFJIX3ZKQV9uLUxkLUs4OFR6UWRiaFdmR2gxaHJFVVUxZ1ZZcEhETl9MeEpYazZNcUs0QjFVcFNoc1R1RzkxbTF0TlNtYm5Dag?oc=5",
+      "type": "article",
+      "title": "L Squared Capital Partners Acquires Edko As First Investment From $2 Billion Fund V - Pulse 2.0",
+      "date": "2026-11-09",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDJZZkFXci0zQWVjakUxbDhPNmpFRlAxSEl5dF8xYWdidndnTEQ0VTdDVlJzODdhR3Y5TGpGRkgxQlJCUmtDTk5iQ0pjZFVQWmFIMEZJajgtbjFyRFJIX3ZKQV9uLUxkLUs4OFR6UWRiaFdmR2gxaHJFVVUxZ1ZZcEhETl9MeEpYazZNcUs0QjFVcFNoc1R1RzkxbTF0TlNtYm5Dag?oc=5",
+      "snippet": "L Squared Capital Partners Acquires Edko As First Investment From $2 Billion Fund V &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMm9wc2pOV216eXRtbGhxNV9uNTdBb2lHdm1lV3R1VngyRGs5YXNfUWp6MWM4dzR5Z01yZWdvTlQwTy1YYlRESmhNSlZYMGVKTktTbVRLbjZYV253SVgxeHdTZ1Jfbzg3M294dE9BWHJBeDRiUUVLRXRSaG16RTM2Um10a2UxSE5kbFdXbU9kMGRfZkJwMDNiMWRJZktiYV9aUThjeTBQalBqLVdqbjd0WElPcVdQWldMaFBNU1BIcmpwaFFjRHNjUU4tSFBtcTVwVVo1RDVqNURzWEdSSnZocm5n?oc=5",
+      "type": "article",
+      "title": "Aderant Achieves SOC 2 Type 2 Examination for Expert Sierra, vi, iTimekeep, Onyx and BillBlast - Business Wire",
+      "date": "2026-11-09",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMm9wc2pOV216eXRtbGhxNV9uNTdBb2lHdm1lV3R1VngyRGs5YXNfUWp6MWM4dzR5Z01yZWdvTlQwTy1YYlRESmhNSlZYMGVKTktTbVRLbjZYV253SVgxeHdTZ1Jfbzg3M294dE9BWHJBeDRiUUVLRXRSaG16RTM2Um10a2UxSE5kbFdXbU9kMGRfZkJwMDNiMWRJZktiYV9aUThjeTBQalBqLVdqbjd0WElPcVdQWldMaFBNU1BIcmpwaFFjRHNjUU4tSFBtcTVwVVo1RDVqNURzWEdSSnZocm5n?oc=5",
+      "snippet": "Aderant Achieves SOC 2 Type 2 Examination for Expert Sierra, vi, iTimekeep, Onyx and BillBlast &nbsp;&nbsp; Business Wire"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX19EaFFHZ0NqOEh2YTVJMnZ4SmFIR21fUU5USDJGUEN2d2QtdVFvdlhvUEtnbFNIb2hDNjJURkViNG0zTkw2WFNIVjNHTkplbDJIMmo1VEJFd2xfSlU5Q1VLMVBRQ3NWVUhZQTdtSzNaYnhaMXFmdDhYZGZQXzk1R191c295OTlicTkweDVWOHNodHNYb0phTVdmanR5QVk0Yk1NWkJJbnRJWWNxcXdBWWVCdzVoaWdtTGNMYnJCOWMyeVk?oc=5",
+      "type": "article",
+      "title": "Syracuse’s top lawyer makes $125K working for private clients. It’s becoming a problem - Syracuse.com",
+      "date": "2026-11-09",
+      "source": "Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX19EaFFHZ0NqOEh2YTVJMnZ4SmFIR21fUU5USDJGUEN2d2QtdVFvdlhvUEtnbFNIb2hDNjJURkViNG0zTkw2WFNIVjNHTkplbDJIMmo1VEJFd2xfSlU5Q1VLMVBRQ3NWVUhZQTdtSzNaYnhaMXFmdDhYZGZQXzk1R191c295OTlicTkweDVWOHNodHNYb0phTVdmanR5QVk0Yk1NWkJJbnRJWWNxcXdBWWVCdzVoaWdtTGNMYnJCOWMyeVk?oc=5",
+      "snippet": "Syracuse’s top lawyer makes $125K working for private clients. It’s becoming a problem &nbsp;&nbsp; Syracuse.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1JQYms4ek95VE5QQVVVWXBJOVItNDlvZW5LQ0FncU5Qckp0aEVLbkhjdDZCRnRkQy15R0xMekJrVWdFQkxzMUN5TWRpTno4d2dmSi1FNG81dWFhOEs3X1dRWTIyRlZ3R1A0ZkZIVFpIU2JDUDQ2WU5nX3JnVXUzUW94dnY1c0xORnU0eHdDckM2YlVhRUJqWlRmODVPMzV2aktNcE5zLW1WakF2QndjMUJwQ1NJTWwyMUNRRVI3Z3cxQQ?oc=5",
+      "type": "article",
+      "title": "Penguin Solutions: Cree LED Sale To Transom Capital Group Advances AI Data Center Infrastructure Strategy - Pulse 2.0",
+      "date": "2026-11-09",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1JQYms4ek95VE5QQVVVWXBJOVItNDlvZW5LQ0FncU5Qckp0aEVLbkhjdDZCRnRkQy15R0xMekJrVWdFQkxzMUN5TWRpTno4d2dmSi1FNG81dWFhOEs3X1dRWTIyRlZ3R1A0ZkZIVFpIU2JDUDQ2WU5nX3JnVXUzUW94dnY1c0xORnU0eHdDckM2YlVhRUJqWlRmODVPMzV2aktNcE5zLW1WakF2QndjMUJwQ1NJTWwyMUNRRVI3Z3cxQQ?oc=5",
+      "snippet": "Penguin Solutions: Cree LED Sale To Transom Capital Group Advances AI Data Center Infrastructure Strategy &nbsp;&nbsp; Pulse 2.0"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiZEFVX3lxTE13X0tEbHY4WnppbU9SbmVqN3hKcmtocnV3RVpmUFdHUDdVRXYyY3R2NnNFaXpROWZqc0NOWU5OZmtJQW52RmtKcTlieTJVVDNkUFRSTEJ1eU1EVEpkalhsc1VYanc?oc=5",
       "type": "article",
@@ -166,6 +292,15 @@
       "snippet": "Litigation Tracker: Legal Challenges to Trump Administration Actions &nbsp;&nbsp; Just Security"
     },
     {
+      "id": "news:https://news.google.com/rss/articles/CBMiogFBVV95cUxObFZlcENDNWRrNmJqYnh2emxCRkJBRGFJLUNWV2ZWS3hNMnVSdlRNZWhyQS11V21xQV9KSjQ3NTlodTFGU2VwN0xYZnhRZUZDZ2QyNnM4SVhhR01kdDZFajZIam1FOWxqODJyTTFYM1U5VmRjM21wLVhTU0FNb1BwVUdlSjl3VVhzSk1lUGFBU3I2bm9RV29BY3ZFbXI3S0lwTnc?oc=5",
+      "type": "article",
+      "title": "‘Tis the season for charitable donations and tax deductions - The Business Journals",
+      "date": "2026-11-06",
+      "source": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFZlcENDNWRrNmJqYnh2emxCRkJBRGFJLUNWV2ZWS3hNMnVSdlRNZWhyQS11V21xQV9KSjQ3NTlodTFGU2VwN0xYZnhRZUZDZ2QyNnM4SVhhR01kdDZFajZIam1FOWxqODJyTTFYM1U5VmRjM21wLVhTU0FNb1BwVUdlSjl3VVhzSk1lUGFBU3I2bm9RV29BY3ZFbXI3S0lwTnc?oc=5",
+      "snippet": "‘Tis the season for charitable donations and tax deductions &nbsp;&nbsp; The Business Journals"
+    },
+    {
       "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxObVVmNGNBUEtjb3E3c20xYm1iVTBXRllWbFB2RDlyUWtNekVrcVlYV1FuX2NXNzczejcweVZJdXpIelFlUUhJQ3lOLS1SZGFCR1lMZkM0SnRwc0lPWjVUUndMYWthZHp2Vng2VS13Q2xQRXdZSmhhS21NZ2lfRkZlS0p2eWZaRzZkT205Qi1maE40b3ROSzVTcHpJNy1keDFjRlRWOHB1UDdTZUowLXkwb1VzcGVaNDBOeFNYOGtNT0lKdGp1R2c?oc=5",
       "type": "article",
       "title": "Congressional Cage Match 2026: Private Equity Squares Off Against Patient Care - Law.com",
@@ -281,6 +416,15 @@
       "source": "The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNvME5kVXNhclNlcEVVYUZyNk1MZWhMb29rM0NTWVB5UHQ5UldCUmthX3paU0VEM3U0c05DMldZUDlWN0VhZGlHb2ZXaVgyMFl3SkdNNkJEUEVfSlRkVjlGZW02VWxmWjAwU2FHdVU2NWJmVHhCaENsaExFNjBLdGk5Nzl4Zk5TWUd2aDdvdzQydTg0Rkl4Y0VHM3V5YW9RRUR5NlR2cWRBWW9aWUZuNUJablNRUUpSX2lwMmFiUi0wNkZLY0NoLW1NbUHSAdIBQVVfeXFMTWpSMDBESFpXYjZNZ2NlM3VIc3RIMzI0SUg5UXR2V01DZ2Jia0dLZWxVTEZrV0d4YWs4UXczZ2FDMzJGMVJxcmJ4VVBLdHY1UGw2Vk1ySnVveFh6cXRJcFhEbnJ1NzhJV2l3cU5fNXRvVnpRMEhnZ2lGQldQTllobExIX3FFSDBaWmNDSGR4bjBoRlNIR0tPSDFDRk53WWxpQzZDaGdSaFVidHFBOE1DNDd5SHpWRzVwWjM5cnZYdV81V3BzeG1ERXhSckdqc1M4QmxB?oc=5",
       "snippet": "Innovative, Affordable Law Firm Arrives in Washington State &nbsp;&nbsp; The Manila Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMidkFVX3lxTE1UWF9IdDhRSjFSQkxsLVFHaGFxMjdpbklCZjhhTW9IVDRrZHk0ajc3bTZYY3JDcEJIRXg1R1RvMVRnMURlb2EzVjlDeUxQQVZJTHJWWnpweXhUMzVraGllQ1k2cV9pQkdHc0tjTnR0SGJkbzNyT0E?oc=5",
+      "type": "article",
+      "title": "Private banking winners combine credit and alternative expertise - Professional Wealth Management",
+      "date": "2026-11-05",
+      "source": "Professional Wealth Management",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UWF9IdDhRSjFSQkxsLVFHaGFxMjdpbklCZjhhTW9IVDRrZHk0ajc3bTZYY3JDcEJIRXg1R1RvMVRnMURlb2EzVjlDeUxQQVZJTHJWWnpweXhUMzVraGllQ1k2cV9pQkdHc0tjTnR0SGJkbzNyT0E?oc=5",
+      "snippet": "Private banking winners combine credit and alternative expertise &nbsp;&nbsp; Professional Wealth Management"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzlzc3ZUTWRTMWlTM2tSZTVLSzBub3RfeTEzQnNOa3lWQU9VeUdhS3ZwN3RPQ25aaG1PZ09VYnMyN2JOZHZaeTROUGhOeG5ydFVYSHFwMm51aWQySlE5UklKWXdoa095RDVsQ3NUVU41TXBaR0xFZ3dyZFlIUVJCMk00dFg4dw?oc=5",
@@ -1208,150 +1352,6 @@
       "source": "Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPam5UTU9BZ1IzTnF0djVrQ3BFY0tWMkhXdHNVVVZBZ2lJajIxVkJrVTdhS00xV1BFVnpGeEJUcXoyVkduMEI5UlYtLXNTbU5pM2p3dVFXeEZMSm1uZ0hSdWI5S0hwYU9JMW55MXNHaUpKNS1ubG5veUtsLVJLRVc3OFBpQTRjZGctT24wcFlzZ1BOaGpWa2J6RzlIUF9CcVpERXF4Q1IyTC1RRk5YTnlySUxwNnU5UFQ3TGxFdg?oc=5",
       "snippet": "Obituary: Remembering Marcus Green, a solicitor of \"infinite charm\" &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUljVVladk11b1BxTjJQa1d1cmt2dC13TC1Tc1pTb0FjaGRMOGNIbjVGcW56RzV1eXlxeEY2UGJKcjhtN0VGd1NoY1JzNWNIRmVCRm45ZS1qdlp6LTZWSVZVRVU0T3FhS1FOWXhIQ1ZZWm52VzlqVktlWWtJRHVaZGFiYTdNOURGeHRQRVR6UzFraVhDVWk2X1V2OHpjTE9ra0JVWjBWVkhUSHhYckE?oc=5",
-      "type": "article",
-      "title": "Legal Services Board approves SRA approach to unlimited fine power - Legal Futures",
-      "date": "2026-10-28",
-      "source": "Legal Futures",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUljVVladk11b1BxTjJQa1d1cmt2dC13TC1Tc1pTb0FjaGRMOGNIbjVGcW56RzV1eXlxeEY2UGJKcjhtN0VGd1NoY1JzNWNIRmVCRm45ZS1qdlp6LTZWSVZVRVU0T3FhS1FOWXhIQ1ZZWm52VzlqVktlWWtJRHVaZGFiYTdNOURGeHRQRVR6UzFraVhDVWk2X1V2OHpjTE9ra0JVWjBWVkhUSHhYckE?oc=5",
-      "snippet": "Legal Services Board approves SRA approach to unlimited fine power &nbsp;&nbsp; Legal Futures"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YSEd4NXdqMmhxM2lmc2tSM3YyN2E3ODdESFA2MHVjMWlYa3dMUzk0TTRfLTl2VG1yU1dhTlVhN25FRzJFOFNMRWJJdG1wYUo4SHpDUU5B0gFWQVVfeXFMTlhIR3g1d2oyaHEzaWZza1IzdjI3YTc4N0RIUDYwdWMxaVhrd0xTOTRNNF8tOXZUbXJTV2FOVWE3bkVHMkU4U0xFYkl0bXBhSjhIekNRTkE?oc=5",
-      "type": "article",
-      "title": "Lawyerly Gains ABS Status For SME Subscription Model - Law360",
-      "date": "2026-10-28",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YSEd4NXdqMmhxM2lmc2tSM3YyN2E3ODdESFA2MHVjMWlYa3dMUzk0TTRfLTl2VG1yU1dhTlVhN25FRzJFOFNMRWJJdG1wYUo4SHpDUU5B0gFWQVVfeXFMTlhIR3g1d2oyaHEzaWZza1IzdjI3YTc4N0RIUDYwdWMxaVhrd0xTOTRNNF8tOXZUbXJTV2FOVWE3bkVHMkU4U0xFYkl0bXBhSjhIekNRTkE?oc=5",
-      "snippet": "Lawyerly Gains ABS Status For SME Subscription Model &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
-      "type": "article",
-      "title": "Deals tracker: Stryker acquires ZuriMED - Modern Healthcare News",
-      "date": "2026-10-28",
-      "source": "Modern Healthcare News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
-      "snippet": "Deals tracker: Stryker acquires ZuriMED &nbsp;&nbsp; Modern Healthcare News"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinAFBVV95cUxPRlpNMl9mT0tYTXVHM3FhY1IzSUZDdllpbHd3TU4ycVh2dWV3RUlJNlU1U2pIdHNHdmhWNTJycmp6dExDZXVibDBVRGN1YW85bTRJclJfOVFDRm1qcURaQlM5N21NOHg3WDBtOHZKdlVmbHBKLXRreWVaWXRXNkdsczBBNEQtR01saFFINjhiSElzc0RydzJ6anNMR1_SAVZBVV95cUxOV0RZNGtNUGM1dDVNbFFSQXRBNFpTVTFMMFYwcjFGOHd1MTM2bm5ITm1uY1p4YmZNV0s5WXRtRmlZa250YUdiaUFDNDFUODJCT1ZpWlFkQQ?oc=5",
-      "type": "article",
-      "title": "Notorious B.I.G.'s Widow Owes Trust $12.5M, Chancery Rules - Law360",
-      "date": "2026-10-28",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRlpNMl9mT0tYTXVHM3FhY1IzSUZDdllpbHd3TU4ycVh2dWV3RUlJNlU1U2pIdHNHdmhWNTJycmp6dExDZXVibDBVRGN1YW85bTRJclJfOVFDRm1qcURaQlM5N21NOHg3WDBtOHZKdlVmbHBKLXRreWVaWXRXNkdsczBBNEQtR01saFFINjhiSElzc0RydzJ6anNMR1_SAVZBVV95cUxOV0RZNGtNUGM1dDVNbFFSQXRBNFpTVTFMMFYwcjFGOHd1MTM2bm5ITm1uY1p4YmZNV0s5WXRtRmlZa250YUdiaUFDNDFUODJCT1ZpWlFkQQ?oc=5",
-      "snippet": "Notorious B.I.G.'s Widow Owes Trust $12.5M, Chancery Rules &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGpKNWhHQ0c1dGxsc0o1NVlfZ285Vk01cWNyRnpRa3NpbzlHQ0xDYlIwXzBVU21iNVZPekVOVDFpUll6S2JuVXpKanI0Nm9uZG1kNGlVNFVmLVZWOUJfbFlRdDZiYlhlNVBGS29VNWktcUo4bi0zdmVXYUY4V2RsejdYd1Z2czFTQ2Z4R0xtUC1FZnVJTEtsaURUUTdFalRieG5zZGs5RUFmem5tN0Rz0gFWQVVfeXFMTzVaelF2a0MtRDdsQVlTemlZWGxoUTlRTWtrVjQyVUxVY3VMMlJleGt4amNrMGxBQVhhTEpsM0Zvd0gxQ3ZPSnNCRVV0QXhDYzdRWHNLdEE?oc=5",
-      "type": "article",
-      "title": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach - Law360",
-      "date": "2026-10-28",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGpKNWhHQ0c1dGxsc0o1NVlfZ285Vk01cWNyRnpRa3NpbzlHQ0xDYlIwXzBVU21iNVZPekVOVDFpUll6S2JuVXpKanI0Nm9uZG1kNGlVNFVmLVZWOUJfbFlRdDZiYlhlNVBGS29VNWktcUo4bi0zdmVXYUY4V2RsejdYd1Z2czFTQ2Z4R0xtUC1FZnVJTEtsaURUUTdFalRieG5zZGs5RUFmem5tN0Rz0gFWQVVfeXFMTzVaelF2a0MtRDdsQVlTemlZWGxoUTlRTWtrVjQyVUxVY3VMMlJleGt4amNrMGxBQVhhTEpsM0Zvd0gxQ3ZPSnNCRVV0QXhDYzdRWHNLdEE?oc=5",
-      "snippet": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmpUa2RwTGNfaFNpdkJnUTJsdjZhWTlxSDRQTUFlUHhJSzVOVGxqY3pqWloxME9yNWU3SG5kVFFpVllBVmJJcGtVclMtcUpha24wQUFhd3haYzZaV1ZjOEdhSXAtWGlORWZBeGVNbUVRRWdCNFc3aHZmdlNGaVdBS0NjMmtWTDZTYy1nQU4yMER6cWhfMFdrRjlvSDgySklnRERBLWNrbEx2V0NuSXF0QXdWWnUzVHJfaTk5alJKTlg?oc=5",
-      "type": "article",
-      "title": "Smarter Controversy: What Tax Directors Wish They Knew Before Entering a UK Tax Dispute - McDermott Will & Schulte",
-      "date": "2026-10-28",
-      "source": "McDermott Will & Schulte",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmpUa2RwTGNfaFNpdkJnUTJsdjZhWTlxSDRQTUFlUHhJSzVOVGxqY3pqWloxME9yNWU3SG5kVFFpVllBVmJJcGtVclMtcUpha24wQUFhd3haYzZaV1ZjOEdhSXAtWGlORWZBeGVNbUVRRWdCNFc3aHZmdlNGaVdBS0NjMmtWTDZTYy1nQU4yMER6cWhfMFdrRjlvSDgySklnRERBLWNrbEx2V0NuSXF0QXdWWnUzVHJfaTk5alJKTlg?oc=5",
-      "snippet": "Smarter Controversy: What Tax Directors Wish They Knew Before Entering a UK Tax Dispute &nbsp;&nbsp; McDermott Will & Schulte"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmVyNWt1UFItOTZiUFd2T1RiMUFYYXpCWkdzc1hMTlI3cGtoSXI3c2hOMnpOTHQyd0dpTldvbFZWMzZjRHR5amtfQldnSjFsOWVLa1gxMnpKOVoyYjVrQlFidm9TSENmOU9Bb3JxNXQyRlRNM3VYNTFtaUxHcmtJRkNYb3VFaENxeVJpRnVtZjVYMFBLMDJkQU1XSlRManRoeUMtWNIBVkFVX3lxTE81WnpRdmtDLUQ3bEFZU3ppWVhsaFE5UU1ra1Y0MlVMVWN1TDJSZXhreGpjazBsQUFYYUxKbDNGb3dIMUN2T0pzQkVVdEF4Q2M3UVhzS3RB?oc=5",
-      "type": "article",
-      "title": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach - Law360",
-      "date": "2026-10-28",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmVyNWt1UFItOTZiUFd2T1RiMUFYYXpCWkdzc1hMTlI3cGtoSXI3c2hOMnpOTHQyd0dpTldvbFZWMzZjRHR5amtfQldnSjFsOWVLa1gxMnpKOVoyYjVrQlFidm9TSENmOU9Bb3JxNXQyRlRNM3VYNTFtaUxHcmtJRkNYb3VFaENxeVJpRnVtZjVYMFBLMDJkQU1XSlRManRoeUMtWNIBVkFVX3lxTE81WnpRdmtDLUQ3bEFZU3ppWVhsaFE5UU1ra1Y0MlVMVWN1TDJSZXhreGpjazBsQUFYYUxKbDNGb3dIMUN2T0pzQkVVdEF4Q2M3UVhzS3RB?oc=5",
-      "snippet": "Texan Claims Austin Firm Hasn't Alerted Him To Data Breach &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2tEZkpJRGRSNjZsaGxHVlNyVS1lRVVtdmlyMUowY2NEVEloSUwwTlhwRDFuTFJGTEJuZUtkRXhUY1NCUUpzczZtdklmMTQzN0JoRWdEV2dRVFMtby1CNW1QS25FaDB5eWd3YmhJZncxU2d4Q2RCSFFJX1VRb3k4enN6TWtZWUJpNmstMFBGcjRtQllvWnJReQ?oc=5",
-      "type": "article",
-      "title": "Notice: Covidien LP Group Proceedings - Law Society of Scotland",
-      "date": "2026-10-28",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2tEZkpJRGRSNjZsaGxHVlNyVS1lRVVtdmlyMUowY2NEVEloSUwwTlhwRDFuTFJGTEJuZUtkRXhUY1NCUUpzczZtdklmMTQzN0JoRWdEV2dRVFMtby1CNW1QS25FaDB5eWd3YmhJZncxU2d4Q2RCSFFJX1VRb3k4enN6TWtZWUJpNmstMFBGcjRtQllvWnJReQ?oc=5",
-      "snippet": "Notice: Covidien LP Group Proceedings &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWN4Z0ZWR2xjN1JmcVhZZVBhbDV5emN0d3F6SU9EVGYxWHRCT093bUljRWhVeVJqLTYwQXctTjVCdGZyRkVobEtDY1dadTY3NHI0ZHFOek1DeV9KRlpIMm5XT3lHc09HN0lmaDRhRjltMFFWYnBlZWE3V1ZMT1AxY25PU18?oc=5",
-      "type": "article",
-      "title": "The secretive quant titan - Financial Times",
-      "date": "2026-10-28",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWN4Z0ZWR2xjN1JmcVhZZVBhbDV5emN0d3F6SU9EVGYxWHRCT093bUljRWhVeVJqLTYwQXctTjVCdGZyRkVobEtDY1dadTY3NHI0ZHFOek1DeV9KRlpIMm5XT3lHc09HN0lmaDRhRjltMFFWYnBlZWE3V1ZMT1AxY25PU18?oc=5",
-      "snippet": "The secretive quant titan &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISjdMckpNTHpnNW51b0ZvNHNLM0tHVWpyOFpiekY2NDN1UjR2dWl0MTBuZjJEbDhpeFhzcDhaT1RNRWpHWk1LakJXSmpKR0d1QmQ3Ui1jcTNncHFicWlUVHdIb0VvRG9ZQTlUSA?oc=5",
-      "type": "article",
-      "title": "Ropes & Gray Names 26 New Partners - ABF Journal",
-      "date": "2026-10-27",
-      "source": "ABF Journal",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISjdMckpNTHpnNW51b0ZvNHNLM0tHVWpyOFpiekY2NDN1UjR2dWl0MTBuZjJEbDhpeFhzcDhaT1RNRWpHWk1LakJXSmpKR0d1QmQ3Ui1jcTNncHFicWlUVHdIb0VvRG9ZQTlUSA?oc=5",
-      "snippet": "Ropes & Gray Names 26 New Partners &nbsp;&nbsp; ABF Journal"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWEJwdExuNTlhWDJiMlhsN3pya2RLRFhiRmhUNEVTb1JWNXJPa2FkTDhZVTJITWVaeUpPbFpTSGo3Y0FpSVVQNl9NLTg1VU0yUUlUX2hUYjBWT2xXUTVuM0kzcEJMR0puc3RaNEs4TFZLYzlVMGF3Wk16TENWUWRTNEFiOER3UjV4czEzNDZoZ2N5YXVUYnh2b1hPUzlsNGM2NHlsMWl2QkRWVVN2NFYzNm5jNFh1eDlpckprTnhaLVhjdUd0RjliMVA2R0lhWEZBRWZUVkd1d3JRRko3bWptcXU2cXAydUgwNkY4TTU2QUZGaXpH?oc=5",
-      "type": "article",
-      "title": "From the President's Desk: Peru to Denmark and why our legal profession's global role matters more than ever - Law Society of Scotland",
-      "date": "2026-10-27",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWEJwdExuNTlhWDJiMlhsN3pya2RLRFhiRmhUNEVTb1JWNXJPa2FkTDhZVTJITWVaeUpPbFpTSGo3Y0FpSVVQNl9NLTg1VU0yUUlUX2hUYjBWT2xXUTVuM0kzcEJMR0puc3RaNEs4TFZLYzlVMGF3Wk16TENWUWRTNEFiOER3UjV4czEzNDZoZ2N5YXVUYnh2b1hPUzlsNGM2NHlsMWl2QkRWVVN2NFYzNm5jNFh1eDlpckprTnhaLVhjdUd0RjliMVA2R0lhWEZBRWZUVkd1d3JRRko3bWptcXU2cXAydUgwNkY4TTU2QUZGaXpH?oc=5",
-      "snippet": "From the President's Desk: Peru to Denmark and why our legal profession's global role matters more than ever &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMitwFBVV95cUxNaV9INlNrZl9OY3l1T21NWjg2N2ZiX01GT3hzTS1ULW13Ukd3ODdRamJUbkRNcTZ1MXFFaFUya2lzRWJwWXpWaGl4Wk9WWDk2VHdOOU02Q1NWSFR2YWxrRHY2dk53VHBuSlBJdkJWc2pkLTBBTkt6Ny1aLUF4dGE5cGtOS2RTRmp0Rm8wSXo4NUFVMnAzdy1jOVpCbVNPSjVuVU44VllVMDJjWjBLVlQ4VEJsTXBacDA?oc=5",
-      "type": "article",
-      "title": "Acentra Health Appoints Mihriban Brickner Senior Vice President of Operations - citybiz",
-      "date": "2026-10-27",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaV9INlNrZl9OY3l1T21NWjg2N2ZiX01GT3hzTS1ULW13Ukd3ODdRamJUbkRNcTZ1MXFFaFUya2lzRWJwWXpWaGl4Wk9WWDk2VHdOOU02Q1NWSFR2YWxrRHY2dk53VHBuSlBJdkJWc2pkLTBBTkt6Ny1aLUF4dGE5cGtOS2RTRmp0Rm8wSXo4NUFVMnAzdy1jOVpCbVNPSjVuVU44VllVMDJjWjBLVlQ4VEJsTXBacDA?oc=5",
-      "snippet": "Acentra Health Appoints Mihriban Brickner Senior Vice President of Operations &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUQ4MmlqNWNZbjBDVzZoblozX0taVXI3VkJ0SzNVMXpma3FtT0lKUHFhVW1tUmZUUHNRaDhEbDRuT2tXZmlNNUx0V2xzMFBNTFJlOXhXbUpPajJONjhRcEpSS2hxRHBmRzg4MVpsdUlFdEswYlZoMlpvOGpVYzlfYUt1NndSMnpXaEhpR2lKT2lOb25DM0dHMHljQnU2RFJhYXY2WmFPSlVsc1JQU0M0bGRvYWJaaFpXUUlN?oc=5",
-      "type": "article",
-      "title": "McDermott promotion class continues strategic growth in New York and private capital - McDermott Will & Schulte",
-      "date": "2026-10-27",
-      "source": "McDermott Will & Schulte",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUQ4MmlqNWNZbjBDVzZoblozX0taVXI3VkJ0SzNVMXpma3FtT0lKUHFhVW1tUmZUUHNRaDhEbDRuT2tXZmlNNUx0V2xzMFBNTFJlOXhXbUpPajJONjhRcEpSS2hxRHBmRzg4MVpsdUlFdEswYlZoMlpvOGpVYzlfYUt1NndSMnpXaEhpR2lKT2lOb25DM0dHMHljQnU2RFJhYXY2WmFPSlVsc1JQU0M0bGRvYWJaaFpXUUlN?oc=5",
-      "snippet": "McDermott promotion class continues strategic growth in New York and private capital &nbsp;&nbsp; McDermott Will & Schulte"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGZBUTE1b095emt2amRkQk51X0p0RjZBOHAxcmlaLTZvMy1pX2ZoLUpQOVAwbnpQWHUycmpZYWxXZnVLbElaTE5adzZMWjlfZnI1ZkhRRVRwcW45S1YyWFNKVjd5T0c3a0tHMDJzb2pBOS1WODloZnhCSlQ5UkltMmZrMjRKeWhUblZ4dUpKUmptV3BTYkJ0OVJLTEc1OVFUVGNEekdzVlJjSm1UUk1MNzNKZk9jTFotTHJSTFBGYng3WmlhM3M5dw?oc=5",
-      "type": "article",
-      "title": "Law firm partners with legal aid organization to support AI tool, expand access to justice - North Carolina Lawyers Weekly",
-      "date": "2026-10-27",
-      "source": "North Carolina Lawyers Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGZBUTE1b095emt2amRkQk51X0p0RjZBOHAxcmlaLTZvMy1pX2ZoLUpQOVAwbnpQWHUycmpZYWxXZnVLbElaTE5adzZMWjlfZnI1ZkhRRVRwcW45S1YyWFNKVjd5T0c3a0tHMDJzb2pBOS1WODloZnhCSlQ5UkltMmZrMjRKeWhUblZ4dUpKUmptV3BTYkJ0OVJLTEc1OVFUVGNEekdzVlJjSm1UUk1MNzNKZk9jTFotTHJSTFBGYng3WmlhM3M5dw?oc=5",
-      "snippet": "Law firm partners with legal aid organization to support AI tool, expand access to justice &nbsp;&nbsp; North Carolina Lawyers Weekly"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU1jUkR1TkRhaG9ab3laSEVKaDY3dkczYVdQTEJqZnVHYXZuOHI5dmtEOTljRkFxc1NoNnZvVThmUlF1eFR1Q0ZzVVA5NjN6SmxuT1NSeU5VUkwwY2x2VHRORW03MXlPZ0E2Ulh4SktRM0RkbUtLOC1Hb2VSMS0tWTlvREZfbTltSVNlLWhMLXY0QURPRE94NU81eVdkTDd3LTMwWkZ1R0xaZjJMbkE?oc=5",
-      "type": "article",
-      "title": "Unsung Heroes Award Winner: Thomas Reilly, Porzio, Bromberg & Newman - Law.com",
-      "date": "2026-10-27",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU1jUkR1TkRhaG9ab3laSEVKaDY3dkczYVdQTEJqZnVHYXZuOHI5dmtEOTljRkFxc1NoNnZvVThmUlF1eFR1Q0ZzVVA5NjN6SmxuT1NSeU5VUkwwY2x2VHRORW03MXlPZ0E2Ulh4SktRM0RkbUtLOC1Hb2VSMS0tWTlvREZfbTltSVNlLWhMLXY0QURPRE94NU81eVdkTDd3LTMwWkZ1R0xaZjJMbkE?oc=5",
-      "snippet": "Unsung Heroes Award Winner: Thomas Reilly, Porzio, Bromberg & Newman &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMigwJBVV95cUxNeXlXRXBocUJOWnRNbFJQWW1CSVVHM3NWRzA3RGNkYndJRENQdHVlb1NXMGw4VlFDV29JUDNOR1ZwbzZha2VjWXJBcWVONGxCWFhSazlIVEszamNaQ1haVnBfRHl5RVpUZGItR1A4TWxEY25hRkdRMTFjMy1iZnJoaFdIV25yVWxpNzlrbUNvQ2xuNWFSTThrYmZ2cjFleFVKOFRRRXNhX0RtdlNpaml3azB0dTdCSlU1bFJSVnc4OG9WWVNyX3VfNktid1hYV1Q1NGwxNXMyWGlIZGJCTHhYX2U0LVJ3em1hTXF4aFdGQUVvQ2U2WkprNTdWTnE0Y2RERnhR?oc=5",
-      "type": "article",
-      "title": "Q&A with Harvey E. Bines, Attorney at Sullivan & Worcester: Insights on the Wolters Kluwer Treatise Investment Management Law and Regulation - citybiz",
-      "date": "2026-10-27",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeXlXRXBocUJOWnRNbFJQWW1CSVVHM3NWRzA3RGNkYndJRENQdHVlb1NXMGw4VlFDV29JUDNOR1ZwbzZha2VjWXJBcWVONGxCWFhSazlIVEszamNaQ1haVnBfRHl5RVpUZGItR1A4TWxEY25hRkdRMTFjMy1iZnJoaFdIV25yVWxpNzlrbUNvQ2xuNWFSTThrYmZ2cjFleFVKOFRRRXNhX0RtdlNpaml3azB0dTdCSlU1bFJSVnc4OG9WWVNyX3VfNktid1hYV1Q1NGwxNXMyWGlIZGJCTHhYX2U0LVJ3em1hTXF4aFdGQUVvQ2U2WkprNTdWTnE0Y2RERnhR?oc=5",
-      "snippet": "Q&A with Harvey E. Bines, Attorney at Sullivan & Worcester: Insights on the Wolters Kluwer Treatise Investment Management Law and Regulation &nbsp;&nbsp; citybiz"
     }
   ]
 }
