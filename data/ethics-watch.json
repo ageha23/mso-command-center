@@ -1,8 +1,26 @@
 {
-  "lastRun": "2026-11-10T18:30:11.882360+00:00",
+  "lastRun": "2026-11-11T18:26:50.617674+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 15,
+  "addedThisRun": 12,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdk1wb2NzTVNKaGRSVkFPOEs2VHl0ZVNNeURYTW81RnY1elRPdHNqTkpZaHhxNEUwZy1VV3hnU0dINTI1RnFsYWM3NVJ0Slo3WElSU2xQTWZtMlRqRkU5VTg0SGNNNDZ3dUFwNnZHamJLczhsM3FGUzlSdXJWaGxnVWZhYk1nWlY1aEFibUNueGZ2TXIyY2lpdXFMbGkybm1ITmR6d1FFaUZ6RlQ1Q0pWWU1UVkU5a19HX2VpMlRfS2dFZVVqVzdZdUJub09CUU4zRHhVSjJqZ1dCNU5TQzUxUtIB5gFBVV95cUxOMjdVX3hDaGRPVEtCWkxxeGl5WXQwWXVpdDNkVVJwZkxXYjdlaXU2LU1WS25sQldWRmxLVFZjSEE3VXZZZDlIV0hVVkR0RXVFX25MWVpuWWJ2Y3NlZldIWkhWRXUzUjdIRE1vSmljVHZSdDB2eGFMTzF5ei05aDNHdU9mLS1aLWtoLXBwbWFTTTFQUWZ4ZDUwSmpjTFFpcmF0TjBvRXU0X182VWVxREsxRVdPaXNxZTZMZlB4TU52T1ViVUhlTDUyNWh4RnJ2djlQTU9IN3RYTHluTGRyMVF3MXAtZUltdw?oc=5",
+      "type": "article",
+      "title": "Longevity Health Holdings Announces Exploration of Strategic Alternatives - The Manila Times",
+      "date": "2026-11-11",
+      "source": "The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdk1wb2NzTVNKaGRSVkFPOEs2VHl0ZVNNeURYTW81RnY1elRPdHNqTkpZaHhxNEUwZy1VV3hnU0dINTI1RnFsYWM3NVJ0Slo3WElSU2xQTWZtMlRqRkU5VTg0SGNNNDZ3dUFwNnZHamJLczhsM3FGUzlSdXJWaGxnVWZhYk1nWlY1aEFibUNueGZ2TXIyY2lpdXFMbGkybm1ITmR6d1FFaUZ6RlQ1Q0pWWU1UVkU5a19HX2VpMlRfS2dFZVVqVzdZdUJub09CUU4zRHhVSjJqZ1dCNU5TQzUxUtIB5gFBVV95cUxOMjdVX3hDaGRPVEtCWkxxeGl5WXQwWXVpdDNkVVJwZkxXYjdlaXU2LU1WS25sQldWRmxLVFZjSEE3VXZZZDlIV0hVVkR0RXVFX25MWVpuWWJ2Y3NlZldIWkhWRXUzUjdIRE1vSmljVHZSdDB2eGFMTzF5ei05aDNHdU9mLS1aLWtoLXBwbWFTTTFQUWZ4ZDUwSmpjTFFpcmF0TjBvRXU0X182VWVxREsxRVdPaXNxZTZMZlB4TU52T1ViVUhlTDUyNWh4RnJ2djlQTU9IN3RYTHluTGRyMVF3MXAtZUltdw?oc=5",
+      "snippet": "Longevity Health Holdings Announces Exploration of Strategic Alternatives &nbsp;&nbsp; The Manila Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1czMmE1aFFwT2swRU1xSXUyWjFCM3J1NzZqNmNNaG84TkNJajA1eThaU29iNDJBUWR4eUwzV09KRlNEanBhMnUzODVWV2N1VWhqbkN2Q0tWUmVFcnJkZVkzWXhNVUpNV3AzUnJ5UmU5R2VtYWpxMDZYXzdpZTJuYmRrQzZaQ25KZ0lGbzR0NlF0VHBLUk8yVlY0NzZfM2lWS3pUd2xDbEQ?oc=5",
+      "type": "article",
+      "title": "Kirkland & Ellis: 40-Lawyer Private Equity And Debt Finance Team To Join In January 2027 - Pulse 2.0",
+      "date": "2026-11-11",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1czMmE1aFFwT2swRU1xSXUyWjFCM3J1NzZqNmNNaG84TkNJajA1eThaU29iNDJBUWR4eUwzV09KRlNEanBhMnUzODVWV2N1VWhqbkN2Q0tWUmVFcnJkZVkzWXhNVUpNV3AzUnJ5UmU5R2VtYWpxMDZYXzdpZTJuYmRrQzZaQ25KZ0lGbzR0NlF0VHBLUk8yVlY0NzZfM2lWS3pUd2xDbEQ?oc=5",
+      "snippet": "Kirkland & Ellis: 40-Lawyer Private Equity And Debt Finance Team To Join In January 2027 &nbsp;&nbsp; Pulse 2.0"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMib0FVX3lxTE01RV9ZeHFhMzRxVmc2VmVrcF9ZOGNPOG1POFhoY0FrQXUydTJWX3RqUXBUczZZRDlTcXM2SDNBcXlrUDJVNHJEUFF2RW5FQ29hcTFQSEZlVktxNUM3V2pZVGtGTWRILWYxSzNKUS1nOA?oc=5",
       "type": "article",
@@ -83,6 +101,87 @@
       "source": "Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlFuLTRRTHhRNmlyendybkRxMjRWYnJka2pGYnlkcVgta1NEY3ZPQy1tQ0traXFXU3lKUDRiZXFHWHRaY2lmT2M4NXREZHNNMnVyZHRhLXQ4NHFLSF9mVGkxMDZMZXhLQ09KQ0tGdVBiVzFHc25Gc3J1Z2VGcldoUDBqcndoMExKNUVmOXBSNVNVVU96azRCeDFCNGtyTG8?oc=5",
       "snippet": "Kirkland & Ellis: Matthew Conway Joins Executive Compensation Practice As Partner &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2lUZTdSeVQzVEM0YnFXWUpEQktQUFY3ajJWMUN3ZF9LN2JUSTVMb194VWxSVXFLbERVSEU2endNajlINUJpdDE4VVk1RGpXQnQ0aGpaLXNJa0JlcWViWmtyMkFfY3BJMEg4NzczNW9ndE94b3B3R0V5QmhxNnNwcEFXNA?oc=5",
+      "type": "article",
+      "title": "The Operating Questions Behind a Law Firm MSO - Law.com",
+      "date": "2026-11-10",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2lUZTdSeVQzVEM0YnFXWUpEQktQUFY3ajJWMUN3ZF9LN2JUSTVMb194VWxSVXFLbERVSEU2endNajlINUJpdDE4VVk1RGpXQnQ0aGpaLXNJa0JlcWViWmtyMkFfY3BJMEg4NzczNW9ndE94b3B3R0V5QmhxNnNwcEFXNA?oc=5",
+      "snippet": "The Operating Questions Behind a Law Firm MSO &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzZ2eXBIRm81d2xnNS1SNW9FX3hQZm02bThoWjA0dFhRU2JUT1QxM1RQdzRTZFBPOGN2YUVzYTdYOTdjY3JtSkw5Q0d6b1cwVG5WYTJaSGZYRFRzRzRpc2U2SEpQM0psUnhHaDhTOXJzRGk0dmR6SGhwOEpzZFhCc3pXZFFFeXVEUndaaHRpcDV1XzRsZ1loeHVrb2M1NS1U0gFeQVVfeXFMTVUtY1NfeUtZTnBXbU5FZjk5RmxIekdFd1N6Ni1kQ1gySFV6N0xtUGRjejJDQUdHa0pVSnYwS09UNVp1VzhvUkhKVk1CajRGWEtyVVJ0akk0VzZYMnBVQQ?oc=5",
+      "type": "article",
+      "title": "AI-Powered Firm Raises $6M In Seed Funding Through MSO - Law360",
+      "date": "2026-11-10",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzZ2eXBIRm81d2xnNS1SNW9FX3hQZm02bThoWjA0dFhRU2JUT1QxM1RQdzRTZFBPOGN2YUVzYTdYOTdjY3JtSkw5Q0d6b1cwVG5WYTJaSGZYRFRzRzRpc2U2SEpQM0psUnhHaDhTOXJzRGk0dmR6SGhwOEpzZFhCc3pXZFFFeXVEUndaaHRpcDV1XzRsZ1loeHVrb2M1NS1U0gFeQVVfeXFMTVUtY1NfeUtZTnBXbU5FZjk5RmxIekdFd1N6Ni1kQ1gySFV6N0xtUGRjejJDQUdHa0pVSnYwS09UNVp1VzhvUkhKVk1CajRGWEtyVVJ0akk0VzZYMnBVQQ?oc=5",
+      "snippet": "AI-Powered Firm Raises $6M In Seed Funding Through MSO &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHVxTmpZQURGOGhQbzg1eWNkdmZpZ1MzUndqZGU4MGhNeGRreWYwRzFZWFNEZUM3THoxdlZxVVNnVkh5dFFBNEg3YkgxT2oxck95SjFBRVhEYWhna1pINHBYV1ZjaUMxZU10YmtQNWwta3VxVlpQTGtPOTh1Y19IX3phQlFGazZTY2JDNTc2SdIBXkFVX3lxTFBoVUkzdW1BZC1UcUh6RnVkQkxOY1NHY0ZCZjJBckFpQW42a1BuUHRVVGNsSlF4ZjFkNmVxMDNiTUF3aV9zMDNfZENMMUZVVWZTMzFJNUVHMlNwbkUxZ2c?oc=5",
+      "type": "article",
+      "title": "Former GE, EY Leaders Join Wood Smith MSO Board - Law360",
+      "date": "2026-11-10",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHVxTmpZQURGOGhQbzg1eWNkdmZpZ1MzUndqZGU4MGhNeGRreWYwRzFZWFNEZUM3THoxdlZxVVNnVkh5dFFBNEg3YkgxT2oxck95SjFBRVhEYWhna1pINHBYV1ZjaUMxZU10YmtQNWwta3VxVlpQTGtPOTh1Y19IX3phQlFGazZTY2JDNTc2SdIBXkFVX3lxTFBoVUkzdW1BZC1UcUh6RnVkQkxOY1NHY0ZCZjJBckFpQW42a1BuUHRVVGNsSlF4ZjFkNmVxMDNiTUF3aV9zMDNfZENMMUZVVWZTMzFJNUVHMlNwbkUxZ2c?oc=5",
+      "snippet": "Former GE, EY Leaders Join Wood Smith MSO Board &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTllvbjBYOTI3UE5zR1NDVmFNZ1ZUUTZ6UmlWbk0tQkptMXdrQTZ3NUJEb1VIZHBkZFhnNWd4UHMtMmFMM3ZrdDJRXzRXV01nX29PcjgzUzVieTUwb2pQZVJUZDUzeXlKWDFnUzFoWGgtdEFUWjU4dFlfRzVJZnE2Q0tXVzFFRVBWT051Q210QkR5eWZua2QzMUxRdFAyUU1oRVBKOTFsdjRFa25XWXIyS2lLWGVEZ1gzck1FRFFRaWZhUQ?oc=5",
+      "type": "article",
+      "title": "Coastal Debt Resolve Highlights Potential Risks of MCA Stacking Amid Rising Business Bankruptcies - Macau Business",
+      "date": "2026-11-10",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTllvbjBYOTI3UE5zR1NDVmFNZ1ZUUTZ6UmlWbk0tQkptMXdrQTZ3NUJEb1VIZHBkZFhnNWd4UHMtMmFMM3ZrdDJRXzRXV01nX29PcjgzUzVieTUwb2pQZVJUZDUzeXlKWDFnUzFoWGgtdEFUWjU4dFlfRzVJZnE2Q0tXVzFFRVBWT051Q210QkR5eWZua2QzMUxRdFAyUU1oRVBKOTFsdjRFa25XWXIyS2lLWGVEZ1gzck1FRFFRaWZhUQ?oc=5",
+      "snippet": "Coastal Debt Resolve Highlights Potential Risks of MCA Stacking Amid Rising Business Bankruptcies &nbsp;&nbsp; Macau Business"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMirgFBVV95cUxPdl9zd2Vtb2JiLXdEUXNfUl83RGxHTkVGbDAzcWhVcmwtYmVUM2d5NGhTOW41RzJrUXdDWXVoOHZ3SVIzQy1LVTZEVXJuMm5oWUlLSTRpMF9zLUQ0R0ZhRF9OcWZWVXZRbTBuZFZoWW1GTFhWQXl6RGlXekgta0w0ZkhWekczNWNkOW04SDhOaDg2YmNHVGJzVVZqX00zQ3huSXZsYzBtZjVkOUZZbXc?oc=5",
+      "type": "article",
+      "title": "Egypt's Final Terrorist Listing of the Brotherhood: Everything You Need to Know - Egypt Today",
+      "date": "2026-11-10",
+      "source": "Egypt Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdl9zd2Vtb2JiLXdEUXNfUl83RGxHTkVGbDAzcWhVcmwtYmVUM2d5NGhTOW41RzJrUXdDWXVoOHZ3SVIzQy1LVTZEVXJuMm5oWUlLSTRpMF9zLUQ0R0ZhRF9OcWZWVXZRbTBuZFZoWW1GTFhWQXl6RGlXekgta0w0ZkhWekczNWNkOW04SDhOaDg2YmNHVGJzVVZqX00zQ3huSXZsYzBtZjVkOUZZbXc?oc=5",
+      "snippet": "Egypt's Final Terrorist Listing of the Brotherhood: Everything You Need to Know &nbsp;&nbsp; Egypt Today"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VLWNTX3lLWU5wV21ORWY5OUZsSHpHRXdTejYtZENYMkhVejdMbVBkY3oyQ0FHR2tKVUp2MEtPVDVadVc4b1JISlZNQmo0RlhLclVSdGpJNFc2WDJwVUHSAV5BVV95cUxNVS1jU195S1lOcFdtTkVmOTlGbEh6R0V3U3o2LWRDWDJIVXo3TG1QZGN6MkNBR0drSlVKdjBLT1Q1WnVXOG9SSEpWTUJqNEZYS3JVUnRqSTRXNlgycFVB?oc=5",
+      "type": "article",
+      "title": "AI-Powered Firm Raises $6M In Seed Funding Through MSO - Law360",
+      "date": "2026-11-10",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VLWNTX3lLWU5wV21ORWY5OUZsSHpHRXdTejYtZENYMkhVejdMbVBkY3oyQ0FHR2tKVUp2MEtPVDVadVc4b1JISlZNQmo0RlhLclVSdGpJNFc2WDJwVUHSAV5BVV95cUxNVS1jU195S1lOcFdtTkVmOTlGbEh6R0V3U3o2LWRDWDJIVXo3TG1QZGN6MkNBR0drSlVKdjBLT1Q1WnVXOG9SSEpWTUJqNEZYS3JVUnRqSTRXNlgycFVB?oc=5",
+      "snippet": "AI-Powered Firm Raises $6M In Seed Funding Through MSO &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMieEFVX3lxTE12YWdlQ1kxUjRjUmNTSmVJWjYydC1YTFViR1hzdzJoRXloQ3pXWThxY3F0MmQ5ck9zWDlJY1RVLXRyZzdLRURkNlhteGt1aFhnWFRoM2JOejZwa2pZVXRNeTU1LWZlQnZBam4yZkE0LW9FY210c2wxeQ?oc=5",
+      "type": "article",
+      "title": "Stinson Deepens Tax, Trusts & Estates Bench in St. Louis with Four-Attorney Team - Stinson LLP",
+      "date": "2026-11-10",
+      "source": "Stinson LLP",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12YWdlQ1kxUjRjUmNTSmVJWjYydC1YTFViR1hzdzJoRXloQ3pXWThxY3F0MmQ5ck9zWDlJY1RVLXRyZzdLRURkNlhteGt1aFhnWFRoM2JOejZwa2pZVXRNeTU1LWZlQnZBam4yZkE0LW9FY210c2wxeQ?oc=5",
+      "snippet": "Stinson Deepens Tax, Trusts & Estates Bench in St. Louis with Four-Attorney Team &nbsp;&nbsp; Stinson LLP"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2JXVWs1Um5ya1QwdnNDMDR0NFJYOFYwUmp2dzhlU1E5UlJyQldXM0NXQkh5TC1LS0FFUEFVQ1BxYWJCbk9sVHR0RXFyNnV6dkViRXJDZ1Z5TmhsR3dkWnk5UHYyWmlvb1BhWGZKMUpZLV9PaGxrbnZZSlQ0NlJnWUdFVC1IYV9FMVZKQ2RpYUJmWFhPOGdVNlZn?oc=5",
+      "type": "article",
+      "title": "Mexico - Litigation & Dispute Resolution Laws and Regulations 2026 - ICLG",
+      "date": "2026-11-10",
+      "source": "ICLG",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2JXVWs1Um5ya1QwdnNDMDR0NFJYOFYwUmp2dzhlU1E5UlJyQldXM0NXQkh5TC1LS0FFUEFVQ1BxYWJCbk9sVHR0RXFyNnV6dkViRXJDZ1Z5TmhsR3dkWnk5UHYyWmlvb1BhWGZKMUpZLV9PaGxrbnZZSlQ0NlJnWUdFVC1IYV9FMVZKQ2RpYUJmWFhPOGdVNlZn?oc=5",
+      "snippet": "Mexico - Litigation & Dispute Resolution Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3liekVibWwxZWlhbEUxUUc1Z01UZG5kRU1aMzZ5Tk53cjE2RERaajl6el9FYWpFMUF2bGtweXl4QlBzdFVtUFVyUFFXNDh0cGQ4UDJWSVFXcnBRTnVDVGJ4MHRaQVdEYmJIcVVBTTdWeHpqS01zRGRydWM4Qk9CVVBockxGNkcwS0t0NEJDVEJGVHdlQUk2MHAzRDVrR1JueGt6MWVrOExMM0phdjhVdHo0UdIBVkFVX3lxTE9Ja3IyYk5weXRjMjdIdk5lU3NBUHNuU2Z4LWJMcms0QTNsd2MxWHBBamhLUkJlQTFZelZOX3NCX2MzczNCVXUtSWx5SVBnbWZJQkZzbFZ3?oc=5",
+      "type": "article",
+      "title": "2 Attys Fined For AI Citation Errors But Local Counsel Spared - Law360",
+      "date": "2026-11-10",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3liekVibWwxZWlhbEUxUUc1Z01UZG5kRU1aMzZ5Tk53cjE2RERaajl6el9FYWpFMUF2bGtweXl4QlBzdFVtUFVyUFFXNDh0cGQ4UDJWSVFXcnBRTnVDVGJ4MHRaQVdEYmJIcVVBTTdWeHpqS01zRGRydWM4Qk9CVVBockxGNkcwS0t0NEJDVEJGVHdlQUk2MHAzRDVrR1JueGt6MWVrOExMM0phdjhVdHo0UdIBVkFVX3lxTE9Ja3IyYk5weXRjMjdIdk5lU3NBUHNuU2Z4LWJMcms0QTNsd2MxWHBBamhLUkJlQTFZelZOX3NCX2MzczNCVXUtSWx5SVBnbWZJQkZzbFZ3?oc=5",
+      "snippet": "2 Attys Fined For AI Citation Errors But Local Counsel Spared &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxPckVBXzA1NWtfVHJQS2VJc2l6QVR4NkNoT1dfNUFnS1UtTUZxWEg1NGd3TTdjVU41dmdjeE9KS2FYMGFFZ2hGWTZFSHBYbHNsUlJ6Sk9zTHpnbDVnOEw5WTZET1g1V2Uta1BEY2NxVnJTVlZ0RXRlR2ZlM2NuRUJSZDlvcW5LdTNfVldaWnJNWmxIczIx?oc=5",
@@ -254,6 +353,15 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWcxaUFXUlUxa3hXWHZ2MV8ydElGdUVZZjdXV01MdjZBN0c5Ykg5aG5KRWN6N1NaMW5NWTlSSVdXdFlKNVJsamd3aDJqX2dfQ2pacjBxanF1MDNXVXFhdlExN2lfZkxLVU9CUmRWejRRSjlodFh4eWlnOVF1UE91Y2ZOSHFGc0otOEg1X3BVdVVCSjBFMGJIQjFFWdIBVkFVX3lxTFBOWGVTT0RYWi1Sa0tqR2VDQW10WUVSVlFYZFdlUm43Nlh4ODV4V1VWQ0pDeFd5RkljLWszcWNVQU44RnhzcW9iSlM4TzB6NXByMWhITUhn?oc=5",
       "snippet": "Supreme Court Weighs Ending Decades-Old Bivens Doctrine &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVkxOWYzMy1KaUk0aF9LX3RUbnJjTjBOYlc3T3hlcUFkdF9YTGdIVTZyZURBSjZuR2QxXzZmb3RGV18ya3lhT0l4QjQwQWx6dWpHb1ZUVVpXelNmVDVzaGtQYlFVeWlQRnlnSzh2NDhxWEV5QWY2eG5aaEluVFRHcUM2T1BYYWtBODIzalYyMVdkdWFWbVFhWXE5UmJRejYzdy1HQkluOUhwRGFSTzB4ZEFLQWxReWVqWnEtcTRzaW1wdk5xS1FhV0toLUY3Q1JUSlpteERCSQ?oc=5",
+      "type": "article",
+      "title": "Navigating Law Firm MSO Transactions and The Role of Representations & Warranties Insurance - Lockton",
+      "date": "2026-11-09",
+      "source": "Lockton",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVkxOWYzMy1KaUk0aF9LX3RUbnJjTjBOYlc3T3hlcUFkdF9YTGdIVTZyZURBSjZuR2QxXzZmb3RGV18ya3lhT0l4QjQwQWx6dWpHb1ZUVVpXelNmVDVzaGtQYlFVeWlQRnlnSzh2NDhxWEV5QWY2eG5aaEluVFRHcUM2T1BYYWtBODIzalYyMVdkdWFWbVFhWXE5UmJRejYzdy1HQkluOUhwRGFSTzB4ZEFLQWxReWVqWnEtcTRzaW1wdk5xS1FhV0toLUY3Q1JUSlpteERCSQ?oc=5",
+      "snippet": "Navigating Law Firm MSO Transactions and The Role of Representations & Warranties Insurance &nbsp;&nbsp; Lockton"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMiZEFVX3lxTE13X0tEbHY4WnppbU9SbmVqN3hKcmtocnV3RVpmUFdHUDdVRXYyY3R2NnNFaXpROWZqc0NOWU5OZmtJQW52RmtKcTlieTJVVDNkUFRSTEJ1eU1EVEpkalhsc1VYanc?oc=5",
@@ -1244,114 +1352,6 @@
       "source": "Pasadena Weekly",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONVN4eWlKTnNEdWpfTW9vUWhGUDM5ckpOcnIydW11Yy1IS0hQaWQzbUw5ZmdCRVBfTEpTWXdvWWlFTjNDSXVCMzhLRGdsOHkybzMwdlNKTTVCTmwzeV9TNTlZZXFPOU5hdFI0ME9DUGRsVUxBOGRCQms5OWhJamhzNjRLdXVQTUpxLW9PNzZVNTRZZkszVVFKYmZtU2RFLUZfclNtb2tIc2I5WVRPeVZudmdQTWk0N0EyR0tQUDVrUUZYQWtsYTQxbHl3M2g3QlZBTFJYUU1RellFRGhNcjdnZTA3V0RRNV9FcG5oYmw0Ync0M0dBdXJ6VmN2RndxR0h3enl3Zw?oc=5",
       "snippet": "A Planned Succession: Historic Pasadena business Hahn & Hahn names new CEO, managing partner &nbsp;&nbsp; Pasadena Weekly"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQjNUUUxiT2JzUF9NVzI4M2FxengxTWt6WUFXZ1o3ZW9zQUt6TlRBbFNUYmcySkhPQXJvVnBsWnJsU1BMNUR5cWpTbm5jOVZXWmNlUHdSVE1FN0NVNzZKcnJEdm8tTmV4SXFkT3hfN1J3blVpazRjZUd5MjdPekE2UGdHZTFSdW1DZ3BkQ2tqWjRmeS1TYWhOQkhGbVBFSXBMWTlZWjRiSTVoTDV5OW9zaXBnanBINmtGUXJ2TkxqTWdma2F0TDg4TXVCZXN3cXVhY3lKX0tlQlV1eXJEOVpVeFpKd0FiUkgwd2ZDejE1dGZ3S2M?oc=5",
-      "type": "article",
-      "title": "Law Schools Still Don’t Teach the Rudiments of Practice, and Lawyers Still Don’t Understand the Ethics of Them - Law.com",
-      "date": "2026-10-29",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQjNUUUxiT2JzUF9NVzI4M2FxengxTWt6WUFXZ1o3ZW9zQUt6TlRBbFNUYmcySkhPQXJvVnBsWnJsU1BMNUR5cWpTbm5jOVZXWmNlUHdSVE1FN0NVNzZKcnJEdm8tTmV4SXFkT3hfN1J3blVpazRjZUd5MjdPekE2UGdHZTFSdW1DZ3BkQ2tqWjRmeS1TYWhOQkhGbVBFSXBMWTlZWjRiSTVoTDV5OW9zaXBnanBINmtGUXJ2TkxqTWdma2F0TDg4TXVCZXN3cXVhY3lKX0tlQlV1eXJEOVpVeFpKd0FiUkgwd2ZDejE1dGZ3S2M?oc=5",
-      "snippet": "Law Schools Still Don’t Teach the Rudiments of Practice, and Lawyers Still Don’t Understand the Ethics of Them &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHJZOGo3X09pOWtFcGtXQWJqcTNxc0Q1UXZTci1SV0QtT3V5RE9XOU9zVjNycUQzak9zcEJwXzZ6TTk2c1hZalVMSmhBRXhyUW1NM3BwSFlwaThaNmxoVmJtUGQyN3BCbUZ6YWlycXhMQWY5X1Y1QjJmT285MEFITWxoTWlBWmtWVGFQc0otdE1NYmtKVWpoS1pUZHBEWDVNbGVyeTdIMDVoc0wxZ0JNdHpEQQ?oc=5",
-      "type": "article",
-      "title": "Private Enforcement of the DMA Brings Efficiencies yet Potential Disharmony - ProMarket",
-      "date": "2026-10-29",
-      "source": "ProMarket",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHJZOGo3X09pOWtFcGtXQWJqcTNxc0Q1UXZTci1SV0QtT3V5RE9XOU9zVjNycUQzak9zcEJwXzZ6TTk2c1hZalVMSmhBRXhyUW1NM3BwSFlwaThaNmxoVmJtUGQyN3BCbUZ6YWlycXhMQWY5X1Y1QjJmT285MEFITWxoTWlBWmtWVGFQc0otdE1NYmtKVWpoS1pUZHBEWDVNbGVyeTdIMDVoc0wxZ0JNdHpEQQ?oc=5",
-      "snippet": "Private Enforcement of the DMA Brings Efficiencies yet Potential Disharmony &nbsp;&nbsp; ProMarket"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmtvcnJPMEVrVE5HLWd0WjJBVUxMNkU0VHktUWpKdk1waXBpQkVPNnctcVlUQ3Y2bDFDc1Y5dWVMR2VXcEk0bmVyOHFfbEE5NU1UNVFMTG9qdzQwSm5pWnBlaUdIT2dOeF9FdTVBOGYxTVB2aURYNFBQYTRVcEpLazBTaHh3S3l4ZnJqOXdiWi13cWtPeFcyTzlnRkhqbHFWcWg5RTlSeEgweTMwXzZ1ZmRiOGZDMHdT?oc=5",
-      "type": "article",
-      "title": "Illinois Whistleblower Law Changes Raise Compliance Requirements for Employers - citybiz",
-      "date": "2026-10-29",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmtvcnJPMEVrVE5HLWd0WjJBVUxMNkU0VHktUWpKdk1waXBpQkVPNnctcVlUQ3Y2bDFDc1Y5dWVMR2VXcEk0bmVyOHFfbEE5NU1UNVFMTG9qdzQwSm5pWnBlaUdIT2dOeF9FdTVBOGYxTVB2aURYNFBQYTRVcEpLazBTaHh3S3l4ZnJqOXdiWi13cWtPeFcyTzlnRkhqbHFWcWg5RTlSeEgweTMwXzZ1ZmRiOGZDMHdT?oc=5",
-      "snippet": "Illinois Whistleblower Law Changes Raise Compliance Requirements for Employers &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXAwbnIyMWF1SEk4X3FaaEVqaUlaRnQ3WlBabnQ3UXlxcXdONG1jY2Q3Szc1aUR5WDF5SXlERHhkMTJacU05UGFDMlEzLWljVDN0b2MxWGdITmZYMmlwX254aURkNjdGQU9fUFhMZGRWRUdvMUp1ZFBzNU1lSnpCLWNoTjlSdw?oc=5",
-      "type": "article",
-      "title": "Montenegro - Merger Control Laws and Regulations 2026 - ICLG",
-      "date": "2026-10-29",
-      "source": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXAwbnIyMWF1SEk4X3FaaEVqaUlaRnQ3WlBabnQ3UXlxcXdONG1jY2Q3Szc1aUR5WDF5SXlERHhkMTJacU05UGFDMlEzLWljVDN0b2MxWGdITmZYMmlwX254aURkNjdGQU9fUFhMZGRWRUdvMUp1ZFBzNU1lSnpCLWNoTjlSdw?oc=5",
-      "snippet": "Montenegro - Merger Control Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDVLSnJ6X3lnd3lCV2l6NU9lQm9wRTZLNHlfVVFNWWIwNl9MWEc0LXg4RE5ONEsxS01ucHpWWElZTmtRXzNxZFRNZVdxZ2RuMTQzeW1kU2RTR2VzVHZvSnFDejNlY1FNTVV1N1ZpNzFMQ1Q4VVA2TTlrdjROUXJaWDFvaTV1ZU41c1ZGNTRPY3pxM0xrMzZwddIBVkFVX3lxTE5IN29HUkp5VEJGRndqaGlZSFo3MWhZWUF5ZlJkZWluNEdDN2R3ZXVqektQaE5LWTZKbUxHNndXZEVGTk10eXM2Vnc5YmZQR3dYckNGXzl3?oc=5",
-      "type": "article",
-      "title": "Ex-Chemical Co. Owner Fights $69.2M Trade Secrets Award - Law360",
-      "date": "2026-10-29",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDVLSnJ6X3lnd3lCV2l6NU9lQm9wRTZLNHlfVVFNWWIwNl9MWEc0LXg4RE5ONEsxS01ucHpWWElZTmtRXzNxZFRNZVdxZ2RuMTQzeW1kU2RTR2VzVHZvSnFDejNlY1FNTVV1N1ZpNzFMQ1Q4VVA2TTlrdjROUXJaWDFvaTV1ZU41c1ZGNTRPY3pxM0xrMzZwddIBVkFVX3lxTE5IN29HUkp5VEJGRndqaGlZSFo3MWhZWUF5ZlJkZWluNEdDN2R3ZXVqektQaE5LWTZKbUxHNndXZEVGTk10eXM2Vnc5YmZQR3dYckNGXzl3?oc=5",
-      "snippet": "Ex-Chemical Co. Owner Fights $69.2M Trade Secrets Award &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2prVW1ONzg0S3pQcDFiQzhha1JOQmxLeDVOUHFMOTZBM3dheTgxX2dZR1JTYkU2Ynh4SmZNbi1ibUs4UjB6VzhsMlU0QjZKY010ZndWcko0cFpTMEJRdVRmNUxiRjJQRXVrRExwOERRbGc4UU55cGY5c1lrZWpDVjlHb1NBWmdoZ1ZJUTRpVEJyWDhSZC1UVGhmYWdxbmRCNXZGU0tjbFdfclBRdkdyX2tn?oc=5",
-      "type": "article",
-      "title": "Investing In Ketamine Clinics? Key Legal and Practical Considerations for Investors - Baker Donelson",
-      "date": "2026-10-29",
-      "source": "Baker Donelson",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2prVW1ONzg0S3pQcDFiQzhha1JOQmxLeDVOUHFMOTZBM3dheTgxX2dZR1JTYkU2Ynh4SmZNbi1ibUs4UjB6VzhsMlU0QjZKY010ZndWcko0cFpTMEJRdVRmNUxiRjJQRXVrRExwOERRbGc4UU55cGY5c1lrZWpDVjlHb1NBWmdoZ1ZJUTRpVEJyWDhSZC1UVGhmYWdxbmRCNXZGU0tjbFdfclBRdkdyX2tn?oc=5",
-      "snippet": "Investing In Ketamine Clinics? Key Legal and Practical Considerations for Investors &nbsp;&nbsp; Baker Donelson"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzV4aTEwX2NWUk1zNko3d3A3ZEtGTFllcUgxOUJDUmNZSEhuS3pRclpvaEtWaHFlT2Ntc2dkdmViNXpJODQ3UGxVbEVWRWtKU0dYc1hPZmFQUHpSWTdfVmY1aFBwQlpKNFJ1Um9qV3ZTQ3FoTXowWDJNT2xwNm91U0JDbm5PZGJaWUlkWGtfUndTYVlDdmE0Wnh3TQ?oc=5",
-      "type": "article",
-      "title": "USAA’s Michael Danforth Helps Veterans Navigate Life’s Legal Challenges - The Texas Lawbook",
-      "date": "2026-10-29",
-      "source": "The Texas Lawbook",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzV4aTEwX2NWUk1zNko3d3A3ZEtGTFllcUgxOUJDUmNZSEhuS3pRclpvaEtWaHFlT2Ntc2dkdmViNXpJODQ3UGxVbEVWRWtKU0dYc1hPZmFQUHpSWTdfVmY1aFBwQlpKNFJ1Um9qV3ZTQ3FoTXowWDJNT2xwNm91U0JDbm5PZGJaWUlkWGtfUndTYVlDdmE0Wnh3TQ?oc=5",
-      "snippet": "USAA’s Michael Danforth Helps Veterans Navigate Life’s Legal Challenges &nbsp;&nbsp; The Texas Lawbook"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiswFBVV95cUxNYy1kR0lMQVdHY1F3ZW9OTkVyRmFGX3J5WkRMOW0wRmFPajdxalpxcjYwcHg1Z2dBN3pHMXF3Nk1OcVVLSmJaZ0FoRV9GWmpVeFZSdTNnLXpiMkVBZC1MWG1xZmdocmkwaVQ1dG05OFFTeGM2c1pId1Z0UXo0LVI3VUpmMzdjY0hhZF9kSG5XNE5Uc1pGZnJWOTlmeWJEV01IMFE4X2phNV9SZkpSVloyWDlZONIBVkFVX3lxTE5CRmV4cDBqcHUzWmp2NWJpeWIxQnRYb29uNjFTMTdjR1dGQTczS0t1Y0NMWWY1TXNET3dlMkQ3Z1ZyZHI0TFljRWZaRlZ4eXpZa3AzTFVB?oc=5",
-      "type": "article",
-      "title": "NJ Justices Uphold Atty's Privacy Expectation In Email Advice - Law360",
-      "date": "2026-10-29",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYy1kR0lMQVdHY1F3ZW9OTkVyRmFGX3J5WkRMOW0wRmFPajdxalpxcjYwcHg1Z2dBN3pHMXF3Nk1OcVVLSmJaZ0FoRV9GWmpVeFZSdTNnLXpiMkVBZC1MWG1xZmdocmkwaVQ1dG05OFFTeGM2c1pId1Z0UXo0LVI3VUpmMzdjY0hhZF9kSG5XNE5Uc1pGZnJWOTlmeWJEV01IMFE4X2phNV9SZkpSVloyWDlZONIBVkFVX3lxTE5CRmV4cDBqcHUzWmp2NWJpeWIxQnRYb29uNjFTMTdjR1dGQTczS0t1Y0NMWWY1TXNET3dlMkQ3Z1ZyZHI0TFljRWZaRlZ4eXpZa3AzTFVB?oc=5",
-      "snippet": "NJ Justices Uphold Atty's Privacy Expectation In Email Advice &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2k1eWtUZzktOVpKVks5a2lrVlpMeUFBd2xGc2JUVlNGc3VDZlBpN3Z2eWJ2VHRubjdjR2tPcDF2LVNPUGlrdldaT1FwWFlyTi1GNFE1MEVuRldwNzJIdmJwY1lBQlFOcElIME9iR2NpRkdqeXo2UC1YV2RhbTBEcS1YOEJJdzJ2QkZQUDA0QmpSa19HZTU4TExhRGptUEF4SEc00gFWQVVfeXFMUFJfZEVuWVM4dElVemRGaDhGSVVQS280YWpOQ1N0VVVZclJPbnlaN24tQkZMY3QyV3Z1V3BMRjlHWWMzUUhWUEVBclJmMkxaWm0zeUx5NXc?oc=5",
-      "type": "article",
-      "title": "Cooley-Led Kalshi Hits $40B Valuation With $1B Series G - Law360",
-      "date": "2026-10-29",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2k1eWtUZzktOVpKVks5a2lrVlpMeUFBd2xGc2JUVlNGc3VDZlBpN3Z2eWJ2VHRubjdjR2tPcDF2LVNPUGlrdldaT1FwWFlyTi1GNFE1MEVuRldwNzJIdmJwY1lBQlFOcElIME9iR2NpRkdqeXo2UC1YV2RhbTBEcS1YOEJJdzJ2QkZQUDA0QmpSa19HZTU4TExhRGptUEF4SEc00gFWQVVfeXFMUFJfZEVuWVM4dElVemRGaDhGSVVQS280YWpOQ1N0VVVZclJPbnlaN24tQkZMY3QyV3Z1V3BMRjlHWWMzUUhWUEVBclJmMkxaWm0zeUx5NXc?oc=5",
-      "snippet": "Cooley-Led Kalshi Hits $40B Valuation With $1B Series G &nbsp;&nbsp; Law360"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXo2ckFuS0pabGtoQmVuUzdBSUp1dTdDWnpucUpvTTNyWE1sc2dmZjVaejloZkpLS0hGdlBRZG1YaFU4M1VDXzFFSUZGRUdMTTk5RzBDNmFhRXl4U3M5a2I1blhxWVBBS0FrdnpERmEtYXhUMUpwb0g0dU8wT0FmV3JyaVhMRjJaeFNPWG5YYWtJUHBBckdFcXNuX1d5SVU5cTBmVEZzMGVFeXljRGtmaWJn?oc=5",
-      "type": "article",
-      "title": "OHCA finalizes regulations expanding oversight of PE and MSO transactions - McDermott Will & Schulte",
-      "date": "2026-10-29",
-      "source": "McDermott Will & Schulte",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXo2ckFuS0pabGtoQmVuUzdBSUp1dTdDWnpucUpvTTNyWE1sc2dmZjVaejloZkpLS0hGdlBRZG1YaFU4M1VDXzFFSUZGRUdMTTk5RzBDNmFhRXl4U3M5a2I1blhxWVBBS0FrdnpERmEtYXhUMUpwb0g0dU8wT0FmV3JyaVhMRjJaeFNPWG5YYWtJUHBBckdFcXNuX1d5SVU5cTBmVEZzMGVFeXljRGtmaWJn?oc=5",
-      "snippet": "OHCA finalizes regulations expanding oversight of PE and MSO transactions &nbsp;&nbsp; McDermott Will & Schulte"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMixwFBVV95cUxPcE13U0V6ekZsZGtDNUtKaXg5X0EwOEU3MTIwWVNLVlZZUHdjRVRHWFlMZXVBZzg4b3FoeVd3Y01zYUhoZkdHckxkZHl0YXFkeDMydVhTaDFvbGlXVURhS3pXR01vQ3VyZ2NUM1VQdXBCRE5YZ1dMbXZDeWhPejU3WHVpUHVJeGxIRVpPSlhaYk5KWnRTc05zSkVMSi1QVzdTRDZLeDhqbFA5ZkRPMkVBcnllOFp1NE9hSGZxMjEwTk8yT3Q3WHAw?oc=5",
-      "type": "article",
-      "title": "Widening access to the legal profession in Scotland through Court Brief - Law Society of Scotland",
-      "date": "2026-10-29",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcE13U0V6ekZsZGtDNUtKaXg5X0EwOEU3MTIwWVNLVlZZUHdjRVRHWFlMZXVBZzg4b3FoeVd3Y01zYUhoZkdHckxkZHl0YXFkeDMydVhTaDFvbGlXVURhS3pXR01vQ3VyZ2NUM1VQdXBCRE5YZ1dMbXZDeWhPejU3WHVpUHVJeGxIRVpPSlhaYk5KWnRTc05zSkVMSi1QVzdTRDZLeDhqbFA5ZkRPMkVBcnllOFp1NE9hSGZxMjEwTk8yT3Q3WHAw?oc=5",
-      "snippet": "Widening access to the legal profession in Scotland through Court Brief &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktSVEp3d2R4YS1WNnZCVFRMdU5lSkRPY3hOSDlYOHI2clNSX2tqYjl1S082YTRwVTNKZWFBMnU0NnJLdjYyY3VZSC1Ha05EdDhiUWFRMUVxN1gwWVpQOXE4ekh5RGhxcWt2bk92MkxxcVQzZml0ZTNUaHNuYkRCa2EydUlSc0FsMWVGZUZBRk9QNV9NVGJmMFNvamNhY09UQ1Yxem1vbzFncW5ZNFVPbGFXREp1YW1WWGdr?oc=5",
-      "type": "article",
-      "title": "How to get involved in the Creativity in the Law Showcase 2027 - Law Society of Scotland",
-      "date": "2026-10-29",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktSVEp3d2R4YS1WNnZCVFRMdU5lSkRPY3hOSDlYOHI2clNSX2tqYjl1S082YTRwVTNKZWFBMnU0NnJLdjYyY3VZSC1Ha05EdDhiUWFRMUVxN1gwWVpQOXE4ekh5RGhxcWt2bk92MkxxcVQzZml0ZTNUaHNuYkRCa2EydUlSc0FsMWVGZUZBRk9QNV9NVGJmMFNvamNhY09UQ1Yxem1vbzFncW5ZNFVPbGFXREp1YW1WWGdr?oc=5",
-      "snippet": "How to get involved in the Creativity in the Law Showcase 2027 &nbsp;&nbsp; Law Society of Scotland"
     }
   ]
 }
