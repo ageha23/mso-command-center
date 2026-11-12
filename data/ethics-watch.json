@@ -1,8 +1,53 @@
 {
-  "lastRun": "2026-11-11T18:26:50.617674+00:00",
+  "lastRun": "2026-11-12T18:43:48.677847+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 12,
+  "addedThisRun": 9,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxNNkN2bUQxNFBDQ2VrdXhyTy1BU3E5NVNyc0xuZWNPcTNkVEZRdTNDTUtRSFdrcjY4Z0lIMTgwbTRkUFVBWjZMRnI4azJHdjRjMHN5X0tnOTdLRzdEbW83QXdLMDVKbVZTLV9weVZ4MjVNbkQ2N2hwLTdMdHhBeWdJN1NQaW96aHFSbzQ5Zi1hODVxTWxjUXZ1dmtOMWhsQQ?oc=5",
+      "type": "article",
+      "title": "Huge changes ahead for Scottish Legal minds - The Scotsman",
+      "date": "2026-11-12",
+      "source": "The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkN2bUQxNFBDQ2VrdXhyTy1BU3E5NVNyc0xuZWNPcTNkVEZRdTNDTUtRSFdrcjY4Z0lIMTgwbTRkUFVBWjZMRnI4azJHdjRjMHN5X0tnOTdLRzdEbW83QXdLMDVKbVZTLV9weVZ4MjVNbkQ2N2hwLTdMdHhBeWdJN1NQaW96aHFSbzQ5Zi1hODVxTWxjUXZ1dmtOMWhsQQ?oc=5",
+      "snippet": "Huge changes ahead for Scottish Legal minds &nbsp;&nbsp; The Scotsman"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMic0FVX3lxTFBOOU1DTXFWVFpZOVNWdXZXWFhaNDdlTnlRcTdwS2xQQ1ZmRFFnUE1xUGRoZ2FRdjAyaUsxdWMydzI5MGJJSnRCZTBESGhlcFdqUHYtT3piaWxpa3dnSFVTV3JPRXV0Wm52T0U3QXNZa2pod1k?oc=5",
+      "type": "article",
+      "title": "Pepper cooks up novel securitisation as alternative to whole-loan sales - 9fin",
+      "date": "2026-11-12",
+      "source": "9fin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOOU1DTXFWVFpZOVNWdXZXWFhaNDdlTnlRcTdwS2xQQ1ZmRFFnUE1xUGRoZ2FRdjAyaUsxdWMydzI5MGJJSnRCZTBESGhlcFdqUHYtT3piaWxpa3dnSFVTV3JPRXV0Wm52T0U3QXNZa2pod1k?oc=5",
+      "snippet": "Pepper cooks up novel securitisation as alternative to whole-loan sales &nbsp;&nbsp; 9fin"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0gtUVFSRFhxMERWc3hRTHEtdm5hUjhqSUZ1TG02Y1Q5MmVxT05wcVoxYnFfalhzaTVTU0pvT3NQNG1NanJaNFhVZHlsUURRdDhtRmxHUXZJRmlaQXZYSmtVc3RGLVhnM3VCVzdMVng5NkFXM0xIdWY3dG1wNzVOd2ZuMFJfV2RyZjdBMmRaVUxZU2E4V3dxSmFPSVlNd2hfcFhrZ21lOA?oc=5",
+      "type": "article",
+      "title": "SRA to explore “alternative regulatory tools” to investigations - Legal Futures",
+      "date": "2026-11-12",
+      "source": "Legal Futures",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0gtUVFSRFhxMERWc3hRTHEtdm5hUjhqSUZ1TG02Y1Q5MmVxT05wcVoxYnFfalhzaTVTU0pvT3NQNG1NanJaNFhVZHlsUURRdDhtRmxHUXZJRmlaQXZYSmtVc3RGLVhnM3VCVzdMVng5NkFXM0xIdWY3dG1wNzVOd2ZuMFJfV2RyZjdBMmRaVUxZU2E4V3dxSmFPSVlNd2hfcFhrZ21lOA?oc=5",
+      "snippet": "SRA to explore “alternative regulatory tools” to investigations &nbsp;&nbsp; Legal Futures"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2M3MXFDLV9sU0ZpZGp2dnJVbnQ2aUxkQTdxZjNjZmNiVFN1YzNwTzNNaWpfRWJMVWdtLXBxbkZXUVZiWGxBVW5LMGUtTV9ENVBEU190SVZJN0lXelpxbFJvQTUzV3BvV00xbEJHN0tRVFRmNGdqTEE1Sm83U3dOLU45d0cyTzlXRUtlQ0pFdng5dFNaN0hoaWl3VzlFLTA?oc=5",
+      "type": "article",
+      "title": "Solomon Page Appoints Leader of Legal Services Practice in Washington, D.C. - Hunt Scanlon Media",
+      "date": "2026-11-12",
+      "source": "Hunt Scanlon Media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2M3MXFDLV9sU0ZpZGp2dnJVbnQ2aUxkQTdxZjNjZmNiVFN1YzNwTzNNaWpfRWJMVWdtLXBxbkZXUVZiWGxBVW5LMGUtTV9ENVBEU190SVZJN0lXelpxbFJvQTUzV3BvV00xbEJHN0tRVFRmNGdqTEE1Sm83U3dOLU45d0cyTzlXRUtlQ0pFdng5dFNaN0hoaWl3VzlFLTA?oc=5",
+      "snippet": "Solomon Page Appoints Leader of Legal Services Practice in Washington, D.C. &nbsp;&nbsp; Hunt Scanlon Media"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTRrVV85Qm9BQVlvWUhPZWFpbDg5QXlyNFY2RkdnME5Vazc3c2FMTkJFWFZqR2sxM3ZTUEttNUhvTHhjTFFGSWJ3S1VPcHQ2VmdhOS1oVlFpTE51M1d3SDZlWWdISmVsN3pZNFNNM0h4TVB6QWQweUd4LVA5bDlfWWlZVlh1WkN6bnhoaWxQZlh2M0F3V2U4WkVrN002TkEyM2o1eDVJTXVoQzExRnV1NDlR?oc=5",
+      "type": "article",
+      "title": "Private Equity Quarterly Report | Third Quarter 2026 Update - Holland & Knight",
+      "date": "2026-11-12",
+      "source": "Holland & Knight",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTRrVV85Qm9BQVlvWUhPZWFpbDg5QXlyNFY2RkdnME5Vazc3c2FMTkJFWFZqR2sxM3ZTUEttNUhvTHhjTFFGSWJ3S1VPcHQ2VmdhOS1oVlFpTE51M1d3SDZlWWdISmVsN3pZNFNNM0h4TVB6QWQweUd4LVA5bDlfWWlZVlh1WkN6bnhoaWxQZlh2M0F3V2U4WkVrN002TkEyM2o1eDVJTXVoQzExRnV1NDlR?oc=5",
+      "snippet": "Private Equity Quarterly Report | Third Quarter 2026 Update &nbsp;&nbsp; Holland & Knight"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdk1wb2NzTVNKaGRSVkFPOEs2VHl0ZVNNeURYTW81RnY1elRPdHNqTkpZaHhxNEUwZy1VV3hnU0dINTI1RnFsYWM3NVJ0Slo3WElSU2xQTWZtMlRqRkU5VTg0SGNNNDZ3dUFwNnZHamJLczhsM3FGUzlSdXJWaGxnVWZhYk1nWlY1aEFibUNueGZ2TXIyY2lpdXFMbGkybm1ITmR6d1FFaUZ6RlQ1Q0pWWU1UVkU5a19HX2VpMlRfS2dFZVVqVzdZdUJub09CUU4zRHhVSjJqZ1dCNU5TQzUxUtIB5gFBVV95cUxOMjdVX3hDaGRPVEtCWkxxeGl5WXQwWXVpdDNkVVJwZkxXYjdlaXU2LU1WS25sQldWRmxLVFZjSEE3VXZZZDlIV0hVVkR0RXVFX25MWVpuWWJ2Y3NlZldIWkhWRXUzUjdIRE1vSmljVHZSdDB2eGFMTzF5ei05aDNHdU9mLS1aLWtoLXBwbWFTTTFQUWZ4ZDUwSmpjTFFpcmF0TjBvRXU0X182VWVxREsxRVdPaXNxZTZMZlB4TU52T1ViVUhlTDUyNWh4RnJ2djlQTU9IN3RYTHluTGRyMVF3MXAtZUltdw?oc=5",
       "type": "article",
@@ -20,6 +65,24 @@
       "source": "Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1czMmE1aFFwT2swRU1xSXUyWjFCM3J1NzZqNmNNaG84TkNJajA1eThaU29iNDJBUWR4eUwzV09KRlNEanBhMnUzODVWV2N1VWhqbkN2Q0tWUmVFcnJkZVkzWXhNVUpNV3AzUnJ5UmU5R2VtYWpxMDZYXzdpZTJuYmRrQzZaQ25KZ0lGbzR0NlF0VHBLUk8yVlY0NzZfM2lWS3pUd2xDbEQ?oc=5",
       "snippet": "Kirkland & Ellis: 40-Lawyer Private Equity And Debt Finance Team To Join In January 2027 &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiwFBVV95cUxObG0wYmotNVhoTVYyNmdIRG1DNWx2WTE5ZUNia3FCMHBpaUdrcFhWRElXWHhKUnBRNmQzS3lHZFVMekpxYXRWdmxMV1FWcmVSRm5XVUlkLWlYYV84TTVFYTRoZXRrSXF6dFdNNHI4QURlMWpuQlE5Z0hTejN1QXZqNGJaQTh1OU93U2M0?oc=5",
+      "type": "article",
+      "title": "Calls for legal watchdog to ‘focus on protecting consumers’ - The Times",
+      "date": "2026-11-11",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObG0wYmotNVhoTVYyNmdIRG1DNWx2WTE5ZUNia3FCMHBpaUdrcFhWRElXWHhKUnBRNmQzS3lHZFVMekpxYXRWdmxMV1FWcmVSRm5XVUlkLWlYYV84TTVFYTRoZXRrSXF6dFdNNHI4QURlMWpuQlE5Z0hTejN1QXZqNGJaQTh1OU93U2M0?oc=5",
+      "snippet": "Calls for legal watchdog to ‘focus on protecting consumers’ &nbsp;&nbsp; The Times"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2ZXQTl4SzhOcVN4Ul9oaUkyWjdpN2dJaFRucndkcXJsZ00yLU1jR1lodmlHUC1sbWROR1VXS283eG9xa1dkWUZRZWE2TExqVVpvWWhhanBPeWU1bEpxTF9ueGRnS2htRmUtRk5aOWxMeTZHQTZ4QmZKVEhVbjFUaFEySXRMMmM?oc=5",
+      "type": "article",
+      "title": "The Next Edge in Legal Services Isn't Being First - JD Supra",
+      "date": "2026-11-11",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2ZXQTl4SzhOcVN4Ul9oaUkyWjdpN2dJaFRucndkcXJsZ00yLU1jR1lodmlHUC1sbWROR1VXS283eG9xa1dkWUZRZWE2TExqVVpvWWhhanBPeWU1bEpxTF9ueGRnS2htRmUtRk5aOWxMeTZHQTZ4QmZKVEhVbjFUaFEySXRMMmM?oc=5",
+      "snippet": "The Next Edge in Legal Services Isn't Being First &nbsp;&nbsp; JD Supra"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMib0FVX3lxTE01RV9ZeHFhMzRxVmc2VmVrcF9ZOGNPOG1POFhoY0FrQXUydTJWX3RqUXBUczZZRDlTcXM2SDNBcXlrUDJVNHJEUFF2RW5FQ29hcTFQSEZlVktxNUM3V2pZVGtGTWRILWYxSzNKUS1nOA?oc=5",
@@ -182,6 +245,24 @@
       "source": "Law360",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3liekVibWwxZWlhbEUxUUc1Z01UZG5kRU1aMzZ5Tk53cjE2RERaajl6el9FYWpFMUF2bGtweXl4QlBzdFVtUFVyUFFXNDh0cGQ4UDJWSVFXcnBRTnVDVGJ4MHRaQVdEYmJIcVVBTTdWeHpqS01zRGRydWM4Qk9CVVBockxGNkcwS0t0NEJDVEJGVHdlQUk2MHAzRDVrR1JueGt6MWVrOExMM0phdjhVdHo0UdIBVkFVX3lxTE9Ja3IyYk5weXRjMjdIdk5lU3NBUHNuU2Z4LWJMcms0QTNsd2MxWHBBamhLUkJlQTFZelZOX3NCX2MzczNCVXUtSWx5SVBnbWZJQkZzbFZ3?oc=5",
       "snippet": "2 Attys Fined For AI Citation Errors But Local Counsel Spared &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimAFBVV95cUxORzNDUkJyTHpfdm5sUXJfVmlsRkQ2UmtXSHpPNFlHcXRwNWl1NWJsTUd6N1VEYi1MNTZXRlhUX0hFME0zSzcyeElVMG40VTJDbTE1WkpuWlZyeXRsalhKTGFrdHZxSXI4MWlKSW1KcGZOT2RDUUdVWmZiaWRrc0xYYzdfeXJlSnFqSFptMk5VWGQ4S0JpdkZ4WdIBXkFVX3lxTE1VLWNTX3lLWU5wV21ORWY5OUZsSHpHRXdTejYtZENYMkhVejdMbVBkY3oyQ0FHR2tKVUp2MEtPVDVadVc4b1JISlZNQmo0RlhLclVSdGpJNFc2WDJwVUE?oc=5",
+      "type": "article",
+      "title": "AI-Powered Firm Raises $6M In Seed Funding Through MSO - Law360",
+      "date": "2026-11-10",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzNDUkJyTHpfdm5sUXJfVmlsRkQ2UmtXSHpPNFlHcXRwNWl1NWJsTUd6N1VEYi1MNTZXRlhUX0hFME0zSzcyeElVMG40VTJDbTE1WkpuWlZyeXRsalhKTGFrdHZxSXI4MWlKSW1KcGZOT2RDUUdVWmZiaWRrc0xYYzdfeXJlSnFqSFptMk5VWGQ4S0JpdkZ4WdIBXkFVX3lxTE1VLWNTX3lLWU5wV21ORWY5OUZsSHpHRXdTejYtZENYMkhVejdMbVBkY3oyQ0FHR2tKVUp2MEtPVDVadVc4b1JISlZNQmo0RlhLclVSdGpJNFc2WDJwVUE?oc=5",
+      "snippet": "AI-Powered Firm Raises $6M In Seed Funding Through MSO &nbsp;&nbsp; Law360"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxQOWszWG1qZ0JQd19rWUQ5aHdTb0hKWjFyV09IRVk1aVVPZXVGQnVUaDU5M1BxUjBtSEZrak1DRFRiNWgxRzY5aV9JZ2x2VkRicEg1Z1BDM0lXUG9uM1E4VUxsUDBpSW9BQ25XMnRNTE9ENkh3WVVSdVNlbFp5R0xvVS1wcUUzYVJIeWpwQTZNREh4UHRzYm1V0gFeQVVfeXFMUGhVSTN1bUFkLVRxSHpGdWRCTE5jU0djRkJmMkFyQWlBbjZrUG5QdFVUY2xKUXhmMWQ2ZXEwM2JNQXdpX3MwM19kQ0wxRlVVZlMzMUk1RUcyU3BuRTFnZw?oc=5",
+      "type": "article",
+      "title": "Former GE, EY Leaders Join Wood Smith MSO Board - Law360",
+      "date": "2026-11-10",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOWszWG1qZ0JQd19rWUQ5aHdTb0hKWjFyV09IRVk1aVVPZXVGQnVUaDU5M1BxUjBtSEZrak1DRFRiNWgxRzY5aV9JZ2x2VkRicEg1Z1BDM0lXUG9uM1E4VUxsUDBpSW9BQ25XMnRNTE9ENkh3WVVSdVNlbFp5R0xvVS1wcUUzYVJIeWpwQTZNREh4UHRzYm1V0gFeQVVfeXFMUGhVSTN1bUFkLVRxSHpGdWRCTE5jU0djRkJmMkFyQWlBbjZrUG5QdFVUY2xKUXhmMWQ2ZXEwM2JNQXdpX3MwM19kQ0wxRlVVZlMzMUk1RUcyU3BuRTFnZw?oc=5",
+      "snippet": "Former GE, EY Leaders Join Wood Smith MSO Board &nbsp;&nbsp; Law360"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxPckVBXzA1NWtfVHJQS2VJc2l6QVR4NkNoT1dfNUFnS1UtTUZxWEg1NGd3TTdjVU41dmdjeE9KS2FYMGFFZ2hGWTZFSHBYbHNsUlJ6Sk9zTHpnbDVnOEw5WTZET1g1V2Uta1BEY2NxVnJTVlZ0RXRlR2ZlM2NuRUJSZDlvcW5LdTNfVldaWnJNWmxIczIx?oc=5",
@@ -1271,87 +1352,6 @@
       "source": "ICLG",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CdV9tcmRKTHV6Zkl3UlJuaEpMWjRLcHltN3hnQ19DMXNZUDItNzhwbnA0azV5MWkzNl9NNHBUR2RNeHh2ck9lS1EyeTZqVjQ2aFBPS1YyT0VUNk42blBSQXNVSE1OT3JoZ1QzUGgxOEVEQjEyOXVv?oc=5",
       "snippet": "India - Aviation Laws and Regulations 2026 &nbsp;&nbsp; ICLG"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkVKWkZUa0wyT1BhNnk0TS1vTDhKZmY3V1ljY211MWJIR09uMUVJcDY1UWlKV3lDaHdONlltUFlZR2xmcnlnWG1nVmd0MHRRS1ZyaFU1Y0tUVnZ4Qzkyb1l4N1RFcXVsVnBWSnNVLXVpN1RvLW5kaEpqNEE4d2VQLW9KelpCa2dqZnNLSkdfdEszbWQ0eElmQjg5M3BTNzd5dVRheC15T0RFSm1XOEFCNDZR?oc=5",
-      "type": "article",
-      "title": "As Healthcare Practices Consolidate, SignalRx Launches Practice Intelligence for the Enterprises That Serve Them - The National Law Review",
-      "date": "2026-10-29",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkVKWkZUa0wyT1BhNnk0TS1vTDhKZmY3V1ljY211MWJIR09uMUVJcDY1UWlKV3lDaHdONlltUFlZR2xmcnlnWG1nVmd0MHRRS1ZyaFU1Y0tUVnZ4Qzkyb1l4N1RFcXVsVnBWSnNVLXVpN1RvLW5kaEpqNEE4d2VQLW9KelpCa2dqZnNLSkdfdEszbWQ0eElmQjg5M3BTNzd5dVRheC15T0RFSm1XOEFCNDZR?oc=5",
-      "snippet": "As Healthcare Practices Consolidate, SignalRx Launches Practice Intelligence for the Enterprises That Serve Them &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiVkFVX3lxTE84RkhyYk1qQ3B6UnpNcUhXNXBEbnE4OGI5MlBJdThiU0l1LWhTSGYzYzVCNUNyQVJnY2NxbE8xX0FzTmFRTUMxUHhZRUJtQ3RnbEllc0l3?oc=5",
-      "type": "article",
-      "title": "Law Firm Hierarchy Explained: From Paralegal to Equity Partner - Legal Desire",
-      "date": "2026-10-29",
-      "source": "Legal Desire",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84RkhyYk1qQ3B6UnpNcUhXNXBEbnE4OGI5MlBJdThiU0l1LWhTSGYzYzVCNUNyQVJnY2NxbE8xX0FzTmFRTUMxUHhZRUJtQ3RnbEllc0l3?oc=5",
-      "snippet": "Law Firm Hierarchy Explained: From Paralegal to Equity Partner &nbsp;&nbsp; Legal Desire"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazZVTTZVZmt3QS1aekZtV0dFWWZyV1dSRk9vM0NPM2I0M0NBNHQ3MmQyV3pwcDR2Y2J1TS1kSmw5TzJMbERRTHhDZkt1bjE5U0F1YmZqWVpaempzWjd4Tmc2V2pyc0cwNEctOFctWk91NUZ1VjMyNjdzRk5CUnR2YVMwbjB1cmhPVWFTN1JnUExRbkRyLWQ1cWtBaWVUUm5TX1JIeDd0clVzUWlhQXU5S3g2TWhXekhLRThFZmtNTHdkME9WMThXYVZzZTQxclRobmhVVDQ5Yw?oc=5",
-      "type": "article",
-      "title": "What can emerging global spirits regions learn from how Scotch is protected legally? - Law Society of Scotland",
-      "date": "2026-10-29",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazZVTTZVZmt3QS1aekZtV0dFWWZyV1dSRk9vM0NPM2I0M0NBNHQ3MmQyV3pwcDR2Y2J1TS1kSmw5TzJMbERRTHhDZkt1bjE5U0F1YmZqWVpaempzWjd4Tmc2V2pyc0cwNEctOFctWk91NUZ1VjMyNjdzRk5CUnR2YVMwbjB1cmhPVWFTN1JnUExRbkRyLWQ1cWtBaWVUUm5TX1JIeDd0clVzUWlhQXU5S3g2TWhXekhLRThFZmtNTHdkME9WMThXYVZzZTQxclRobmhVVDQ5Yw?oc=5",
-      "snippet": "What can emerging global spirits regions learn from how Scotch is protected legally? &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiugFBVV95cUxPblpndjRFc1BxUjJsMlIwOE9iTWNVV1I3Mko3Qy1yR3FDMVpmWkdqWnRaSjRUNGstWkVnZURhTmczQkVoaUtHVUJHRGJaR1ZrUlp5Q1JLNjI4MHZ2ZkpkTHFoR2ZBS0pZajhZcHVsOThmWVBVRUxCTnNYLS1EYTY0dXlfblhuR2RIb2ZHc2ZUbkQxSkdwQVFsaXlSclh2emVGcm83b3hTbnFyQmVNUmJkbzJTYVJXbnpQWVE?oc=5",
-      "type": "article",
-      "title": "Looking ahead to key Scottish regulatory developments due in 2026 - Law Society of Scotland",
-      "date": "2026-10-29",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblpndjRFc1BxUjJsMlIwOE9iTWNVV1I3Mko3Qy1yR3FDMVpmWkdqWnRaSjRUNGstWkVnZURhTmczQkVoaUtHVUJHRGJaR1ZrUlp5Q1JLNjI4MHZ2ZkpkTHFoR2ZBS0pZajhZcHVsOThmWVBVRUxCTnNYLS1EYTY0dXlfblhuR2RIb2ZHc2ZUbkQxSkdwQVFsaXlSclh2emVGcm83b3hTbnFyQmVNUmJkbzJTYVJXbnpQWVE?oc=5",
-      "snippet": "Looking ahead to key Scottish regulatory developments due in 2026 &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2ZjUGlkX1NSZ09naWpERk9fcjRscXdSaG9tODJ3VFUxNmZSNXBHR0xLdmhYal93Q0VBQUkwNjhuaEt5R0k4Z2dHWjFLUy01d0doeEZkZE4xNzhKQlVzTUtqbkoyczBWQ0FIMl90WTJQTjFKb0xmRnR6VzQ4a2M0WTRlV3RqQ2pqTkRvd1pnUS0zS1lKRXJzZE5YdUk2eWM?oc=5",
-      "type": "article",
-      "title": "Bridge Legal Promotes Randi Cruz to Chief Financial Officer - citybiz",
-      "date": "2026-10-29",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2ZjUGlkX1NSZ09naWpERk9fcjRscXdSaG9tODJ3VFUxNmZSNXBHR0xLdmhYal93Q0VBQUkwNjhuaEt5R0k4Z2dHWjFLUy01d0doeEZkZE4xNzhKQlVzTUtqbkoyczBWQ0FIMl90WTJQTjFKb0xmRnR6VzQ4a2M0WTRlV3RqQ2pqTkRvd1pnUS0zS1lKRXJzZE5YdUk2eWM?oc=5",
-      "snippet": "Bridge Legal Promotes Randi Cruz to Chief Financial Officer &nbsp;&nbsp; citybiz"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BGTXMwQmhjQkVGN0wwSmlrSFNBTDhQZEpSZ252VzJPZktUZEx3Y0RHMXVpRkw3UXJiUWxCNThlM2pYZnJlR1gxa2RITjdqWW9EOWpweXMteVZZaFlWTC1td2c0TVRfNkM2WnZ1MkNMbG9VMFFseVJLN2pUNFl2VFBETEtsNmthTXNmWW10cHpETk1relBaalNwYlBLdXFkS0RFWUFPendzS05P?oc=5",
-      "type": "article",
-      "title": "Collaborative Shared Technologies LLC® Earns NaVOBA Service-Disab - The National Law Review",
-      "date": "2026-10-29",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1BGTXMwQmhjQkVGN0wwSmlrSFNBTDhQZEpSZ252VzJPZktUZEx3Y0RHMXVpRkw3UXJiUWxCNThlM2pYZnJlR1gxa2RITjdqWW9EOWpweXMteVZZaFlWTC1td2c0TVRfNkM2WnZ1MkNMbG9VMFFseVJLN2pUNFl2VFBETEtsNmthTXNmWW10cHpETk1relBaalNwYlBLdXFkS0RFWUFPendzS05P?oc=5",
-      "snippet": "Collaborative Shared Technologies LLC® Earns NaVOBA Service-Disab &nbsp;&nbsp; The National Law Review"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjAxbVVGUk9IdnFLMmZGbEZURXpWVURvMjEwSFcwdVdjUUJpdmpsQ0l4N0tncTBqZEQ5U1VfMnlOT1d6Vll5b3FLNUI0UjZHVXZ6eGlqV1FpV2NFcVJHVUdOd3h3T1RDYlBxZVk5X2NhM0F6alp5X0xxWmJPRnBfNXFodnZsVS1yWV9tekVNenlOd1FDbkN1TjhoWHVVQ1hTYjBvbnUxdmFHc25sNXotSkQ2YWljWmRScm5ueExhWTI?oc=5",
-      "type": "article",
-      "title": "Risky business: Aligning the legal department with the company’s risk tolerance levels - Thomson Reuters Legal Solutions",
-      "date": "2026-10-29",
-      "source": "Thomson Reuters Legal Solutions",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjAxbVVGUk9IdnFLMmZGbEZURXpWVURvMjEwSFcwdVdjUUJpdmpsQ0l4N0tncTBqZEQ5U1VfMnlOT1d6Vll5b3FLNUI0UjZHVXZ6eGlqV1FpV2NFcVJHVUdOd3h3T1RDYlBxZVk5X2NhM0F6alp5X0xxWmJPRnBfNXFodnZsVS1yWV9tekVNenlOd1FDbkN1TjhoWHVVQ1hTYjBvbnUxdmFHc25sNXotSkQ2YWljWmRScm5ueExhWTI?oc=5",
-      "snippet": "Risky business: Aligning the legal department with the company’s risk tolerance levels &nbsp;&nbsp; Thomson Reuters Legal Solutions"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xc3pxWG5GUWlwcTVKdXNJWWlYWEFQLXdkazhJQnpSTlpuVXBEMGcyTk1DbnRuYnRqZkhYTXZHUzVXZThVYzY5NUx0dDZRamo5OVBDLTI2NUd3Uy1za2NUT2JtcE81SE0?oc=5",
-      "type": "article",
-      "title": "On the Move: October 2026 Hires, Promotions, and New ACG Members - ACG Insights",
-      "date": "2026-10-29",
-      "source": "ACG Insights",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xc3pxWG5GUWlwcTVKdXNJWWlYWEFQLXdkazhJQnpSTlpuVXBEMGcyTk1DbnRuYnRqZkhYTXZHUzVXZThVYzY5NUx0dDZRamo5OVBDLTI2NUd3Uy1za2NUT2JtcE81SE0?oc=5",
-      "snippet": "On the Move: October 2026 Hires, Promotions, and New ACG Members &nbsp;&nbsp; ACG Insights"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMihAJBVV95cUxONVN4eWlKTnNEdWpfTW9vUWhGUDM5ckpOcnIydW11Yy1IS0hQaWQzbUw5ZmdCRVBfTEpTWXdvWWlFTjNDSXVCMzhLRGdsOHkybzMwdlNKTTVCTmwzeV9TNTlZZXFPOU5hdFI0ME9DUGRsVUxBOGRCQms5OWhJamhzNjRLdXVQTUpxLW9PNzZVNTRZZkszVVFKYmZtU2RFLUZfclNtb2tIc2I5WVRPeVZudmdQTWk0N0EyR0tQUDVrUUZYQWtsYTQxbHl3M2g3QlZBTFJYUU1RellFRGhNcjdnZTA3V0RRNV9FcG5oYmw0Ync0M0dBdXJ6VmN2RndxR0h3enl3Zw?oc=5",
-      "type": "article",
-      "title": "A Planned Succession: Historic Pasadena business Hahn & Hahn names new CEO, managing partner - Pasadena Weekly",
-      "date": "2026-10-29",
-      "source": "Pasadena Weekly",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONVN4eWlKTnNEdWpfTW9vUWhGUDM5ckpOcnIydW11Yy1IS0hQaWQzbUw5ZmdCRVBfTEpTWXdvWWlFTjNDSXVCMzhLRGdsOHkybzMwdlNKTTVCTmwzeV9TNTlZZXFPOU5hdFI0ME9DUGRsVUxBOGRCQms5OWhJamhzNjRLdXVQTUpxLW9PNzZVNTRZZkszVVFKYmZtU2RFLUZfclNtb2tIc2I5WVRPeVZudmdQTWk0N0EyR0tQUDVrUUZYQWtsYTQxbHl3M2g3QlZBTFJYUU1RellFRGhNcjdnZTA3V0RRNV9FcG5oYmw0Ync0M0dBdXJ6VmN2RndxR0h3enl3Zw?oc=5",
-      "snippet": "A Planned Succession: Historic Pasadena business Hahn & Hahn names new CEO, managing partner &nbsp;&nbsp; Pasadena Weekly"
     }
   ]
 }
