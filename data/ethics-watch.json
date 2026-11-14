@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-11-13T18:25:55.835725+00:00",
-  "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 11,
+  "lastRun": "2026-11-14T16:53:04.670528+00:00",
+  "lastRunStatus": "partial: courtlistener: The read operation timed out",
+  "addedThisRun": 9,
   "items": [
     {
       "id": "news:https://news.google.com/rss/articles/CBMic0FVX3lxTFBiM2ZrRzgySnRRN0RMclotcW1PRko3WTFBMEpFd2tQWDRmUkdRRU9QU3pHY3hDRlFUUlBFWEREOWIwejBtLWNlZGk0c01sU1E4ZzRNRF9jV0YxQWNwVDJYeUNTeHdRSU5yYkZVYXdrRjdxMHfSAXhBVV95cUxOdlNFdzAtMzd0V1ljX1hPdXpxSTJ6Ty1ub0EtNHltZ21XR0NpcTN5SGJxLUJUaHJMMGRCS3VqMWxkdVJ0RkJuSHJmc0JLQmNhd3FOanpzUFIxc3pvcGJEVFhuYmY2cmR3Ym9rTXpVeTVpZlE2YTczbnA?oc=5",
@@ -74,6 +74,87 @@
       "source": "BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QVVduSUlPTERyWTJvMmlvVXljNHhDNVFQRmFYT3NSbWg5ZnFiM0Z3RmZ5SEdwVGdSU1FkRm1Ldzg3VzdtRjl5a1NhM0RLNXBoRHpjdk5DWktnQkk?oc=5",
       "snippet": "Yale's John Morley on Weil Gotshal: Why a $2 Billion Law Firm Can Vanish in Months &nbsp;&nbsp; BigGo Finance"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMipwFBVV95cUxOczFLSk4xdmpvazk5cE9lQkZBUGFBOXNJTTNqa2tld24wSFlSVU1qVlZVR0pjN0NhWkNzOG41TWJuSWlWdkctNnpnb00zOG5jbTA1M3hGbkNmN0hjQlU0dTB5MThiQjdsX3l0VEJ6elRqaUtMMjVhaG04VHZMTW5WWGxDcFBOZVNlNk9fanVBdVFaMUQ3X0J5a2c2TmROTmVEWEV0djlUQdIBrAFBVV95cUxOTXJDVHE4X2RxR0NSbG1RdUFhTmktM09JNzR5Y3NmZ2JwWW5uLUVmWUI2cTAwSnVuWEZPZWR2a05SU2FxVzBRWUw1YXBmcHcwazU2dFdpQnU1bzRRYTJIR0N0b1VrRTFFWGNPbVMxRXBPOUV6SFlJUnF5eUpDVVhSU0ZUVGNHaTRTbDVKWnIxQTJvRXdVV2RpOWZNWnFBMVExVEgxQ3JLdXFxbnJ4?oc=5",
+      "type": "article",
+      "title": "Law Firm MSOs, Capital and AB 2305: What Law Firms and Sponsors Need to Know - The National Law Review",
+      "date": "2026-11-13",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczFLSk4xdmpvazk5cE9lQkZBUGFBOXNJTTNqa2tld24wSFlSVU1qVlZVR0pjN0NhWkNzOG41TWJuSWlWdkctNnpnb00zOG5jbTA1M3hGbkNmN0hjQlU0dTB5MThiQjdsX3l0VEJ6elRqaUtMMjVhaG04VHZMTW5WWGxDcFBOZVNlNk9fanVBdVFaMUQ3X0J5a2c2TmROTmVEWEV0djlUQdIBrAFBVV95cUxOTXJDVHE4X2RxR0NSbG1RdUFhTmktM09JNzR5Y3NmZ2JwWW5uLUVmWUI2cTAwSnVuWEZPZWR2a05SU2FxVzBRWUw1YXBmcHcwazU2dFdpQnU1bzRRYTJIR0N0b1VrRTFFWGNPbVMxRXBPOUV6SFlJUnF5eUpDVVhSU0ZUVGNHaTRTbDVKWnIxQTJvRXdVV2RpOWZNWnFBMVExVEgxQ3JLdXFxbnJ4?oc=5",
+      "snippet": "Law Firm MSOs, Capital and AB 2305: What Law Firms and Sponsors Need to Know &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0lTV3RLZlNLR3VNbWYzX3pPNHJ3d0hFNllvVTNBWHo3M3A3bzlTMEVzYm1uMEVObko0aVVXXzVCdXpPbTVrc2F4bmd4OUd3T1ZFMXppSHJEeXBmcXdVNk1UcXA2R09lRkpsWTEyaXJXcVpxaUszOXVFMnJ0YnVDNkE1Q1hadE93?oc=5",
+      "type": "article",
+      "title": "Capital Meets Counsel: Why Ethics Rules Are the Real MSO Operating Manual - JD Supra",
+      "date": "2026-11-13",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0lTV3RLZlNLR3VNbWYzX3pPNHJ3d0hFNllvVTNBWHo3M3A3bzlTMEVzYm1uMEVObko0aVVXXzVCdXpPbTVrc2F4bmd4OUd3T1ZFMXppSHJEeXBmcXdVNk1UcXA2R09lRkpsWTEyaXJXcVpxaUszOXVFMnJ0YnVDNkE1Q1hadE93?oc=5",
+      "snippet": "Capital Meets Counsel: Why Ethics Rules Are the Real MSO Operating Manual &nbsp;&nbsp; JD Supra"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnl6eUl6SW85ekZoSG1PRUlac19tOW93VmUzVXhTVzFoU2xieWpuUW81emROR05KaDN6TVRrYjVRVkNJU2s1WmhvRi14Yi0zZkJkQ1VxYVdQZ01zUXk5bEFXRkl0WGNCUFp5MzNXU2doVy1sYldkSkpUa3lZUllQV3RSS2tWSThvWnM4OHZIVWg5QXJzVFhlSzFZMlNmc2M?oc=5",
+      "type": "article",
+      "title": "Exclusive | Baker McKenzie Looks to Abandon the Billable Hour as Default - WSJ",
+      "date": "2026-11-13",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnl6eUl6SW85ekZoSG1PRUlac19tOW93VmUzVXhTVzFoU2xieWpuUW81emROR05KaDN6TVRrYjVRVkNJU2s1WmhvRi14Yi0zZkJkQ1VxYVdQZ01zUXk5bEFXRkl0WGNCUFp5MzNXU2doVy1sYldkSkpUa3lZUllQV3RSS2tWSThvWnM4OHZIVWg5QXJzVFhlSzFZMlNmc2M?oc=5",
+      "snippet": "Exclusive | Baker McKenzie Looks to Abandon the Billable Hour as Default &nbsp;&nbsp; WSJ"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXV2bEVFZW1ZU2p1X1RMSUJUaFVZRVBGVEZ3ZDBLcnhrNjVqTzNORjVESTRsWFRKRENJV0RLY01HQmdHZkpGcjB2ZHRrRUxpSUJhYVpzUjRnMEJqY0cxTnRuWGtDZWZER2kyZFZqTllyamJOcGRyVDVjNk9PVDZyS2Z0OTZLYnBQTGZSb09nZU13ZHhCVlpwcC05SmdRaW8zem5GZGF5NTVub28xZU5tVlpUMC1YbjFXUGM3MHFfWmZOOUZZ?oc=5",
+      "type": "article",
+      "title": "From Deal Execution to Portfolio Management: The AI Opportunity in Private Equity - Law.com",
+      "date": "2026-11-13",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXV2bEVFZW1ZU2p1X1RMSUJUaFVZRVBGVEZ3ZDBLcnhrNjVqTzNORjVESTRsWFRKRENJV0RLY01HQmdHZkpGcjB2ZHRrRUxpSUJhYVpzUjRnMEJqY0cxTnRuWGtDZWZER2kyZFZqTllyamJOcGRyVDVjNk9PVDZyS2Z0OTZLYnBQTGZSb09nZU13ZHhCVlpwcC05SmdRaW8zem5GZGF5NTVub28xZU5tVlpUMC1YbjFXUGM3MHFfWmZOOUZZ?oc=5",
+      "snippet": "From Deal Execution to Portfolio Management: The AI Opportunity in Private Equity &nbsp;&nbsp; Law.com"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHcxRllVejJKemVWTkREdW1pRjJ5WXdDT0FhSkVTMFZGMEU5U2hoTUhRTVJQQnhKTUlXSWxzbTN1SmVMTG9RU1NreEZKU1NNaDVkRmdnYXF2X0FWdGQyTjVlZ2M3dVIzb3pxMW1aMWRPT0ctU2RmY01tVjJ3R3k2Yy1ueXRqRndlMVU0dg?oc=5",
+      "type": "article",
+      "title": "Massumi + Consoli: Silicon Valley Office Launches With Matt Stewart - Pulse 2.0",
+      "date": "2026-11-13",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHcxRllVejJKemVWTkREdW1pRjJ5WXdDT0FhSkVTMFZGMEU5U2hoTUhRTVJQQnhKTUlXSWxzbTN1SmVMTG9RU1NreEZKU1NNaDVkRmdnYXF2X0FWdGQyTjVlZ2M3dVIzb3pxMW1aMWRPT0ctU2RmY01tVjJ3R3k2Yy1ueXRqRndlMVU0dg?oc=5",
+      "snippet": "Massumi + Consoli: Silicon Valley Office Launches With Matt Stewart &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzUxX21OWU43SzUzVjJyLWt2NFUyQVVFLXdITVZZRVhEMC11UGtBeWN3TlEtRzExdlFDWDhBQjd0UGEzdS1wM2NNMFJ6dlk0SWV3d3BNYklNX05RX002UXEwUVNiVXhERXhZSFM4SzBUU1hSRmJCU2hVLVhjR1I5SC1EdlBSRUFXd25MUFNYR29ZaTFFclB5YlB0bw?oc=5",
+      "type": "article",
+      "title": "London Calling: The Customary Law of Naval Blockade and Contemporary Practice - Lieber Institute West Point",
+      "date": "2026-11-13",
+      "source": "Lieber Institute West Point",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzUxX21OWU43SzUzVjJyLWt2NFUyQVVFLXdITVZZRVhEMC11UGtBeWN3TlEtRzExdlFDWDhBQjd0UGEzdS1wM2NNMFJ6dlk0SWV3d3BNYklNX05RX002UXEwUVNiVXhERXhZSFM4SzBUU1hSRmJCU2hVLVhjR1I5SC1EdlBSRUFXd25MUFNYR29ZaTFFclB5YlB0bw?oc=5",
+      "snippet": "London Calling: The Customary Law of Naval Blockade and Contemporary Practice &nbsp;&nbsp; Lieber Institute West Point"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSFAxNS0tdzdjOGEyTmhrRktGUkdjVUVSWnpMS0lXbFAzS1hFa25ySFZfaHBNdEhJSGJVc1NnTTd1cTFid1BJMXBFb0dJSTRFaXRYVjU3LVoxcy1raERZVWVKUnRFdjM5cWh0aFRuUm1fY2E5OVU5YUc1Q2NBRUdybktaS2F4RURobklXSkk2YTRlQzVDRUVGS2Q0cTdkSEpfT0xRa1BsVFdqR1Rfd21naWxCUHFIMllWd0NXSmlpWDJfMUlOdWs4TS1jbWMwaXpCM1J4V3NDY0trQlQyOUQ2N1psalY3VmF6V2RvNUZMRzI1elZjN2R2ZUJIdUpGQQ?oc=5",
+      "type": "article",
+      "title": "Hinshaw Advises Client Safe Harbor Capital Partners in $44 Million Financing for the Tides Hotel in Miami Beach - Hinshaw & Culbertson LLP",
+      "date": "2026-11-13",
+      "source": "Hinshaw & Culbertson LLP",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSFAxNS0tdzdjOGEyTmhrRktGUkdjVUVSWnpMS0lXbFAzS1hFa25ySFZfaHBNdEhJSGJVc1NnTTd1cTFid1BJMXBFb0dJSTRFaXRYVjU3LVoxcy1raERZVWVKUnRFdjM5cWh0aFRuUm1fY2E5OVU5YUc1Q2NBRUdybktaS2F4RURobklXSkk2YTRlQzVDRUVGS2Q0cTdkSEpfT0xRa1BsVFdqR1Rfd21naWxCUHFIMllWd0NXSmlpWDJfMUlOdWs4TS1jbWMwaXpCM1J4V3NDY0trQlQyOUQ2N1psalY3VmF6V2RvNUZMRzI1elZjN2R2ZUJIdUpGQQ?oc=5",
+      "snippet": "Hinshaw Advises Client Safe Harbor Capital Partners in $44 Million Financing for the Tides Hotel in Miami Beach &nbsp;&nbsp; Hinshaw & Culbertson LLP"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiekFVX3lxTE1nNklFaGh0RWs1YnYzYzVBb28yaG5jdUtwQjltMmpCTDdHeTRNVFlZYWF4V1FQTzFOQnQwNkg1dVNZdE1lQVh5Q3JBNk9jdjBldEpNZ0kyTmFuRElOX2ctNGlhMzNCeld0X2E0T2Y5MGRmcWg3c3ZxZVpn?oc=5",
+      "type": "article",
+      "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy - ProPublica",
+      "date": "2026-11-13",
+      "source": "ProPublica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nNklFaGh0RWs1YnYzYzVBb28yaG5jdUtwQjltMmpCTDdHeTRNVFlZYWF4V1FQTzFOQnQwNkg1dVNZdE1lQVh5Q3JBNk9jdjBldEpNZ0kyTmFuRElOX2ctNGlhMzNCeld0X2E0T2Y5MGRmcWg3c3ZxZVpn?oc=5",
+      "snippet": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy &nbsp;&nbsp; ProPublica"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMihwFBVV95cUxOanJJeXVhMzhqSVhlSkNxS3BSQ2xmaTQwbW9WVlJYd0pkUmgyTUhzUjlEeGowdFVtV09Bc1ljTWZmWE1pdFlIQXJBbER5Y25sZklYR0s0VWpJQ0dsSFItWXpwQVVXT2Y1ekpWTmdTcE9ZdkprODlEdVdNQzA1Skp0N19qMkFDRm8?oc=5",
+      "type": "article",
+      "title": "The New Washington Playbook: Oversight, Enforcement And Corporate Risk - JD Supra",
+      "date": "2026-11-13",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOanJJeXVhMzhqSVhlSkNxS3BSQ2xmaTQwbW9WVlJYd0pkUmgyTUhzUjlEeGowdFVtV09Bc1ljTWZmWE1pdFlIQXJBbER5Y25sZklYR0s0VWpJQ0dsSFItWXpwQVVXT2Y1ekpWTmdTcE9ZdkprODlEdVdNQzA1Skp0N19qMkFDRm8?oc=5",
+      "snippet": "The New Washington Playbook: Oversight, Enforcement And Corporate Risk &nbsp;&nbsp; JD Supra"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxNNkN2bUQxNFBDQ2VrdXhyTy1BU3E5NVNyc0xuZWNPcTNkVEZRdTNDTUtRSFdrcjY4Z0lIMTgwbTRkUFVBWjZMRnI4azJHdjRjMHN5X0tnOTdLRzdEbW83QXdLMDVKbVZTLV9weVZ4MjVNbkQ2N2hwLTdMdHhBeWdJN1NQaW96aHFSbzQ5Zi1hODVxTWxjUXZ1dmtOMWhsQQ?oc=5",
@@ -1271,87 +1352,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmU3b1RqOW5tUEZ3X3dIU2VPZ2x2LXF6eEdfTFBVcm9NbnVJYkluQkVYTmY3cTZPVjA5NE1VU2RfekFtdURoREh6WkRraVFEcFJSWXNVYTBxM0ZUMU9SNC05N29xS3djekpoQWhWWnNtMGN3aUdMZllKbzZpVGxTeGw2M2F3Rmt0MmctNDBFQ01XNVpkYXkxM0NuTk05UQ?oc=5",
       "snippet": "In-House Counsel File &nbsp;&nbsp; Reuters"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXVDcUMyR25wSWN6ak5RZnl0QVBwQUpBWDhmVE5wbTF4M3prRk1HWXpNSDQxNkRoc1EwbEdRd3gtRWpyWGxzT3AyU3FOam43R284WnZCdVBMb1h3U2RTdnFhSjlvZlQzaXFnQTNrUFg1YkhzXzBkNllnMmpRcVdrZkdjQWxLOHVXemlwWA?oc=5",
-      "type": "article",
-      "title": "Checking In - Reuters",
-      "date": "2026-11-01",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXVDcUMyR25wSWN6ak5RZnl0QVBwQUpBWDhmVE5wbTF4M3prRk1HWXpNSDQxNkRoc1EwbEdRd3gtRWpyWGxzT3AyU3FOam43R284WnZCdVBMb1h3U2RTdnFhSjlvZlQzaXFnQTNrUFg1YkhzXzBkNllnMmpRcVdrZkdjQWxLOHVXemlwWA?oc=5",
-      "snippet": "Checking In &nbsp;&nbsp; Reuters"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUhEMU9CT1NZQWx0TV9kQWw5OU9IYVF1Y0NNbnhERXIzcGNJVGZZSHNRZ1NKcXpxRVZMWVY1TllPV0JSREJxRE5SUndNSWVFaFhYVHpKY2FtcTFoTWloYTBIZnAwM0V3dUdrb1dyVzFtTGwwbTFBM3RoYzYyVzhfSU9hbVZDejVHSmYybWF5WjRVWTBUUjFlcVpjNWhBVkYxRGVYWFlycHB0ZzR6UE8tb0JB?oc=5",
-      "type": "article",
-      "title": "Attorneys’ Fees in Class Action Settlements - Reuters",
-      "date": "2026-11-01",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUhEMU9CT1NZQWx0TV9kQWw5OU9IYVF1Y0NNbnhERXIzcGNJVGZZSHNRZ1NKcXpxRVZMWVY1TllPV0JSREJxRE5SUndNSWVFaFhYVHpKY2FtcTFoTWloYTBIZnAwM0V3dUdrb1dyVzFtTGwwbTFBM3RoYzYyVzhfSU9hbVZDejVHSmYybWF5WjRVWTBUUjFlcVpjNWhBVkYxRGVYWFlycHB0ZzR6UE8tb0JB?oc=5",
-      "snippet": "Attorneys’ Fees in Class Action Settlements &nbsp;&nbsp; Reuters"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Sk0zNS1BZ0pubGZFZDlINWxUYkoxWTdaODl6NTdnalJ2YjFkeWFCM3VoaE1mTFIxODNWRzJYZUFJNnQtQ3J3cjZjZW82aWhvUzFHTjRoNV85MExRWlhfY1JlR2ZhVXlW?oc=5",
-      "type": "article",
-      "title": "International law - Treaties, Jurisdiction, Disputes - Britannica",
-      "date": "2026-11-01",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Sk0zNS1BZ0pubGZFZDlINWxUYkoxWTdaODl6NTdnalJ2YjFkeWFCM3VoaE1mTFIxODNWRzJYZUFJNnQtQ3J3cjZjZW82aWhvUzFHTjRoNV85MExRWlhfY1JlR2ZhVXlW?oc=5",
-      "snippet": "International law - Treaties, Jurisdiction, Disputes &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiekFVX3lxTE5zWkFDaVAxczRwYjBhM3BZa2hPczREZGpDdjJNZk5CV2ctdTNfV1NZRE5VRTRGVHpVQ2lWb0daUlphSGxLWFhLOGMxcXFQWTI4SXZTX2d2Y2xNRFhEbTl2eS1CcFVsaDJpUTFqemkwQ0cydGtLWlZNRDFn?oc=5",
-      "type": "article",
-      "title": "Legal profession - Autonomy, Control, Regulation - Britannica",
-      "date": "2026-11-01",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zWkFDaVAxczRwYjBhM3BZa2hPczREZGpDdjJNZk5CV2ctdTNfV1NZRE5VRTRGVHpVQ2lWb0daUlphSGxLWFhLOGMxcXFQWTI4SXZTX2d2Y2xNRFhEbTl2eS1CcFVsaDJpUTFqemkwQ0cydGtLWlZNRDFn?oc=5",
-      "snippet": "Legal profession - Autonomy, Control, Regulation &nbsp;&nbsp; Britannica"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
-      "type": "article",
-      "title": "Bay Street Law Firm Data Breach: 4 Firms Hit [2026] - tech-insider.org",
-      "date": "2026-10-31",
-      "source": "tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0o0Z0xRZnlydlNnaWRqdWFaZHY2Z29WcVdMZzlDZ2wweUdsSVZIUW55MGZtQ2xTa1VDRlNiLXBpMEE0czlQbnl1bm5RRzEyTE1iWTI3RGM5d1gwb1JWVDBsZ3I5YzJoQU93emowTHk1bWdpb1lFdVVtSmh0cUM5YUM0Z21kRW9NMlpBRw?oc=5",
-      "snippet": "Bay Street Law Firm Data Breach: 4 Firms Hit [2026] &nbsp;&nbsp; tech-insider.org"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb1dLeDZIYVdzTVRlczNwUXZQSlZXVGtEM0REQzRQVVNZaWZ4LWdrdXRrV1ZLcmxTT21jN3BvUm5FR0toeWx4aGFsN0NwX0lqR2d3N0FTTnhHbUJib3hJdWVYSzROQnBWUDRHbzRicUJlQ1F6dHE3b2JrdVhPVW5tVUltUFYtT1RnSHFnQ1NJeTVwYkcyczRfMF9KYWh6SE5RR3NHZWVXbGRhM2ZoYlZjSndRYlZYUmNaMmRXRllvREIxS3kwZnhLMGZwNlRfWnh2bDZ1a0k3VWVVamxxTGJUSDBEckowRUVTOTVzYW9XYzRQZDUyV2RlSTJ3?oc=5",
-      "type": "article",
-      "title": "“Find The Right Lawyer” — Paralex App’s Star Ratings, Client Solicitation And Payment Wallet Raise Questions Under Nigeria’s Legal Ethics Rules - TheNigeriaLawyer",
-      "date": "2026-10-31",
-      "source": "TheNigeriaLawyer",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb1dLeDZIYVdzTVRlczNwUXZQSlZXVGtEM0REQzRQVVNZaWZ4LWdrdXRrV1ZLcmxTT21jN3BvUm5FR0toeWx4aGFsN0NwX0lqR2d3N0FTTnhHbUJib3hJdWVYSzROQnBWUDRHbzRicUJlQ1F6dHE3b2JrdVhPVW5tVUltUFYtT1RnSHFnQ1NJeTVwYkcyczRfMF9KYWh6SE5RR3NHZWVXbGRhM2ZoYlZjSndRYlZYUmNaMmRXRllvREIxS3kwZnhLMGZwNlRfWnh2bDZ1a0k3VWVVamxxTGJUSDBEckowRUVTOTVzYW9XYzRQZDUyV2RlSTJ3?oc=5",
-      "snippet": "“Find The Right Lawyer” — Paralex App’s Star Ratings, Client Solicitation And Payment Wallet Raise Questions Under Nigeria’s Legal Ethics Rules &nbsp;&nbsp; TheNigeriaLawyer"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHNRdEFGSVotcEtvYWk2elJLME81ODVrWUVqbFotR2tZeDA1cjhUSjFyWFAtYjNoZ1UzS29DXy1RdnFpWWFKSHFQZ2tHa3YyRVdHTDktNU14SFFnRzV2MWJUX0QzdDBWZDcwZjJ6UUd2aEZHdjVfTGhQR0xsa2pDazdTYmpaUXdxbWh4Z0NjbHBiUzRiZHNfUVpn?oc=5",
-      "type": "article",
-      "title": "AI risks to the Sec. 7525 practitioner privilege - The Tax Adviser",
-      "date": "2026-10-31",
-      "source": "The Tax Adviser",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHNRdEFGSVotcEtvYWk2elJLME81ODVrWUVqbFotR2tZeDA1cjhUSjFyWFAtYjNoZ1UzS29DXy1RdnFpWWFKSHFQZ2tHa3YyRVdHTDktNU14SFFnRzV2MWJUX0QzdDBWZDcwZjJ6UUd2aEZHdjVfTGhQR0xsa2pDazdTYmpaUXdxbWh4Z0NjbHBiUzRiZHNfUVpn?oc=5",
-      "snippet": "AI risks to the Sec. 7525 practitioner privilege &nbsp;&nbsp; The Tax Adviser"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVdmWi1YNFNWSmJKWGtlTFZUWkEwR3Z0eThBNkhqemIwMUdjclhzWlBnUEZXUXNRZnJDVXNsYUQtSWNuenRQSkNkTlhzdVhYYUlOcnVXdWJQYVhiMkVNYUN2VUVtaDNYMTJXaFkyUVBESERnbURReDlnaXdoUW1FLWt2WWlYSzFRdjVHcEJPQWF4WmRfT2poVUVYbm5oc2NmS2NtN3B0VFhVLXdyTzRrMEFTemdkUFR1?oc=5",
-      "type": "article",
-      "title": "Top Dog Law Wants 500 Attorneys and a Presence in the Courtroom - Law.com",
-      "date": "2026-10-30",
-      "source": "Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVdmWi1YNFNWSmJKWGtlTFZUWkEwR3Z0eThBNkhqemIwMUdjclhzWlBnUEZXUXNRZnJDVXNsYUQtSWNuenRQSkNkTlhzdVhYYUlOcnVXdWJQYVhiMkVNYUN2VUVtaDNYMTJXaFkyUVBESERnbURReDlnaXdoUW1FLWt2WWlYSzFRdjVHcEJPQWF4WmRfT2poVUVYbm5oc2NmS2NtN3B0VFhVLXdyTzRrMEFTemdkUFR1?oc=5",
-      "snippet": "Top Dog Law Wants 500 Attorneys and a Presence in the Courtroom &nbsp;&nbsp; Law.com"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHJacXFPRTA0ZTNtSnZRRkFiTzc1TkkyNHJsLTFybFVXcHprLXU4b1o0Wk5XZlIwajFrV3ItZ3NGSUVSeEs0S0F0Vk4zVWVMM2pHQlBfczRhTWpyYVF0T2hkVFVCUld1cHg3WnZ6dVFKd3FiS2tWckkxTTl4LVdsMVhIQ0JYbFk1eEVaMG9maXVpNktlM0luNENfMUVGTnYwVEpTSC13?oc=5",
-      "type": "article",
-      "title": "Federal bill targeting MSO and friendly physician structures - The Business Journals",
-      "date": "2026-10-30",
-      "source": "The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHJacXFPRTA0ZTNtSnZRRkFiTzc1TkkyNHJsLTFybFVXcHprLXU4b1o0Wk5XZlIwajFrV3ItZ3NGSUVSeEs0S0F0Vk4zVWVMM2pHQlBfczRhTWpyYVF0T2hkVFVCUld1cHg3WnZ6dVFKd3FiS2tWckkxTTl4LVdsMVhIQ0JYbFk1eEVaMG9maXVpNktlM0luNENfMUVGTnYwVEpTSC13?oc=5",
-      "snippet": "Federal bill targeting MSO and friendly physician structures &nbsp;&nbsp; The Business Journals"
     }
   ]
 }
