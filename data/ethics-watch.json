@@ -1,8 +1,35 @@
 {
-  "lastRun": "2026-11-15T17:36:28.157499+00:00",
+  "lastRun": "2026-11-16T20:50:25.152666+00:00",
   "lastRunStatus": "partial: courtlistener: HTTP Error 401: Unauthorized",
-  "addedThisRun": 7,
+  "addedThisRun": 4,
   "items": [
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilwFBVV95cUxONW5ERHYwOUE4ZXltRVIzcHVjR2xzdG9OZHBoVWtmWlc2aG9fdElJTlNrQlotd3otdjBhVmE4a2NiZl81MV9tQkNzdUlRemlNQ0ZPV3p6b1ZLSnpqQWRQRk5PMzFwbTBoT0xsOXd3Z3B2VFgtSS1LbVhmQ3RQellmYTZ0Nmd4anM2YTRITU5MUFB4MGluc2tN?oc=5",
+      "type": "article",
+      "title": "HSF Kramer Hires 6 Legal Engineers from Norm.AI - Artificial Lawyer",
+      "date": "2026-11-16",
+      "source": "Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONW5ERHYwOUE4ZXltRVIzcHVjR2xzdG9OZHBoVWtmWlc2aG9fdElJTlNrQlotd3otdjBhVmE4a2NiZl81MV9tQkNzdUlRemlNQ0ZPV3p6b1ZLSnpqQWRQRk5PMzFwbTBoT0xsOXd3Z3B2VFgtSS1LbVhmQ3RQellmYTZ0Nmd4anM2YTRITU5MUFB4MGluc2tN?oc=5",
+      "snippet": "HSF Kramer Hires 6 Legal Engineers from Norm.AI &nbsp;&nbsp; Artificial Lawyer"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQ3dCdGlVN241TmQwaWUxbjVkVmFPVXlnXzlXZUttRHN5bEU1ZExBX19sMy1nYUphbGVjcVVPc042Um43TGllX0dubzlzMmlhUXZXZUcyeVpKNkhnM3pMX3NIMGFJdnc?oc=5",
+      "type": "article",
+      "title": "Beyond ESG - The Regulatory Review",
+      "date": "2026-11-16",
+      "source": "The Regulatory Review",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQ3dCdGlVN241TmQwaWUxbjVkVmFPVXlnXzlXZUttRHN5bEU1ZExBX19sMy1nYUphbGVjcVVPc042Um43TGllX0dubzlzMmlhUXZXZUcyeVpKNkhnM3pMX3NIMGFJdnc?oc=5",
+      "snippet": "Beyond ESG &nbsp;&nbsp; The Regulatory Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVk5Q0MxRTJNSjd6RU9oUDJnN095VzF4SjFJWWh6YjRCRk1YTngxOGJ0ZzNIOGFpV3pYVGFXSWozaUJuY28xMXhZeWl5YzNUaDNnanR6TTNpWGpSaHF0Q0V1UmtxUkxpd3VZLVBUZUNWeWgtb09zUlFGSWtvN0xhWHk4cE5vRlhWQTdUR1lqM2lFT3BE?oc=5",
+      "type": "article",
+      "title": "Why more principals are rethinking the traditional real estate office - Elite Agent",
+      "date": "2026-11-15",
+      "source": "Elite Agent",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVk5Q0MxRTJNSjd6RU9oUDJnN095VzF4SjFJWWh6YjRCRk1YTngxOGJ0ZzNIOGFpV3pYVGFXSWozaUJuY28xMXhZeWl5YzNUaDNnanR6TTNpWGpSaHF0Q0V1UmtxUkxpd3VZLVBUZUNWeWgtb09zUlFGSWtvN0xhWHk4cE5vRlhWQTdUR1lqM2lFT3BE?oc=5",
+      "snippet": "Why more principals are rethinking the traditional real estate office &nbsp;&nbsp; Elite Agent"
+    },
     {
       "id": "news:https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHQ1WVc4YS0xN3lHOHZ1R3dVMTVfdjhEN18xZ2l6SGNHc1lxSHB5MW51VTNoVTI4VV85TjdCSGlhQUpQa2NuODR3dUd4Yy0wVnYzSTFWSWl1eGFPMUREQ3kteXc5clQxWkNMOGR4SU5tMFZEMm1WbTFBZ2JZTTZKR3FuV0J2MEJZaDhFTWRxNkpmREFPYjl3NmNORm5vTjZra1FyanBnSGxNanJuZE9UZU5hcGjSAVZBVV95cUxOV1NVZUZ1SHVRQVREeHRmNVItMDgxaTRhcnlXaXVGdDN1Y3FJNS1DUjVoNGNtWHZndXFlOGtEZHF3ZlBSbzVvM3d2eXdkRmY5NWcyZkFaQQ?oc=5",
       "type": "article",
@@ -200,6 +227,15 @@
       "source": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY25UZ052dVA3WWhYVThuTTRuT2h6Mi0wT3pZT3IweWdHLXhzRkRCckxhcFR6eGJ6OGgweDVSR21jYWE1RTJQZUpPdDZDSFJlTjJfV1lvS0I4NUFkRXkycDd1MWpSRjk0encwM3R0WW5kd1hka2hHN1NuaEw4d0xsVXltMWJGVGJIRTRrb01MSTZibzIzZW9iZ1BmbUZRcFpkU1RJSzBXZWhWVlM2cWfSAbMBQVVfeXFMT1MzWnRUUjBJUXJjSXd2VG9aNW9ydms0bks1UkpNQ3B1YmVVWW9wcHQ0a0F4c0FaLU1sZ2NnWlhZeUZULU55YWRvZ05nTVpjNlVCaE9JaFhfNUhpMG9tM2ZsRmRUTlIyZnlNbGFqRVc0eTFCUUY5WkRvcm9FYU9fVUpaal9LWFdJUmNaNEgwLVQxbHNhOEJFVFJUVzIzYzI0WDg1eUFudExiOEJWX2xvR1J5ODQ?oc=5",
       "snippet": "Not Being an Ostrich Does Not Mean You Have to Crow: Corporate Oversight and the Limits of Compelled Climate Disclosure &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "id": "news:https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFpNRXcwUHlRWVBfX25RcXVUYmtfLUR4ZEF2OU1oeTBZanFuTFJUSVVjeDNJZ3RHaFRNcGhLa1RDS0I1XzFZaE04TkZXU21tcTR5QlpWblloYjJYU0oteEtnYkVVS09FMS1JdVJDNFlrRk5aU0d2bnhvTDVILUNQRXYtZ0c1eHF6anNOX0dCazZESXlSc0o3eENpcDB3NVh4ME5PTldkRHh5dER4RGhlczRHcEJzTVJ5eVQ3dzM0SW9ZRkFHNEE?oc=5",
+      "type": "article",
+      "title": "How I Made Law Firm Leadership: 'Do It for the Right Reasons,' Says Timothy Foden of Boies Schiller - Law.com",
+      "date": "2026-11-13",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFpNRXcwUHlRWVBfX25RcXVUYmtfLUR4ZEF2OU1oeTBZanFuTFJUSVVjeDNJZ3RHaFRNcGhLa1RDS0I1XzFZaE04TkZXU21tcTR5QlpWblloYjJYU0oteEtnYkVVS09FMS1JdVJDNFlrRk5aU0d2bnhvTDVILUNQRXYtZ0c1eHF6anNOX0dCazZESXlSc0o3eENpcDB3NVh4ME5PTldkRHh5dER4RGhlczRHcEJzTVJ5eVQ3dzM0SW9ZRkFHNEE?oc=5",
+      "snippet": "How I Made Law Firm Leadership: 'Do It for the Right Reasons,' Says Timothy Foden of Boies Schiller &nbsp;&nbsp; Law.com"
     },
     {
       "id": "news:https://news.google.com/rss/articles/CBMingFBVV95cUxNNkN2bUQxNFBDQ2VrdXhyTy1BU3E5NVNyc0xuZWNPcTNkVEZRdTNDTUtRSFdrcjY4Z0lIMTgwbTRkUFVBWjZMRnI4azJHdjRjMHN5X0tnOTdLRzdEbW83QXdLMDVKbVZTLV9weVZ4MjVNbkQ2N2hwLTdMdHhBeWdJN1NQaW96aHFSbzQ5Zi1hODVxTWxjUXZ1dmtOMWhsQQ?oc=5",
@@ -1316,42 +1352,6 @@
       "source": "WSJ",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkxoZmkyTjFtWWVNdGlJZlNrTDR2bWZDWElBSUVIOFB0eFVFclZkdXgzT0lHQ2E3VG01dW5OQWxIVTVoSmdRSTBMLUZqZEs2MjNTdExsZXNkRnhTbnY0UW95NUUxckc5d0VmdnFJTWlLSG41V2t6bVZVTmNhSk1qckZQZTRKRkE5eU5XZkU0NA?oc=5",
       "snippet": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’ &nbsp;&nbsp; WSJ"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnQwOVV4aG9nRU9VTVAwSUlqVlFzdHduajYzSjRYOWRXSm9NMGFlTGlEVDY1cmNIc1B0bmhDWG1zSnZadHJDMVllWE9iSUMtdURkemRCMzgwaHVJNTRCcVc3RDlGbTY1TG1UVDdXa0x0c25uLXA4RktiTWttWGpPYlZ6cjRzUzhmdXVRNTh3LTVTN3BybG1Tb0I5SmNMbThEbXlGeWZCRnpCVXdzNkFSOW4yamstUTJyM2V6eTJTUnN4ak5td2xEUGFhcHN3bUdHYzg3VFpoa0JZRWlzdENqZnducW0yREFnN3NCOG9Rdw?oc=5",
-      "type": "article",
-      "title": "Alternative Business Structures: Part 1 — How private equity is reshaping law firms in England and Wales - Law Society of Scotland",
-      "date": "2026-11-02",
-      "source": "Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnQwOVV4aG9nRU9VTVAwSUlqVlFzdHduajYzSjRYOWRXSm9NMGFlTGlEVDY1cmNIc1B0bmhDWG1zSnZadHJDMVllWE9iSUMtdURkemRCMzgwaHVJNTRCcVc3RDlGbTY1TG1UVDdXa0x0c25uLXA4RktiTWttWGpPYlZ6cjRzUzhmdXVRNTh3LTVTN3BybG1Tb0I5SmNMbThEbXlGeWZCRnpCVXdzNkFSOW4yamstUTJyM2V6eTJTUnN4ak5td2xEUGFhcHN3bUdHYzg3VFpoa0JZRWlzdENqZnducW0yREFnN3NCOG9Rdw?oc=5",
-      "snippet": "Alternative Business Structures: Part 1 — How private equity is reshaping law firms in England and Wales &nbsp;&nbsp; Law Society of Scotland"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMifEFVX3lxTE0zS1NDZ1BONmxYdVJfMHpKS1lqUTNZWDJ4OGNfOXF0dUJwWk9TZU5iamlGRWZZY3AzdENxaHpmYlRKTnlJOTZsRlNNcXFzUlIzVmRPRDFLNmFRUDAtLUFrMElHbHhmM0l6NWZVd1FxcU92Qzc0NmlQZ3VBNnc?oc=5",
-      "type": "article",
-      "title": "Law School Student, Fellowship Program Honored - Newsroom | University of St. Thomas",
-      "date": "2026-11-02",
-      "source": "Newsroom | University of St. Thomas",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zS1NDZ1BONmxYdVJfMHpKS1lqUTNZWDJ4OGNfOXF0dUJwWk9TZU5iamlGRWZZY3AzdENxaHpmYlRKTnlJOTZsRlNNcXFzUlIzVmRPRDFLNmFRUDAtLUFrMElHbHhmM0l6NWZVd1FxcU92Qzc0NmlQZ3VBNnc?oc=5",
-      "snippet": "Law School Student, Fellowship Program Honored &nbsp;&nbsp; Newsroom | University of St. Thomas"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1BuQ1hwWHRtNXFzRU9TbWFrODZqRDRoLTNmOTlRVzh5ZnZpVkQ3R19BSzMxTHMxRFR5X21QWU9PQ1pmbHBBZ0V0ZS01QjBCWGhfb0JaUXF6Q2NscTU5LWpBQTdScTh2Qkhia1BfY3pkWEkxMUlGN2YyTkQyVmdqNVIzY3BHU1dyM28tMzRpbUhETEMzQWV5cURWdzFLbndKWmI5YlcwSkFITFNTRjlsS1NNeHFrX3M2SF9kQnNYeTZVdjZkSzZkTnhsZUhlLW5SMml2TW5zNEVNelVUQ0VWWWtjejhaWk9qTUM2MXF1MXM?oc=5",
-      "type": "article",
-      "title": "A U.S. giant just collapsed spectacularly. What that teaches employers about succession planning - Human Resources Director",
-      "date": "2026-11-02",
-      "source": "Human Resources Director",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1BuQ1hwWHRtNXFzRU9TbWFrODZqRDRoLTNmOTlRVzh5ZnZpVkQ3R19BSzMxTHMxRFR5X21QWU9PQ1pmbHBBZ0V0ZS01QjBCWGhfb0JaUXF6Q2NscTU5LWpBQTdScTh2Qkhia1BfY3pkWEkxMUlGN2YyTkQyVmdqNVIzY3BHU1dyM28tMzRpbUhETEMzQWV5cURWdzFLbndKWmI5YlcwSkFITFNTRjlsS1NNeHFrX3M2SF9kQnNYeTZVdjZkSzZkTnhsZUhlLW5SMml2TW5zNEVNelVUQ0VWWWtjejhaWk9qTUM2MXF1MXM?oc=5",
-      "snippet": "A U.S. giant just collapsed spectacularly. What that teaches employers about succession planning &nbsp;&nbsp; Human Resources Director"
-    },
-    {
-      "id": "news:https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhmMnB3TERwb0dCekRxbmtmWktVakN4Qjc5NVBCSnltazFzaGZOT2NjaUFDcU5HRHJNM3NvTWhsdWw5UWt3Q0wtSHVRbmRMU2pwREhYYzZqcVpKM0luWTZtdVlXeklLaTRyVGktVlVKM19xQWxIUG8zM1YzMHhBTUt1V0dOcWk3aXg4aWlGbmtENmhwQTBJMGNYUXA5MHJvY0p6ZNIBVkFVX3lxTE1kaGwxUVRlb01rb2Y3OUU5R3pQcUxJcHBpanRaVmh3aFM4RWNkOUpYVWlvc3VZTGZITGxCWkEteXdJNThDQVV5MVZNbWdGc2dGN3FKWVhB?oc=5",
-      "type": "article",
-      "title": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm - Law360",
-      "date": "2026-11-02",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhmMnB3TERwb0dCekRxbmtmWktVakN4Qjc5NVBCSnltazFzaGZOT2NjaUFDcU5HRHJNM3NvTWhsdWw5UWt3Q0wtSHVRbmRMU2pwREhYYzZqcVpKM0luWTZtdVlXeklLaTRyVGktVlVKM19xQWxIUG8zM1YzMHhBTUt1V0dOcWk3aXg4aWlGbmtENmhwQTBJMGNYUXA5MHJvY0p6ZNIBVkFVX3lxTE1kaGwxUVRlb01rb2Y3OUU5R3pQcUxJcHBpanRaVmh3aFM4RWNkOUpYVWlvc3VZTGZITGxCWkEteXdJNThDQVV5MVZNbWdGc2dGN3FKWVhB?oc=5",
-      "snippet": "Ga. Atty Wins Bid To Revive Fee-Split Suit Against Firm &nbsp;&nbsp; Law360"
     }
   ]
 }
